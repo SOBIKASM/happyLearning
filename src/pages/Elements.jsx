@@ -1,0 +1,86 @@
+import { useEffect, useState } from 'react'
+import './Pages.css'
+import { fetchData } from '../utils/api'
+import SearchBox from '../components/SearchBox'
+import { categoryColors } from '../utils/categoryColors';
+
+const Elements = () => {
+
+  const [input, setInput] = useState('')
+  const [elements, setElements] = useState([])
+  const [topMatches, setTopMatches] = useState([])
+
+  useEffect(() => {
+    fetchData("elements", setElements)
+  }, [])
+
+  useEffect(() => {
+    if (input.trim() === '') {
+      setTopMatches([])
+    } else {
+      const filtered = elements.filter(el =>
+        el.name.toLowerCase().includes(input.toLowerCase())
+      ).slice(0, 4)
+      setTopMatches(filtered)
+    }
+  }, [input, elements])
+
+  const topMatchIds = new Set(topMatches.map(e => e.name))
+  const remainingElements = elements.filter(e => !topMatchIds.has(e.name))
+
+  return (
+    <>
+      <SearchBox
+        type="text"
+        placeholder='Enter the Element name '
+        value={input}
+        onChange={e => setInput(e.target.value)}
+        onSearch={() => {}}
+      />
+
+      <div className='body'>
+        {/* Top matching elements */}
+        {topMatches.map((element, index) => {
+          const bgColor = categoryColors[element.category] || "#fff";
+          return (
+            <div key={`top-${index}`} className='card-container'>
+              <div className='image-container' style={{ backgroundColor: bgColor }}>
+                <p className='an'>{element.atomicNumber}</p>
+                <h1 className='symbol'>{element.symbol}</h1>
+                <p className='am'>{Math.round(element.atomicMass)}</p>
+              </div>
+              <div className='root'>
+                <h1>{element.name}</h1>
+                <p>AN: {element.atomicNumber}</p>
+                <p>MN: {element.atomicMass}</p>
+                <button className='more-btn'>Learn more</button>
+              </div>
+            </div>
+          )
+        })}
+
+        {/* Remaining elements */}
+        {remainingElements.map((element, index) => {
+          const bgColor = categoryColors[element.category] || "#fff";
+          return (
+            <div key={`rest-${index}`} className='card-container'>
+              <div className='image-container' style={{ backgroundColor: bgColor }}>
+                <p className='an'>{element.atomicNumber}</p>
+                <h1 className='symbol'>{element.symbol}</h1>
+                <p className='am'>{Math.round(element.atomicMass)}</p>
+              </div>
+              <div className='root'>
+                <h1>{element.name}</h1>
+                <p>AN: {element.atomicNumber}</p>
+                <p>MN: {element.atomicMass}</p>
+                <button className='more-btn'>Learn more</button>
+              </div>
+            </div>
+          )
+        })}
+      </div>
+    </>
+  )
+}
+
+export default Elements
