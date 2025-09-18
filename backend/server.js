@@ -7,10 +7,9 @@ app.use(express.json())
 
 app.use(cors())
 
-mongoose.connect("mongodb+srv://sobikasm_db_user:YraB6qdiOHjkh7Mi@happylearningcluster.4xyivl0.mongodb.net/?retryWrites=true&w=majority&appName=happyLearningCluster")
-    .then(() => console.log("Mongodb connected"))
-    .catch((err) => console.error("ERR:", err.message))
-
+mongoose.connect("mongodb+srv://sobikasm_db_user:YraB6qdiOHjkh7Mi@happylearningcluster.4xyivl0.mongodb.net/learningdb?retryWrites=true&w=majority&appName=happyLearningCluster")
+  .then(() => console.log("✅ Mongodb connected"))
+  .catch((err) => console.error("❌ ERR:", err.message));
 
 const countrySchema = new mongoose.Schema({
     name: { type: String, required: true, unique: true },
@@ -220,5 +219,9 @@ app.get('/getCountry', getCountry)
 app.get('/elements',getAllElements)
 app.get('/galaxy',getAllGalaxy)
 
+app.get("/", (req, res) => {
+  res.send("✅ Backend is working! Try /country or /wonders endpoints.");
+});
 
-app.listen(5000, () => console.log("Server is running"))
+const PORT = process.env.PORT || 5000;
+app.listen(PORT, () => console.log(`Server running on port ${PORT}`));

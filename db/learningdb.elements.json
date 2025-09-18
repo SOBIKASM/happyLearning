@@ -1,0 +1,5327 @@
+[{
+  "_id": {
+    "$oid": "68c5a2c828c8a6d242493f3c"
+  },
+  "name": "Hydrogen",
+  "symbol": "H",
+  "atomicNumber": 1,
+  "atomicMass": 1.008,
+  "group": 1,
+  "period": 1,
+  "block": "s",
+  "category": "Nonmetal",
+  "stateAtRoomTemp": "Gas",
+  "meltingPoint": -259.16,
+  "boilingPoint": -252.879,
+  "density": 0.000082,
+  "color": "Colorless",
+  "electronConfiguration": "1s1",
+  "electronegativity": 2.2,
+  "ionizationEnergy": 1312,
+  "oxidationStates": [
+    "+1"
+  ],
+  "naturalOccurrence": "Abundant in universe, especially in stars",
+  "majorCompounds": [
+    "Water (H2O)",
+    "Hydrochloric acid (HCl)"
+  ],
+  "commonUses": [
+    "Fuel cells",
+    "Rocket propellants",
+    "Hydrogenation of fats"
+  ],
+  "hazards": "Highly flammable",
+  "isotopes": [
+    "Protium (1H)",
+    "Deuterium (2H)",
+    "Tritium (3H)"
+  ],
+  "spectralLines": [
+    "Lyman series",
+    "Balmer series"
+  ],
+  "funFacts": "Hydrogen is the most abundant chemical substance in the universe.",
+  "wikiLink": "https://en.wikipedia.org/wiki/Hydrogen"
+},
+{
+  "_id": {
+    "$oid": "68c5a2c828c8a6d242493f3d"
+  },
+  "name": "Helium",
+  "symbol": "He",
+  "atomicNumber": 2,
+  "atomicMass": 4.0026,
+  "group": 18,
+  "period": 1,
+  "block": "s",
+  "category": "Noble gas",
+  "stateAtRoomTemp": "Gas",
+  "meltingPoint": -272.2,
+  "boilingPoint": -268.93,
+  "density": 0.0001785,
+  "color": "Colorless",
+  "electronConfiguration": "1s2",
+  "electronegativity": null,
+  "ionizationEnergy": 24.5874,
+  "oxidationStates": [
+    "0"
+  ],
+  "naturalOccurrence": "Occurs in natural gas deposits",
+  "majorCompounds": [
+    "Helium-3",
+    "Helium-4"
+  ],
+  "commonUses": [
+    "Cryogenics",
+    "Balloon inflation",
+    "Magnetic resonance imaging (MRI)"
+  ],
+  "hazards": "Asphyxiation in confined spaces",
+  "isotopes": [
+    "Helium-3 (3He)",
+    "Helium-4 (4He)"
+  ],
+  "spectralLines": [
+    "Helium I",
+    "Helium II"
+  ],
+  "funFacts": "Helium is the second lightest and second most abundant element in the observable universe.",
+  "wikiLink": "https://en.wikipedia.org/wiki/Helium"
+},
+{
+  "_id": {
+    "$oid": "68c5a2c828c8a6d242493f3e"
+  },
+  "name": "Lithium",
+  "symbol": "Li",
+  "atomicNumber": 3,
+  "atomicMass": 6.94,
+  "group": 1,
+  "period": 2,
+  "block": "s",
+  "category": "Alkali metal",
+  "stateAtRoomTemp": "Solid",
+  "meltingPoint": 180.54,
+  "boilingPoint": 1590,
+  "density": 0.534,
+  "color": "Silvery-white",
+  "electronConfiguration": "[He] 2s1",
+  "electronegativity": 0.98,
+  "ionizationEnergy": 520.2,
+  "oxidationStates": [
+    "+1"
+  ],
+  "naturalOccurrence": "Found in minerals like spodumene and lepidolite",
+  "majorCompounds": [
+    "Lithium carbonate (Li2CO3)",
+    "Lithium hydroxide (LiOH)"
+  ],
+  "commonUses": [
+    "Rechargeable batteries",
+    "Heat-resistant glass",
+    "Lithium-ion batteries"
+  ],
+  "hazards": "Highly reactive, especially in water",
+  "isotopes": [
+    "Lithium-6 (6Li)",
+    "Lithium-7 (7Li)"
+  ],
+  "spectralLines": [
+    "D-lines at 670.8 nm and 610.4 nm"
+  ],
+  "funFacts": "Lithium is the lightest metal and the least dense solid element.",
+  "wikiLink": "https://en.wikipedia.org/wiki/Lithium"
+},
+{
+  "_id": {
+    "$oid": "68c5a2c828c8a6d242493f3f"
+  },
+  "name": "Beryllium",
+  "symbol": "Be",
+  "atomicNumber": 4,
+  "atomicMass": 9.0122,
+  "group": 2,
+  "period": 2,
+  "block": "s",
+  "category": "Alkaline earth metal",
+  "stateAtRoomTemp": "Solid",
+  "meltingPoint": 1287,
+  "boilingPoint": 2471,
+  "density": 1.848,
+  "color": "Steel gray",
+  "electronConfiguration": "[He] 2s2",
+  "electronegativity": 1.57,
+  "ionizationEnergy": 899.5,
+  "oxidationStates": [
+    "+2"
+  ],
+  "naturalOccurrence": "Occurs in minerals like beryl and chrysoberyl",
+  "majorCompounds": [
+    "Beryllium oxide (BeO)",
+    "Beryllium copper (BeCu)"
+  ],
+  "commonUses": [
+    "Aerospace components",
+    "Nuclear reactors",
+    "X-ray windows"
+  ],
+  "hazards": "Toxic if inhaled as dust or fumes",
+  "isotopes": [
+    "Beryllium-9 (9Be)"
+  ],
+  "spectralLines": [
+    "Be I lines in the ultraviolet spectrum"
+  ],
+  "funFacts": "Beryllium is used as a hardening agent in alloys.",
+  "wikiLink": "https://en.wikipedia.org/wiki/Beryllium"
+},
+{
+  "_id": {
+    "$oid": "68c5a2c828c8a6d242493f40"
+  },
+  "name": "Boron",
+  "symbol": "B",
+  "atomicNumber": 5,
+  "atomicMass": 10.81,
+  "group": 13,
+  "period": 2,
+  "block": "p",
+  "category": "Metalloid",
+  "stateAtRoomTemp": "Solid",
+  "meltingPoint": 2077,
+  "boilingPoint": 4000,
+  "density": 2.34,
+  "color": "Black-brown",
+  "electronConfiguration": "[He] 2s2 2p1",
+  "electronegativity": 2.04,
+  "ionizationEnergy": 800.6,
+  "oxidationStates": [
+    "+3"
+  ],
+  "naturalOccurrence": "Found in borate minerals",
+  "majorCompounds": [
+    "Boric acid (H3BO3)",
+    "Sodium borate (Na2B4O7)"
+  ],
+  "commonUses": [
+    "Glass and ceramics",
+    "Detergents",
+    "Fertilizers"
+  ],
+  "hazards": "May cause skin and eye irritation",
+  "isotopes": [
+    "Boron-10 (10B)",
+    "Boron-11 (11B)"
+  ],
+  "spectralLines": [
+    "Boron I lines in the ultraviolet spectrum"
+  ],
+  "funFacts": "Boron is essential for plant growth.",
+  "wikiLink": "https://en.wikipedia.org/wiki/Boron"
+},
+{
+  "_id": {
+    "$oid": "68c5a2c828c8a6d242493f41"
+  },
+  "name": "Carbon",
+  "symbol": "C",
+  "atomicNumber": 6,
+  "atomicMass": 12.011,
+  "group": 14,
+  "period": 2,
+  "block": "p",
+  "category": "Nonmetal",
+  "stateAtRoomTemp": "Solid",
+  "meltingPoint": 3550,
+  "boilingPoint": 4027,
+  "density": 2.267,
+  "color": "Black, gray, or transparent",
+  "electronConfiguration": "[He] 2s2 2p2",
+  "electronegativity": 2.55,
+  "ionizationEnergy": 1086.5,
+  "oxidationStates": [
+    "+4",
+    "+2",
+    "-4"
+  ],
+  "naturalOccurrence": "Found in all organic life forms and in minerals like graphite and diamond",
+  "majorCompounds": [
+    "Carbon dioxide (CO2)",
+    "Methane (CH4)",
+    "Carbon monoxide (CO)"
+  ],
+  "commonUses": [
+    "Fuels",
+    "Steelmaking",
+    "Plastics",
+    "Organic chemistry"
+  ],
+  "hazards": "Inhalation of fine carbon dust may cause respiratory issues",
+  "isotopes": [
+    "Carbon-12 (12C)",
+    "Carbon-13 (13C)",
+    "Carbon-14 (14C)"
+  ],
+  "spectralLines": [
+    "Lines in ultraviolet and visible spectra"
+  ],
+  "funFacts": "Carbon forms more compounds than any other element.",
+  "wikiLink": "https://en.wikipedia.org/wiki/Carbon"
+},
+{
+  "_id": {
+    "$oid": "68c5a2c828c8a6d242493f42"
+  },
+  "name": "Nitrogen",
+  "symbol": "N",
+  "atomicNumber": 7,
+  "atomicMass": 14.007,
+  "group": 15,
+  "period": 2,
+  "block": "p",
+  "category": "Nonmetal",
+  "stateAtRoomTemp": "Gas",
+  "meltingPoint": -210,
+  "boilingPoint": -195.79,
+  "density": 0.0012506,
+  "color": "Colorless",
+  "electronConfiguration": "[He] 2s2 2p3",
+  "electronegativity": 3.04,
+  "ionizationEnergy": 1402.3,
+  "oxidationStates": [
+    "-3",
+    "+3",
+    "+5"
+  ],
+  "naturalOccurrence": "Makes up about 78% of Earth's atmosphere",
+  "majorCompounds": [
+    "Ammonia (NH3)",
+    "Nitric acid (HNO3)",
+    "Nitrogen oxides (NOx)"
+  ],
+  "commonUses": [
+    "Fertilizers",
+    "Explosives",
+    "Food packaging"
+  ],
+  "hazards": "Asphyxiation in confined spaces",
+  "isotopes": [
+    "Nitrogen-14 (14N)",
+    "Nitrogen-15 (15N)"
+  ],
+  "spectralLines": [
+    "Lines in UV and visible spectra"
+  ],
+  "funFacts": "Nitrogen is essential for amino acids and proteins in living organisms.",
+  "wikiLink": "https://en.wikipedia.org/wiki/Nitrogen"
+},
+{
+  "_id": {
+    "$oid": "68c5a2c828c8a6d242493f43"
+  },
+  "name": "Oxygen",
+  "symbol": "O",
+  "atomicNumber": 8,
+  "atomicMass": 15.999,
+  "group": 16,
+  "period": 2,
+  "block": "p",
+  "category": "Nonmetal",
+  "stateAtRoomTemp": "Gas",
+  "meltingPoint": -218.79,
+  "boilingPoint": -182.962,
+  "density": 0.001429,
+  "color": "Colorless",
+  "electronConfiguration": "[He] 2s2 2p4",
+  "electronegativity": 3.44,
+  "ionizationEnergy": 1313.9,
+  "oxidationStates": [
+    "-2",
+    "-1",
+    "+2"
+  ],
+  "naturalOccurrence": "Second most abundant element in Earth's atmosphere",
+  "majorCompounds": [
+    "Water (H2O)",
+    "Ozone (O3)",
+    "Carbon dioxide (CO2)"
+  ],
+  "commonUses": [
+    "Respiration",
+    "Steelmaking",
+    "Water treatment"
+  ],
+  "hazards": "Supports combustion, causing fires to burn more vigorously",
+  "isotopes": [
+    "Oxygen-16 (16O)",
+    "Oxygen-17 (17O)",
+    "Oxygen-18 (18O)"
+  ],
+  "spectralLines": [
+    "Lines in the UV and visible spectrum"
+  ],
+  "funFacts": "Oxygen is essential for aerobic life forms.",
+  "wikiLink": "https://en.wikipedia.org/wiki/Oxygen"
+},
+{
+  "_id": {
+    "$oid": "68c5a2c828c8a6d242493f44"
+  },
+  "name": "Fluorine",
+  "symbol": "F",
+  "atomicNumber": 9,
+  "atomicMass": 18.998,
+  "group": 17,
+  "period": 2,
+  "block": "p",
+  "category": "Halogen",
+  "stateAtRoomTemp": "Gas",
+  "meltingPoint": -219.67,
+  "boilingPoint": -188.12,
+  "density": 0.001696,
+  "color": "Pale yellow",
+  "electronConfiguration": "[He] 2s2 2p5",
+  "electronegativity": 3.98,
+  "ionizationEnergy": 1681,
+  "oxidationStates": [
+    "-1"
+  ],
+  "naturalOccurrence": "Found in minerals like fluorite",
+  "majorCompounds": [
+    "Hydrogen fluoride (HF)",
+    "Sodium fluoride (NaF)"
+  ],
+  "commonUses": [
+    "Toothpaste additives",
+    "Teflon coatings",
+    "Refrigerants"
+  ],
+  "hazards": "Extremely reactive and corrosive",
+  "isotopes": [
+    "Fluorine-19 (19F)"
+  ],
+  "spectralLines": [
+    "Lines in UV spectrum"
+  ],
+  "funFacts": "Fluorine is the most electronegative element.",
+  "wikiLink": "https://en.wikipedia.org/wiki/Fluorine"
+},
+{
+  "_id": {
+    "$oid": "68c5a2c828c8a6d242493f45"
+  },
+  "name": "Neon",
+  "symbol": "Ne",
+  "atomicNumber": 10,
+  "atomicMass": 20.18,
+  "group": 18,
+  "period": 2,
+  "block": "p",
+  "category": "Noble gas",
+  "stateAtRoomTemp": "Gas",
+  "meltingPoint": -248.59,
+  "boilingPoint": -246.08,
+  "density": 0.0008999,
+  "color": "Colorless",
+  "electronConfiguration": "[He] 2s2 2p6",
+  "electronegativity": null,
+  "ionizationEnergy": 2080.7,
+  "oxidationStates": [
+    "0"
+  ],
+  "naturalOccurrence": "Found in small amounts in Earth's atmosphere",
+  "majorCompounds": [
+    "None (inert gas)"
+  ],
+  "commonUses": [
+    "Neon signs",
+    "High-voltage indicators"
+  ],
+  "hazards": "Non-toxic but displaces oxygen in confined spaces",
+  "isotopes": [
+    "Neon-20 (20Ne)",
+    "Neon-21 (21Ne)",
+    "Neon-22 (22Ne)"
+  ],
+  "spectralLines": [
+    "Bright red-orange emission lines"
+  ],
+  "funFacts": "Neon produces a distinct reddish-orange glow in discharge tubes.",
+  "wikiLink": "https://en.wikipedia.org/wiki/Neon"
+},
+{
+  "_id": {
+    "$oid": "68c5a2c828c8a6d242493f46"
+  },
+  "name": "Sodium",
+  "symbol": "Na",
+  "atomicNumber": 11,
+  "atomicMass": 22.99,
+  "group": 1,
+  "period": 3,
+  "block": "s",
+  "category": "Alkali metal",
+  "stateAtRoomTemp": "Solid",
+  "meltingPoint": 97.79,
+  "boilingPoint": 883,
+  "density": 0.971,
+  "color": "Silvery white",
+  "electronConfiguration": "[Ne] 3s1",
+  "electronegativity": 0.93,
+  "ionizationEnergy": 495.8,
+  "oxidationStates": [
+    "+1"
+  ],
+  "naturalOccurrence": "Common in salts like halite",
+  "majorCompounds": [
+    "Sodium chloride (NaCl)",
+    "Sodium bicarbonate (NaHCO3)"
+  ],
+  "commonUses": [
+    "Table salt",
+    "Soap",
+    "Paper production"
+  ],
+  "hazards": "Highly reactive with water",
+  "isotopes": [
+    "Sodium-23 (23Na)"
+  ],
+  "spectralLines": [
+    "D-lines at 589.0 and 589.6 nm"
+  ],
+  "funFacts": "Sodium reacts explosively with water to form hydrogen gas.",
+  "wikiLink": "https://en.wikipedia.org/wiki/Sodium"
+},
+{
+  "_id": {
+    "$oid": "68c5a2c828c8a6d242493f47"
+  },
+  "name": "Magnesium",
+  "symbol": "Mg",
+  "atomicNumber": 12,
+  "atomicMass": 24.305,
+  "group": 2,
+  "period": 3,
+  "block": "s",
+  "category": "Alkaline earth metal",
+  "stateAtRoomTemp": "Solid",
+  "meltingPoint": 650,
+  "boilingPoint": 1090,
+  "density": 1.738,
+  "color": "Silvery white",
+  "electronConfiguration": "[Ne] 3s2",
+  "electronegativity": 1.31,
+  "ionizationEnergy": 737.7,
+  "oxidationStates": [
+    "+2"
+  ],
+  "naturalOccurrence": "Found in minerals like dolomite and magnesite",
+  "majorCompounds": [
+    "Magnesium oxide (MgO)",
+    "Magnesium sulfate (MgSO4)"
+  ],
+  "commonUses": [
+    "Alloys",
+    "Flame retardants",
+    "Agriculture"
+  ],
+  "hazards": "Can ignite and burn with a bright flame",
+  "isotopes": [
+    "Magnesium-24 (24Mg)",
+    "Magnesium-25 (25Mg)",
+    "Magnesium-26 (26Mg)"
+  ],
+  "spectralLines": [
+    "Lines in UV spectrum"
+  ],
+  "funFacts": "Magnesium is essential for biological functions such as enzyme reactions.",
+  "wikiLink": "https://en.wikipedia.org/wiki/Magnesium"
+},
+{
+  "_id": {
+    "$oid": "68c5a2c828c8a6d242493f48"
+  },
+  "name": "Aluminum",
+  "symbol": "Al",
+  "atomicNumber": 13,
+  "atomicMass": 26.982,
+  "group": 13,
+  "period": 3,
+  "block": "p",
+  "category": "Post-transition metal",
+  "stateAtRoomTemp": "Solid",
+  "meltingPoint": 660.32,
+  "boilingPoint": 2470,
+  "density": 2.7,
+  "color": "Silvery white",
+  "electronConfiguration": "[Ne] 3s2 3p1",
+  "electronegativity": 1.61,
+  "ionizationEnergy": 577.5,
+  "oxidationStates": [
+    "+3"
+  ],
+  "naturalOccurrence": "Found in minerals like bauxite",
+  "majorCompounds": [
+    "Aluminum oxide (Al2O3)",
+    "Aluminum sulfate (Al2(SO4)3)"
+  ],
+  "commonUses": [
+    "Foil",
+    "Aerospace",
+    "Construction"
+  ],
+  "hazards": "Can react with acids and alkalis",
+  "isotopes": [
+    "Aluminum-27 (27Al)"
+  ],
+  "spectralLines": [
+    "Lines in UV and visible spectrum"
+  ],
+  "funFacts": "Aluminum is the most abundant metal in Earth's crust.",
+  "wikiLink": "https://en.wikipedia.org/wiki/Aluminium"
+},
+{
+  "_id": {
+    "$oid": "68c5a2c828c8a6d242493f49"
+  },
+  "name": "Silicon",
+  "symbol": "Si",
+  "atomicNumber": 14,
+  "atomicMass": 28.085,
+  "group": 14,
+  "period": 3,
+  "block": "p",
+  "category": "Metalloid",
+  "stateAtRoomTemp": "Solid",
+  "meltingPoint": 1414,
+  "boilingPoint": 3265,
+  "density": 2.33,
+  "color": "Dark gray with a metallic luster",
+  "electronConfiguration": "[Ne] 3s2 3p2",
+  "electronegativity": 1.9,
+  "ionizationEnergy": 786.5,
+  "oxidationStates": [
+    "+4",
+    "-4"
+  ],
+  "naturalOccurrence": "Occurs abundantly in sand, rocks, and minerals",
+  "majorCompounds": [
+    "Silicon dioxide (SiO2)",
+    "Silicon carbide (SiC)"
+  ],
+  "commonUses": [
+    "Semiconductors",
+    "Glass",
+    "Cement"
+  ],
+  "hazards": "Can cause respiratory issues if inhaled as dust",
+  "isotopes": [
+    "Silicon-28 (28Si)",
+    "Silicon-29 (29Si)",
+    "Silicon-30 (30Si)"
+  ],
+  "spectralLines": [
+    "Lines in UV spectrum"
+  ],
+  "funFacts": "Silicon is essential for electronics and computing industries.",
+  "wikiLink": "https://en.wikipedia.org/wiki/Silicon"
+},
+{
+  "_id": {
+    "$oid": "68c5a2c828c8a6d242493f4a"
+  },
+  "name": "Phosphorus",
+  "symbol": "P",
+  "atomicNumber": 15,
+  "atomicMass": 30.974,
+  "group": 15,
+  "period": 3,
+  "block": "p",
+  "category": "Nonmetal",
+  "stateAtRoomTemp": "Solid",
+  "meltingPoint": 44.15,
+  "boilingPoint": 280.5,
+  "density": 1.823,
+  "color": "White, red, or black",
+  "electronConfiguration": "[Ne] 3s2 3p3",
+  "electronegativity": 2.19,
+  "ionizationEnergy": 1011.8,
+  "oxidationStates": [
+    "-3",
+    "+3",
+    "+5"
+  ],
+  "naturalOccurrence": "Found in minerals like apatite",
+  "majorCompounds": [
+    "Phosphoric acid (H3PO4)",
+    "Calcium phosphate (Ca3(PO4)2)"
+  ],
+  "commonUses": [
+    "Fertilizers",
+    "Matches",
+    "Detergents"
+  ],
+  "hazards": "Highly reactive and flammable in certain forms",
+  "isotopes": [
+    "Phosphorus-31 (31P)"
+  ],
+  "spectralLines": [
+    "Lines in UV spectrum"
+  ],
+  "funFacts": "Phosphorus is essential for life, playing a key role in DNA and energy transfer.",
+  "wikiLink": "https://en.wikipedia.org/wiki/Phosphorus"
+},
+{
+  "_id": {
+    "$oid": "68c5a2c828c8a6d242493f4b"
+  },
+  "name": "Sulfur",
+  "symbol": "S",
+  "atomicNumber": 16,
+  "atomicMass": 32.06,
+  "group": 16,
+  "period": 3,
+  "block": "p",
+  "category": "Nonmetal",
+  "stateAtRoomTemp": "Solid",
+  "meltingPoint": 115.21,
+  "boilingPoint": 444.6,
+  "density": 2.07,
+  "color": "Yellow",
+  "electronConfiguration": "[Ne] 3s2 3p4",
+  "electronegativity": 2.58,
+  "ionizationEnergy": 999.6,
+  "oxidationStates": [
+    "-2",
+    "+2",
+    "+4",
+    "+6"
+  ],
+  "naturalOccurrence": "Found in volcanic areas and minerals like gypsum",
+  "majorCompounds": [
+    "Sulfur dioxide (SO2)",
+    "Sulfuric acid (H2SO4)"
+  ],
+  "commonUses": [
+    "Fertilizers",
+    "Chemical manufacturing",
+    "Rubber vulcanization"
+  ],
+  "hazards": "Can form toxic gases when burned",
+  "isotopes": [
+    "Sulfur-32 (32S)",
+    "Sulfur-33 (33S)",
+    "Sulfur-34 (34S)",
+    "Sulfur-36 (36S)"
+  ],
+  "spectralLines": [
+    "Lines in UV spectrum"
+  ],
+  "funFacts": "Sulfur has a distinctive smell and is vital for proteins and enzymes.",
+  "wikiLink": "https://en.wikipedia.org/wiki/Sulfur"
+},
+{
+  "_id": {
+    "$oid": "68c5a2c828c8a6d242493f4c"
+  },
+  "name": "Chlorine",
+  "symbol": "Cl",
+  "atomicNumber": 17,
+  "atomicMass": 35.45,
+  "group": 17,
+  "period": 3,
+  "block": "p",
+  "category": "Halogen",
+  "stateAtRoomTemp": "Gas",
+  "meltingPoint": -101.5,
+  "boilingPoint": -34.04,
+  "density": 0.003214,
+  "color": "Yellow-green",
+  "electronConfiguration": "[Ne] 3s2 3p5",
+  "electronegativity": 3.16,
+  "ionizationEnergy": 1251.2,
+  "oxidationStates": [
+    "-1",
+    "+1",
+    "+3",
+    "+5",
+    "+7"
+  ],
+  "naturalOccurrence": "Occurs in salt deposits and sea water",
+  "majorCompounds": [
+    "Sodium chloride (NaCl)",
+    "Chlorine dioxide (ClO2)"
+  ],
+  "commonUses": [
+    "Water purification",
+    "Bleaching",
+    "Disinfectants"
+  ],
+  "hazards": "Highly toxic and corrosive",
+  "isotopes": [
+    "Chlorine-35 (35Cl)",
+    "Chlorine-37 (37Cl)"
+  ],
+  "spectralLines": [
+    "Lines in UV spectrum"
+  ],
+  "funFacts": "Chlorine was used in chemical warfare during World War I.",
+  "wikiLink": "https://en.wikipedia.org/wiki/Chlorine"
+},
+{
+  "_id": {
+    "$oid": "68c5a2c828c8a6d242493f4d"
+  },
+  "name": "Argon",
+  "symbol": "Ar",
+  "atomicNumber": 18,
+  "atomicMass": 39.948,
+  "group": 18,
+  "period": 3,
+  "block": "p",
+  "category": "Noble gas",
+  "stateAtRoomTemp": "Gas",
+  "meltingPoint": -189.34,
+  "boilingPoint": -185.85,
+  "density": 0.001784,
+  "color": "Colorless",
+  "electronConfiguration": "[Ne] 3s2 3p6",
+  "electronegativity": null,
+  "ionizationEnergy": 1520.6,
+  "oxidationStates": [
+    "0"
+  ],
+  "naturalOccurrence": "Makes up about 0.93% of Earth's atmosphere",
+  "majorCompounds": [
+    "None (inert gas)"
+  ],
+  "commonUses": [
+    "Lighting",
+    "Welding",
+    "Preserving materials"
+  ],
+  "hazards": "Non-toxic but can displace oxygen in confined spaces",
+  "isotopes": [
+    "Argon-36 (36Ar)",
+    "Argon-38 (38Ar)",
+    "Argon-40 (40Ar)"
+  ],
+  "spectralLines": [
+    "Bright emission lines in red and green"
+  ],
+  "funFacts": "Argon is used in fluorescent and LED lighting.",
+  "wikiLink": "https://en.wikipedia.org/wiki/Argon"
+},
+{
+  "_id": {
+    "$oid": "68c5a2c828c8a6d242493f4e"
+  },
+  "name": "Potassium",
+  "symbol": "K",
+  "atomicNumber": 19,
+  "atomicMass": 39.098,
+  "group": 1,
+  "period": 4,
+  "block": "s",
+  "category": "Alkali metal",
+  "stateAtRoomTemp": "Solid",
+  "meltingPoint": 63.5,
+  "boilingPoint": 759,
+  "density": 0.862,
+  "color": "Silvery gray",
+  "electronConfiguration": "[Ar] 4s1",
+  "electronegativity": 0.82,
+  "ionizationEnergy": 418.8,
+  "oxidationStates": [
+    "+1"
+  ],
+  "naturalOccurrence": "Occurs in minerals like sylvite and in sea water",
+  "majorCompounds": [
+    "Potassium chloride (KCl)",
+    "Potassium nitrate (KNO3)"
+  ],
+  "commonUses": [
+    "Fertilizers",
+    "Soap making",
+    "Food processing"
+  ],
+  "hazards": "Highly reactive, especially with water",
+  "isotopes": [
+    "Potassium-39 (39K)",
+    "Potassium-40 (40K)",
+    "Potassium-41 (41K)"
+  ],
+  "spectralLines": [
+    "Lines in red spectrum"
+  ],
+  "funFacts": "Potassium ions are vital for nerve and muscle function.",
+  "wikiLink": "https://en.wikipedia.org/wiki/Potassium"
+},
+{
+  "_id": {
+    "$oid": "68c5a2c828c8a6d242493f4f"
+  },
+  "name": "Calcium",
+  "symbol": "Ca",
+  "atomicNumber": 20,
+  "atomicMass": 40.078,
+  "group": 2,
+  "period": 4,
+  "block": "s",
+  "category": "Alkaline earth metal",
+  "stateAtRoomTemp": "Solid",
+  "meltingPoint": 842,
+  "boilingPoint": 1484,
+  "density": 1.55,
+  "color": "Silvery gray",
+  "electronConfiguration": "[Ar] 4s2",
+  "electronegativity": 1,
+  "ionizationEnergy": 589.8,
+  "oxidationStates": [
+    "+2"
+  ],
+  "naturalOccurrence": "Abundant in Earth's crust and bones",
+  "majorCompounds": [
+    "Calcium carbonate (CaCO3)",
+    "Calcium phosphate (Ca3(PO4)2)"
+  ],
+  "commonUses": [
+    "Bone health supplements",
+    "Cement",
+    "Steel production"
+  ],
+  "hazards": "Reacts with acids and water, producing hydrogen gas",
+  "isotopes": [
+    "Calcium-40 (40Ca)",
+    "Calcium-42 (42Ca)",
+    "Calcium-44 (44Ca)"
+  ],
+  "spectralLines": [
+    "Lines in visible spectrum"
+  ],
+  "funFacts": "Calcium is essential for bone structure and muscle contraction.",
+  "wikiLink": "https://en.wikipedia.org/wiki/Calcium"
+},
+{
+  "_id": {
+    "$oid": "68c5a2c828c8a6d242493f50"
+  },
+  "name": "Scandium",
+  "symbol": "Sc",
+  "atomicNumber": 21,
+  "atomicMass": 44.956,
+  "group": 3,
+  "period": 4,
+  "block": "d",
+  "category": "Transition metal",
+  "stateAtRoomTemp": "Solid",
+  "meltingPoint": 1541,
+  "boilingPoint": 2836,
+  "density": 2.99,
+  "color": "Silvery white",
+  "electronConfiguration": "[Ar] 3d1 4s2",
+  "electronegativity": 1.36,
+  "ionizationEnergy": 633.1,
+  "oxidationStates": [
+    "+3"
+  ],
+  "naturalOccurrence": "Found in rare minerals such as thortveitite",
+  "majorCompounds": [
+    "Scandium oxide (Sc2O3)",
+    "Scandium chloride (ScCl3)"
+  ],
+  "commonUses": [
+    "Aerospace components",
+    "Sports equipment",
+    "Alloys"
+  ],
+  "hazards": "Low toxicity but should be handled with care",
+  "isotopes": [
+    "Scandium-45 (45Sc)"
+  ],
+  "spectralLines": [
+    "Lines in UV spectrum"
+  ],
+  "funFacts": "Scandium is a rare and expensive metal with specialized applications.",
+  "wikiLink": "https://en.wikipedia.org/wiki/Scandium"
+},
+{
+  "_id": {
+    "$oid": "68c5a2c828c8a6d242493f51"
+  },
+  "name": "Titanium",
+  "symbol": "Ti",
+  "atomicNumber": 22,
+  "atomicMass": 47.867,
+  "group": 4,
+  "period": 4,
+  "block": "d",
+  "category": "Transition metal",
+  "stateAtRoomTemp": "Solid",
+  "meltingPoint": 1668,
+  "boilingPoint": 3287,
+  "density": 4.506,
+  "color": "Silvery gray",
+  "electronConfiguration": "[Ar] 3d2 4s2",
+  "electronegativity": 1.54,
+  "ionizationEnergy": 658.8,
+  "oxidationStates": [
+    "+4",
+    "+3"
+  ],
+  "naturalOccurrence": "Occurs in minerals like ilmenite and rutile",
+  "majorCompounds": [
+    "Titanium dioxide (TiO2)",
+    "Titanium tetrachloride (TiCl4)"
+  ],
+  "commonUses": [
+    "Aerospace",
+    "Medical implants",
+    "Pigments"
+  ],
+  "hazards": "Generally considered safe, but dust may be hazardous",
+  "isotopes": [
+    "Titanium-46 (46Ti)",
+    "Titanium-47 (47Ti)",
+    "Titanium-48 (48Ti)",
+    "Titanium-49 (49Ti)",
+    "Titanium-50 (50Ti)"
+  ],
+  "spectralLines": [
+    "Lines in UV and visible spectrum"
+  ],
+  "funFacts": "Titanium is known for its strength, lightness, and corrosion resistance.",
+  "wikiLink": "https://en.wikipedia.org/wiki/Titanium"
+},
+{
+  "_id": {
+    "$oid": "68c5a2c828c8a6d242493f52"
+  },
+  "name": "Vanadium",
+  "symbol": "V",
+  "atomicNumber": 23,
+  "atomicMass": 50.942,
+  "group": 5,
+  "period": 4,
+  "block": "d",
+  "category": "Transition metal",
+  "stateAtRoomTemp": "Solid",
+  "meltingPoint": 1910,
+  "boilingPoint": 3407,
+  "density": 6.11,
+  "color": "Steel gray",
+  "electronConfiguration": "[Ar] 3d3 4s2",
+  "electronegativity": 1.63,
+  "ionizationEnergy": 650.9,
+  "oxidationStates": [
+    "+5",
+    "+4",
+    "+3",
+    "+2"
+  ],
+  "naturalOccurrence": "Found in minerals like vanadinite",
+  "majorCompounds": [
+    "Vanadium pentoxide (V2O5)",
+    "Vanadium trichloride (VCl3)"
+  ],
+  "commonUses": [
+    "Steel alloys",
+    "Catalysts",
+    "Energy storage"
+  ],
+  "hazards": "Toxic in large amounts, can cause irritation",
+  "isotopes": [
+    "Vanadium-50 (50V)",
+    "Vanadium-51 (51V)"
+  ],
+  "spectralLines": [
+    "Lines in UV spectrum"
+  ],
+  "funFacts": "Vanadium alloys are used in high-strength steel products.",
+  "wikiLink": "https://en.wikipedia.org/wiki/Vanadium"
+},
+{
+  "_id": {
+    "$oid": "68c5a2c828c8a6d242493f53"
+  },
+  "name": "Chromium",
+  "symbol": "Cr",
+  "atomicNumber": 24,
+  "atomicMass": 51.996,
+  "group": 6,
+  "period": 4,
+  "block": "d",
+  "category": "Transition metal",
+  "stateAtRoomTemp": "Solid",
+  "meltingPoint": 1907,
+  "boilingPoint": 2671,
+  "density": 7.19,
+  "color": "Silvery metallic",
+  "electronConfiguration": "[Ar] 3d5 4s1",
+  "electronegativity": 1.66,
+  "ionizationEnergy": 652.9,
+  "oxidationStates": [
+    "+6",
+    "+3",
+    "+2"
+  ],
+  "naturalOccurrence": "Occurs in chromite ore",
+  "majorCompounds": [
+    "Chromium oxide (Cr2O3)",
+    "Chromium trioxide (CrO3)"
+  ],
+  "commonUses": [
+    "Stainless steel",
+    "Plating",
+    "Pigments"
+  ],
+  "hazards": "Some chromium compounds are toxic and carcinogenic",
+  "isotopes": [
+    "Chromium-50 (50Cr)",
+    "Chromium-52 (52Cr)",
+    "Chromium-53 (53Cr)",
+    "Chromium-54 (54Cr)"
+  ],
+  "spectralLines": [
+    "Lines in visible and UV spectrum"
+  ],
+  "funFacts": "Chromium gives stainless steel its corrosion resistance.",
+  "wikiLink": "https://en.wikipedia.org/wiki/Chromium"
+},
+{
+  "_id": {
+    "$oid": "68c5a2c828c8a6d242493f54"
+  },
+  "name": "Manganese",
+  "symbol": "Mn",
+  "atomicNumber": 25,
+  "atomicMass": 54.938,
+  "group": 7,
+  "period": 4,
+  "block": "d",
+  "category": "Transition metal",
+  "stateAtRoomTemp": "Solid",
+  "meltingPoint": 1246,
+  "boilingPoint": 2061,
+  "density": 7.21,
+  "color": "Silvery gray",
+  "electronConfiguration": "[Ar] 3d5 4s2",
+  "electronegativity": 1.55,
+  "ionizationEnergy": 717.3,
+  "oxidationStates": [
+    "+7",
+    "+4",
+    "+2"
+  ],
+  "naturalOccurrence": "Found in minerals like pyrolusite",
+  "majorCompounds": [
+    "Manganese dioxide (MnO2)",
+    "Manganese sulfate (MnSO4)"
+  ],
+  "commonUses": [
+    "Steel production",
+    "Batteries",
+    "Fertilizers"
+  ],
+  "hazards": "Excessive exposure can cause neurological damage",
+  "isotopes": [
+    "Manganese-55 (55Mn)"
+  ],
+  "spectralLines": [
+    "Lines in UV and visible spectrum"
+  ],
+  "funFacts": "Manganese is essential for bone formation and metabolism.",
+  "wikiLink": "https://en.wikipedia.org/wiki/Manganese"
+},
+{
+  "_id": {
+    "$oid": "68c5a2c828c8a6d242493f55"
+  },
+  "name": "Iron",
+  "symbol": "Fe",
+  "atomicNumber": 26,
+  "atomicMass": 55.845,
+  "group": 8,
+  "period": 4,
+  "block": "d",
+  "category": "Transition metal",
+  "stateAtRoomTemp": "Solid",
+  "meltingPoint": 1538,
+  "boilingPoint": 2862,
+  "density": 7.87,
+  "color": "Silvery gray",
+  "electronConfiguration": "[Ar] 3d6 4s2",
+  "electronegativity": 1.83,
+  "ionizationEnergy": 762.5,
+  "oxidationStates": [
+    "+2",
+    "+3"
+  ],
+  "naturalOccurrence": "Found in Earth's core and ores like hematite",
+  "majorCompounds": [
+    "Iron oxide (Fe2O3)",
+    "Iron sulfate (FeSO4)"
+  ],
+  "commonUses": [
+    "Construction",
+    "Steel manufacturing",
+    "Machinery"
+  ],
+  "hazards": "Excessive iron can cause poisoning",
+  "isotopes": [
+    "Iron-54 (54Fe)",
+    "Iron-56 (56Fe)",
+    "Iron-57 (57Fe)",
+    "Iron-58 (58Fe)"
+  ],
+  "spectralLines": [
+    "Lines in UV and visible spectrum"
+  ],
+  "funFacts": "Iron is the most used metal worldwide.",
+  "wikiLink": "https://en.wikipedia.org/wiki/Iron"
+},
+{
+  "_id": {
+    "$oid": "68c5a2c828c8a6d242493f56"
+  },
+  "name": "Cobalt",
+  "symbol": "Co",
+  "atomicNumber": 27,
+  "atomicMass": 58.933,
+  "group": 9,
+  "period": 4,
+  "block": "d",
+  "category": "Transition metal",
+  "stateAtRoomTemp": "Solid",
+  "meltingPoint": 1495,
+  "boilingPoint": 2927,
+  "density": 8.9,
+  "color": "Silvery gray",
+  "electronConfiguration": "[Ar] 3d7 4s2",
+  "electronegativity": 1.88,
+  "ionizationEnergy": 760.4,
+  "oxidationStates": [
+    "+2",
+    "+3"
+  ],
+  "naturalOccurrence": "Found in ores like cobaltite",
+  "majorCompounds": [
+    "Cobalt oxide (CoO)",
+    "Cobalt chloride (CoCl2)"
+  ],
+  "commonUses": [
+    "Batteries",
+    "Alloys",
+    "Magnets"
+  ],
+  "hazards": "Excessive exposure may affect the heart and lungs",
+  "isotopes": [
+    "Cobalt-59 (59Co)"
+  ],
+  "spectralLines": [
+    "Lines in UV and visible spectrum"
+  ],
+  "funFacts": "Cobalt is used in rechargeable battery technology.",
+  "wikiLink": "https://en.wikipedia.org/wiki/Cobalt"
+},
+{
+  "_id": {
+    "$oid": "68c5a2c828c8a6d242493f57"
+  },
+  "name": "Nickel",
+  "symbol": "Ni",
+  "atomicNumber": 28,
+  "atomicMass": 58.693,
+  "group": 10,
+  "period": 4,
+  "block": "d",
+  "category": "Transition metal",
+  "stateAtRoomTemp": "Solid",
+  "meltingPoint": 1455,
+  "boilingPoint": 2913,
+  "density": 8.9,
+  "color": "Silvery white",
+  "electronConfiguration": "[Ar] 3d8 4s2",
+  "electronegativity": 1.91,
+  "ionizationEnergy": 737.1,
+  "oxidationStates": [
+    "+2",
+    "+3"
+  ],
+  "naturalOccurrence": "Found in minerals like pentlandite",
+  "majorCompounds": [
+    "Nickel oxide (NiO)",
+    "Nickel sulfate (NiSO4)"
+  ],
+  "commonUses": [
+    "Stainless steel",
+    "Electroplating",
+    "Batteries"
+  ],
+  "hazards": "Can cause skin allergies and respiratory issues",
+  "isotopes": [
+    "Nickel-58 (58Ni)",
+    "Nickel-60 (60Ni)",
+    "Nickel-62 (62Ni)",
+    "Nickel-64 (64Ni)"
+  ],
+  "spectralLines": [
+    "Lines in UV and visible spectrum"
+  ],
+  "funFacts": "Nickel is highly resistant to corrosion and oxidation.",
+  "wikiLink": "https://en.wikipedia.org/wiki/Nickel"
+},
+{
+  "_id": {
+    "$oid": "68c5a2c828c8a6d242493f58"
+  },
+  "name": "Copper",
+  "symbol": "Cu",
+  "atomicNumber": 29,
+  "atomicMass": 63.546,
+  "group": 11,
+  "period": 4,
+  "block": "d",
+  "category": "Transition metal",
+  "stateAtRoomTemp": "Solid",
+  "meltingPoint": 1084.62,
+  "boilingPoint": 2562,
+  "density": 8.96,
+  "color": "Reddish brown",
+  "electronConfiguration": "[Ar] 3d10 4s1",
+  "electronegativity": 1.9,
+  "ionizationEnergy": 745.5,
+  "oxidationStates": [
+    "+1",
+    "+2"
+  ],
+  "naturalOccurrence": "Found in ores like chalcopyrite",
+  "majorCompounds": [
+    "Copper oxide (CuO)",
+    "Copper sulfate (CuSO4)"
+  ],
+  "commonUses": [
+    "Electrical wiring",
+    "Plumbing",
+    "Coins"
+  ],
+  "hazards": "Excessive exposure may cause gastrointestinal issues",
+  "isotopes": [
+    "Copper-63 (63Cu)",
+    "Copper-65 (65Cu)"
+  ],
+  "spectralLines": [
+    "Lines in green and red spectrum"
+  ],
+  "funFacts": "Copper has the highest electrical conductivity of non-precious metals.",
+  "wikiLink": "https://en.wikipedia.org/wiki/Copper"
+},
+{
+  "_id": {
+    "$oid": "68c5a2c828c8a6d242493f59"
+  },
+  "name": "Zinc",
+  "symbol": "Zn",
+  "atomicNumber": 30,
+  "atomicMass": 65.38,
+  "group": 12,
+  "period": 4,
+  "block": "d",
+  "category": "Transition metal",
+  "stateAtRoomTemp": "Solid",
+  "meltingPoint": 419.53,
+  "boilingPoint": 907,
+  "density": 7.14,
+  "color": "Bluish white",
+  "electronConfiguration": "[Ar] 3d10 4s2",
+  "electronegativity": 1.65,
+  "ionizationEnergy": 906.4,
+  "oxidationStates": [
+    "+2"
+  ],
+  "naturalOccurrence": "Found in ores like sphalerite",
+  "majorCompounds": [
+    "Zinc oxide (ZnO)",
+    "Zinc sulfate (ZnSO4)"
+  ],
+  "commonUses": [
+    "Galvanizing",
+    "Alloys",
+    "Medicinal products"
+  ],
+  "hazards": "Excessive intake may cause nausea and other health issues",
+  "isotopes": [
+    "Zinc-64 (64Zn)",
+    "Zinc-66 (66Zn)",
+    "Zinc-67 (67Zn)",
+    "Zinc-68 (68Zn)",
+    "Zinc-70 (70Zn)"
+  ],
+  "spectralLines": [
+    "Lines in UV and visible spectrum"
+  ],
+  "funFacts": "Zinc is essential for immune system function.",
+  "wikiLink": "https://en.wikipedia.org/wiki/Zinc"
+},
+{
+  "_id": {
+    "$oid": "68c5a2c828c8a6d242493f5a"
+  },
+  "name": "Gallium",
+  "symbol": "Ga",
+  "atomicNumber": 31,
+  "atomicMass": 69.723,
+  "group": 13,
+  "period": 4,
+  "block": "p",
+  "category": "Post-transition metal",
+  "stateAtRoomTemp": "Solid",
+  "meltingPoint": 29.76,
+  "boilingPoint": 2204,
+  "density": 5.91,
+  "color": "Silvery blue",
+  "electronConfiguration": "[Ar] 3d10 4s2 4p1",
+  "electronegativity": 1.81,
+  "ionizationEnergy": 578.8,
+  "oxidationStates": [
+    "+3",
+    "+1"
+  ],
+  "naturalOccurrence": "Found in trace amounts in bauxite and zinc ores",
+  "majorCompounds": [
+    "Gallium arsenide (GaAs)",
+    "Gallium nitride (GaN)"
+  ],
+  "commonUses": [
+    "Semiconductors",
+    "LEDs",
+    "Solar panels"
+  ],
+  "hazards": "Low toxicity but should be handled with care",
+  "isotopes": [
+    "Gallium-69 (69Ga)",
+    "Gallium-71 (71Ga)"
+  ],
+  "spectralLines": [
+    "Lines in UV spectrum"
+  ],
+  "funFacts": "Gallium melts just above room temperature and can melt in your hand.",
+  "wikiLink": "https://en.wikipedia.org/wiki/Gallium"
+},
+{
+  "_id": {
+    "$oid": "68c5a2c828c8a6d242493f5b"
+  },
+  "name": "Germanium",
+  "symbol": "Ge",
+  "atomicNumber": 32,
+  "atomicMass": 72.63,
+  "group": 14,
+  "period": 4,
+  "block": "p",
+  "category": "Metalloid",
+  "stateAtRoomTemp": "Solid",
+  "meltingPoint": 938.25,
+  "boilingPoint": 2833,
+  "density": 5.32,
+  "color": "Grayish-white",
+  "electronConfiguration": "[Ar] 3d10 4s2 4p2",
+  "electronegativity": 2.01,
+  "ionizationEnergy": 762,
+  "oxidationStates": [
+    "+4",
+    "+2"
+  ],
+  "naturalOccurrence": "Found in small amounts in minerals like argyrodite",
+  "majorCompounds": [
+    "Germanium dioxide (GeO2)",
+    "Germanium tetrachloride (GeCl4)"
+  ],
+  "commonUses": [
+    "Semiconductors",
+    "Fiber optics",
+    "Solar cells"
+  ],
+  "hazards": "Generally low toxicity but dust can be hazardous",
+  "isotopes": [
+    "Germanium-70 (70Ge)",
+    "Germanium-72 (72Ge)",
+    "Germanium-73 (73Ge)",
+    "Germanium-74 (74Ge)",
+    "Germanium-76 (76Ge)"
+  ],
+  "spectralLines": [
+    "Lines in UV spectrum"
+  ],
+  "funFacts": "Germanium is important for high-speed electronics and infrared optics.",
+  "wikiLink": "https://en.wikipedia.org/wiki/Germanium"
+},
+{
+  "_id": {
+    "$oid": "68c5a2c828c8a6d242493f5c"
+  },
+  "name": "Arsenic",
+  "symbol": "As",
+  "atomicNumber": 33,
+  "atomicMass": 74.922,
+  "group": 15,
+  "period": 4,
+  "block": "p",
+  "category": "Metalloid",
+  "stateAtRoomTemp": "Solid",
+  "meltingPoint": 817,
+  "boilingPoint": 614,
+  "density": 5.73,
+  "color": "Gray metallic",
+  "electronConfiguration": "[Ar] 3d10 4s2 4p3",
+  "electronegativity": 2.18,
+  "ionizationEnergy": 947,
+  "oxidationStates": [
+    "-3",
+    "+3",
+    "+5"
+  ],
+  "naturalOccurrence": "Occurs in minerals like arsenopyrite",
+  "majorCompounds": [
+    "Arsenic trioxide (As2O3)",
+    "Arsenic pentoxide (As2O5)"
+  ],
+  "commonUses": [
+    "Pesticides",
+    "Semiconductors",
+    "Alloys"
+  ],
+  "hazards": "Highly toxic and carcinogenic",
+  "isotopes": [
+    "Arsenic-75 (75As)"
+  ],
+  "spectralLines": [
+    "Lines in UV spectrum"
+  ],
+  "funFacts": "Arsenic has been historically used as a poison and medicinal compound.",
+  "wikiLink": "https://en.wikipedia.org/wiki/Arsenic"
+},
+{
+  "_id": {
+    "$oid": "68c5a2c828c8a6d242493f5d"
+  },
+  "name": "Selenium",
+  "symbol": "Se",
+  "atomicNumber": 34,
+  "atomicMass": 78.971,
+  "group": 16,
+  "period": 4,
+  "block": "p",
+  "category": "Nonmetal",
+  "stateAtRoomTemp": "Solid",
+  "meltingPoint": 221,
+  "boilingPoint": 685,
+  "density": 4.81,
+  "color": "Gray or red",
+  "electronConfiguration": "[Ar] 3d10 4s2 4p4",
+  "electronegativity": 2.55,
+  "ionizationEnergy": 941,
+  "oxidationStates": [
+    "-2",
+    "+4",
+    "+6"
+  ],
+  "naturalOccurrence": "Found in sulfide ores and in small amounts in soil",
+  "majorCompounds": [
+    "Selenium dioxide (SeO2)",
+    "Sodium selenite (Na2SeO3)"
+  ],
+  "commonUses": [
+    "Glass manufacturing",
+    "Electronics",
+    "Nutrition supplements"
+  ],
+  "hazards": "Toxic in high doses",
+  "isotopes": [
+    "Selenium-74 (74Se)",
+    "Selenium-76 (76Se)",
+    "Selenium-77 (77Se)",
+    "Selenium-78 (78Se)",
+    "Selenium-80 (80Se)",
+    "Selenium-82 (82Se)"
+  ],
+  "spectralLines": [
+    "Lines in visible spectrum"
+  ],
+  "funFacts": "Selenium is essential for antioxidant enzymes in the body.",
+  "wikiLink": "https://en.wikipedia.org/wiki/Selenium"
+},
+{
+  "_id": {
+    "$oid": "68c5a2c828c8a6d242493f5e"
+  },
+  "name": "Bromine",
+  "symbol": "Br",
+  "atomicNumber": 35,
+  "atomicMass": 79.904,
+  "group": 17,
+  "period": 4,
+  "block": "p",
+  "category": "Halogen",
+  "stateAtRoomTemp": "Liquid",
+  "meltingPoint": -7.2,
+  "boilingPoint": 58.8,
+  "density": 3.12,
+  "color": "Reddish brown",
+  "electronConfiguration": "[Ar] 3d10 4s2 4p5",
+  "electronegativity": 2.96,
+  "ionizationEnergy": 1139.9,
+  "oxidationStates": [
+    "-1",
+    "+1",
+    "+3",
+    "+5"
+  ],
+  "naturalOccurrence": "Found in sea water and mineral deposits",
+  "majorCompounds": [
+    "Hydrogen bromide (HBr)",
+    "Bromine monochloride (BrCl)"
+  ],
+  "commonUses": [
+    "Flame retardants",
+    "Photography",
+    "Water treatment"
+  ],
+  "hazards": "Corrosive and toxic to skin and eyes",
+  "isotopes": [
+    "Bromine-79 (79Br)",
+    "Bromine-81 (81Br)"
+  ],
+  "spectralLines": [
+    "Lines in red spectrum"
+  ],
+  "funFacts": "Bromine is one of only two elements that is liquid at room temperature.",
+  "wikiLink": "https://en.wikipedia.org/wiki/Bromine"
+},
+{
+  "_id": {
+    "$oid": "68c5a2c828c8a6d242493f5f"
+  },
+  "name": "Krypton",
+  "symbol": "Kr",
+  "atomicNumber": 36,
+  "atomicMass": 83.798,
+  "group": 18,
+  "period": 4,
+  "block": "p",
+  "category": "Noble gas",
+  "stateAtRoomTemp": "Gas",
+  "meltingPoint": 115.79,
+  "boilingPoint": 119.93,
+  "density": 3.749,
+  "color": "Colorless",
+  "electronConfiguration": "[Ar] 3d10 4s2 4p6",
+  "electronegativity": null,
+  "ionizationEnergy": 1350.8,
+  "oxidationStates": [
+    "0"
+  ],
+  "naturalOccurrence": "Occurs in trace amounts in Earth's atmosphere",
+  "majorCompounds": [
+    "Krypton difluoride (KrF2)"
+  ],
+  "commonUses": [
+    "Lighting",
+    "Lasers",
+    "High-performance windows"
+  ],
+  "hazards": "Inert gas; generally non-toxic but can displace oxygen in confined spaces",
+  "isotopes": [
+    "Krypton-78 (78Kr)",
+    "Krypton-80 (80Kr)",
+    "Krypton-82 (82Kr)",
+    "Krypton-83 (83Kr)",
+    "Krypton-84 (84Kr)",
+    "Krypton-86 (86Kr)"
+  ],
+  "spectralLines": [
+    "Lines in the red, green, and blue regions of the spectrum"
+  ],
+  "funFacts": "Krypton is used in certain types of photographic flashes and high-performance light bulbs.",
+  "wikiLink": "https://en.wikipedia.org/wiki/Krypton"
+},
+{
+  "_id": {
+    "$oid": "68c5a2c828c8a6d242493f60"
+  },
+  "name": "Rubidium",
+  "symbol": "Rb",
+  "atomicNumber": 37,
+  "atomicMass": 85.4678,
+  "group": 1,
+  "period": 5,
+  "block": "s",
+  "category": "Alkali metal",
+  "stateAtRoomTemp": "Solid",
+  "meltingPoint": 39.31,
+  "boilingPoint": 688,
+  "density": 1.532,
+  "color": "Silvery white",
+  "electronConfiguration": "[Kr] 5s1",
+  "electronegativity": 0.82,
+  "ionizationEnergy": 403,
+  "oxidationStates": [
+    "+1"
+  ],
+  "naturalOccurrence": "Occurs in trace amounts in minerals like lepidolite and pollucite",
+  "majorCompounds": [
+    "Rubidium chloride (RbCl)",
+    "Rubidium hydroxide (RbOH)"
+  ],
+  "commonUses": [
+    "Research",
+    "Specialty glasses",
+    "Atomic clocks"
+  ],
+  "hazards": "Highly reactive; can cause fires and explosions when in contact with water",
+  "isotopes": [
+    "Rubidium-85 (85Rb)",
+    "Rubidium-87 (87Rb)"
+  ],
+  "spectralLines": [
+    "Lines in the red and violet regions of the spectrum"
+  ],
+  "funFacts": "Rubidium is used in research related to quantum computing and atomic clocks.",
+  "wikiLink": "https://en.wikipedia.org/wiki/Rubidium"
+},
+{
+  "_id": {
+    "$oid": "68c5a2c828c8a6d242493f61"
+  },
+  "name": "Strontium",
+  "symbol": "Sr",
+  "atomicNumber": 38,
+  "atomicMass": 87.62,
+  "group": 2,
+  "period": 5,
+  "block": "s",
+  "category": "Alkaline earth metal",
+  "stateAtRoomTemp": "Solid",
+  "meltingPoint": 777,
+  "boilingPoint": 1382,
+  "density": 2.64,
+  "color": "Silvery white",
+  "electronConfiguration": "[Kr] 5s2",
+  "electronegativity": 0.95,
+  "ionizationEnergy": 549.5,
+  "oxidationStates": [
+    "+2"
+  ],
+  "naturalOccurrence": "Found in minerals like celestine and strontianite",
+  "majorCompounds": [
+    "Strontium carbonate (SrCO3)",
+    "Strontium nitrate (Sr(NO3)2)"
+  ],
+  "commonUses": [
+    "Fireworks",
+    "Magnetic materials",
+    "Medical imaging (as a radiopharmaceutical)"
+  ],
+  "hazards": "Compounds can be toxic if ingested; strontium-90 is radioactive",
+  "isotopes": [
+    "Strontium-84 (84Sr)",
+    "Strontium-86 (86Sr)",
+    "Strontium-87 (87Sr)",
+    "Strontium-88 (88Sr)",
+    "Strontium-89 (89Sr)",
+    "Strontium-90 (90Sr)"
+  ],
+  "spectralLines": [
+    "Lines in the red and orange regions of the spectrum"
+  ],
+  "funFacts": "Strontium compounds are responsible for the red color in fireworks.",
+  "wikiLink": "https://en.wikipedia.org/wiki/Strontium"
+},
+{
+  "_id": {
+    "$oid": "68c5a2c828c8a6d242493f62"
+  },
+  "name": "Yttrium",
+  "symbol": "Y",
+  "atomicNumber": 39,
+  "atomicMass": 88.90584,
+  "group": 3,
+  "period": 5,
+  "block": "d",
+  "category": "Transition metal",
+  "stateAtRoomTemp": "Solid",
+  "meltingPoint": 1526,
+  "boilingPoint": 3337,
+  "density": 4.472,
+  "color": "Silvery metallic",
+  "electronConfiguration": "[Kr] 4d1 5s2",
+  "electronegativity": 1.22,
+  "ionizationEnergy": 600.5,
+  "oxidationStates": [
+    "+3"
+  ],
+  "naturalOccurrence": "Occurs in rare earth minerals like xenotime and monazite",
+  "majorCompounds": [
+    "Yttrium oxide (Y2O3)",
+    "Yttrium aluminum garnet (YAG)"
+  ],
+  "commonUses": [
+    "Phosphors in color television tubes",
+    "Superconductors",
+    "Medical imaging (as a radiopharmaceutical)"
+  ],
+  "hazards": "Generally low toxicity; compounds can be harmful if inhaled or ingested",
+  "isotopes": [
+    "Yttrium-89 (89Y)"
+  ],
+  "spectralLines": [
+    "Lines in the red and green regions of the spectrum"
+  ],
+  "funFacts": "Yttrium is used in the production of phosphors for color television tubes.",
+  "wikiLink": "https://en.wikipedia.org/wiki/Yttrium"
+},
+{
+  "_id": {
+    "$oid": "68c5a2c828c8a6d242493f63"
+  },
+  "name": "Zirconium",
+  "symbol": "Zr",
+  "atomicNumber": 40,
+  "atomicMass": 91.224,
+  "group": 4,
+  "period": 5,
+  "block": "d",
+  "category": "Transition metal",
+  "stateAtRoomTemp": "Solid",
+  "meltingPoint": 1855,
+  "boilingPoint": 4377,
+  "density": 6.52,
+  "color": "Silvery gray",
+  "electronConfiguration": "[Kr] 4d2 5s2",
+  "electronegativity": 1.33,
+  "ionizationEnergy": 640.1,
+  "oxidationStates": [
+    "+4"
+  ],
+  "naturalOccurrence": "Occurs in minerals like zircon and baddeleyite",
+  "majorCompounds": [
+    "Zirconium dioxide (ZrO2)",
+    "Zirconium carbide (ZrC)"
+  ],
+  "commonUses": [
+    "Nuclear reactors",
+    "Ceramics",
+    "Dental materials"
+  ],
+  "hazards": "Generally low toxicity; compounds can be harmful if inhaled or ingested",
+  "isotopes": [
+    "Zirconium-90 (90Zr)",
+    "Zirconium-91 (91Zr)",
+    "Zirconium-92 (92Zr)",
+    "Zirconium-94 (94Zr)",
+    "Zirconium-96 (96Zr)"
+  ],
+  "spectralLines": [
+    "Lines in the ultraviolet region of the spectrum"
+  ],
+  "funFacts": "Zirconium is highly resistant to corrosion and is used in nuclear reactors.",
+  "wikiLink": "https://en.wikipedia.org/wiki/Zirconium"
+},
+{
+  "_id": {
+    "$oid": "68c5a2c828c8a6d242493f64"
+  },
+  "name": "Niobium",
+  "symbol": "Nb",
+  "atomicNumber": 41,
+  "atomicMass": 92.906,
+  "group": 5,
+  "period": 5,
+  "block": "d",
+  "category": "Transition metal",
+  "stateAtRoomTemp": "Solid",
+  "meltingPoint": 2477,
+  "boilingPoint": 4744,
+  "density": 8.57,
+  "color": "Gray",
+  "electronConfiguration": "[Kr] 4d4 5s1",
+  "electronegativity": 1.6,
+  "ionizationEnergy": 652.1,
+  "oxidationStates": [
+    "+5",
+    "+3"
+  ],
+  "naturalOccurrence": "Occurs in minerals like columbite and pyrochlore",
+  "majorCompounds": [
+    "Niobium pentachloride (NbCl5)",
+    "Niobium oxide (Nb2O5)"
+  ],
+  "commonUses": [
+    "Superconducting magnets",
+    "Alloys",
+    "Nuclear reactors"
+  ],
+  "hazards": "Generally low toxicity; compounds can be harmful if inhaled or ingested",
+  "isotopes": [
+    "Niobium-93 (93Nb)"
+  ],
+  "spectralLines": [
+    "Lines in the ultraviolet region of the spectrum"
+  ],
+  "funFacts": "Niobium is used in superconducting magnets and as an alloying agent in steel.",
+  "wikiLink": "https://en.wikipedia.org/wiki/Niobium"
+},
+{
+  "_id": {
+    "$oid": "68c5a2c828c8a6d242493f65"
+  },
+  "name": "Molybdenum",
+  "symbol": "Mo",
+  "atomicNumber": 42,
+  "atomicMass": 95.95,
+  "group": 6,
+  "period": 5,
+  "block": "d",
+  "category": "Transition metal",
+  "stateAtRoomTemp": "Solid",
+  "meltingPoint": 2623,
+  "boilingPoint": 4639,
+  "density": 10.28,
+  "color": "Grayish silver",
+  "electronConfiguration": "[Kr] 4d5 5s1",
+  "electronegativity": 2.16,
+  "ionizationEnergy": 684.3,
+  "oxidationStates": [
+    "+6",
+    "+5",
+    "+4",
+    "+3",
+    "+2"
+  ],
+  "naturalOccurrence": "Found in minerals like molybdenite and wulfenite",
+  "majorCompounds": [
+    "Molybdenum trioxide (MoO3)",
+    "Molybdenum disulfide (MoS2)"
+  ],
+  "commonUses": [
+    "Alloys",
+    "Catalysts",
+    "Electronics"
+  ],
+  "hazards": "Excessive exposure can cause skin irritation",
+  "isotopes": [
+    "Molybdenum-92 (92Mo)",
+    "Molybdenum-94 (94Mo)",
+    "Molybdenum-95 (95Mo)",
+    "Molybdenum-96 (96Mo)",
+    "Molybdenum-97 (97Mo)",
+    "Molybdenum-98 (98Mo)",
+    "Molybdenum-100 (100Mo)"
+  ],
+  "spectralLines": [
+    "Lines in UV spectrum"
+  ],
+  "funFacts": "Molybdenum increases the strength and corrosion resistance of steel.",
+  "wikiLink": "https://en.wikipedia.org/wiki/Molybdenum"
+},
+{
+  "_id": {
+    "$oid": "68c5a2c828c8a6d242493f66"
+  },
+  "name": "Technetium",
+  "symbol": "Tc",
+  "atomicNumber": 43,
+  "atomicMass": 98,
+  "group": 7,
+  "period": 5,
+  "block": "d",
+  "category": "Transition metal",
+  "stateAtRoomTemp": "Solid",
+  "meltingPoint": 2157,
+  "boilingPoint": 4265,
+  "density": 11.5,
+  "color": "Silvery gray",
+  "electronConfiguration": "[Kr] 4d5 5s2",
+  "electronegativity": 1.9,
+  "ionizationEnergy": 702,
+  "oxidationStates": [
+    "+7",
+    "+6",
+    "+4"
+  ],
+  "naturalOccurrence": "Artificially produced; only trace amounts found in uranium ores",
+  "majorCompounds": [
+    "Technetium-99m used in medical imaging"
+  ],
+  "commonUses": [
+    "Medical imaging",
+    "Industrial radiography"
+  ],
+  "hazards": "Radioactive isotopes require careful handling",
+  "isotopes": [
+    "Technetium-99m",
+    "Technetium-98"
+  ],
+  "spectralLines": [
+    "Lines in UV and visible regions"
+  ],
+  "funFacts": "Technetium was the first artificially produced element.",
+  "wikiLink": "https://en.wikipedia.org/wiki/Technetium"
+},
+{
+  "_id": {
+    "$oid": "68c5a2c828c8a6d242493f67"
+  },
+  "name": "Ruthenium",
+  "symbol": "Ru",
+  "atomicNumber": 44,
+  "atomicMass": 101.07,
+  "group": 8,
+  "period": 5,
+  "block": "d",
+  "category": "Transition metal",
+  "stateAtRoomTemp": "Solid",
+  "meltingPoint": 2334,
+  "boilingPoint": 4150,
+  "density": 12.37,
+  "color": "Silvery white",
+  "electronConfiguration": "[Kr] 4d7 5s1",
+  "electronegativity": 2.2,
+  "ionizationEnergy": 710.2,
+  "oxidationStates": [
+    "+3",
+    "+4",
+    "+8"
+  ],
+  "naturalOccurrence": "Found in platinum ores and in small quantities in Earth's crust",
+  "majorCompounds": [
+    "Ruthenium tetroxide (RuO4)",
+    "Ruthenium chloride (RuCl3)"
+  ],
+  "commonUses": [
+    "Electronics",
+    "Catalysts",
+    "Hard coatings"
+  ],
+  "hazards": "Some compounds are toxic and reactive",
+  "isotopes": [
+    "Ruthenium-96 (96Ru)",
+    "Ruthenium-98 (98Ru)",
+    "Ruthenium-99 (99Ru)",
+    "Ruthenium-101 (101Ru)",
+    "Ruthenium-102 (102Ru)",
+    "Ruthenium-104 (104Ru)"
+  ],
+  "spectralLines": [
+    "Lines in UV and visible regions"
+  ],
+  "funFacts": "Ruthenium is used to harden platinum and palladium alloys.",
+  "wikiLink": "https://en.wikipedia.org/wiki/Ruthenium"
+},
+{
+  "_id": {
+    "$oid": "68c5a2c828c8a6d242493f68"
+  },
+  "name": "Rhodium",
+  "symbol": "Rh",
+  "atomicNumber": 45,
+  "atomicMass": 102.91,
+  "group": 9,
+  "period": 5,
+  "block": "d",
+  "category": "Transition metal",
+  "stateAtRoomTemp": "Solid",
+  "meltingPoint": 1964,
+  "boilingPoint": 3695,
+  "density": 12.41,
+  "color": "Silvery white",
+  "electronConfiguration": "[Kr] 4d8 5s1",
+  "electronegativity": 2.28,
+  "ionizationEnergy": 719,
+  "oxidationStates": [
+    "+3",
+    "+1",
+    "+2"
+  ],
+  "naturalOccurrence": "Occurs in platinum ores",
+  "majorCompounds": [
+    "Rhodium chloride (RhCl3)",
+    "Rhodium oxide (Rh2O3)"
+  ],
+  "commonUses": [
+    "Catalytic converters",
+    "Electronics",
+    "Jewelry"
+  ],
+  "hazards": "Generally low toxicity but compounds may be hazardous",
+  "isotopes": [
+    "Rhodium-103 (103Rh)"
+  ],
+  "spectralLines": [
+    "Lines in UV and visible regions"
+  ],
+  "funFacts": "Rhodium is the rarest and most valuable precious metal.",
+  "wikiLink": "https://en.wikipedia.org/wiki/Rhodium"
+},
+{
+  "_id": {
+    "$oid": "68c5a2c828c8a6d242493f69"
+  },
+  "name": "Palladium",
+  "symbol": "Pd",
+  "atomicNumber": 46,
+  "atomicMass": 106.42,
+  "group": 10,
+  "period": 5,
+  "block": "d",
+  "category": "Transition metal",
+  "stateAtRoomTemp": "Solid",
+  "meltingPoint": 1554.9,
+  "boilingPoint": 2963,
+  "density": 12.02,
+  "color": "Silvery white",
+  "electronConfiguration": "[Kr] 4d10",
+  "electronegativity": 2.2,
+  "ionizationEnergy": 804.4,
+  "oxidationStates": [
+    "+2",
+    "+4"
+  ],
+  "naturalOccurrence": "Found in platinum ores and meteorites",
+  "majorCompounds": [
+    "Palladium chloride (PdCl2)",
+    "Palladium oxide (PdO)"
+  ],
+  "commonUses": [
+    "Catalytic converters",
+    "Electronics",
+    "Hydrogen storage"
+  ],
+  "hazards": "Generally low toxicity but exposure should be minimized",
+  "isotopes": [
+    "Palladium-102 (102Pd)",
+    "Palladium-104 (104Pd)",
+    "Palladium-105 (105Pd)",
+    "Palladium-106 (106Pd)",
+    "Palladium-108 (108Pd)",
+    "Palladium-110 (110Pd)"
+  ],
+  "spectralLines": [
+    "Lines in UV and visible regions"
+  ],
+  "funFacts": "Palladium can absorb up to 900 times its own volume of hydrogen.",
+  "wikiLink": "https://en.wikipedia.org/wiki/Palladium"
+},
+{
+  "_id": {
+    "$oid": "68c5a2c828c8a6d242493f6a"
+  },
+  "name": "Silver",
+  "symbol": "Ag",
+  "atomicNumber": 47,
+  "atomicMass": 107.87,
+  "group": 11,
+  "period": 5,
+  "block": "d",
+  "category": "Transition metal",
+  "stateAtRoomTemp": "Solid",
+  "meltingPoint": 961.78,
+  "boilingPoint": 2162,
+  "density": 10.49,
+  "color": "Silvery white",
+  "electronConfiguration": "[Kr] 4d10 5s1",
+  "electronegativity": 1.93,
+  "ionizationEnergy": 731,
+  "oxidationStates": [
+    "+1",
+    "+2"
+  ],
+  "naturalOccurrence": "Found in ores like argentite and in native form",
+  "majorCompounds": [
+    "Silver nitrate (AgNO3)",
+    "Silver chloride (AgCl)"
+  ],
+  "commonUses": [
+    "Jewelry",
+    "Electronics",
+    "Photography"
+  ],
+  "hazards": "Low toxicity but can cause skin irritation",
+  "isotopes": [
+    "Silver-107 (107Ag)",
+    "Silver-109 (109Ag)"
+  ],
+  "spectralLines": [
+    "Lines in the visible region"
+  ],
+  "funFacts": "Silver has the highest electrical and thermal conductivity of all metals.",
+  "wikiLink": "https://en.wikipedia.org/wiki/Silver"
+},
+{
+  "_id": {
+    "$oid": "68c5a2c828c8a6d242493f6b"
+  },
+  "name": "Cadmium",
+  "symbol": "Cd",
+  "atomicNumber": 48,
+  "atomicMass": 112.41,
+  "group": 12,
+  "period": 5,
+  "block": "d",
+  "category": "Transition metal",
+  "stateAtRoomTemp": "Solid",
+  "meltingPoint": 321.07,
+  "boilingPoint": 767,
+  "density": 8.65,
+  "color": "Bluish-white",
+  "electronConfiguration": "[Kr] 4d10 5s2",
+  "electronegativity": 1.69,
+  "ionizationEnergy": 867.8,
+  "oxidationStates": [
+    "+2"
+  ],
+  "naturalOccurrence": "Found in zinc ores and in trace amounts in Earth's crust",
+  "majorCompounds": [
+    "Cadmium sulfide (CdS)",
+    "Cadmium oxide (CdO)"
+  ],
+  "commonUses": [
+    "Batteries",
+    "Coatings",
+    "Pigments"
+  ],
+  "hazards": "Toxic and carcinogenic; exposure should be avoided",
+  "isotopes": [
+    "Cadmium-106 (106Cd)",
+    "Cadmium-108 (108Cd)",
+    "Cadmium-110 (110Cd)",
+    "Cadmium-111 (111Cd)",
+    "Cadmium-112 (112Cd)",
+    "Cadmium-114 (114Cd)"
+  ],
+  "spectralLines": [
+    "Lines in UV and visible regions"
+  ],
+  "funFacts": "Cadmium is a byproduct of zinc refining and is used in rechargeable batteries.",
+  "wikiLink": "https://en.wikipedia.org/wiki/Cadmium"
+},
+{
+  "_id": {
+    "$oid": "68c5a2c828c8a6d242493f6c"
+  },
+  "name": "Indium",
+  "symbol": "In",
+  "atomicNumber": 49,
+  "atomicMass": 114.82,
+  "group": 13,
+  "period": 5,
+  "block": "p",
+  "category": "Post-transition metal",
+  "stateAtRoomTemp": "Solid",
+  "meltingPoint": 156.6,
+  "boilingPoint": 2072,
+  "density": 7.31,
+  "color": "Silvery white",
+  "electronConfiguration": "[Kr] 4d10 5s2 5p1",
+  "electronegativity": 1.78,
+  "ionizationEnergy": 558.3,
+  "oxidationStates": [
+    "+3",
+    "+1"
+  ],
+  "naturalOccurrence": "Found in zinc ores like sphalerite",
+  "majorCompounds": [
+    "Indium tin oxide (ITO)",
+    "Indium phosphide (InP)"
+  ],
+  "commonUses": [
+    "Touchscreens",
+    "Semiconductors",
+    "Alloys"
+  ],
+  "hazards": "Low toxicity but should be handled with care in dust or vapor form",
+  "isotopes": [
+    "Indium-113 (113In)",
+    "Indium-115 (115In)"
+  ],
+  "spectralLines": [
+    "Lines in UV and visible regions"
+  ],
+  "funFacts": "Indium is used in touchscreens and solar panels for its conductive properties.",
+  "wikiLink": "https://en.wikipedia.org/wiki/Indium"
+},
+{
+  "_id": {
+    "$oid": "68c5a2c828c8a6d242493f6d"
+  },
+  "name": "Tin",
+  "symbol": "Sn",
+  "atomicNumber": 50,
+  "atomicMass": 118.71,
+  "group": 14,
+  "period": 5,
+  "block": "p",
+  "category": "Post-transition metal",
+  "stateAtRoomTemp": "Solid",
+  "meltingPoint": 231.93,
+  "boilingPoint": 2602,
+  "density": 7.31,
+  "color": "Silvery white",
+  "electronConfiguration": "[Kr] 4d10 5s2 5p2",
+  "electronegativity": 1.96,
+  "ionizationEnergy": 708.6,
+  "oxidationStates": [
+    "+2",
+    "+4"
+  ],
+  "naturalOccurrence": "Found in minerals like cassiterite",
+  "majorCompounds": [
+    "Tin oxide (SnO2)",
+    "Tin chloride (SnCl2)"
+  ],
+  "commonUses": [
+    "Soldering",
+    "Coatings",
+    "Alloys"
+  ],
+  "hazards": "Generally low toxicity; some organotin compounds are toxic",
+  "isotopes": [
+    "Tin-112 (112Sn)",
+    "Tin-114 (114Sn)",
+    "Tin-115 (115Sn)",
+    "Tin-116 (116Sn)",
+    "Tin-117 (117Sn)",
+    "Tin-118 (118Sn)",
+    "Tin-119 (119Sn)",
+    "Tin-120 (120Sn)",
+    "Tin-122 (122Sn)",
+    "Tin-124 (124Sn)"
+  ],
+  "spectralLines": [
+    "Lines in UV and visible regions"
+  ],
+  "funFacts": "Tin has been used for thousands of years in alloys like bronze.",
+  "wikiLink": "https://en.wikipedia.org/wiki/Tin"
+},
+{
+  "_id": {
+    "$oid": "68c5a2c828c8a6d242493f6e"
+  },
+  "name": "Antimony",
+  "symbol": "Sb",
+  "atomicNumber": 51,
+  "atomicMass": 121.76,
+  "group": 15,
+  "period": 5,
+  "block": "p",
+  "category": "Metalloid",
+  "stateAtRoomTemp": "Solid",
+  "meltingPoint": 630.63,
+  "boilingPoint": 1587,
+  "density": 6.697,
+  "color": "Silvery gray",
+  "electronConfiguration": "[Kr] 4d10 5s2 5p3",
+  "electronegativity": 2.05,
+  "ionizationEnergy": 834,
+  "oxidationStates": [
+    "-3",
+    "+3",
+    "+5"
+  ],
+  "naturalOccurrence": "Found in minerals like stibnite",
+  "majorCompounds": [
+    "Antimony trioxide (Sb2O3)",
+    "Antimony pentachloride (SbCl5)"
+  ],
+  "commonUses": [
+    "Flame retardants",
+    "Alloys",
+    "Semiconductors"
+  ],
+  "hazards": "Exposure can cause skin and lung irritation",
+  "isotopes": [
+    "Antimony-121 (121Sb)",
+    "Antimony-123 (123Sb)"
+  ],
+  "spectralLines": [
+    "Lines in UV and visible regions"
+  ],
+  "funFacts": "Antimony has been used since ancient times in cosmetics and alloys.",
+  "wikiLink": "https://en.wikipedia.org/wiki/Antimony"
+},
+{
+  "_id": {
+    "$oid": "68c5a2c828c8a6d242493f6f"
+  },
+  "name": "Tellurium",
+  "symbol": "Te",
+  "atomicNumber": 52,
+  "atomicMass": 127.6,
+  "group": 16,
+  "period": 5,
+  "block": "p",
+  "category": "Metalloid",
+  "stateAtRoomTemp": "Solid",
+  "meltingPoint": 449.51,
+  "boilingPoint": 988,
+  "density": 6.24,
+  "color": "Silvery white",
+  "electronConfiguration": "[Kr] 4d10 5s2 5p4",
+  "electronegativity": 2.1,
+  "ionizationEnergy": 869.3,
+  "oxidationStates": [
+    "-2",
+    "+2",
+    "+4",
+    "+6"
+  ],
+  "naturalOccurrence": "Occurs in telluride minerals and as a byproduct of copper refining",
+  "majorCompounds": [
+    "Tellurium dioxide (TeO2)",
+    "Tellurium hexafluoride (TeF6)"
+  ],
+  "commonUses": [
+    "Alloys",
+    "Solar panels",
+    "Thermoelectric devices"
+  ],
+  "hazards": "Tellurium compounds may cause garlic-like odor and respiratory issues",
+  "isotopes": [
+    "Tellurium-120 (120Te)",
+    "Tellurium-122 (122Te)",
+    "Tellurium-123 (123Te)",
+    "Tellurium-124 (124Te)",
+    "Tellurium-125 (125Te)",
+    "Tellurium-126 (126Te)",
+    "Tellurium-128 (128Te)",
+    "Tellurium-130 (130Te)"
+  ],
+  "spectralLines": [
+    "Lines in UV and visible regions"
+  ],
+  "funFacts": "Tellurium is one of the rarest elements on Earth.",
+  "wikiLink": "https://en.wikipedia.org/wiki/Tellurium"
+},
+{
+  "_id": {
+    "$oid": "68c5a2c828c8a6d242493f70"
+  },
+  "name": "Iodine",
+  "symbol": "I",
+  "atomicNumber": 53,
+  "atomicMass": 126.9,
+  "group": 17,
+  "period": 5,
+  "block": "p",
+  "category": "Halogen",
+  "stateAtRoomTemp": "Solid",
+  "meltingPoint": 113.7,
+  "boilingPoint": 184.3,
+  "density": 4.93,
+  "color": "Dark gray with purple vapor",
+  "electronConfiguration": "[Kr] 4d10 5s2 5p5",
+  "electronegativity": 2.66,
+  "ionizationEnergy": 1008.4,
+  "oxidationStates": [
+    "-1",
+    "+1",
+    "+3",
+    "+5",
+    "+7"
+  ],
+  "naturalOccurrence": "Occurs in seawater and certain minerals",
+  "majorCompounds": [
+    "Iodine monochloride (ICl)",
+    "Potassium iodide (KI)"
+  ],
+  "commonUses": [
+    "Disinfectants",
+    "Nutrition supplements",
+    "Photography"
+  ],
+  "hazards": "Iodine vapors can be irritating; excessive ingestion can be harmful",
+  "isotopes": [
+    "Iodine-127 (127I)",
+    "Iodine-129 (129I)"
+  ],
+  "spectralLines": [
+    "Lines in the violet region"
+  ],
+  "funFacts": "Iodine is essential for thyroid health.",
+  "wikiLink": "https://en.wikipedia.org/wiki/Iodine"
+},
+{
+  "_id": {
+    "$oid": "68c5a2c828c8a6d242493f71"
+  },
+  "name": "Xenon",
+  "symbol": "Xe",
+  "atomicNumber": 54,
+  "atomicMass": 131.29,
+  "group": 18,
+  "period": 5,
+  "block": "p",
+  "category": "Noble gas",
+  "stateAtRoomTemp": "Gas",
+  "meltingPoint": -111.8,
+  "boilingPoint": -108.1,
+  "density": 5.894,
+  "color": "Colorless",
+  "electronConfiguration": "[Kr] 4d10 5s2 5p6",
+  "electronegativity": 2.6,
+  "ionizationEnergy": 1170.4,
+  "oxidationStates": [
+    "0",
+    "+2",
+    "+4",
+    "+6",
+    "+8"
+  ],
+  "naturalOccurrence": "Occurs in trace amounts in the Earth's atmosphere",
+  "majorCompounds": [
+    "Xenon hexafluoride (XeF6)",
+    "Xenon difluoride (XeF2)"
+  ],
+  "commonUses": [
+    "Lighting",
+    "Anesthesia",
+    "Ion propulsion systems"
+  ],
+  "hazards": "Generally non-toxic but can displace oxygen",
+  "isotopes": [
+    "Xenon-124 (124Xe)",
+    "Xenon-126 (126Xe)",
+    "Xenon-128 (128Xe)",
+    "Xenon-129 (129Xe)",
+    "Xenon-130 (130Xe)",
+    "Xenon-131 (131Xe)",
+    "Xenon-132 (132Xe)",
+    "Xenon-134 (134Xe)",
+    "Xenon-136 (136Xe)"
+  ],
+  "spectralLines": [
+    "Lines in UV and visible regions"
+  ],
+  "funFacts": "Xenon is used in flash lamps and ion propulsion systems.",
+  "wikiLink": "https://en.wikipedia.org/wiki/Xenon"
+},
+{
+  "_id": {
+    "$oid": "68c5a2c828c8a6d242493f72"
+  },
+  "name": "Cesium",
+  "symbol": "Cs",
+  "atomicNumber": 55,
+  "atomicMass": 132.91,
+  "group": 1,
+  "period": 6,
+  "block": "s",
+  "category": "Alkali metal",
+  "stateAtRoomTemp": "Solid",
+  "meltingPoint": 28.44,
+  "boilingPoint": 671,
+  "density": 1.93,
+  "color": "Silvery gold",
+  "electronConfiguration": "[Xe] 6s1",
+  "electronegativity": 0.79,
+  "ionizationEnergy": 375.7,
+  "oxidationStates": [
+    "+1"
+  ],
+  "naturalOccurrence": "Occurs in trace amounts in minerals like pollucite",
+  "majorCompounds": [
+    "Cesium chloride (CsCl)",
+    "Cesium formate (Cs(HCOO))"
+  ],
+  "commonUses": [
+    "Atomic clocks",
+    "Drilling fluids",
+    "Photoelectric cells"
+  ],
+  "hazards": "Highly reactive; can ignite in air and explode in water",
+  "isotopes": [
+    "Cesium-133 (133Cs)",
+    "Cesium-135 (135Cs)",
+    "Cesium-137 (137Cs)"
+  ],
+  "spectralLines": [
+    "Lines in UV and visible regions"
+  ],
+  "funFacts": "Cesium is one of the most reactive elements and is used in atomic clocks.",
+  "wikiLink": "https://en.wikipedia.org/wiki/Cesium"
+},
+{
+  "_id": {
+    "$oid": "68c5a2c828c8a6d242493f73"
+  },
+  "name": "Barium",
+  "symbol": "Ba",
+  "atomicNumber": 56,
+  "atomicMass": 137.33,
+  "group": 2,
+  "period": 6,
+  "block": "s",
+  "category": "Alkaline earth metal",
+  "stateAtRoomTemp": "Solid",
+  "meltingPoint": 727,
+  "boilingPoint": 1870,
+  "density": 3.62,
+  "color": "Silvery white",
+  "electronConfiguration": "[Xe] 6s2",
+  "electronegativity": 0.89,
+  "ionizationEnergy": 502.9,
+  "oxidationStates": [
+    "+2"
+  ],
+  "naturalOccurrence": "Found in minerals like barite and witherite",
+  "majorCompounds": [
+    "Barium sulfate (BaSO4)",
+    "Barium carbonate (BaCO3)"
+  ],
+  "commonUses": [
+    "Medical imaging",
+    "Drilling fluids",
+    "Fireworks"
+  ],
+  "hazards": "Toxic if ingested; some compounds are harmful",
+  "isotopes": [
+    "Barium-130 (130Ba)",
+    "Barium-132 (132Ba)",
+    "Barium-134 (134Ba)",
+    "Barium-135 (135Ba)",
+    "Barium-136 (136Ba)",
+    "Barium-137 (137Ba)",
+    "Barium-138 (138Ba)"
+  ],
+  "spectralLines": [
+    "Lines in UV and visible regions"
+  ],
+  "funFacts": "Barium compounds are used in fireworks to produce green colors.",
+  "wikiLink": "https://en.wikipedia.org/wiki/Barium"
+},
+{
+  "_id": {
+    "$oid": "68c5a2c828c8a6d242493f74"
+  },
+  "name": "Lanthanum",
+  "symbol": "La",
+  "atomicNumber": 57,
+  "atomicMass": 138.91,
+  "group": null,
+  "period": 6,
+  "block": "d",
+  "category": "Lanthanide",
+  "stateAtRoomTemp": "Solid",
+  "meltingPoint": 920,
+  "boilingPoint": 3464,
+  "density": 6.15,
+  "color": "Silvery white",
+  "electronConfiguration": "[Xe] 5d1 6s2",
+  "electronegativity": 1.1,
+  "ionizationEnergy": 538.1,
+  "oxidationStates": [
+    "+3"
+  ],
+  "naturalOccurrence": "Occurs in rare-earth minerals like monazite and bastnäsite",
+  "majorCompounds": [
+    "Lanthanum oxide (La2O3)",
+    "Lanthanum chloride (LaCl3)"
+  ],
+  "commonUses": [
+    "Optical lenses",
+    "Hydrogen storage",
+    "Petroleum cracking"
+  ],
+  "hazards": "Generally low toxicity but should be handled with care",
+  "isotopes": [
+    "Lanthanum-138 (138La)",
+    "Lanthanum-139 (139La)"
+  ],
+  "spectralLines": [
+    "Lines in UV and visible regions"
+  ],
+  "funFacts": "Lanthanum is used in camera lenses to reduce chromatic aberration.",
+  "wikiLink": "https://en.wikipedia.org/wiki/Lanthanum"
+},
+{
+  "_id": {
+    "$oid": "68c5a2c828c8a6d242493f75"
+  },
+  "name": "Cerium",
+  "symbol": "Ce",
+  "atomicNumber": 58,
+  "atomicMass": 140.12,
+  "group": null,
+  "period": 6,
+  "block": "f",
+  "category": "Lanthanide",
+  "stateAtRoomTemp": "Solid",
+  "meltingPoint": 798,
+  "boilingPoint": 3443,
+  "density": 6.77,
+  "color": "Silvery white",
+  "electronConfiguration": "[Xe] 4f1 5d1 6s2",
+  "electronegativity": 1.12,
+  "ionizationEnergy": 534.4,
+  "oxidationStates": [
+    "+3",
+    "+4"
+  ],
+  "naturalOccurrence": "Found in minerals like monazite and bastnäsite",
+  "majorCompounds": [
+    "Cerium oxide (CeO2)",
+    "Cerium chloride (CeCl3)"
+  ],
+  "commonUses": [
+    "Glass polishing",
+    "Catalysts",
+    "Alloys"
+  ],
+  "hazards": "Exposure to dust can irritate eyes and lungs",
+  "isotopes": [
+    "Cerium-136 (136Ce)",
+    "Cerium-138 (138Ce)",
+    "Cerium-140 (140Ce)",
+    "Cerium-142 (142Ce)"
+  ],
+  "spectralLines": [
+    "Lines in UV and visible regions"
+  ],
+  "funFacts": "Cerium is the most abundant of the rare earth elements.",
+  "wikiLink": "https://en.wikipedia.org/wiki/Cerium"
+},
+{
+  "_id": {
+    "$oid": "68c5a2c828c8a6d242493f76"
+  },
+  "name": "Praseodymium",
+  "symbol": "Pr",
+  "atomicNumber": 59,
+  "atomicMass": 140.91,
+  "group": null,
+  "period": 6,
+  "block": "f",
+  "category": "Lanthanide",
+  "stateAtRoomTemp": "Solid",
+  "meltingPoint": 931,
+  "boilingPoint": 3520,
+  "density": 6.77,
+  "color": "Silvery yellow",
+  "electronConfiguration": "[Xe] 4f3 6s2",
+  "electronegativity": 1.13,
+  "ionizationEnergy": 527,
+  "oxidationStates": [
+    "+3",
+    "+4"
+  ],
+  "naturalOccurrence": "Occurs in rare-earth minerals like monazite",
+  "majorCompounds": [
+    "Praseodymium oxide (Pr6O11)",
+    "Praseodymium chloride (PrCl3)"
+  ],
+  "commonUses": [
+    "Magnets",
+    "Glass coloring",
+    "Alloys"
+  ],
+  "hazards": "Inhalation of dust may cause irritation",
+  "isotopes": [
+    "Praseodymium-141 (141Pr)"
+  ],
+  "spectralLines": [
+    "Lines in UV and visible regions"
+  ],
+  "funFacts": "Praseodymium is used to create strong magnets.",
+  "wikiLink": "https://en.wikipedia.org/wiki/Praseodymium"
+},
+{
+  "_id": {
+    "$oid": "68c5a2c828c8a6d242493f77"
+  },
+  "name": "Neodymium",
+  "symbol": "Nd",
+  "atomicNumber": 60,
+  "atomicMass": 144.24,
+  "group": null,
+  "period": 6,
+  "block": "f",
+  "category": "Lanthanide",
+  "stateAtRoomTemp": "Solid",
+  "meltingPoint": 1021,
+  "boilingPoint": 3074,
+  "density": 7.01,
+  "color": "Silvery white",
+  "electronConfiguration": "[Xe] 4f4 6s2",
+  "electronegativity": 1.14,
+  "ionizationEnergy": 533.1,
+  "oxidationStates": [
+    "+3"
+  ],
+  "naturalOccurrence": "Found in minerals like monazite and bastnäsite",
+  "majorCompounds": [
+    "Neodymium oxide (Nd2O3)",
+    "Neodymium magnets (NdFeB)"
+  ],
+  "commonUses": [
+    "Magnets",
+    "Lasers",
+    "Glass coloring"
+  ],
+  "hazards": "Dust can cause irritation; handle with care",
+  "isotopes": [
+    "Neodymium-142 (142Nd)",
+    "Neodymium-143 (143Nd)",
+    "Neodymium-144 (144Nd)",
+    "Neodymium-145 (145Nd)",
+    "Neodymium-146 (146Nd)",
+    "Neodymium-148 (148Nd)",
+    "Neodymium-150 (150Nd)"
+  ],
+  "spectralLines": [
+    "Lines in UV and visible regions"
+  ],
+  "funFacts": "Neodymium magnets are among the strongest permanent magnets.",
+  "wikiLink": "https://en.wikipedia.org/wiki/Neodymium"
+},
+{
+  "_id": {
+    "$oid": "68c5a2c828c8a6d242493f78"
+  },
+  "name": "Promethium",
+  "symbol": "Pm",
+  "atomicNumber": 61,
+  "atomicMass": 145,
+  "group": null,
+  "period": 6,
+  "block": "f",
+  "category": "Lanthanide",
+  "stateAtRoomTemp": "Solid",
+  "meltingPoint": 1100,
+  "boilingPoint": 3000,
+  "density": 7.26,
+  "color": "Silvery",
+  "electronConfiguration": "[Xe] 4f5 6s2",
+  "electronegativity": 1.13,
+  "ionizationEnergy": 540,
+  "oxidationStates": [
+    "+3"
+  ],
+  "naturalOccurrence": "Not found naturally; produced in nuclear reactors",
+  "majorCompounds": [
+    "Promethium oxide (Pm2O3)"
+  ],
+  "commonUses": [
+    "Nuclear batteries",
+    "Research"
+  ],
+  "hazards": "Radioactive; handle with protective equipment",
+  "isotopes": [
+    "Promethium-145 (145Pm)",
+    "Promethium-147 (147Pm)"
+  ],
+  "spectralLines": [
+    "Lines in UV and visible regions"
+  ],
+  "funFacts": "Promethium is one of the rarest elements and is radioactive.",
+  "wikiLink": "https://en.wikipedia.org/wiki/Promethium"
+},
+{
+  "_id": {
+    "$oid": "68c5a2c828c8a6d242493f79"
+  },
+  "name": "Samarium",
+  "symbol": "Sm",
+  "atomicNumber": 62,
+  "atomicMass": 150.36,
+  "group": null,
+  "period": 6,
+  "block": "f",
+  "category": "Lanthanide",
+  "stateAtRoomTemp": "Solid",
+  "meltingPoint": 1072,
+  "boilingPoint": 1900,
+  "density": 7.52,
+  "color": "Silvery gray",
+  "electronConfiguration": "[Xe] 4f6 6s2",
+  "electronegativity": 1.17,
+  "ionizationEnergy": 544.5,
+  "oxidationStates": [
+    "+3",
+    "+2"
+  ],
+  "naturalOccurrence": "Found in minerals like monazite and bastnäsite",
+  "majorCompounds": [
+    "Samarium oxide (Sm2O3)",
+    "Samarium chloride (SmCl3)"
+  ],
+  "commonUses": [
+    "Magnets",
+    "Nuclear reactors",
+    "Lasers"
+  ],
+  "hazards": "Dust can irritate lungs and eyes",
+  "isotopes": [
+    "Samarium-144 (144Sm)",
+    "Samarium-147 (147Sm)",
+    "Samarium-149 (149Sm)",
+    "Samarium-152 (152Sm)",
+    "Samarium-154 (154Sm)"
+  ],
+  "spectralLines": [
+    "Lines in UV and visible regions"
+  ],
+  "funFacts": "Samarium is used in magnets that retain strength at high temperatures.",
+  "wikiLink": "https://en.wikipedia.org/wiki/Samarium"
+},
+{
+  "_id": {
+    "$oid": "68c5a2c828c8a6d242493f7a"
+  },
+  "name": "Europium",
+  "symbol": "Eu",
+  "atomicNumber": 63,
+  "atomicMass": 151.96,
+  "group": null,
+  "period": 6,
+  "block": "f",
+  "category": "Lanthanide",
+  "stateAtRoomTemp": "Solid",
+  "meltingPoint": 822,
+  "boilingPoint": 1529,
+  "density": 5.24,
+  "color": "Silvery white",
+  "electronConfiguration": "[Xe] 4f7 6s2",
+  "electronegativity": 1.2,
+  "ionizationEnergy": 547.1,
+  "oxidationStates": [
+    "+3",
+    "+2"
+  ],
+  "naturalOccurrence": "Occurs in minerals like monazite and bastnäsite",
+  "majorCompounds": [
+    "Europium oxide (Eu2O3)",
+    "Europium chloride (EuCl3)"
+  ],
+  "commonUses": [
+    "Phosphors",
+    "TV screens",
+    "Lighting"
+  ],
+  "hazards": "Should be handled with care; dust may cause irritation",
+  "isotopes": [
+    "Europium-151 (151Eu)",
+    "Europium-153 (153Eu)"
+  ],
+  "spectralLines": [
+    "Lines in visible region used in phosphors"
+  ],
+  "funFacts": "Europium is essential for red phosphors in TV and LED screens.",
+  "wikiLink": "https://en.wikipedia.org/wiki/Europium"
+},
+{
+  "_id": {
+    "$oid": "68c5a2c828c8a6d242493f7b"
+  },
+  "name": "Gadolinium",
+  "symbol": "Gd",
+  "atomicNumber": 64,
+  "atomicMass": 157.25,
+  "group": null,
+  "period": 6,
+  "block": "f",
+  "category": "Lanthanide",
+  "stateAtRoomTemp": "Solid",
+  "meltingPoint": 1312,
+  "boilingPoint": 3273,
+  "density": 7.9,
+  "color": "Silvery white",
+  "electronConfiguration": "[Xe] 4f7 5d1 6s2",
+  "electronegativity": 1.2,
+  "ionizationEnergy": 593.4,
+  "oxidationStates": [
+    "+3"
+  ],
+  "naturalOccurrence": "Found in rare-earth minerals like monazite",
+  "majorCompounds": [
+    "Gadolinium oxide (Gd2O3)",
+    "Gadolinium chloride (GdCl3)"
+  ],
+  "commonUses": [
+    "MRI contrast agents",
+    "Magnets",
+    "Nuclear reactors"
+  ],
+  "hazards": "Should be handled with care; dust inhalation may be harmful",
+  "isotopes": [
+    "Gadolinium-152 (152Gd)",
+    "Gadolinium-154 (154Gd)",
+    "Gadolinium-155 (155Gd)",
+    "Gadolinium-156 (156Gd)",
+    "Gadolinium-157 (157Gd)",
+    "Gadolinium-158 (158Gd)",
+    "Gadolinium-160 (160Gd)"
+  ],
+  "spectralLines": [
+    "Lines in UV and visible regions"
+  ],
+  "funFacts": "Gadolinium is used in medical imaging and electronics.",
+  "wikiLink": "https://en.wikipedia.org/wiki/Gadolinium"
+},
+{
+  "_id": {
+    "$oid": "68c5a2c828c8a6d242493f7c"
+  },
+  "name": "Terbium",
+  "symbol": "Tb",
+  "atomicNumber": 65,
+  "atomicMass": 158.93,
+  "group": null,
+  "period": 6,
+  "block": "f",
+  "category": "Lanthanide",
+  "stateAtRoomTemp": "Solid",
+  "meltingPoint": 1356,
+  "boilingPoint": 3123,
+  "density": 8.23,
+  "color": "Silvery gray",
+  "electronConfiguration": "[Xe] 4f9 6s2",
+  "electronegativity": 1.2,
+  "ionizationEnergy": 565.8,
+  "oxidationStates": [
+    "+3"
+  ],
+  "naturalOccurrence": "Occurs in minerals like monazite and xenotime",
+  "majorCompounds": [
+    "Terbium oxide (Tb4O7)",
+    "Terbium fluoride (TbF3)"
+  ],
+  "commonUses": [
+    "Magnets",
+    "Phosphors",
+    "Lasers"
+  ],
+  "hazards": "Dust inhalation may be harmful; handle with care",
+  "isotopes": [
+    "Terbium-159 (159Tb)"
+  ],
+  "spectralLines": [
+    "Lines in UV and visible regions"
+  ],
+  "funFacts": "Terbium is used in fluorescent lamps and solid-state devices.",
+  "wikiLink": "https://en.wikipedia.org/wiki/Terbium"
+},
+{
+  "_id": {
+    "$oid": "68c5a2c828c8a6d242493f7d"
+  },
+  "name": "Dysprosium",
+  "symbol": "Dy",
+  "atomicNumber": 66,
+  "atomicMass": 162.5,
+  "group": null,
+  "period": 6,
+  "block": "f",
+  "category": "Lanthanide",
+  "stateAtRoomTemp": "Solid",
+  "meltingPoint": 1680,
+  "boilingPoint": 2840,
+  "density": 8.54,
+  "color": "Silvery white",
+  "electronConfiguration": "[Xe] 4f10 6s2",
+  "electronegativity": 1.22,
+  "ionizationEnergy": 573,
+  "oxidationStates": [
+    "+3"
+  ],
+  "naturalOccurrence": "Found in rare-earth minerals like xenotime and monazite",
+  "majorCompounds": [
+    "Dysprosium oxide (Dy2O3)",
+    "Dysprosium chloride (DyCl3)"
+  ],
+  "commonUses": [
+    "Magnets",
+    "Lasers",
+    "Nuclear reactors"
+  ],
+  "hazards": "Dust can be irritating; handle with care",
+  "isotopes": [
+    "Dysprosium-156 (156Dy)",
+    "Dysprosium-158 (158Dy)",
+    "Dysprosium-160 (160Dy)",
+    "Dysprosium-161 (161Dy)",
+    "Dysprosium-162 (162Dy)",
+    "Dysprosium-163 (163Dy)",
+    "Dysprosium-164 (164Dy)"
+  ],
+  "spectralLines": [
+    "Lines in UV and visible regions"
+  ],
+  "funFacts": "Dysprosium is used in high-performance magnets and nuclear applications.",
+  "wikiLink": "https://en.wikipedia.org/wiki/Dysprosium"
+},
+{
+  "_id": {
+    "$oid": "68c5a2c828c8a6d242493f7e"
+  },
+  "name": "Holmium",
+  "symbol": "Ho",
+  "atomicNumber": 67,
+  "atomicMass": 164.93,
+  "group": null,
+  "period": 6,
+  "block": "f",
+  "category": "Lanthanide",
+  "stateAtRoomTemp": "Solid",
+  "meltingPoint": 1474,
+  "boilingPoint": 2700,
+  "density": 8.79,
+  "color": "Silvery white",
+  "electronConfiguration": "[Xe] 4f11 6s2",
+  "electronegativity": 1.23,
+  "ionizationEnergy": 581,
+  "oxidationStates": [
+    "+3"
+  ],
+  "naturalOccurrence": "Found in minerals like monazite and gadolinite",
+  "majorCompounds": [
+    "Holmium oxide (Ho2O3)",
+    "Holmium chloride (HoCl3)"
+  ],
+  "commonUses": [
+    "Magnets",
+    "Lasers",
+    "Nuclear control rods"
+  ],
+  "hazards": "Handle with care; dust may irritate skin or lungs",
+  "isotopes": [
+    "Holmium-165 (165Ho)"
+  ],
+  "spectralLines": [
+    "Lines in UV and visible regions"
+  ],
+  "funFacts": "Holmium has the highest magnetic moment of any naturally occurring element.",
+  "wikiLink": "https://en.wikipedia.org/wiki/Holmium"
+},
+{
+  "_id": {
+    "$oid": "68c5a2c828c8a6d242493f7f"
+  },
+  "name": "Erbium",
+  "symbol": "Er",
+  "atomicNumber": 68,
+  "atomicMass": 167.26,
+  "group": null,
+  "period": 6,
+  "block": "f",
+  "category": "Lanthanide",
+  "stateAtRoomTemp": "Solid",
+  "meltingPoint": 1529,
+  "boilingPoint": 2868,
+  "density": 9.07,
+  "color": "Silvery white",
+  "electronConfiguration": "[Xe] 4f12 6s2",
+  "electronegativity": 1.24,
+  "ionizationEnergy": 589.3,
+  "oxidationStates": [
+    "+3"
+  ],
+  "naturalOccurrence": "Occurs in minerals like monazite and xenotime",
+  "majorCompounds": [
+    "Erbium oxide (Er2O3)",
+    "Erbium chloride (ErCl3)"
+  ],
+  "commonUses": [
+    "Lasers",
+    "Glass coloring",
+    "Optical fibers"
+  ],
+  "hazards": "Dust may irritate skin and lungs; handle carefully",
+  "isotopes": [
+    "Erbium-162 (162Er)",
+    "Erbium-164 (164Er)",
+    "Erbium-166 (166Er)",
+    "Erbium-167 (167Er)",
+    "Erbium-168 (168Er)",
+    "Erbium-170 (170Er)"
+  ],
+  "spectralLines": [
+    "Lines in UV and visible regions"
+  ],
+  "funFacts": "Erbium-doped glass is used in fiber-optic communication.",
+  "wikiLink": "https://en.wikipedia.org/wiki/Erbium"
+},
+{
+  "_id": {
+    "$oid": "68c5a2c828c8a6d242493f80"
+  },
+  "name": "Thulium",
+  "symbol": "Tm",
+  "atomicNumber": 69,
+  "atomicMass": 168.93,
+  "group": null,
+  "period": 6,
+  "block": "f",
+  "category": "Lanthanide",
+  "stateAtRoomTemp": "Solid",
+  "meltingPoint": 1545,
+  "boilingPoint": 1950,
+  "density": 9.32,
+  "color": "Silvery gray",
+  "electronConfiguration": "[Xe] 4f13 6s2",
+  "electronegativity": 1.25,
+  "ionizationEnergy": 596.7,
+  "oxidationStates": [
+    "+3"
+  ],
+  "naturalOccurrence": "Rare; occurs in monazite and gadolinite",
+  "majorCompounds": [
+    "Thulium oxide (Tm2O3)",
+    "Thulium chloride (TmCl3)"
+  ],
+  "commonUses": [
+    "Lasers",
+    "Portable X-ray devices",
+    "Research"
+  ],
+  "hazards": "Handle with care; dust may irritate lungs or eyes",
+  "isotopes": [
+    "Thulium-169 (169Tm)"
+  ],
+  "spectralLines": [
+    "Lines in UV and visible regions"
+  ],
+  "funFacts": "Thulium is the rarest of the naturally occurring lanthanides.",
+  "wikiLink": "https://en.wikipedia.org/wiki/Thulium"
+},
+{
+  "_id": {
+    "$oid": "68c5a2c828c8a6d242493f81"
+  },
+  "name": "Ytterbium",
+  "symbol": "Yb",
+  "atomicNumber": 70,
+  "atomicMass": 173.05,
+  "group": null,
+  "period": 6,
+  "block": "f",
+  "category": "Lanthanide",
+  "stateAtRoomTemp": "Solid",
+  "meltingPoint": 824,
+  "boilingPoint": 1196,
+  "density": 6.97,
+  "color": "Silvery white",
+  "electronConfiguration": "[Xe] 4f14 6s2",
+  "electronegativity": 1.1,
+  "ionizationEnergy": 603.4,
+  "oxidationStates": [
+    "+2",
+    "+3"
+  ],
+  "naturalOccurrence": "Found in minerals like monazite and xenotime",
+  "majorCompounds": [
+    "Ytterbium oxide (Yb2O3)",
+    "Ytterbium chloride (YbCl3)"
+  ],
+  "commonUses": [
+    "Lasers",
+    "Stainless steel alloys",
+    "Research"
+  ],
+  "hazards": "Dust may cause irritation; handle with care",
+  "isotopes": [
+    "Ytterbium-168 (168Yb)",
+    "Ytterbium-170 (170Yb)",
+    "Ytterbium-171 (171Yb)",
+    "Ytterbium-172 (172Yb)",
+    "Ytterbium-173 (173Yb)",
+    "Ytterbium-174 (174Yb)",
+    "Ytterbium-176 (176Yb)"
+  ],
+  "spectralLines": [
+    "Lines in UV and visible regions"
+  ],
+  "funFacts": "Ytterbium is used in atomic clocks and some lasers.",
+  "wikiLink": "https://en.wikipedia.org/wiki/Ytterbium"
+},
+{
+  "_id": {
+    "$oid": "68c5a2c828c8a6d242493f82"
+  },
+  "name": "Lutetium",
+  "symbol": "Lu",
+  "atomicNumber": 71,
+  "atomicMass": 174.97,
+  "group": 3,
+  "period": 6,
+  "block": "d",
+  "category": "Lanthanide",
+  "stateAtRoomTemp": "Solid",
+  "meltingPoint": 1663,
+  "boilingPoint": 3402,
+  "density": 9.84,
+  "color": "Silvery white",
+  "electronConfiguration": "[Xe] 4f14 5d1 6s2",
+  "electronegativity": 1.27,
+  "ionizationEnergy": 523.5,
+  "oxidationStates": [
+    "+3"
+  ],
+  "naturalOccurrence": "Found in rare-earth minerals like monazite",
+  "majorCompounds": [
+    "Lutetium oxide (Lu2O3)",
+    "Lutetium chloride (LuCl3)"
+  ],
+  "commonUses": [
+    "Catalysts",
+    "Petroleum cracking",
+    "Research"
+  ],
+  "hazards": "Low toxicity but should be handled carefully",
+  "isotopes": [
+    "Lutetium-175 (175Lu)",
+    "Lutetium-176 (176Lu)"
+  ],
+  "spectralLines": [
+    "Lines in UV and visible regions"
+  ],
+  "funFacts": "Lutetium is the heaviest and last of the lanthanides.",
+  "wikiLink": "https://en.wikipedia.org/wiki/Lutetium"
+},
+{
+  "_id": {
+    "$oid": "68c5a2c828c8a6d242493f83"
+  },
+  "name": "Hafnium",
+  "symbol": "Hf",
+  "atomicNumber": 72,
+  "atomicMass": 178.49,
+  "group": 4,
+  "period": 6,
+  "block": "d",
+  "category": "Transition metal",
+  "stateAtRoomTemp": "Solid",
+  "meltingPoint": 2233,
+  "boilingPoint": 4603,
+  "density": 13.31,
+  "color": "Silvery gray",
+  "electronConfiguration": "[Xe] 4f14 5d2 6s2",
+  "electronegativity": 1.3,
+  "ionizationEnergy": 658.5,
+  "oxidationStates": [
+    "+4"
+  ],
+  "naturalOccurrence": "Found in zirconium ores",
+  "majorCompounds": [
+    "Hafnium oxide (HfO2)",
+    "Hafnium chloride (HfCl4)"
+  ],
+  "commonUses": [
+    "Nuclear control rods",
+    "Alloys",
+    "Electronics"
+  ],
+  "hazards": "Low toxicity but handle dust with care",
+  "isotopes": [
+    "Hafnium-174 (174Hf)",
+    "Hafnium-176 (176Hf)",
+    "Hafnium-177 (177Hf)",
+    "Hafnium-178 (178Hf)",
+    "Hafnium-179 (179Hf)",
+    "Hafnium-180 (180Hf)"
+  ],
+  "spectralLines": [
+    "Lines in UV and visible regions"
+  ],
+  "funFacts": "Hafnium has excellent corrosion resistance and high melting point.",
+  "wikiLink": "https://en.wikipedia.org/wiki/Hafnium"
+},
+{
+  "_id": {
+    "$oid": "68c5a2c828c8a6d242493f84"
+  },
+  "name": "Tantalum",
+  "symbol": "Ta",
+  "atomicNumber": 73,
+  "atomicMass": 180.95,
+  "group": 5,
+  "period": 6,
+  "block": "d",
+  "category": "Transition metal",
+  "stateAtRoomTemp": "Solid",
+  "meltingPoint": 3017,
+  "boilingPoint": 5458,
+  "density": 16.69,
+  "color": "Gray blue",
+  "electronConfiguration": "[Xe] 4f14 5d3 6s2",
+  "electronegativity": 1.5,
+  "ionizationEnergy": 761,
+  "oxidationStates": [
+    "+5"
+  ],
+  "naturalOccurrence": "Found in minerals like tantalite and columbite",
+  "majorCompounds": [
+    "Tantalum pentoxide (Ta2O5)",
+    "Tantalum chloride (TaCl5)"
+  ],
+  "commonUses": [
+    "Capacitors",
+    "Alloys",
+    "Surgical implants"
+  ],
+  "hazards": "Low toxicity; fine powders may be flammable",
+  "isotopes": [
+    "Tantalum-180 (180Ta)",
+    "Tantalum-181 (181Ta)"
+  ],
+  "spectralLines": [
+    "Lines in UV and visible regions"
+  ],
+  "funFacts": "Tantalum is highly corrosion-resistant and used in electronics.",
+  "wikiLink": "https://en.wikipedia.org/wiki/Tantalum"
+},
+{
+  "_id": {
+    "$oid": "68c5a2c828c8a6d242493f85"
+  },
+  "name": "Tungsten",
+  "symbol": "W",
+  "atomicNumber": 74,
+  "atomicMass": 183.84,
+  "group": 6,
+  "period": 6,
+  "block": "d",
+  "category": "Transition metal",
+  "stateAtRoomTemp": "Solid",
+  "meltingPoint": 3422,
+  "boilingPoint": 5555,
+  "density": 19.25,
+  "color": "Grayish white",
+  "electronConfiguration": "[Xe] 4f14 5d4 6s2",
+  "electronegativity": 2.36,
+  "ionizationEnergy": 770,
+  "oxidationStates": [
+    "+6",
+    "+4",
+    "+2"
+  ],
+  "naturalOccurrence": "Found in minerals like wolframite and scheelite",
+  "majorCompounds": [
+    "Tungsten carbide (WC)",
+    "Tungsten oxide (WO3)"
+  ],
+  "commonUses": [
+    "Light bulb filaments",
+    "Alloys",
+    "Electronics"
+  ],
+  "hazards": "Low toxicity; fine powders can ignite",
+  "isotopes": [
+    "Tungsten-182 (182W)",
+    "Tungsten-183 (183W)",
+    "Tungsten-184 (184W)",
+    "Tungsten-186 (186W)"
+  ],
+  "spectralLines": [
+    "Lines in UV and visible regions"
+  ],
+  "funFacts": "Tungsten has the highest melting point of all metals.",
+  "wikiLink": "https://en.wikipedia.org/wiki/Tungsten"
+},
+{
+  "_id": {
+    "$oid": "68c5a2c828c8a6d242493f86"
+  },
+  "name": "Rhenium",
+  "symbol": "Re",
+  "atomicNumber": 75,
+  "atomicMass": 186.21,
+  "group": 7,
+  "period": 6,
+  "block": "d",
+  "category": "Transition metal",
+  "stateAtRoomTemp": "Solid",
+  "meltingPoint": 3186,
+  "boilingPoint": 5596,
+  "density": 21.02,
+  "color": "Silvery white",
+  "electronConfiguration": "[Xe] 4f14 5d5 6s2",
+  "electronegativity": 1.9,
+  "ionizationEnergy": 760,
+  "oxidationStates": [
+    "+7",
+    "+6",
+    "+4",
+    "+2"
+  ],
+  "naturalOccurrence": "Extremely rare; found in molybdenite and copper ores",
+  "majorCompounds": [
+    "Rhenium oxide (Re2O7)",
+    "Rhenium chloride (ReCl5)"
+  ],
+  "commonUses": [
+    "Superalloys",
+    "Jet engines",
+    "Catalysts"
+  ],
+  "hazards": "Low toxicity; handle fine powders carefully",
+  "isotopes": [
+    "Rhenium-185 (185Re)",
+    "Rhenium-187 (187Re)"
+  ],
+  "spectralLines": [
+    "Lines in UV and visible regions"
+  ],
+  "funFacts": "Rhenium has one of the highest melting points and densities of any element.",
+  "wikiLink": "https://en.wikipedia.org/wiki/Rhenium"
+},
+{
+  "_id": {
+    "$oid": "68c5a2c828c8a6d242493f87"
+  },
+  "name": "Osmium",
+  "symbol": "Os",
+  "atomicNumber": 76,
+  "atomicMass": 190.23,
+  "group": 8,
+  "period": 6,
+  "block": "d",
+  "category": "Transition metal",
+  "stateAtRoomTemp": "Solid",
+  "meltingPoint": 3033,
+  "boilingPoint": 5027,
+  "density": 22.59,
+  "color": "Bluish gray",
+  "electronConfiguration": "[Xe] 4f14 5d6 6s2",
+  "electronegativity": 2.2,
+  "ionizationEnergy": 840,
+  "oxidationStates": [
+    "+8",
+    "+6",
+    "+4",
+    "+3",
+    "+2"
+  ],
+  "naturalOccurrence": "Found in platinum ores and alluvial deposits",
+  "majorCompounds": [
+    "Osmium tetroxide (OsO4)"
+  ],
+  "commonUses": [
+    "Alloys",
+    "Electrical contacts",
+    "Catalysts"
+  ],
+  "hazards": "Osmium tetroxide is highly toxic and volatile",
+  "isotopes": [
+    "Osmium-184 (184Os)",
+    "Osmium-187 (187Os)",
+    "Osmium-188 (188Os)",
+    "Osmium-189 (189Os)",
+    "Osmium-190 (190Os)",
+    "Osmium-192 (192Os)"
+  ],
+  "spectralLines": [
+    "Lines in UV and visible regions"
+  ],
+  "funFacts": "Osmium is the densest naturally occurring element.",
+  "wikiLink": "https://en.wikipedia.org/wiki/Osmium"
+},
+{
+  "_id": {
+    "$oid": "68c5a2c828c8a6d242493f88"
+  },
+  "name": "Iridium",
+  "symbol": "Ir",
+  "atomicNumber": 77,
+  "atomicMass": 192.22,
+  "group": 9,
+  "period": 6,
+  "block": "d",
+  "category": "Transition metal",
+  "stateAtRoomTemp": "Solid",
+  "meltingPoint": 2466,
+  "boilingPoint": 4428,
+  "density": 22.56,
+  "color": "Silvery white",
+  "electronConfiguration": "[Xe] 4f14 5d7 6s2",
+  "electronegativity": 2.2,
+  "ionizationEnergy": 880,
+  "oxidationStates": [
+    "+6",
+    "+4",
+    "+3",
+    "+1"
+  ],
+  "naturalOccurrence": "Found in platinum ores and meteorites",
+  "majorCompounds": [
+    "Iridium oxide (IrO2)"
+  ],
+  "commonUses": [
+    "High-temperature devices",
+    "Electrical contacts",
+    "Crucibles"
+  ],
+  "hazards": "Relatively non-toxic; fine powders may be irritating",
+  "isotopes": [
+    "Iridium-191 (191Ir)",
+    "Iridium-193 (193Ir)"
+  ],
+  "spectralLines": [
+    "Lines in UV and visible regions"
+  ],
+  "funFacts": "Iridium is highly corrosion-resistant and among the densest metals.",
+  "wikiLink": "https://en.wikipedia.org/wiki/Iridium"
+},
+{
+  "_id": {
+    "$oid": "68c5a2c828c8a6d242493f89"
+  },
+  "name": "Platinum",
+  "symbol": "Pt",
+  "atomicNumber": 78,
+  "atomicMass": 195.08,
+  "group": 10,
+  "period": 6,
+  "block": "d",
+  "category": "Transition metal",
+  "stateAtRoomTemp": "Solid",
+  "meltingPoint": 1768,
+  "boilingPoint": 3825,
+  "density": 21.45,
+  "color": "Silvery white",
+  "electronConfiguration": "[Xe] 4f14 5d9 6s1",
+  "electronegativity": 2.28,
+  "ionizationEnergy": 870,
+  "oxidationStates": [
+    "+4",
+    "+2",
+    "+3",
+    "+1"
+  ],
+  "naturalOccurrence": "Found in platinum ores and alluvial deposits",
+  "majorCompounds": [
+    "Platinum(IV) oxide (PtO2)",
+    "Platinum chloride (PtCl2)"
+  ],
+  "commonUses": [
+    "Catalysts",
+    "Jewelry",
+    "Laboratory equipment"
+  ],
+  "hazards": "Low toxicity; some salts can cause allergic reactions",
+  "isotopes": [
+    "Platinum-190 (190Pt)",
+    "Platinum-192 (192Pt)",
+    "Platinum-194 (194Pt)",
+    "Platinum-195 (195Pt)",
+    "Platinum-196 (196Pt)",
+    "Platinum-198 (198Pt)"
+  ],
+  "spectralLines": [
+    "Lines in UV and visible regions"
+  ],
+  "funFacts": "Platinum is widely used as a catalyst in chemical reactions.",
+  "wikiLink": "https://en.wikipedia.org/wiki/Platinum"
+},
+{
+  "_id": {
+    "$oid": "68c5a2c828c8a6d242493f8a"
+  },
+  "name": "Gold",
+  "symbol": "Au",
+  "atomicNumber": 79,
+  "atomicMass": 196.97,
+  "group": 11,
+  "period": 6,
+  "block": "d",
+  "category": "Transition metal",
+  "stateAtRoomTemp": "Solid",
+  "meltingPoint": 1064,
+  "boilingPoint": 2856,
+  "density": 19.32,
+  "color": "Yellow",
+  "electronConfiguration": "[Xe] 4f14 5d10 6s1",
+  "electronegativity": 2.54,
+  "ionizationEnergy": 890,
+  "oxidationStates": [
+    "+1",
+    "+3"
+  ],
+  "naturalOccurrence": "Found in native deposits, ores, and alluvial deposits",
+  "majorCompounds": [
+    "Gold(I) chloride (AuCl)",
+    "Gold(III) chloride (AuCl3)"
+  ],
+  "commonUses": [
+    "Jewelry",
+    "Electronics",
+    "Currency"
+  ],
+  "hazards": "Generally non-toxic",
+  "isotopes": [
+    "Gold-197 (197Au)"
+  ],
+  "spectralLines": [
+    "Lines in visible region; characteristic yellow color"
+  ],
+  "funFacts": "Gold is a highly malleable and ductile metal used for coins and jewelry.",
+  "wikiLink": "https://en.wikipedia.org/wiki/Gold"
+},
+{
+  "_id": {
+    "$oid": "68c5a2c828c8a6d242493f8b"
+  },
+  "name": "Mercury",
+  "symbol": "Hg",
+  "atomicNumber": 80,
+  "atomicMass": 200.59,
+  "group": 12,
+  "period": 6,
+  "block": "d",
+  "category": "Transition metal",
+  "stateAtRoomTemp": "Liquid",
+  "meltingPoint": -38.83,
+  "boilingPoint": 356.73,
+  "density": 13.534,
+  "color": "Silvery",
+  "electronConfiguration": "[Xe] 4f14 5d10 6s2",
+  "electronegativity": 2,
+  "ionizationEnergy": 1007,
+  "oxidationStates": [
+    "+1",
+    "+2"
+  ],
+  "naturalOccurrence": "Found in cinnabar ore",
+  "majorCompounds": [
+    "Mercury(II) chloride (HgCl2)",
+    "Mercury(II) sulfide (HgS)"
+  ],
+  "commonUses": [
+    "Thermometers",
+    "Barometers",
+    "Dental amalgams"
+  ],
+  "hazards": "Highly toxic; can cause mercury poisoning",
+  "isotopes": [
+    "Mercury-196 (196Hg)",
+    "Mercury-198 (198Hg)",
+    "Mercury-199 (199Hg)",
+    "Mercury-200 (200Hg)",
+    "Mercury-201 (201Hg)",
+    "Mercury-202 (202Hg)",
+    "Mercury-204 (204Hg)"
+  ],
+  "spectralLines": [
+    "Lines in UV and visible regions"
+  ],
+  "funFacts": "Mercury is the only metal that is liquid at room temperature.",
+  "wikiLink": "https://en.wikipedia.org/wiki/Mercury_(element)"
+},
+{
+  "_id": {
+    "$oid": "68c5a2c828c8a6d242493f8c"
+  },
+  "name": "Thallium",
+  "symbol": "Tl",
+  "atomicNumber": 81,
+  "atomicMass": 204.38,
+  "group": 13,
+  "period": 6,
+  "block": "p",
+  "category": "Post-transition metal",
+  "stateAtRoomTemp": "Solid",
+  "meltingPoint": 304,
+  "boilingPoint": 1473,
+  "density": 11.85,
+  "color": "Silvery gray",
+  "electronConfiguration": "[Xe] 4f14 5d10 6s2 6p1",
+  "electronegativity": 1.62,
+  "ionizationEnergy": 589,
+  "oxidationStates": [
+    "+1",
+    "+3"
+  ],
+  "naturalOccurrence": "Found in trace amounts in minerals like crookesite",
+  "majorCompounds": [
+    "Thallium(I) sulfate (Tl2SO4)",
+    "Thallium(I) chloride (TlCl)"
+  ],
+  "commonUses": [
+    "Electronics",
+    "Alloys",
+    "Medical imaging"
+  ],
+  "hazards": "Highly toxic; ingestion or inhalation can be fatal",
+  "isotopes": [
+    "Thallium-203 (203Tl)",
+    "Thallium-205 (205Tl)"
+  ],
+  "spectralLines": [
+    "Lines in UV and visible regions"
+  ],
+  "funFacts": "Thallium was historically used in rat poisons and insecticides.",
+  "wikiLink": "https://en.wikipedia.org/wiki/Thallium"
+},
+{
+  "_id": {
+    "$oid": "68c5a2c828c8a6d242493f8d"
+  },
+  "name": "Lead",
+  "symbol": "Pb",
+  "atomicNumber": 82,
+  "atomicMass": 207.2,
+  "group": 14,
+  "period": 6,
+  "block": "p",
+  "category": "Post-transition metal",
+  "stateAtRoomTemp": "Solid",
+  "meltingPoint": 327.5,
+  "boilingPoint": 1749,
+  "density": 11.34,
+  "color": "Bluish-white",
+  "electronConfiguration": "[Xe] 4f14 5d10 6s2 6p2",
+  "electronegativity": 2.33,
+  "ionizationEnergy": 715,
+  "oxidationStates": [
+    "+2",
+    "+4"
+  ],
+  "naturalOccurrence": "Found in ores such as galena",
+  "majorCompounds": [
+    "Lead(II) oxide (PbO)",
+    "Lead(II) sulfate (PbSO4)"
+  ],
+  "commonUses": [
+    "Batteries",
+    "Ammunition",
+    "Radiation shielding"
+  ],
+  "hazards": "Highly toxic; prolonged exposure can cause lead poisoning",
+  "isotopes": [
+    "Lead-204 (204Pb)",
+    "Lead-206 (206Pb)",
+    "Lead-207 (207Pb)",
+    "Lead-208 (208Pb)"
+  ],
+  "spectralLines": [
+    "Lines in UV and visible regions"
+  ],
+  "funFacts": "Lead has been used since ancient times for pipes, paints, and cosmetics.",
+  "wikiLink": "https://en.wikipedia.org/wiki/Lead_(element)"
+},
+{
+  "_id": {
+    "$oid": "68c5a2c828c8a6d242493f8e"
+  },
+  "name": "Bismuth",
+  "symbol": "Bi",
+  "atomicNumber": 83,
+  "atomicMass": 208.98,
+  "group": 15,
+  "period": 6,
+  "block": "p",
+  "category": "Post-transition metal",
+  "stateAtRoomTemp": "Solid",
+  "meltingPoint": 271.4,
+  "boilingPoint": 1564,
+  "density": 9.78,
+  "color": "Silvery pink",
+  "electronConfiguration": "[Xe] 4f14 5d10 6s2 6p3",
+  "electronegativity": 2.02,
+  "ionizationEnergy": 703,
+  "oxidationStates": [
+    "+3",
+    "+5"
+  ],
+  "naturalOccurrence": "Found in bismuthinite and other minerals",
+  "majorCompounds": [
+    "Bismuth oxide (Bi2O3)",
+    "Bismuth chloride (BiCl3)"
+  ],
+  "commonUses": [
+    "Cosmetics",
+    "Pharmaceuticals",
+    "Low-melting alloys"
+  ],
+  "hazards": "Low toxicity; generally considered safe",
+  "isotopes": [
+    "Bismuth-209 (209Bi)"
+  ],
+  "spectralLines": [
+    "Lines in UV and visible regions"
+  ],
+  "funFacts": "Bismuth crystals often form colorful, stair-step structures.",
+  "wikiLink": "https://en.wikipedia.org/wiki/Bismuth"
+},
+{
+  "_id": {
+    "$oid": "68c5a2c828c8a6d242493f8f"
+  },
+  "name": "Polonium",
+  "symbol": "Po",
+  "atomicNumber": 84,
+  "atomicMass": 209,
+  "group": 16,
+  "period": 6,
+  "block": "p",
+  "category": "Metalloid",
+  "stateAtRoomTemp": "Solid",
+  "meltingPoint": 254,
+  "boilingPoint": 962,
+  "density": 9.32,
+  "color": "Silvery",
+  "electronConfiguration": "[Xe] 4f14 5d10 6s2 6p4",
+  "electronegativity": 2,
+  "ionizationEnergy": 812,
+  "oxidationStates": [
+    "+2",
+    "+4",
+    "+6"
+  ],
+  "naturalOccurrence": "Rare; found in uranium ores",
+  "majorCompounds": [
+    "Polonium dioxide (PoO2)",
+    "Polonium halides"
+  ],
+  "commonUses": [
+    "Anti-static devices",
+    "Research"
+  ],
+  "hazards": "Extremely radioactive and highly toxic",
+  "isotopes": [
+    "Polonium-210 (210Po)"
+  ],
+  "spectralLines": [
+    "Lines in UV and visible regions"
+  ],
+  "funFacts": "Polonium was discovered by Marie Curie and is highly radioactive.",
+  "wikiLink": "https://en.wikipedia.org/wiki/Polonium"
+},
+{
+  "_id": {
+    "$oid": "68c5a2c828c8a6d242493f90"
+  },
+  "name": "Astatine",
+  "symbol": "At",
+  "atomicNumber": 85,
+  "atomicMass": 210,
+  "group": 17,
+  "period": 6,
+  "block": "p",
+  "category": "Halogen",
+  "stateAtRoomTemp": "Solid",
+  "meltingPoint": 302,
+  "boilingPoint": 337,
+  "density": 7,
+  "color": "Unknown (probably metallic)",
+  "electronConfiguration": "[Xe] 4f14 5d10 6s2 6p5",
+  "electronegativity": 2.2,
+  "ionizationEnergy": 899,
+  "oxidationStates": [
+    "-1",
+    "+1",
+    "+3",
+    "+5",
+    "+7"
+  ],
+  "naturalOccurrence": "Extremely rare; occurs as a decay product of uranium and thorium",
+  "majorCompounds": [
+    "Astatides (At compounds)"
+  ],
+  "commonUses": [
+    "Research",
+    "Radioactive tracers in medicine"
+  ],
+  "hazards": "Highly radioactive; must be handled with care",
+  "isotopes": [
+    "Astatine-210 (210At)"
+  ],
+  "spectralLines": [
+    "Lines in UV and visible regions"
+  ],
+  "funFacts": "Astatine is the rarest naturally occurring halogen.",
+  "wikiLink": "https://en.wikipedia.org/wiki/Astatine"
+},
+{
+  "_id": {
+    "$oid": "68c5a2c828c8a6d242493f91"
+  },
+  "name": "Radon",
+  "symbol": "Rn",
+  "atomicNumber": 86,
+  "atomicMass": 222,
+  "group": 18,
+  "period": 6,
+  "block": "p",
+  "category": "Noble gas",
+  "stateAtRoomTemp": "Gas",
+  "meltingPoint": -71,
+  "boilingPoint": -61.7,
+  "density": 9.73,
+  "color": "Colorless",
+  "electronConfiguration": "[Xe] 4f14 5d10 6s2 6p6",
+  "electronegativity": null,
+  "ionizationEnergy": 1037,
+  "oxidationStates": [
+    "0",
+    "+2"
+  ],
+  "naturalOccurrence": "Produced from decay of radium in uranium ores",
+  "majorCompounds": [
+    "Radon fluoride (RnF2)"
+  ],
+  "commonUses": [
+    "Radiotherapy",
+    "Scientific research"
+  ],
+  "hazards": "Radioactive; inhalation is highly dangerous",
+  "isotopes": [
+    "Radon-222 (222Rn)"
+  ],
+  "spectralLines": [
+    "Lines in UV and visible regions"
+  ],
+  "funFacts": "Radon is a radioactive noble gas and is colorless and odorless.",
+  "wikiLink": "https://en.wikipedia.org/wiki/Radon"
+},
+{
+  "_id": {
+    "$oid": "68c5a2c828c8a6d242493f92"
+  },
+  "name": "Francium",
+  "symbol": "Fr",
+  "atomicNumber": 87,
+  "atomicMass": 223,
+  "group": 1,
+  "period": 7,
+  "block": "s",
+  "category": "Alkali metal",
+  "stateAtRoomTemp": "Solid (predicted)",
+  "meltingPoint": 27,
+  "boilingPoint": 677,
+  "density": 2.48,
+  "color": "Unknown (predicted silvery)",
+  "electronConfiguration": "[Rn] 7s1",
+  "electronegativity": 0.7,
+  "ionizationEnergy": 380,
+  "oxidationStates": [
+    "+1"
+  ],
+  "naturalOccurrence": "Extremely rare; produced from decay of actinium",
+  "majorCompounds": [
+    "Francium chloride (FrCl) (predicted)"
+  ],
+  "commonUses": [
+    "Research only"
+  ],
+  "hazards": "Highly radioactive; extremely rare",
+  "isotopes": [
+    "Francium-223 (223Fr)"
+  ],
+  "spectralLines": [
+    "Predicted lines in UV and visible regions"
+  ],
+  "funFacts": "Francium is the rarest naturally occurring alkali metal.",
+  "wikiLink": "https://en.wikipedia.org/wiki/Francium"
+},
+{
+  "_id": {
+    "$oid": "68c5a2c828c8a6d242493f93"
+  },
+  "name": "Radium",
+  "symbol": "Ra",
+  "atomicNumber": 88,
+  "atomicMass": 226,
+  "group": 2,
+  "period": 7,
+  "block": "s",
+  "category": "Alkaline earth metal",
+  "stateAtRoomTemp": "Solid",
+  "meltingPoint": 700,
+  "boilingPoint": 1737,
+  "density": 5.5,
+  "color": "Silvery white",
+  "electronConfiguration": "[Rn] 7s2",
+  "electronegativity": 0.9,
+  "ionizationEnergy": 509.3,
+  "oxidationStates": [
+    "+2"
+  ],
+  "naturalOccurrence": "Found in uranium and thorium ores",
+  "majorCompounds": [
+    "Radium chloride (RaCl2)",
+    "Radium sulfate (RaSO4)"
+  ],
+  "commonUses": [
+    "Radiotherapy (historical)",
+    "Research"
+  ],
+  "hazards": "Highly radioactive; carcinogenic",
+  "isotopes": [
+    "Radium-226 (226Ra)"
+  ],
+  "spectralLines": [
+    "Lines in UV and visible regions"
+  ],
+  "funFacts": "Radium glows faintly blue in the dark due to radioactivity.",
+  "wikiLink": "https://en.wikipedia.org/wiki/Radium"
+},
+{
+  "_id": {
+    "$oid": "68c5a2c828c8a6d242493f94"
+  },
+  "name": "Actinium",
+  "symbol": "Ac",
+  "atomicNumber": 89,
+  "atomicMass": 227,
+  "group": 3,
+  "period": 7,
+  "block": "f",
+  "category": "Actinide",
+  "stateAtRoomTemp": "Solid",
+  "meltingPoint": 1050,
+  "boilingPoint": 3200,
+  "density": 10.07,
+  "color": "Silvery white",
+  "electronConfiguration": "[Rn] 6d1 7s2",
+  "electronegativity": 1.1,
+  "ionizationEnergy": 499,
+  "oxidationStates": [
+    "+3"
+  ],
+  "naturalOccurrence": "Found in uranium and thorium ores",
+  "majorCompounds": [
+    "Actinium oxide (Ac2O3)",
+    "Actinium halides"
+  ],
+  "commonUses": [
+    "Neutron sources",
+    "Research"
+  ],
+  "hazards": "Radioactive; handle with extreme care",
+  "isotopes": [
+    "Actinium-227 (227Ac)"
+  ],
+  "spectralLines": [
+    "Lines in UV and visible regions"
+  ],
+  "funFacts": "Actinium was discovered in 1899 and is the first of the actinides.",
+  "wikiLink": "https://en.wikipedia.org/wiki/Actinium"
+},
+{
+  "_id": {
+    "$oid": "68c5a2c828c8a6d242493f95"
+  },
+  "name": "Thorium",
+  "symbol": "Th",
+  "atomicNumber": 90,
+  "atomicMass": 232.04,
+  "group": null,
+  "period": 7,
+  "block": "f",
+  "category": "Actinide",
+  "stateAtRoomTemp": "Solid",
+  "meltingPoint": 1750,
+  "boilingPoint": 4820,
+  "density": 11.72,
+  "color": "Silvery white",
+  "electronConfiguration": "[Rn] 6d2 7s2",
+  "electronegativity": 1.3,
+  "ionizationEnergy": 587,
+  "oxidationStates": [
+    "+4"
+  ],
+  "naturalOccurrence": "Found in thorite and monazite",
+  "majorCompounds": [
+    "Thorium dioxide (ThO2)",
+    "Thorium nitrate (Th(NO3)4)"
+  ],
+  "commonUses": [
+    "Nuclear fuel",
+    "Alloys",
+    "Gas mantles"
+  ],
+  "hazards": "Radioactive; handle with care",
+  "isotopes": [
+    "Thorium-232 (232Th)"
+  ],
+  "spectralLines": [
+    "Lines in UV and visible regions"
+  ],
+  "funFacts": "Thorium is a potential alternative nuclear fuel to uranium.",
+  "wikiLink": "https://en.wikipedia.org/wiki/Thorium"
+},
+{
+  "_id": {
+    "$oid": "68c5a2c828c8a6d242493f96"
+  },
+  "name": "Protactinium",
+  "symbol": "Pa",
+  "atomicNumber": 91,
+  "atomicMass": 231.04,
+  "group": null,
+  "period": 7,
+  "block": "f",
+  "category": "Actinide",
+  "stateAtRoomTemp": "Solid",
+  "meltingPoint": 1572,
+  "boilingPoint": 4000,
+  "density": 15.37,
+  "color": "Silvery gray",
+  "electronConfiguration": "[Rn] 5f2 6d1 7s2",
+  "electronegativity": 1.5,
+  "ionizationEnergy": 568,
+  "oxidationStates": [
+    "+5",
+    "+4"
+  ],
+  "naturalOccurrence": "Found in uranium ores in trace amounts",
+  "majorCompounds": [
+    "Protactinium oxide (Pa2O5)",
+    "Protactinium halides"
+  ],
+  "commonUses": [
+    "Research in nuclear science"
+  ],
+  "hazards": "Radioactive; highly toxic",
+  "isotopes": [
+    "Protactinium-231 (231Pa)"
+  ],
+  "spectralLines": [
+    "Lines in UV and visible regions"
+  ],
+  "funFacts": "Protactinium is rare and highly radioactive, making it difficult to study.",
+  "wikiLink": "https://en.wikipedia.org/wiki/Protactinium"
+},
+{
+  "_id": {
+    "$oid": "68c5a2c828c8a6d242493f97"
+  },
+  "name": "Uranium",
+  "symbol": "U",
+  "atomicNumber": 92,
+  "atomicMass": 238.03,
+  "group": null,
+  "period": 7,
+  "block": "f",
+  "category": "Actinide",
+  "stateAtRoomTemp": "Solid",
+  "meltingPoint": 1132,
+  "boilingPoint": 4131,
+  "density": 18.95,
+  "color": "Silvery gray",
+  "electronConfiguration": "[Rn] 5f3 6d1 7s2",
+  "electronegativity": 1.38,
+  "ionizationEnergy": 597.6,
+  "oxidationStates": [
+    "+6",
+    "+5",
+    "+4",
+    "+3"
+  ],
+  "naturalOccurrence": "Found in minerals like uraninite",
+  "majorCompounds": [
+    "Uranium dioxide (UO2)",
+    "Uranium hexafluoride (UF6)"
+  ],
+  "commonUses": [
+    "Nuclear fuel",
+    "Military applications",
+    "Research"
+  ],
+  "hazards": "Radioactive; toxic",
+  "isotopes": [
+    "Uranium-235 (235U)",
+    "Uranium-238 (238U)"
+  ],
+  "spectralLines": [
+    "Lines in UV and visible regions"
+  ],
+  "funFacts": "Uranium was used as the first nuclear fuel in reactors and weapons.",
+  "wikiLink": "https://en.wikipedia.org/wiki/Uranium"
+},
+{
+  "_id": {
+    "$oid": "68c5a2c828c8a6d242493f98"
+  },
+  "name": "Neptunium",
+  "symbol": "Np",
+  "atomicNumber": 93,
+  "atomicMass": 237,
+  "group": null,
+  "period": 7,
+  "block": "f",
+  "category": "Actinide",
+  "stateAtRoomTemp": "Solid",
+  "meltingPoint": 912,
+  "boilingPoint": 4273,
+  "density": 20.45,
+  "color": "Silvery metallic",
+  "electronConfiguration": "[Rn] 5f4 6d1 7s2",
+  "electronegativity": 1.36,
+  "ionizationEnergy": 604,
+  "oxidationStates": [
+    "+7",
+    "+6",
+    "+5",
+    "+4",
+    "+3"
+  ],
+  "naturalOccurrence": "Trace amounts in uranium ores; mostly synthetic",
+  "majorCompounds": [
+    "Neptunium dioxide (NpO2)",
+    "Neptunium halides"
+  ],
+  "commonUses": [
+    "Research",
+    "Nuclear reactors"
+  ],
+  "hazards": "Radioactive; highly toxic",
+  "isotopes": [
+    "Neptunium-237 (237Np)"
+  ],
+  "spectralLines": [
+    "Lines in UV and visible regions"
+  ],
+  "funFacts": "Neptunium was the first transuranic element discovered.",
+  "wikiLink": "https://en.wikipedia.org/wiki/Neptunium"
+},
+{
+  "_id": {
+    "$oid": "68c5a2c828c8a6d242493f99"
+  },
+  "name": "Plutonium",
+  "symbol": "Pu",
+  "atomicNumber": 94,
+  "atomicMass": 244,
+  "group": null,
+  "period": 7,
+  "block": "f",
+  "category": "Actinide",
+  "stateAtRoomTemp": "Solid",
+  "meltingPoint": 639.4,
+  "boilingPoint": 3228,
+  "density": 19.84,
+  "color": "Silvery metallic",
+  "electronConfiguration": "[Rn] 5f6 7s2",
+  "electronegativity": 1.28,
+  "ionizationEnergy": 585,
+  "oxidationStates": [
+    "+7",
+    "+6",
+    "+5",
+    "+4",
+    "+3"
+  ],
+  "naturalOccurrence": "Trace amounts from decay of uranium and neptunium; mostly synthetic",
+  "majorCompounds": [
+    "Plutonium dioxide (PuO2)",
+    "Plutonium halides"
+  ],
+  "commonUses": [
+    "Nuclear fuel",
+    "Weapons research"
+  ],
+  "hazards": "Radioactive; extremely toxic",
+  "isotopes": [
+    "Plutonium-239 (239Pu)",
+    "Plutonium-241 (241Pu)"
+  ],
+  "spectralLines": [
+    "Lines in UV and visible regions"
+  ],
+  "funFacts": "Plutonium is used in nuclear weapons and reactors.",
+  "wikiLink": "https://en.wikipedia.org/wiki/Plutonium"
+},
+{
+  "_id": {
+    "$oid": "68c5a2c828c8a6d242493f9a"
+  },
+  "name": "Americium",
+  "symbol": "Am",
+  "atomicNumber": 95,
+  "atomicMass": 243,
+  "group": null,
+  "period": 7,
+  "block": "f",
+  "category": "Actinide",
+  "stateAtRoomTemp": "Solid",
+  "meltingPoint": 1176,
+  "boilingPoint": 2011,
+  "density": 13.67,
+  "color": "Silvery metallic",
+  "electronConfiguration": "[Rn] 5f7 7s2",
+  "electronegativity": 1.3,
+  "ionizationEnergy": 578,
+  "oxidationStates": [
+    "+3",
+    "+4",
+    "+2",
+    "+6"
+  ],
+  "naturalOccurrence": "Synthetic; does not occur naturally",
+  "majorCompounds": [
+    "Americium dioxide (AmO2)",
+    "Americium halides"
+  ],
+  "commonUses": [
+    "Smoke detectors",
+    "Research"
+  ],
+  "hazards": "Radioactive; handle with care",
+  "isotopes": [
+    "Americium-241 (241Am)"
+  ],
+  "spectralLines": [
+    "Lines in UV and visible regions"
+  ],
+  "funFacts": "Americium is commonly used in household smoke detectors.",
+  "wikiLink": "https://en.wikipedia.org/wiki/Americium"
+},
+{
+  "_id": {
+    "$oid": "68c5a2c828c8a6d242493f9b"
+  },
+  "name": "Curium",
+  "symbol": "Cm",
+  "atomicNumber": 96,
+  "atomicMass": 247,
+  "group": null,
+  "period": 7,
+  "block": "f",
+  "category": "Actinide",
+  "stateAtRoomTemp": "Solid",
+  "meltingPoint": 1340,
+  "boilingPoint": 3110,
+  "density": 13.51,
+  "color": "Silvery metallic",
+  "electronConfiguration": "[Rn] 5f7 6d1 7s2",
+  "electronegativity": 1.3,
+  "ionizationEnergy": 581,
+  "oxidationStates": [
+    "+3",
+    "+4"
+  ],
+  "naturalOccurrence": "Synthetic; does not occur naturally",
+  "majorCompounds": [
+    "Curium dioxide (CmO2)"
+  ],
+  "commonUses": [
+    "Research",
+    "Radioisotope thermoelectric generators"
+  ],
+  "hazards": "Radioactive; extremely toxic",
+  "isotopes": [
+    "Curium-242 (242Cm)",
+    "Curium-244 (244Cm)"
+  ],
+  "spectralLines": [
+    "Lines in UV and visible regions"
+  ],
+  "funFacts": "Curium was named after Marie and Pierre Curie.",
+  "wikiLink": "https://en.wikipedia.org/wiki/Curium"
+},
+{
+  "_id": {
+    "$oid": "68c5a2c828c8a6d242493f9c"
+  },
+  "name": "Berkelium",
+  "symbol": "Bk",
+  "atomicNumber": 97,
+  "atomicMass": 247,
+  "group": null,
+  "period": 7,
+  "block": "f",
+  "category": "Actinide",
+  "stateAtRoomTemp": "Solid",
+  "meltingPoint": 986,
+  "boilingPoint": 2627,
+  "density": 14.78,
+  "color": "Silvery metallic",
+  "electronConfiguration": "[Rn] 5f9 7s2",
+  "electronegativity": 1.3,
+  "ionizationEnergy": 601,
+  "oxidationStates": [
+    "+3",
+    "+4"
+  ],
+  "naturalOccurrence": "Synthetic; does not occur naturally",
+  "majorCompounds": [
+    "Berkelium oxide (Bk2O3)"
+  ],
+  "commonUses": [
+    "Research"
+  ],
+  "hazards": "Radioactive; extremely toxic",
+  "isotopes": [
+    "Berkelium-247 (247Bk)"
+  ],
+  "spectralLines": [
+    "Lines in UV and visible regions"
+  ],
+  "funFacts": "Berkelium was named after the city of Berkeley, California.",
+  "wikiLink": "https://en.wikipedia.org/wiki/Berkelium"
+},
+{
+  "_id": {
+    "$oid": "68c5a2c828c8a6d242493f9d"
+  },
+  "name": "Californium",
+  "symbol": "Cf",
+  "atomicNumber": 98,
+  "atomicMass": 251,
+  "group": null,
+  "period": 7,
+  "block": "f",
+  "category": "Actinide",
+  "stateAtRoomTemp": "Solid",
+  "meltingPoint": 900,
+  "boilingPoint": 1470,
+  "density": 15.1,
+  "color": "Silvery metallic",
+  "electronConfiguration": "[Rn] 5f10 7s2",
+  "electronegativity": 1.3,
+  "ionizationEnergy": 608,
+  "oxidationStates": [
+    "+3",
+    "+2"
+  ],
+  "naturalOccurrence": "Synthetic; does not occur naturally",
+  "majorCompounds": [
+    "Californium oxide (Cf2O3)"
+  ],
+  "commonUses": [
+    "Neutron sources",
+    "Research"
+  ],
+  "hazards": "Radioactive; extremely toxic",
+  "isotopes": [
+    "Californium-252 (252Cf)"
+  ],
+  "spectralLines": [
+    "Lines in UV and visible regions"
+  ],
+  "funFacts": "Californium is used as a neutron source for starting nuclear reactors.",
+  "wikiLink": "https://en.wikipedia.org/wiki/Californium"
+},
+{
+  "_id": {
+    "$oid": "68c5a2c828c8a6d242493f9e"
+  },
+  "name": "Einsteinium",
+  "symbol": "Es",
+  "atomicNumber": 99,
+  "atomicMass": 252,
+  "group": null,
+  "period": 7,
+  "block": "f",
+  "category": "Actinide",
+  "stateAtRoomTemp": "Solid",
+  "meltingPoint": 860,
+  "boilingPoint": 996,
+  "density": 8.84,
+  "color": "Silvery metallic",
+  "electronConfiguration": "[Rn] 5f11 7s2",
+  "electronegativity": 1.3,
+  "ionizationEnergy": 619,
+  "oxidationStates": [
+    "+3"
+  ],
+  "naturalOccurrence": "Synthetic; does not occur naturally",
+  "majorCompounds": [
+    "Einsteinium oxide (Es2O3)"
+  ],
+  "commonUses": [
+    "Research"
+  ],
+  "hazards": "Radioactive; extremely toxic",
+  "isotopes": [
+    "Einsteinium-253 (253Es)"
+  ],
+  "spectralLines": [
+    "Lines in UV and visible regions"
+  ],
+  "funFacts": "Einsteinium was discovered in the debris of the first hydrogen bomb explosion.",
+  "wikiLink": "https://en.wikipedia.org/wiki/Einsteinium"
+},
+{
+  "_id": {
+    "$oid": "68c5a2c828c8a6d242493f9f"
+  },
+  "name": "Fermium",
+  "symbol": "Fm",
+  "atomicNumber": 100,
+  "atomicMass": 257,
+  "group": null,
+  "period": 7,
+  "block": "f",
+  "category": "Actinide",
+  "stateAtRoomTemp": "Solid",
+  "meltingPoint": 1527,
+  "boilingPoint": 3000,
+  "density": 9.3,
+  "color": "Silvery metallic",
+  "electronConfiguration": "[Rn] 5f12 7s2",
+  "electronegativity": 1.3,
+  "ionizationEnergy": 627,
+  "oxidationStates": [
+    "+3"
+  ],
+  "naturalOccurrence": "Synthetic; does not occur naturally",
+  "majorCompounds": [
+    "Fermium compounds (mostly oxides)"
+  ],
+  "commonUses": [
+    "Research"
+  ],
+  "hazards": "Radioactive; extremely toxic",
+  "isotopes": [
+    "Fermium-257 (257Fm)"
+  ],
+  "spectralLines": [
+    "Lines in UV and visible regions"
+  ],
+  "funFacts": "Fermium was discovered in the debris of the first hydrogen bomb explosion.",
+  "wikiLink": "https://en.wikipedia.org/wiki/Fermium"
+},
+{
+  "_id": {
+    "$oid": "68c5a2c828c8a6d242493fa0"
+  },
+  "name": "Mendelevium",
+  "symbol": "Md",
+  "atomicNumber": 101,
+  "atomicMass": 258,
+  "group": null,
+  "period": 7,
+  "block": "f",
+  "category": "Actinide",
+  "stateAtRoomTemp": "Solid",
+  "meltingPoint": 827,
+  "boilingPoint": 1173,
+  "density": 10.3,
+  "color": "Silvery metallic",
+  "electronConfiguration": "[Rn] 5f13 7s2",
+  "electronegativity": 1.3,
+  "ionizationEnergy": 627,
+  "oxidationStates": [
+    "+2",
+    "+3"
+  ],
+  "naturalOccurrence": "Synthetic; does not occur naturally",
+  "majorCompounds": [
+    "Mendelevium oxides (Md2O3)"
+  ],
+  "commonUses": [
+    "Research"
+  ],
+  "hazards": "Radioactive; extremely toxic",
+  "isotopes": [
+    "Mendelevium-258 (258Md)"
+  ],
+  "spectralLines": [
+    "Lines in UV and visible regions"
+  ],
+  "funFacts": "Mendelevium is named after Dmitri Mendeleev, the creator of the periodic table.",
+  "wikiLink": "https://en.wikipedia.org/wiki/Mendelevium"
+},
+{
+  "_id": {
+    "$oid": "68c5a2c828c8a6d242493fa1"
+  },
+  "name": "Nobelium",
+  "symbol": "No",
+  "atomicNumber": 102,
+  "atomicMass": 259,
+  "group": null,
+  "period": 7,
+  "block": "f",
+  "category": "Actinide",
+  "stateAtRoomTemp": "Solid",
+  "meltingPoint": 827,
+  "boilingPoint": 1400,
+  "density": 9.9,
+  "color": "Silvery metallic",
+  "electronConfiguration": "[Rn] 5f14 7s2",
+  "electronegativity": 1.3,
+  "ionizationEnergy": 642,
+  "oxidationStates": [
+    "+2",
+    "+3"
+  ],
+  "naturalOccurrence": "Synthetic; does not occur naturally",
+  "majorCompounds": [
+    "Nobelium oxides (No2O3)"
+  ],
+  "commonUses": [
+    "Research"
+  ],
+  "hazards": "Radioactive; extremely toxic",
+  "isotopes": [
+    "Nobelium-259 (259No)"
+  ],
+  "spectralLines": [
+    "Lines in UV and visible regions"
+  ],
+  "funFacts": "Nobelium is named in honor of Alfred Nobel, inventor of dynamite.",
+  "wikiLink": "https://en.wikipedia.org/wiki/Nobelium"
+},
+{
+  "_id": {
+    "$oid": "68c5a2c828c8a6d242493fa2"
+  },
+  "name": "Lawrencium",
+  "symbol": "Lr",
+  "atomicNumber": 103,
+  "atomicMass": 266,
+  "group": 3,
+  "period": 7,
+  "block": "f",
+  "category": "Actinide",
+  "stateAtRoomTemp": "Solid",
+  "meltingPoint": 1900,
+  "boilingPoint": null,
+  "density": 15.6,
+  "color": "Unknown (predicted silvery)",
+  "electronConfiguration": "[Rn] 5f14 7s2 7p1",
+  "electronegativity": 1.3,
+  "ionizationEnergy": 470,
+  "oxidationStates": [
+    "+3"
+  ],
+  "naturalOccurrence": "Synthetic; does not occur naturally",
+  "majorCompounds": [
+    "Lawrencium compounds (predicted)"
+  ],
+  "commonUses": [
+    "Research"
+  ],
+  "hazards": "Radioactive; extremely toxic",
+  "isotopes": [
+    "Lawrencium-266 (266Lr)"
+  ],
+  "spectralLines": [
+    "Predicted lines in UV and visible regions"
+  ],
+  "funFacts": "Lawrencium is named after Ernest O. Lawrence, inventor of the cyclotron.",
+  "wikiLink": "https://en.wikipedia.org/wiki/Lawrencium"
+},
+{
+  "_id": {
+    "$oid": "68c5a2c828c8a6d242493fa3"
+  },
+  "name": "Rutherfordium",
+  "symbol": "Rf",
+  "atomicNumber": 104,
+  "atomicMass": 267,
+  "group": 4,
+  "period": 7,
+  "block": "d",
+  "category": "Transition metal",
+  "stateAtRoomTemp": "Solid (predicted)",
+  "meltingPoint": null,
+  "boilingPoint": null,
+  "density": 23.2,
+  "color": "Unknown (predicted metallic)",
+  "electronConfiguration": "[Rn] 5f14 6d2 7s2",
+  "electronegativity": null,
+  "ionizationEnergy": null,
+  "oxidationStates": [
+    "+4"
+  ],
+  "naturalOccurrence": "Synthetic; does not occur naturally",
+  "majorCompounds": [
+    "Rutherfordium oxides (predicted)"
+  ],
+  "commonUses": [
+    "Research"
+  ],
+  "hazards": "Radioactive; handle with extreme care",
+  "isotopes": [
+    "Rutherfordium-267 (267Rf)"
+  ],
+  "spectralLines": [
+    "Predicted lines in UV and visible regions"
+  ],
+  "funFacts": "Rutherfordium was named after physicist Ernest Rutherford.",
+  "wikiLink": "https://en.wikipedia.org/wiki/Rutherfordium"
+},
+{
+  "_id": {
+    "$oid": "68c5a2c828c8a6d242493fa4"
+  },
+  "name": "Dubnium",
+  "symbol": "Db",
+  "atomicNumber": 105,
+  "atomicMass": 270,
+  "group": 5,
+  "period": 7,
+  "block": "d",
+  "category": "Transition metal",
+  "stateAtRoomTemp": "Solid (predicted)",
+  "meltingPoint": null,
+  "boilingPoint": null,
+  "density": 29.3,
+  "color": "Unknown (predicted metallic)",
+  "electronConfiguration": "[Rn] 5f14 6d3 7s2",
+  "electronegativity": null,
+  "ionizationEnergy": null,
+  "oxidationStates": [
+    "+5"
+  ],
+  "naturalOccurrence": "Synthetic; does not occur naturally",
+  "majorCompounds": [
+    "Dubnium oxides (predicted)"
+  ],
+  "commonUses": [
+    "Research"
+  ],
+  "hazards": "Radioactive; handle with extreme care",
+  "isotopes": [
+    "Dubnium-270 (270Db)"
+  ],
+  "spectralLines": [
+    "Predicted lines in UV and visible regions"
+  ],
+  "funFacts": "Dubnium was named after Dubna, Russia, where it was first synthesized.",
+  "wikiLink": "https://en.wikipedia.org/wiki/Dubnium"
+},
+{
+  "_id": {
+    "$oid": "68c5a2c828c8a6d242493fa5"
+  },
+  "name": "Seaborgium",
+  "symbol": "Sg",
+  "atomicNumber": 106,
+  "atomicMass": 271,
+  "group": 6,
+  "period": 7,
+  "block": "d",
+  "category": "Transition metal",
+  "stateAtRoomTemp": "Solid (predicted)",
+  "meltingPoint": null,
+  "boilingPoint": null,
+  "density": 35,
+  "color": "Unknown (predicted metallic)",
+  "electronConfiguration": "[Rn] 5f14 6d4 7s2",
+  "electronegativity": null,
+  "ionizationEnergy": null,
+  "oxidationStates": [
+    "+6"
+  ],
+  "naturalOccurrence": "Synthetic; does not occur naturally",
+  "majorCompounds": [
+    "Seaborgium oxides (predicted)"
+  ],
+  "commonUses": [
+    "Research"
+  ],
+  "hazards": "Radioactive; handle with extreme care",
+  "isotopes": [
+    "Seaborgium-271 (271Sg)"
+  ],
+  "spectralLines": [
+    "Predicted lines in UV and visible regions"
+  ],
+  "funFacts": "Seaborgium was named after Glenn T. Seaborg, co-discoverer of many transuranium elements.",
+  "wikiLink": "https://en.wikipedia.org/wiki/Seaborgium"
+},
+{
+  "_id": {
+    "$oid": "68c5a2c828c8a6d242493fa6"
+  },
+  "name": "Bohrium",
+  "symbol": "Bh",
+  "atomicNumber": 107,
+  "atomicMass": 270,
+  "group": 7,
+  "period": 7,
+  "block": "d",
+  "category": "Transition metal",
+  "stateAtRoomTemp": "Solid (predicted)",
+  "meltingPoint": null,
+  "boilingPoint": null,
+  "density": 37.1,
+  "color": "Unknown (predicted metallic)",
+  "electronConfiguration": "[Rn] 5f14 6d5 7s2",
+  "electronegativity": null,
+  "ionizationEnergy": null,
+  "oxidationStates": [
+    "+7",
+    "+5",
+    "+3"
+  ],
+  "naturalOccurrence": "Synthetic; does not occur naturally",
+  "majorCompounds": [
+    "Bohrium oxides (predicted)"
+  ],
+  "commonUses": [
+    "Research"
+  ],
+  "hazards": "Radioactive; handle with extreme care",
+  "isotopes": [
+    "Bohrium-270 (270Bh)"
+  ],
+  "spectralLines": [
+    "Predicted lines in UV and visible regions"
+  ],
+  "funFacts": "Bohrium was named after Danish physicist Niels Bohr.",
+  "wikiLink": "https://en.wikipedia.org/wiki/Bohrium"
+},
+{
+  "_id": {
+    "$oid": "68c5a2c828c8a6d242493fa7"
+  },
+  "name": "Hassium",
+  "symbol": "Hs",
+  "atomicNumber": 108,
+  "atomicMass": 277,
+  "group": 8,
+  "period": 7,
+  "block": "d",
+  "category": "Transition metal",
+  "stateAtRoomTemp": "Solid (predicted)",
+  "meltingPoint": null,
+  "boilingPoint": null,
+  "density": 40.7,
+  "color": "Unknown (predicted metallic)",
+  "electronConfiguration": "[Rn] 5f14 6d6 7s2",
+  "electronegativity": null,
+  "ionizationEnergy": null,
+  "oxidationStates": [
+    "+8",
+    "+6"
+  ],
+  "naturalOccurrence": "Synthetic; does not occur naturally",
+  "majorCompounds": [
+    "Hassium oxides (predicted)"
+  ],
+  "commonUses": [
+    "Research"
+  ],
+  "hazards": "Radioactive; handle with extreme care",
+  "isotopes": [
+    "Hassium-277 (277Hs)"
+  ],
+  "spectralLines": [
+    "Predicted lines in UV and visible regions"
+  ],
+  "funFacts": "Hassium was named after the German state of Hesse.",
+  "wikiLink": "https://en.wikipedia.org/wiki/Hassium"
+},
+{
+  "_id": {
+    "$oid": "68c5a2c828c8a6d242493fa8"
+  },
+  "name": "Meitnerium",
+  "symbol": "Mt",
+  "atomicNumber": 109,
+  "atomicMass": 278,
+  "group": 9,
+  "period": 7,
+  "block": "d",
+  "category": "Transition metal",
+  "stateAtRoomTemp": "Solid (predicted)",
+  "meltingPoint": null,
+  "boilingPoint": null,
+  "density": 37.4,
+  "color": "Unknown (predicted metallic)",
+  "electronConfiguration": "[Rn] 5f14 6d7 7s2",
+  "electronegativity": null,
+  "ionizationEnergy": null,
+  "oxidationStates": [
+    "+1",
+    "+3",
+    "+4",
+    "+6"
+  ],
+  "naturalOccurrence": "Synthetic; does not occur naturally",
+  "majorCompounds": [
+    "Meitnerium oxides (predicted)"
+  ],
+  "commonUses": [
+    "Research"
+  ],
+  "hazards": "Radioactive; handle with extreme care",
+  "isotopes": [
+    "Meitnerium-278 (278Mt)"
+  ],
+  "spectralLines": [
+    "Predicted lines in UV and visible regions"
+  ],
+  "funFacts": "Meitnerium was named after physicist Lise Meitner.",
+  "wikiLink": "https://en.wikipedia.org/wiki/Meitnerium"
+},
+{
+  "_id": {
+    "$oid": "68c5a2c828c8a6d242493fa9"
+  },
+  "name": "Darmstadtium",
+  "symbol": "Ds",
+  "atomicNumber": 110,
+  "atomicMass": 281,
+  "group": 10,
+  "period": 7,
+  "block": "d",
+  "category": "Transition metal",
+  "stateAtRoomTemp": "Solid (predicted)",
+  "meltingPoint": null,
+  "boilingPoint": null,
+  "density": 34.8,
+  "color": "Unknown (predicted metallic)",
+  "electronConfiguration": "[Rn] 5f14 6d8 7s2",
+  "electronegativity": null,
+  "ionizationEnergy": null,
+  "oxidationStates": [
+    "+6",
+    "+4",
+    "+2"
+  ],
+  "naturalOccurrence": "Synthetic; does not occur naturally",
+  "majorCompounds": [
+    "Darmstadtium oxides (predicted)"
+  ],
+  "commonUses": [
+    "Research"
+  ],
+  "hazards": "Radioactive; handle with extreme care",
+  "isotopes": [
+    "Darmstadtium-281 (281Ds)"
+  ],
+  "spectralLines": [
+    "Predicted lines in UV and visible regions"
+  ],
+  "funFacts": "Darmstadtium was named after Darmstadt, Germany, where it was first synthesized.",
+  "wikiLink": "https://en.wikipedia.org/wiki/Darmstadtium"
+},
+{
+  "_id": {
+    "$oid": "68c5a2c828c8a6d242493faa"
+  },
+  "name": "Roentgenium",
+  "symbol": "Rg",
+  "atomicNumber": 111,
+  "atomicMass": 282,
+  "group": 11,
+  "period": 7,
+  "block": "d",
+  "category": "Transition metal",
+  "stateAtRoomTemp": "Solid (predicted)",
+  "meltingPoint": null,
+  "boilingPoint": null,
+  "density": 28.7,
+  "color": "Unknown (predicted metallic)",
+  "electronConfiguration": "[Rn] 5f14 6d10 7s1",
+  "electronegativity": null,
+  "ionizationEnergy": null,
+  "oxidationStates": [
+    "+1",
+    "+3"
+  ],
+  "naturalOccurrence": "Synthetic; does not occur naturally",
+  "majorCompounds": [
+    "Roentgenium halides (predicted)"
+  ],
+  "commonUses": [
+    "Research"
+  ],
+  "hazards": "Radioactive; handle with extreme care",
+  "isotopes": [
+    "Roentgenium-282 (282Rg)"
+  ],
+  "spectralLines": [
+    "Predicted lines in UV and visible regions"
+  ],
+  "funFacts": "Roentgenium was named after Wilhelm Röntgen, discoverer of X-rays.",
+  "wikiLink": "https://en.wikipedia.org/wiki/Roentgenium"
+},
+{
+  "_id": {
+    "$oid": "68c5a2c828c8a6d242493fab"
+  },
+  "name": "Copernicium",
+  "symbol": "Cn",
+  "atomicNumber": 112,
+  "atomicMass": 285,
+  "group": 12,
+  "period": 7,
+  "block": "d",
+  "category": "Transition metal",
+  "stateAtRoomTemp": "Solid (predicted)",
+  "meltingPoint": null,
+  "boilingPoint": null,
+  "density": 23.7,
+  "color": "Unknown (predicted metallic)",
+  "electronConfiguration": "[Rn] 5f14 6d10 7s2",
+  "electronegativity": null,
+  "ionizationEnergy": null,
+  "oxidationStates": [
+    "+2"
+  ],
+  "naturalOccurrence": "Synthetic; does not occur naturally",
+  "majorCompounds": [
+    "Copernicium halides (predicted)"
+  ],
+  "commonUses": [
+    "Research"
+  ],
+  "hazards": "Radioactive; handle with extreme care",
+  "isotopes": [
+    "Copernicium-285 (285Cn)"
+  ],
+  "spectralLines": [
+    "Predicted lines in UV and visible regions"
+  ],
+  "funFacts": "Copernicium was named after astronomer Nicolaus Copernicus.",
+  "wikiLink": "https://en.wikipedia.org/wiki/Copernicium"
+},
+{
+  "_id": {
+    "$oid": "68c5a2c828c8a6d242493fac"
+  },
+  "name": "Nihonium",
+  "symbol": "Nh",
+  "atomicNumber": 113,
+  "atomicMass": 286,
+  "group": 13,
+  "period": 7,
+  "block": "p",
+  "category": "Post-transition metal",
+  "stateAtRoomTemp": "Solid (predicted)",
+  "meltingPoint": null,
+  "boilingPoint": null,
+  "density": 16,
+  "color": "Unknown (predicted metallic)",
+  "electronConfiguration": "[Rn] 5f14 6d10 7s2 7p1",
+  "electronegativity": null,
+  "ionizationEnergy": null,
+  "oxidationStates": [
+    "+1",
+    "+3"
+  ],
+  "naturalOccurrence": "Synthetic; does not occur naturally",
+  "majorCompounds": [
+    "Nihonium halides (predicted)"
+  ],
+  "commonUses": [
+    "Research"
+  ],
+  "hazards": "Radioactive; handle with extreme care",
+  "isotopes": [
+    "Nihonium-286 (286Nh)"
+  ],
+  "spectralLines": [
+    "Predicted lines in UV and visible regions"
+  ],
+  "funFacts": "Nihonium was named after Japan ('Nihon' in Japanese).",
+  "wikiLink": "https://en.wikipedia.org/wiki/Nihonium"
+},
+{
+  "_id": {
+    "$oid": "68c5a2c828c8a6d242493fad"
+  },
+  "name": "Flerovium",
+  "symbol": "Fl",
+  "atomicNumber": 114,
+  "atomicMass": 289,
+  "group": 14,
+  "period": 7,
+  "block": "p",
+  "category": "Post-transition metal",
+  "stateAtRoomTemp": "Solid (predicted)",
+  "meltingPoint": null,
+  "boilingPoint": null,
+  "density": 14,
+  "color": "Unknown (predicted metallic)",
+  "electronConfiguration": "[Rn] 5f14 6d10 7s2 7p2",
+  "electronegativity": null,
+  "ionizationEnergy": null,
+  "oxidationStates": [
+    "+2",
+    "+4"
+  ],
+  "naturalOccurrence": "Synthetic; does not occur naturally",
+  "majorCompounds": [
+    "Flerovium halides (predicted)"
+  ],
+  "commonUses": [
+    "Research"
+  ],
+  "hazards": "Radioactive; handle with extreme care",
+  "isotopes": [
+    "Flerovium-289 (289Fl)"
+  ],
+  "spectralLines": [
+    "Predicted lines in UV and visible regions"
+  ],
+  "funFacts": "Flerovium was named after the Flerov Laboratory of Nuclear Reactions in Dubna, Russia.",
+  "wikiLink": "https://en.wikipedia.org/wiki/Flerovium"
+},
+{
+  "_id": {
+    "$oid": "68c5a2c828c8a6d242493fae"
+  },
+  "name": "Moscovium",
+  "symbol": "Mc",
+  "atomicNumber": 115,
+  "atomicMass": 288,
+  "group": 15,
+  "period": 7,
+  "block": "p",
+  "category": "Post-transition metal",
+  "stateAtRoomTemp": "Solid (predicted)",
+  "meltingPoint": null,
+  "boilingPoint": null,
+  "density": 13.5,
+  "color": "Unknown (predicted metallic)",
+  "electronConfiguration": "[Rn] 5f14 6d10 7s2 7p3",
+  "electronegativity": null,
+  "ionizationEnergy": null,
+  "oxidationStates": [
+    "+1",
+    "+3",
+    "+5"
+  ],
+  "naturalOccurrence": "Synthetic; does not occur naturally",
+  "majorCompounds": [
+    "Moscovium halides (predicted)"
+  ],
+  "commonUses": [
+    "Research"
+  ],
+  "hazards": "Radioactive; handle with extreme care",
+  "isotopes": [
+    "Moscovium-288 (288Mc)"
+  ],
+  "spectralLines": [
+    "Predicted lines in UV and visible regions"
+  ],
+  "funFacts": "Moscovium was named after Moscow, Russia, near the Joint Institute for Nuclear Research.",
+  "wikiLink": "https://en.wikipedia.org/wiki/Moscovium"
+},
+{
+  "_id": {
+    "$oid": "68c5a2c828c8a6d242493faf"
+  },
+  "name": "Livermorium",
+  "symbol": "Lv",
+  "atomicNumber": 116,
+  "atomicMass": 293,
+  "group": 16,
+  "period": 7,
+  "block": "p",
+  "category": "Post-transition metal",
+  "stateAtRoomTemp": "Solid (predicted)",
+  "meltingPoint": null,
+  "boilingPoint": null,
+  "density": 12.9,
+  "color": "Unknown (predicted metallic)",
+  "electronConfiguration": "[Rn] 5f14 6d10 7s2 7p4",
+  "electronegativity": null,
+  "ionizationEnergy": null,
+  "oxidationStates": [
+    "+2",
+    "+4",
+    "+6"
+  ],
+  "naturalOccurrence": "Synthetic; does not occur naturally",
+  "majorCompounds": [
+    "Livermorium halides (predicted)"
+  ],
+  "commonUses": [
+    "Research"
+  ],
+  "hazards": "Radioactive; handle with extreme care",
+  "isotopes": [
+    "Livermorium-293 (293Lv)"
+  ],
+  "spectralLines": [
+    "Predicted lines in UV and visible regions"
+  ],
+  "funFacts": "Livermorium was named after the Lawrence Livermore National Laboratory.",
+  "wikiLink": "https://en.wikipedia.org/wiki/Livermorium"
+},
+{
+  "_id": {
+    "$oid": "68c5a2c828c8a6d242493fb0"
+  },
+  "name": "Tennessine",
+  "symbol": "Ts",
+  "atomicNumber": 117,
+  "atomicMass": 294,
+  "group": 17,
+  "period": 7,
+  "block": "p",
+  "category": "Halogen (post-transition metal behavior)",
+  "stateAtRoomTemp": "Solid (predicted)",
+  "meltingPoint": null,
+  "boilingPoint": null,
+  "density": 7.2,
+  "color": "Unknown (predicted metallic)",
+  "electronConfiguration": "[Rn] 5f14 6d10 7s2 7p5",
+  "electronegativity": null,
+  "ionizationEnergy": null,
+  "oxidationStates": [
+    "+1",
+    "+3",
+    "+5",
+    "+7"
+  ],
+  "naturalOccurrence": "Synthetic; does not occur naturally",
+  "majorCompounds": [
+    "Tennessine halides (predicted)"
+  ],
+  "commonUses": [
+    "Research"
+  ],
+  "hazards": "Radioactive; handle with extreme care",
+  "isotopes": [
+    "Tennessine-294 (294Ts)"
+  ],
+  "spectralLines": [
+    "Predicted lines in UV and visible regions"
+  ],
+  "funFacts": "Tennessine was named after the US state of Tennessee, home of Oak Ridge National Laboratory.",
+  "wikiLink": "https://en.wikipedia.org/wiki/Tennessine"
+},
+{
+  "_id": {
+    "$oid": "68c5a2c828c8a6d242493fb1"
+  },
+  "name": "Oganesson",
+  "symbol": "Og",
+  "atomicNumber": 118,
+  "atomicMass": 294,
+  "group": 18,
+  "period": 7,
+  "block": "p",
+  "category": "Noble gas",
+  "stateAtRoomTemp": "Solid (predicted)",
+  "meltingPoint": null,
+  "boilingPoint": null,
+  "density": 4.9,
+  "color": "Unknown (predicted)",
+  "electronConfiguration": "[Rn] 5f14 6d10 7s2 7p6",
+  "electronegativity": null,
+  "ionizationEnergy": null,
+  "oxidationStates": [
+    "0",
+    "+2"
+  ],
+  "naturalOccurrence": "Synthetic; does not occur naturally",
+  "majorCompounds": [
+    "Oganesson compounds (predicted)"
+  ],
+  "commonUses": [
+    "Research"
+  ],
+  "hazards": "Radioactive; handle with extreme care",
+  "isotopes": [
+    "Oganesson-294 (294Og)"
+  ],
+  "spectralLines": [
+    "Predicted lines in UV and visible regions"
+  ],
+  "funFacts": "Oganesson was named in honor of Russian physicist Yuri Oganessian.",
+  "wikiLink": "https://en.wikipedia.org/wiki/Oganesson"
+}]

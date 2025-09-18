@@ -1,0 +1,921 @@
+[{
+  "_id": {
+    "$oid": "68ca749c886c0a86c0bedf8b"
+  },
+  "name": "Christ the Redeemer",
+  "type": "Modern",
+  "location": {
+    "country": "Brazil",
+    "region": "Rio de Janeiro",
+    "coordinates": {
+      "latitude": -22.9519,
+      "longitude": -43.2105
+    }
+  },
+  "builtYear": "1931",
+  "architecturalStyle": "Art Deco",
+  "description": "A colossal statue of Jesus Christ that stands atop the Corcovado mountain.",
+  "significance": "A symbol of Christianity and Brazilian culture, overlooking Rio de Janeiro.",
+  "visitorsPerYear": 2000000,
+  "materials": [
+    "Reinforced Concrete",
+    "Soapstone"
+  ],
+  "conservationStatus": "UNESCO World Heritage Site",
+  "image": "data:image/jpeg;base64,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",
+  "funFact": "It’s one of the largest Art Deco statues in the world and stands 98 feet tall with outstretched arms.",
+  "moreInfoLinks": [
+    "https://whc.unesco.org/en/list/806"
+  ]
+},
+{
+  "_id": {
+    "$oid": "68ca749c886c0a86c0bedf8c"
+  },
+  "name": "Machu Picchu",
+  "type": "Ancient",
+  "location": {
+    "country": "Peru",
+    "region": "Cusco Region",
+    "coordinates": {
+      "latitude": -13.1631,
+      "longitude": -72.545
+    }
+  },
+  "builtYear": "circa 1450",
+  "architecturalStyle": "Inca architecture",
+  "description": "A 15th-century Inca citadel located on a mountain ridge, famed for its sophisticated dry-stone construction.",
+  "significance": "A cultural and spiritual center of the Inca civilization.",
+  "visitorsPerYear": 1500000,
+  "materials": [
+    "Granite"
+  ],
+  "conservationStatus": "UNESCO World Heritage Site",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/e/eb/Machu_Picchu%2C_Peru.jpg",
+  "funFact": "It remained hidden from the outside world until its rediscovery in 1911 by Hiram Bingham.",
+  "moreInfoLinks": [
+    "https://whc.unesco.org/en/list/274"
+  ]
+},
+{
+  "_id": {
+    "$oid": "68ca749c886c0a86c0bedf8d"
+  },
+  "name": "Taj Mahal",
+  "type": "Modern",
+  "location": {
+    "country": "India",
+    "region": "Uttar Pradesh",
+    "coordinates": {
+      "latitude": 27.1751,
+      "longitude": 78.0421
+    }
+  },
+  "builtYear": "1632–1648",
+  "architecturalStyle": "Mughal architecture",
+  "description": "A white marble mausoleum built by Emperor Shah Jahan in memory of his wife Mumtaz Mahal.",
+  "significance": "A symbol of love and one of the finest examples of Mughal architecture.",
+  "visitorsPerYear": 8000000,
+  "materials": [
+    "Marble",
+    "Precious Stones"
+  ],
+  "conservationStatus": "UNESCO World Heritage Site",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/d/da/Taj-Mahal.jpg",
+  "funFact": "The Taj Mahal changes color with the light, appearing pink at dawn, white by day, and golden by moonlight.",
+  "moreInfoLinks": [
+    "https://whc.unesco.org/en/list/252"
+  ]
+},
+{
+  "_id": {
+    "$oid": "68ca749c886c0a86c0bedf8e"
+  },
+  "name": "Great Wall of China",
+  "type": "Ancient",
+  "location": {
+    "country": "China",
+    "region": "Northern China",
+    "coordinates": {
+      "latitude": 40.4319,
+      "longitude": 116.5704
+    }
+  },
+  "builtYear": "7th century BC – 16th century AD",
+  "architecturalStyle": "Stone and earth fortification",
+  "description": "A vast series of walls and fortifications built to protect China from invasions.",
+  "significance": "A symbol of Chinese strength, engineering, and perseverance.",
+  "visitorsPerYear": 10000000,
+  "materials": [
+    "Stone",
+    "Brick",
+    "Tamped Earth"
+  ],
+  "conservationStatus": "UNESCO World Heritage Site",
+  "image": "data:image/jpeg;base64,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",
+  "funFact": "It’s the longest wall in the world, stretching over 13,000 miles!",
+  "moreInfoLinks": [
+    "https://whc.unesco.org/en/list/438"
+  ]
+},
+{
+  "_id": {
+    "$oid": "68ca749c886c0a86c0bedf8f"
+  },
+  "name": "Petra",
+  "type": "Ancient",
+  "location": {
+    "country": "Jordan",
+    "region": "Ma'an Governorate",
+    "coordinates": {
+      "latitude": 30.3285,
+      "longitude": 35.4444
+    }
+  },
+  "builtYear": "circa 5th century BC",
+  "architecturalStyle": "Rock-cut architecture",
+  "description": "A historic city famous for its rose-colored rock-cut architecture and water conduit system.",
+  "significance": "An important trading hub and a marvel of ancient engineering.",
+  "visitorsPerYear": 800000,
+  "materials": [
+    "Sandstone"
+  ],
+  "conservationStatus": "UNESCO World Heritage Site",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/9/93/Petra_Jordan_BW_21.JPG",
+  "funFact": "The Treasury (Al-Khazneh) is Petra’s most elaborate temple façade, carved from a sandstone cliff.",
+  "moreInfoLinks": [
+    "https://whc.unesco.org/en/list/326"
+  ]
+},
+{
+  "_id": {
+    "$oid": "68ca749c886c0a86c0bedf90"
+  },
+  "name": "Great Pyramid of Giza",
+  "type": "Ancient",
+  "location": {
+    "country": "Egypt",
+    "region": "Giza Plateau",
+    "coordinates": {
+      "latitude": 29.9792,
+      "longitude": 31.1342
+    }
+  },
+  "builtYear": "c. 2560 BC",
+  "architecturalStyle": "Ancient Egyptian",
+  "description": "The oldest and only surviving structure of the original Seven Wonders of the Ancient World.",
+  "significance": "A remarkable feat of engineering and a symbol of ancient Egyptian civilization.",
+  "visitorsPerYear": 14000000,
+  "materials": [
+    "Limestone",
+    "Granite"
+  ],
+  "conservationStatus": "UNESCO World Heritage Site",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/e/e3/Kheops-Pyramid.jpg",
+  "funFact": "It was the tallest man-made structure in the world for over 3,800 years!",
+  "moreInfoLinks": [
+    "https://whc.unesco.org/en/list/86"
+  ]
+},
+{
+  "_id": {
+    "$oid": "68ca749c886c0a86c0bedf91"
+  },
+  "name": "Hagia Sophia",
+  "type": "Modern",
+  "location": {
+    "country": "Turkey",
+    "region": "Istanbul",
+    "coordinates": {
+      "latitude": 41.0086,
+      "longitude": 28.9802
+    }
+  },
+  "builtYear": "537 AD",
+  "architecturalStyle": "Byzantine",
+  "description": "A massive architectural marvel that served as a cathedral, mosque, and now a museum.",
+  "significance": "A cultural and religious landmark representing the history of Christianity and Islam.",
+  "visitorsPerYear": 4000000,
+  "materials": [
+    "Brick",
+    "Marble"
+  ],
+  "conservationStatus": "UNESCO World Heritage Site",
+  "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWT1ER9GLmBy-HrkOKuQ1I-P0_Dugt6Yw96xb6OOOkbJa6hmvt&s",
+  "funFact": "Its dome was an architectural wonder of its time and influenced designs for centuries.",
+  "moreInfoLinks": [
+    "https://whc.unesco.org/en/list/356"
+  ]
+},
+{
+  "_id": {
+    "$oid": "68ca749c886c0a86c0bedf92"
+  },
+  "name": "Stonehenge",
+  "type": "Ancient",
+  "location": {
+    "country": "United Kingdom",
+    "region": "Wiltshire",
+    "coordinates": {
+      "latitude": 51.1789,
+      "longitude": -1.8262
+    }
+  },
+  "builtYear": "c. 3000 BC – 2000 BC",
+  "architecturalStyle": "Megalithic",
+  "description": "A prehistoric monument composed of massive standing stones arranged in a circular layout.",
+  "significance": "Believed to have been a ceremonial or astronomical site.",
+  "visitorsPerYear": 1300000,
+  "materials": [
+    "Sarsen Stone",
+    "Bluestone"
+  ],
+  "conservationStatus": "UNESCO World Heritage Site",
+  "image": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4npdKld7PsPR6JZFF5TpO_eRlMbyzdWoFjgfWvIvenapl4IEqiC5eWyeaKZj2Od7NA0V2_gm3nomMXV-YyzTSuRmif2t3B_DLq4s6BjMITOkyWICoP7z-EhHdhWxPWoZjqQnAsFY=w270-h312-n-k-no",
+  "funFact": "The stones are thought to have been transported over 150 miles from Wales!",
+  "moreInfoLinks": [
+    "https://whc.unesco.org/en/list/373"
+  ]
+},
+{
+  "_id": {
+    "$oid": "68ca749c886c0a86c0bedf93"
+  },
+  "name": "Angkor Wat",
+  "type": "Ancient",
+  "location": {
+    "country": "Cambodia",
+    "region": "Siem Reap Province",
+    "coordinates": {
+      "latitude": 13.4125,
+      "longitude": 103.867
+    }
+  },
+  "builtYear": "1113–1150 AD",
+  "architecturalStyle": "Khmer architecture",
+  "description": "A massive temple complex dedicated to the Hindu god Vishnu, later converted into a Buddhist temple.",
+  "significance": "The largest religious monument in the world and a testament to the Khmer Empire’s grandeur.",
+  "visitorsPerYear": 2500000,
+  "materials": [
+    "Sandstone"
+  ],
+  "conservationStatus": "UNESCO World Heritage Site",
+  "image": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nqGZDuHo5af-Xe47FgqZkQuXTNwQdWV-fsd1pl21F8TBtVZ5NWSf4KzvFQhaZlE7gijt_MmZJSauL7ZUs1cgG5cYuBhLxLqUYOW-A9O4av0Tr10KUNsI4lRhgaw2gdpc2e3PFXU=w270-h312-n-k-no",
+  "funFact": "Its bas-reliefs depict epic stories from Hindu mythology.",
+  "moreInfoLinks": [
+    "https://whc.unesco.org/en/list/668"
+  ]
+},
+{
+  "_id": {
+    "$oid": "68ca749c886c0a86c0bedf94"
+  },
+  "name": "Eiffel Tower",
+  "type": "Modern",
+  "location": {
+    "country": "France",
+    "region": "Paris",
+    "coordinates": {
+      "latitude": 48.8584,
+      "longitude": 2.2945
+    }
+  },
+  "builtYear": "1887–1889",
+  "architecturalStyle": "Wrought iron lattice",
+  "description": "A towering iron structure built as the entrance arch to the 1889 World’s Fair.",
+  "significance": "An iconic symbol of Paris and modern engineering.",
+  "visitorsPerYear": 7000000,
+  "materials": [
+    "Iron"
+  ],
+  "conservationStatus": "Protected Landmark",
+  "image": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4noQR0W_Tqg0uuNqIdPu49yNFZZ6_gaZqGhx1glk5YTINR58lt6Q-e1L62sN3PsplQlPpaPVB0b98buQX1VF0aRxyzoOVypfsFGEQjsE3lCZwA7THtIKnT60b2RrHgZO-zaCcNSVrg=w270-h312-n-k-no",
+  "funFact": "It was the tallest structure in the world until 1930, and its design initially received mixed reviews!",
+  "moreInfoLinks": [
+    "https://www.toureiffel.paris/en"
+  ]
+},
+{
+  "_id": {
+    "$oid": "68ca749c886c0a86c0bedf95"
+  },
+  "name": "Acropolis of Athens",
+  "type": "Ancient",
+  "location": {
+    "country": "Greece",
+    "region": "Athens",
+    "coordinates": {
+      "latitude": 37.9715,
+      "longitude": 23.7257
+    }
+  },
+  "builtYear": "5th century BC",
+  "architecturalStyle": "Classical Greek",
+  "description": "An ancient citadel located on a rocky outcrop, home to several ancient buildings including the Parthenon.",
+  "significance": "A symbol of the birth of democracy and Western civilization.",
+  "visitorsPerYear": 2000000,
+  "materials": [
+    "Marble"
+  ],
+  "conservationStatus": "UNESCO World Heritage Site",
+  "image": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4npejwSfhfKJLN0YDAIgTcj_hQCUmFLp5PaimHuEXGiBER9KUURuphfnvGmMSxev3-OxL4SVS9LNOcU9nG9eeRJQx9Sin0uXbI_kIx-W45VwlU1xwle3CUFTVjrucwkw39j2EcpjeA=w270-h312-n-k-no",
+  "funFact": "The Parthenon’s sculptures are considered masterpieces of Greek art.",
+  "moreInfoLinks": [
+    "https://whc.unesco.org/en/list/404"
+  ]
+},
+{
+  "_id": {
+    "$oid": "68ca749c886c0a86c0bedf96"
+  },
+  "name": "Moai Statues of Easter Island",
+  "type": "Ancient",
+  "location": {
+    "country": "Chile",
+    "region": "Rapa Nui",
+    "coordinates": {
+      "latitude": -27.1212,
+      "longitude": -109.3664
+    }
+  },
+  "builtYear": "c. 1250–1500 AD",
+  "architecturalStyle": "Megalithic",
+  "description": "Monolithic human figures carved by the Rapa Nui people, scattered across the island.",
+  "significance": "Represents ancestral worship and island culture.",
+  "visitorsPerYear": 100000,
+  "materials": [
+    "Volcanic Tuff"
+  ],
+  "conservationStatus": "UNESCO World Heritage Site",
+  "image": "data:image/jpeg;base64,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",
+  "funFact": "Some statues weigh up to 82 tons and were transported across the island using logs and ropes.",
+  "moreInfoLinks": [
+    "https://whc.unesco.org/en/list/715"
+  ]
+},
+{
+  "_id": {
+    "$oid": "68ca749c886c0a86c0bedf97"
+  },
+  "name": "Chichen Itza",
+  "type": "Ancient",
+  "location": {
+    "country": "Mexico",
+    "region": "Yucatan Peninsula",
+    "coordinates": {
+      "latitude": 20.6843,
+      "longitude": -88.5678
+    }
+  },
+  "builtYear": "c. 600–1200 AD",
+  "architecturalStyle": "Maya architecture",
+  "description": "A large pre-Columbian archaeological site featuring temples, pyramids, and observatories.",
+  "significance": "A major center of Maya civilization and astronomical knowledge.",
+  "visitorsPerYear": 2000000,
+  "materials": [
+    "Limestone"
+  ],
+  "conservationStatus": "UNESCO World Heritage Site",
+  "image": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4npj8S77_LLMVVvjcGo9Dz6tUqaXghYZL-A2alf8N9CfukRwXApaGX796dgcuHhxc9GPCVpW4HrLeGC3fdjqzGSalRlGAAPfrw9h348uJ27f-_IWcQGKHxRPXzrx0CzsT-KekHk=w270-h312-n-k-nohttps://upload.wikimedia.org/wikipedia/commons/3/3c/Chichen_Itza_3.jpg",
+  "funFact": "During the equinoxes, shadows on the Pyramid of Kukulcan create the illusion of a serpent descending the staircase.",
+  "moreInfoLinks": [
+    "https://whc.unesco.org/en/list/483"
+  ]
+},
+{
+  "_id": {
+    "$oid": "68ca749c886c0a86c0bedf98"
+  },
+  "name": "Burj Khalifa",
+  "type": "Modern",
+  "location": {
+    "country": "United Arab Emirates",
+    "region": "Dubai",
+    "coordinates": {
+      "latitude": 25.1972,
+      "longitude": 55.2744
+    }
+  },
+  "builtYear": "2010",
+  "architecturalStyle": "Neo-futuristic",
+  "description": "The tallest man-made structure in the world, soaring over 828 meters high.",
+  "significance": "A marvel of modern engineering and architecture symbolizing Dubai’s growth.",
+  "visitorsPerYear": 1500000,
+  "materials": [
+    "Steel",
+    "Glass",
+    "Concrete"
+  ],
+  "conservationStatus": "Protected Landmark",
+  "image": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4npj8S77_LLMVVvjcGo9Dz6tUqaXghYZL-A2alf8N9CfukRwXApaGX796dgcuHhxc9GPCVpW4HrLeGC3fdjqzGSalRlGAAPfrw9h348uJ27f-_IWcQGKHxRPXzrx0CzsT-KekHk=w270-h312-n-k-no",
+  "funFact": "It has the world’s highest observation deck on the 148th floor!",
+  "moreInfoLinks": [
+    "https://www.burjkhalifa.ae/en/"
+  ]
+},
+{
+  "_id": {
+    "$oid": "68ca749c886c0a86c0bedf99"
+  },
+  "name": "Sydney Opera House",
+  "type": "Modern",
+  "location": {
+    "country": "Australia",
+    "region": "New South Wales",
+    "coordinates": {
+      "latitude": -33.8568,
+      "longitude": 151.2153
+    }
+  },
+  "builtYear": "1973",
+  "architecturalStyle": "Expressionist modern architecture",
+  "description": "A performing arts center with distinctive sail-like roof shells, overlooking Sydney Harbour.",
+  "significance": "A global icon of architecture and culture.",
+  "visitorsPerYear": 8500000,
+  "materials": [
+    "Concrete",
+    "Glass",
+    "Ceramic Tiles"
+  ],
+  "conservationStatus": "UNESCO World Heritage Site",
+  "image": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nospRXXZtV-w433AFb3Q8EQ1iPqRsyBFSXsBMCPL0TxuNE0pkPr7uQ2mdKdEKGZXUYwzrhMV-2HZewhquOuSurgpOyR-hjnk7NUfiIWgUDe3yHKFFJPdzmyWgE1AgVtpvQYIrQs=w270-h312-n-k-no",
+  "funFact": "Its roof structure is composed of over a million glossy white tiles!",
+  "moreInfoLinks": [
+    "https://whc.unesco.org/en/list/166"
+  ]
+},
+{
+  "_id": {
+    "$oid": "68ca749c886c0a86c0bedf9a"
+  },
+  "name": "Mount Everest",
+  "type": "Natural",
+  "location": {
+    "country": "Nepal / China",
+    "region": "Himalayas",
+    "coordinates": {
+      "latitude": 27.9881,
+      "longitude": 86.925
+    }
+  },
+  "builtYear": "Natural formation",
+  "architecturalStyle": "N/A",
+  "description": "The highest mountain on Earth, towering at 8,848 meters above sea level.",
+  "significance": "A symbol of adventure, endurance, and exploration.",
+  "visitorsPerYear": 5000,
+  "materials": [
+    "Rock",
+    "Ice"
+  ],
+  "conservationStatus": "Protected Environment",
+  "image": "https://encrypted-tbn2.gstatic.com/licensed-image?q=tbn:ANd9GcRdyqJwvGTB36aVg2K_AMCfFVfIcYn1g1zSyevE8teoFIwqh0b2x7aPrkWBfQJ0OSxIEkm_9SvSIZ8zbZkDjWSRIBnjyafnq-BlIL9hIw",
+  "funFact": "Everest continues to grow by a few millimeters each year due to tectonic plate movements.",
+  "moreInfoLinks": [
+    "https://whc.unesco.org/en/list/771"
+  ]
+},
+{
+  "_id": {
+    "$oid": "68ca749c886c0a86c0bedf9b"
+  },
+  "name": "Golden Gate Bridge",
+  "type": "Modern",
+  "location": {
+    "country": "United States",
+    "region": "California",
+    "coordinates": {
+      "latitude": 37.8199,
+      "longitude": -122.4783
+    }
+  },
+  "builtYear": "1933–1937",
+  "architecturalStyle": "Art Deco suspension bridge",
+  "description": "An iconic suspension bridge connecting San Francisco with Marin County.",
+  "significance": "An engineering marvel and a symbol of American innovation.",
+  "visitorsPerYear": 10000000,
+  "materials": [
+    "Steel"
+  ],
+  "conservationStatus": "Protected Landmark",
+  "image": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nrRq3mCunzw73ck1VYmuXS3gVIDR5pFqDyYiTdsKl2nGwMpetxLS-yvAizt711GlE3GzT-rk81RVeK48ABeAGdI9GN-fd0f5OqTFpFxagAGpfrGk1BPA6IyVqwrDsLS2ODU22cl6g=w270-h312-n-k-no",
+  "funFact": "Its distinctive international orange color helps it stand out in the foggy San Francisco landscape.",
+  "moreInfoLinks": [
+    "https://www.goldengate.org/"
+  ]
+},
+{
+  "_id": {
+    "$oid": "68ca749c886c0a86c0bedf9c"
+  },
+  "name": "Christ the King Statue",
+  "type": "Modern",
+  "location": {
+    "country": "Poland",
+    "region": "Świebodzin",
+    "coordinates": {
+      "latitude": 52.2296,
+      "longitude": 15.5333
+    }
+  },
+  "builtYear": "2010",
+  "architecturalStyle": "Concrete monumental statue",
+  "description": "A towering statue of Jesus Christ built to rival other monumental religious structures.",
+  "significance": "A prominent religious landmark and symbol of faith in Poland.",
+  "visitorsPerYear": 200000,
+  "materials": [
+    "Concrete",
+    "Steel"
+  ],
+  "conservationStatus": "Protected Landmark",
+  "image": "data:image/jpeg;base64,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",
+  "funFact": "It is one of the tallest statues of Jesus in the world, standing at 33 meters excluding the mound.",
+  "moreInfoLinks": [
+    "https://en.wikipedia.org/wiki/Christ_the_King_(Świebodzin)"
+  ]
+},
+{
+  "_id": {
+    "$oid": "68ca749c886c0a86c0bedf9d"
+  },
+  "name": "Himeji Castle",
+  "type": "Ancient",
+  "location": {
+    "country": "Japan",
+    "region": "Hyogo Prefecture",
+    "coordinates": {
+      "latitude": 34.8394,
+      "longitude": 134.6939
+    }
+  },
+  "builtYear": "1333 (rebuilt 1609)",
+  "architecturalStyle": "Japanese feudal architecture",
+  "description": "A well-preserved castle complex known for its white exterior and elegant design.",
+  "significance": "A symbol of Japan’s feudal past and an architectural masterpiece.",
+  "visitorsPerYear": 1500000,
+  "materials": [
+    "Wood",
+    "Plaster"
+  ],
+  "conservationStatus": "UNESCO World Heritage Site",
+  "image": "data:image/jpeg;base64,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",
+  "funFact": "It survived multiple wars and earthquakes without significant damage.",
+  "moreInfoLinks": [
+    "https://whc.unesco.org/en/list/661"
+  ]
+},
+{
+  "_id": {
+    "$oid": "68ca749c886c0a86c0bedf9e"
+  },
+  "name": "Palace of Versailles",
+  "type": "Modern",
+  "location": {
+    "country": "France",
+    "region": "Île-de-France",
+    "coordinates": {
+      "latitude": 48.8049,
+      "longitude": 2.1204
+    }
+  },
+  "builtYear": "1661–1715",
+  "architecturalStyle": "Baroque",
+  "description": "A grand palace with extensive gardens, symbolizing the absolute monarchy of Louis XIV.",
+  "significance": "A major center of political power and artistic achievement in Europe.",
+  "visitorsPerYear": 8000000,
+  "materials": [
+    "Stone",
+    "Gold Leaf"
+  ],
+  "conservationStatus": "UNESCO World Heritage Site",
+  "image": "data:image/jpeg;base64,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",
+  "funFact": "The Hall of Mirrors inside the palace has 357 mirrors lining its walls!",
+  "moreInfoLinks": [
+    "https://whc.unesco.org/en/list/91"
+  ]
+},
+{
+  "_id": {
+    "$oid": "68ca749c886c0a86c0bedf9f"
+  },
+  "name": "Mount Fuji",
+  "type": "Natural",
+  "location": {
+    "country": "Japan",
+    "region": "Honshu Island",
+    "coordinates": {
+      "latitude": 35.3606,
+      "longitude": 138.7274
+    }
+  },
+  "builtYear": "Natural formation",
+  "architecturalStyle": "N/A",
+  "description": "Japan’s highest mountain and a stratovolcano, revered as a spiritual symbol.",
+  "significance": "A cultural icon influencing art, literature, and pilgrimage traditions.",
+  "visitorsPerYear": 300000,
+  "materials": [
+    "Rock",
+    "Volcanic Ash"
+  ],
+  "conservationStatus": "UNESCO World Heritage Site",
+  "image": "https://encrypted-tbn0.gstatic.com/licensed-image?q=tbn:ANd9GcTag0UkOaJnIlVdK9CgITsZT3yTAYW1vcalR3l0ATWrcmhmEBWKhlD6cFBkg8n_g-9QQlCxdUHmhmRmNqr5Ey_UTJknwe6NNrU8qGV0XQ",
+  "funFact": "It last erupted in 1707 but remains an active volcano.",
+  "moreInfoLinks": [
+    "https://whc.unesco.org/en/list/1418"
+  ]
+},
+{
+  "_id": {
+    "$oid": "68ca749c886c0a86c0bedfa0"
+  },
+  "name": "Borobudur Temple",
+  "type": "Ancient",
+  "location": {
+    "country": "Indonesia",
+    "region": "Central Java",
+    "coordinates": {
+      "latitude": -7.6079,
+      "longitude": 110.2038
+    }
+  },
+  "builtYear": "8th–9th century AD",
+  "architecturalStyle": "Buddhist",
+  "description": "A massive stupa and temple complex covered with thousands of relief panels.",
+  "significance": "A pilgrimage site and masterpiece of Buddhist architecture and symbolism.",
+  "visitorsPerYear": 1500000,
+  "materials": [
+    "Volcanic Stone"
+  ],
+  "conservationStatus": "UNESCO World Heritage Site",
+  "image": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4npb0ByzHNrqCdN86zkwGH37vZpssBgr1nPkbiCFwkdGltwMtdhhLhJTkzulI3ORAgYXIlImHM4JzGsLOEGnuuFFiofa81MhPvmrz7nI-tIB5M8YU5d1GhBGtZ-fhad_e-vefCI=w270-h312-n-k-no",
+  "funFact": "The temple’s design represents the Buddhist cosmology in stone.",
+  "moreInfoLinks": [
+    "https://whc.unesco.org/en/list/592"
+  ]
+},
+{
+  "_id": {
+    "$oid": "68ca749c886c0a86c0bedfa1"
+  },
+  "name": "Petronas Towers",
+  "type": "Modern",
+  "location": {
+    "country": "Malaysia",
+    "region": "Kuala Lumpur",
+    "coordinates": {
+      "latitude": 3.1579,
+      "longitude": 101.7119
+    }
+  },
+  "builtYear": "1993–1996",
+  "architecturalStyle": "Postmodern",
+  "description": "Twin skyscrapers once the tallest buildings in the world, connected by a skybridge.",
+  "significance": "A symbol of Malaysia’s rapid modernization and architectural ambition.",
+  "visitorsPerYear": 2000000,
+  "materials": [
+    "Steel",
+    "Concrete",
+    "Glass"
+  ],
+  "conservationStatus": "Protected Landmark",
+  "image": "data:image/jpeg;base64,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",
+  "funFact": "The skybridge connects the two towers on the 41st and 42nd floors!",
+  "moreInfoLinks": [
+    "https://www.petronastwintowers.com.my/"
+  ]
+},
+{
+  "_id": {
+    "$oid": "68ca749c886c0a86c0bedfa2"
+  },
+  "name": "Acropolis of Pergamon",
+  "type": "Ancient",
+  "location": {
+    "country": "Turkey",
+    "region": "Bergama",
+    "coordinates": {
+      "latitude": 39.119,
+      "longitude": 27.1851
+    }
+  },
+  "builtYear": "4th–2nd century BC",
+  "architecturalStyle": "Hellenistic",
+  "description": "An ancient Greek city known for its impressive temples, libraries, and theaters built on a steep hill.",
+  "significance": "A center of learning and culture, rivaling Alexandria’s library in antiquity.",
+  "visitorsPerYear": 300000,
+  "materials": [
+    "Limestone"
+  ],
+  "conservationStatus": "UNESCO World Heritage Site",
+  "image": "data:image/jpeg;base64,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",
+  "funFact": "The Pergamon Altar’s frieze depicting the Gigantomachy is considered one of the greatest sculptures of the ancient world.",
+  "moreInfoLinks": [
+    "https://whc.unesco.org/en/list/145"
+  ]
+},
+{
+  "_id": {
+    "$oid": "68ca749c886c0a86c0bedfa3"
+  },
+  "name": "Great Mosque of Córdoba",
+  "type": "Ancient",
+  "location": {
+    "country": "Spain",
+    "region": "Andalusia",
+    "coordinates": {
+      "latitude": 37.8786,
+      "longitude": -4.7794
+    }
+  },
+  "builtYear": "785–987 AD",
+  "architecturalStyle": "Islamic Moorish",
+  "description": "A mosque-cathedral famous for its horseshoe arches and stunning geometric designs.",
+  "significance": "A testament to the cultural and religious harmony in medieval Spain.",
+  "visitorsPerYear": 1500000,
+  "materials": [
+    "Stone",
+    "Marble"
+  ],
+  "conservationStatus": "UNESCO World Heritage Site",
+  "image": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nr6b_tE04sUr8u4wjmDGLIcvJMzSWr_z0XOV4fmcazK1QpQIGj9KYTMM13bI-6Y1o0Xsm0y_MMoCbwSWpwwTJL1fmoWpnlu81xNFQU1uwiY0F8X-oP__Dtp0rgMDpnjR0gMB_8o=w270-h312-n-k-no",
+  "funFact": "It was converted into a cathedral in the 13th century but retains much of its original Islamic architecture.",
+  "moreInfoLinks": [
+    "https://whc.unesco.org/en/list/313"
+  ]
+},
+{
+  "_id": {
+    "$oid": "68ca749c886c0a86c0bedfa4"
+  },
+  "name": "Easter Island",
+  "type": "Natural and Cultural",
+  "location": {
+    "country": "Chile",
+    "region": "Rapa Nui",
+    "coordinates": {
+      "latitude": -27.1127,
+      "longitude": -109.3497
+    }
+  },
+  "builtYear": "1000–1600 AD",
+  "architecturalStyle": "Megalithic",
+  "description": "A remote island known for its mysterious Moai statues and rich Polynesian culture.",
+  "significance": "A unique archaeological site with deep spiritual significance and evidence of early seafaring societies.",
+  "visitorsPerYear": 100000,
+  "materials": [
+    "Volcanic Rock"
+  ],
+  "conservationStatus": "UNESCO World Heritage Site",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/4/4b/Easter_Island_Moai.jpg",
+  "funFact": "The statues were built using primitive tools and represent important ancestors and spiritual guardians.",
+  "moreInfoLinks": [
+    "https://whc.unesco.org/en/list/715"
+  ]
+},
+{
+  "_id": {
+    "$oid": "68ca749c886c0a86c0bedfa5"
+  },
+  "name": "Palmyra",
+  "type": "Ancient",
+  "location": {
+    "country": "Syria",
+    "region": "Homs Governorate",
+    "coordinates": {
+      "latitude": 34.549,
+      "longitude": 38.2763
+    }
+  },
+  "builtYear": "1st century AD",
+  "architecturalStyle": "Greco-Roman and Persian influences",
+  "description": "An ancient city that served as a vital caravan stop, blending cultures and architectural styles.",
+  "significance": "An important archaeological and cultural crossroads linking East and West.",
+  "visitorsPerYear": 200000,
+  "materials": [
+    "Stone"
+  ],
+  "conservationStatus": "UNESCO World Heritage Site (damaged)",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/5/56/Palmyra_Syria_02.jpg",
+  "funFact": "Despite extensive damage, Palmyra’s ruins remain a testament to ancient global trade routes.",
+  "moreInfoLinks": [
+    "https://whc.unesco.org/en/list/23"
+  ]
+},
+{
+  "_id": {
+    "$oid": "68ca749c886c0a86c0bedfa6"
+  },
+  "name": "Neolithic Sites of Xi’an",
+  "type": "Ancient",
+  "location": {
+    "country": "China",
+    "region": "Shaanxi Province",
+    "coordinates": {
+      "latitude": 34.3416,
+      "longitude": 108.9398
+    }
+  },
+  "builtYear": "c. 5000–3000 BC",
+  "architecturalStyle": "Neolithic",
+  "description": "Archaeological sites that reveal the early development of Chinese civilization and agriculture.",
+  "significance": "Provides insights into ancient urban planning, pottery, and burial customs.",
+  "visitorsPerYear": 500000,
+  "materials": [
+    "Clay",
+    "Stone"
+  ],
+  "conservationStatus": "UNESCO World Heritage Site",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/3/33/Xian_neolithic_sites.jpg",
+  "funFact": "The sites include evidence of early rice cultivation and animal domestication.",
+  "moreInfoLinks": [
+    "https://whc.unesco.org/en/list/113"
+  ]
+},
+{
+  "_id": {
+    "$oid": "68ca749c886c0a86c0bedfa7"
+  },
+  "name": "Neuschwanstein Castle",
+  "type": "Modern",
+  "location": {
+    "country": "Germany",
+    "region": "Bavaria",
+    "coordinates": {
+      "latitude": 47.5576,
+      "longitude": 10.7498
+    }
+  },
+  "builtYear": "1869–1886",
+  "architecturalStyle": "Romanesque Revival",
+  "description": "A fairy-tale castle built by King Ludwig II, perched on a hill in the Bavarian Alps.",
+  "significance": "Inspired the design of Disney’s Sleeping Beauty Castle and represents 19th-century romantic architecture.",
+  "visitorsPerYear": 1500000,
+  "materials": [
+    "Brick",
+    "Limestone"
+  ],
+  "conservationStatus": "Protected Landmark",
+  "image": "data:image/jpeg;base64,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",
+  "funFact": "The castle was never fully completed, but its design and beauty captivate visitors worldwide.",
+  "moreInfoLinks": [
+    "https://www.neuschwanstein.de/englisch/tourist/"
+  ]
+},
+{
+  "_id": {
+    "$oid": "68ca749c886c0a86c0bedfaf"
+  },
+  "name": "Alhambra",
+  "type": "Ancient",
+  "location": {
+    "country": "Spain",
+    "region": "Andalusia",
+    "coordinates": {
+      "latitude": 37.1761,
+      "longitude": -3.5881
+    }
+  },
+  "builtYear": "13th–14th century AD",
+  "architecturalStyle": "Moorish",
+  "description": "A palace and fortress complex showcasing Islamic art, gardens, and architecture in Granada.",
+  "significance": "A cultural landmark that symbolizes the artistic achievements of the Nasrid dynasty.",
+  "visitorsPerYear": 2500000,
+  "materials": [
+    "Stone",
+    "Stucco"
+  ],
+  "conservationStatus": "UNESCO World Heritage Site",
+  "image": "data:image/jpeg;base64,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",
+  "funFact": "Its intricate tilework and water features create an atmosphere of serenity and elegance.",
+  "moreInfoLinks": [
+    "https://whc.unesco.org/en/list/314"
+  ]
+},
+{
+  "_id": {
+    "$oid": "68ca749c886c0a86c0bedfb0"
+  },
+  "name": "Neolithic Megaliths of Carnac",
+  "type": "Ancient",
+  "location": {
+    "country": "France",
+    "region": "Brittany",
+    "coordinates": {
+      "latitude": 47.6136,
+      "longitude": -3.0854
+    }
+  },
+  "builtYear": "4500–3300 BC",
+  "architecturalStyle": "Megalithic",
+  "description": "A vast collection of prehistoric standing stones aligned in rows and circles.",
+  "significance": "An enigmatic archaeological site associated with early human ritualistic practices.",
+  "visitorsPerYear": 150000,
+  "materials": [
+    "Granite"
+  ],
+  "conservationStatus": "Protected Landmark",
+  "image": "data:image/jpeg;base64,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vv",
+  "funFact": "The purpose of the stones is still debated, with theories ranging from astronomical calendars to ceremonial sites.",
+  "moreInfoLinks": [
+    "https://www.brittanytourism.com/"
+  ]
+}]
