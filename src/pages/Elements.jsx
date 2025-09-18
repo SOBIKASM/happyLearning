@@ -1,8 +1,8 @@
 import { useEffect, useState } from 'react';
 import { useNavigate } from 'react-router-dom';
 import './Pages.css';
-import { fetchData } from '../utils/api';
 import SearchBox from '../components/SearchBox';
+import { fetchData } from '../utils/api';
 import { categoryColors } from '../utils/categoryColors';
 
 const Elements = () => {
@@ -11,10 +11,12 @@ const Elements = () => {
   const [topMatches, setTopMatches] = useState([]);
   const navigate = useNavigate();
 
+  // Fetch all elements on mount
   useEffect(() => {
     fetchData("elements", setElements);
   }, []);
 
+  // Update top matches when input changes
   useEffect(() => {
     if (input.trim() === '') {
       setTopMatches([]);
@@ -26,15 +28,19 @@ const Elements = () => {
     }
   }, [input, elements]);
 
+  // Separate remaining elements from top matches
   const topMatchIds = new Set(topMatches.map(e => e.name));
   const remainingElements = elements.filter(e => !topMatchIds.has(e.name));
 
+  // Navigate to universal detail page
   const handleLearnMore = (name) => {
-    navigate(`/detail/element/${encodeURIComponent(element.name)}`)
+    navigate(`/detail/element/${encodeURIComponent(name)}`);
   };
 
+  // Render single element card
   const renderCard = (element, index, keyPrefix) => {
     const bgColor = categoryColors[element.category] || "#fff";
+
     return (
       <div key={`${keyPrefix}-${index}`} className='card-container'>
         <div className='image-container' style={{ backgroundColor: bgColor }}>
@@ -61,7 +67,7 @@ const Elements = () => {
     <>
       <SearchBox
         type="text"
-        placeholder='Enter the Element name '
+        placeholder='Enter the Element name'
         value={input}
         onChange={e => setInput(e.target.value)}
         onSearch={() => {}}

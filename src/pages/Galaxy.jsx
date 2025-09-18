@@ -6,14 +6,16 @@ import { fetchData } from '../utils/api';
 
 const Galaxy = () => {
   const [input, setInput] = useState('');
-  const [galaxies, setGalaxy] = useState([]);
+  const [galaxies, setGalaxies] = useState([]);
   const [topMatches, setTopMatches] = useState([]);
   const navigate = useNavigate();
 
+  // Fetch all galaxies on mount
   useEffect(() => {
-    fetchData("galaxy", setGalaxy);
+    fetchData("galaxies", setGalaxies); // make sure endpoint matches your backend collection name
   }, []);
 
+  // Update top matches when input changes
   useEffect(() => {
     if (input.trim() === '') {
       setTopMatches([]);
@@ -25,16 +27,23 @@ const Galaxy = () => {
     }
   }, [input, galaxies]);
 
+  // Separate remaining galaxies from top matches
   const topMatchIds = new Set(topMatches.map(g => g.name));
   const remainingGalaxies = galaxies.filter(g => !topMatchIds.has(g.name));
 
+  // Navigate to universal detail page
   const handleLearnMore = (name) => {
     navigate(`/detail/galaxy/${encodeURIComponent(name)}`);
   };
 
+  // Render a single galaxy card
   const renderCard = (galaxy, index, keyPrefix) => (
     <div key={`${keyPrefix}-${index}`} className='card-container'>
-      <img src={galaxy.image} alt={`${galaxy.name} image`} />
+      <img 
+        src={galaxy.image || '/placeholder.jpg'} 
+        alt={`${galaxy.name} image`} 
+        className='card-image'
+      />
       <h1>{galaxy.name}</h1>
       {galaxy.type && <p>Type: {galaxy.type}</p>}
       <button
@@ -56,8 +65,8 @@ const Galaxy = () => {
       />
 
       <div className='body'>
-        {topMatches.map((galaxy, index) => renderCard(galaxy, index, 'top'))}
-        {remainingGalaxies.map((galaxy, index) => renderCard(galaxy, index, 'rest'))}
+        {topMatches.map((g, index) => renderCard(g, index, 'top'))}
+        {remainingGalaxies.map((g, index) => renderCard(g, index, 'rest'))}
       </div>
     </>
   );
