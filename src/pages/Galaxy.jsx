@@ -12,7 +12,7 @@ const Galaxy = () => {
 
   // Fetch all galaxies on mount
   useEffect(() => {
-    fetchData("galaxies", setGalaxies); // make sure endpoint matches your backend collection name
+    fetchData("galaxy", setGalaxies); // make sure endpoint matches your backend collection name
   }, []);
 
   // Update top matches when input changes
