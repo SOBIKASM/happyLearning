@@ -29,7 +29,7 @@ const Constellations = () => {
   const remainingConstellations = constellations.filter(c => !topMatchIds.has(c.name));
 
   const handleLearnMore = (name) => {
-    navigate(`/detail/constellation/${name}`);
+    navigate(`/detail/constellation/${encodeURIComponent(name)}`);
   };
 
   const renderCard = (constellation, index, keyPrefix) => (

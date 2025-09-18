@@ -59,7 +59,7 @@ const Country = () => {
             <p>Capital: {country.capital}</p>
             <button
               className='more-btn'
-              onClick={() => navigate(`/country/${country.name}`)}
+              onClick={() => navigate(`/detail/country/${country.name}`)}
             >
               Learn more
             </button>

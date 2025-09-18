@@ -29,7 +29,7 @@ const Wonders = () => {
   const remainingWonders = wonders.filter(w => !topMatchIds.has(w.name));
 
   const handleLearnMore = (name) => {
-    navigate(`/detail/wonder/${name}`);
+    navigate(`/detail/wonder/${encodeURIComponent(name)}`);
   };
 
   const renderCard = (wonder, index, keyPrefix) => (

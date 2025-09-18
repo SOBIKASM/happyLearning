@@ -30,7 +30,7 @@ const Elements = () => {
   const remainingElements = elements.filter(e => !topMatchIds.has(e.name));
 
   const handleLearnMore = (name) => {
-    navigate(`/detail/element/${name}`);
+    navigate(`/detail/element/${encodeURIComponent(element.name)}`)
   };
 
   const renderCard = (element, index, keyPrefix) => {

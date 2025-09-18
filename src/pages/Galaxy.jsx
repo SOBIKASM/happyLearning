@@ -29,7 +29,7 @@ const Galaxy = () => {
   const remainingGalaxies = galaxies.filter(g => !topMatchIds.has(g.name));
 
   const handleLearnMore = (name) => {
-    navigate(`/detail/galaxy/${name}`);
+    navigate(`/detail/galaxy/${encodeURIComponent(name)}`);
   };
 
   const renderCard = (galaxy, index, keyPrefix) => (
