@@ -7,8 +7,11 @@ app.use(express.json())
 
 app.use(cors())
 
-// Replace <password> and <dbname> with your actual credentials
-mongoose.connect("mongodb+srv://sobikasm_db_user:sobidani@happylearningcluster.4xyivl0.mongodb.net/")
+// Replace <password> and <dbname> with your actual credential")
+mongoose.connect(
+  "mongodb+srv://sobikasm_db_user:sobidani@happylearningcluster.4xyivl0.mongodb.net/learningdb"
+)
+
   .then(() => console.log("✅ Mongodb connected"))
   .catch((err) => console.error("❌ ERR:", err.message));
 
