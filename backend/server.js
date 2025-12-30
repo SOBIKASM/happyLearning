@@ -14,6 +14,17 @@ mongoose.connect(
 
   .then(() => console.log("✅ Mongodb connected"))
   .catch((err) => console.error("❌ ERR:", err.message));
+  mongoose.connection.once("open", () => {
+  console.log("Connected to DB:", mongoose.connection.name);
+});
+app.get("/debug", async (req, res) => {
+  const collections = await mongoose.connection.db
+    .listCollections()
+    .toArray();
+  res.json(collections.map(c => c.name));
+});
+
+
 
 const countrySchema = new mongoose.Schema({
     name: { type: String, required: true, unique: true },

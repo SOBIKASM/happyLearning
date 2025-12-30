@@ -48,6 +48,7 @@ const DetailPage = () => {
         {/* Country */}
         {type === 'country' && (
           <>
+            <img src={data.flag} alt={`${data.name} flag`} className="detail-image" />
             <p><strong>Capital:</strong> {data.capital}</p>
             <p><strong>Continent:</strong> {data.continent}</p>
             <p><strong>Population:</strong> {data.population?.toLocaleString()}</p>
