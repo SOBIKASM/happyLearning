@@ -2,54 +2,45 @@ import { useEffect, useState } from 'react';
 import { useNavigate } from 'react-router-dom';
 import './Pages.css';
 import SearchBox from '../components/SearchBox';
+import LoadingWrapper from '../components/LoadingWrapper';
 import { fetchData } from '../utils/api';
 
 const Constellations = () => {
   const [input, setInput] = useState('');
   const [constellations, setConstellations] = useState([]);
   const [topMatches, setTopMatches] = useState([]);
+  const [isLoading, setIsLoading] = useState(true); // Start as true
   const navigate = useNavigate();
 
-  // Fetch all constellations on mount
   useEffect(() => {
-    fetchData("constellations", setConstellations);
+    const loadData = async () => {
+      setIsLoading(true); 
+      await fetchData("constellations", setConstellations);
+      setIsLoading(false); // Stop loading after data arrives
+    };
+    loadData();
   }, []);
 
-  // Update top matches when input changes
-  useEffect(() => {
-    if (input.trim() === '') {
-      setTopMatches([]);
-    } else {
-      const filtered = constellations
-        .filter(c => c.name.toLowerCase().includes(input.toLowerCase()))
-        .slice(0, 4);
-      setTopMatches(filtered);
-    }
-  }, [input, constellations]);
+  const filteredConstellations = constellations.filter(c =>
+    c.name.toLowerCase().includes(input.toLowerCase())
+  );
 
-  // Separate remaining constellations from top matches
-  const topMatchIds = new Set(topMatches.map(c => c.name));
-  const remainingConstellations = constellations.filter(c => !topMatchIds.has(c.name));
-
-  // Navigate to universal detail page
   const handleLearnMore = (name) => {
+    // Using absolute path "/" to prevent the URL stacking bug
     navigate(`/detail/constellation/${encodeURIComponent(name)}`);
   };
 
-  // Render a single constellation card
-  const renderCard = (constellation, index, keyPrefix) => (
-    <div key={`${keyPrefix}-${index}`} className='card-container'>
+  const renderCard = (constellation, index) => (
+    <div key={index} className='card-container'>
       <img 
         src={constellation.image || '/placeholder.jpg'} 
         alt={`${constellation.name} image`} 
         className='card-image'
+        onError={(e) => e.target.src = '/placeholder.jpg'}
       />
       <h1>{constellation.name}</h1>
       {constellation.constellationGroup && <p>Family: {constellation.constellationGroup}</p>}
-      <button
-        className='more-btn'
-        onClick={() => handleLearnMore(constellation.name)}
-      >
+      <button className='more-btn' onClick={() => handleLearnMore(constellation.name)}>
         Learn more
       </button>
     </div>
@@ -64,10 +55,11 @@ const Constellations = () => {
         placeholder="Enter the Constellation name"
       />
 
-      <div className='body'>
-        {topMatches.map((c, index) => renderCard(c, index, 'top'))}
-        {remainingConstellations.map((c, index) => renderCard(c, index, 'rest'))}
-      </div>
+      <LoadingWrapper isLoading={isLoading} dataLength={filteredConstellations.length}>
+        <div className="body">
+          {filteredConstellations.map((c, index) => renderCard(c, index))}
+        </div>
+      </LoadingWrapper>
     </>
   );
 };

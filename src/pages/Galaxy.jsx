@@ -2,34 +2,22 @@ import { useEffect, useState } from 'react';
 import { useNavigate } from 'react-router-dom';
 import './Pages.css';
 import SearchBox from '../components/SearchBox';
+import LoadingWrapper from '../components/LoadingWrapper';
 import { fetchData } from '../utils/api';
 
 const Galaxy = () => {
   const [input, setInput] = useState('');
   const [galaxies, setGalaxies] = useState([]);
-  const [topMatches, setTopMatches] = useState([]);
   const navigate = useNavigate();
 
   // Fetch all galaxies on mount
   useEffect(() => {
-    fetchData("galaxy", setGalaxies); // make sure endpoint matches your backend collection name
+    fetchData("galaxy", setGalaxies); 
   }, []);
 
-  // Update top matches when input changes
-  useEffect(() => {
-    if (input.trim() === '') {
-      setTopMatches([]);
-    } else {
-      const filtered = galaxies
-        .filter(g => g.name.toLowerCase().includes(input.toLowerCase()))
-        .slice(0, 4);
-      setTopMatches(filtered);
-    }
-  }, [input, galaxies]);
-
-  // Separate remaining galaxies from top matches
-  const topMatchIds = new Set(topMatches.map(g => g.name));
-  const remainingGalaxies = galaxies.filter(g => !topMatchIds.has(g.name));
+  const filteredGalaxies = galaxies.filter(g =>
+    g.name.toLowerCase().includes(input.toLowerCase())
+  );
 
   // Navigate to universal detail page
   const handleLearnMore = (name) => {
@@ -37,12 +25,13 @@ const Galaxy = () => {
   };
 
   // Render a single galaxy card
-  const renderCard = (galaxy, index, keyPrefix) => (
-    <div key={`${keyPrefix}-${index}`} className='card-container'>
+  const renderCard = (galaxy, index) => (
+    <div key={index} className='card-container'>
       <img 
         src={galaxy.image || '/placeholder.jpg'} 
         alt={`${galaxy.name} image`} 
         className='card-image'
+        onError={(e) => e.target.src = '/placeholder.jpg'}
       />
       <h1>{galaxy.name}</h1>
       {galaxy.type && <p>Type: {galaxy.type}</p>}
@@ -64,10 +53,11 @@ const Galaxy = () => {
         placeholder="Enter the galaxy name"
       />
 
-      <div className='body'>
-        {topMatches.map((g, index) => renderCard(g, index, 'top'))}
-        {remainingGalaxies.map((g, index) => renderCard(g, index, 'rest'))}
-      </div>
+      <LoadingWrapper isLoading={galaxies.length === 0 && input === ''} dataLength={filteredGalaxies.length}>
+        <div className='body'>
+          {filteredGalaxies.map((g, index) => renderCard(g, index))}
+        </div>
+      </LoadingWrapper>
     </>
   );
 };

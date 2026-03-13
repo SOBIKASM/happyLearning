@@ -11,7 +11,11 @@ const DetailPage = () => {
   useEffect(() => {
     const fetchDetail = async () => {
       try {
-        const endpoint = type === 'element' ? 'elements' : type;
+        let endpoint = type;
+        if (type === 'element') endpoint = 'elements';
+        if (type === 'constellation') endpoint = 'constellations';
+        if (type === 'wonder') endpoint = 'wonders';
+
         const allData = await fetchData(endpoint);
 
         // Case-insensitive, trim spaces
@@ -31,16 +35,25 @@ const DetailPage = () => {
     fetchDetail();
   }, [type, name]);
 
-  if (loading) return <p className="loading">Loading...</p>;
+  const handleImageError = (e) => {
+    e.target.src = '/placeholder.jpg';
+  };
+
+  if (loading) return <div className="loading-container"><div className="spinner"></div><p>Fetching details...</p></div>;
   if (!data) return <p className="error">No data found for "{decodeURIComponent(name)}"</p>;
 
   return (
     <div className="detail-page">
       <h1 className="detail-title">{data.name}</h1>
 
-      {data.image && (
+      {(data.image || data.flag) && (
         <div className="detail-image-container">
-          <img src={data.image} alt={data.name} className="detail-image" />
+          <img 
+            src={data.image || data.flag} 
+            alt={data.name} 
+            className="detail-image" 
+            onError={handleImageError}
+          />
         </div>
       )}
 
@@ -48,7 +61,6 @@ const DetailPage = () => {
         {/* Country */}
         {type === 'country' && (
           <>
-            <img src={data.flag} alt={`${data.name} flag`} className="detail-image" />
             <p><strong>Capital:</strong> {data.capital}</p>
             <p><strong>Continent:</strong> {data.continent}</p>
             <p><strong>Population:</strong> {data.population?.toLocaleString()}</p>

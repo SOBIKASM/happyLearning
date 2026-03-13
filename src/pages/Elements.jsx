@@ -2,35 +2,41 @@ import { useEffect, useState } from 'react';
 import { useNavigate } from 'react-router-dom';
 import './Pages.css';
 import SearchBox from '../components/SearchBox';
+import LoadingWrapper from '../components/LoadingWrapper';
+import Pagination from '../components/Pagination';
+import FloatingSearch from '../components/FloatingSearch';
 import { fetchData } from '../utils/api';
 import { categoryColors } from '../utils/categoryColors';
 
 const Elements = () => {
   const [input, setInput] = useState('');
   const [elements, setElements] = useState([]);
-  const [topMatches, setTopMatches] = useState([]);
+  const [loading, setLoading] = useState(true);
+  const [currentPage, setCurrentPage] = useState(1);
+  const itemsPerPage = 20;
   const navigate = useNavigate();
 
   // Fetch all elements on mount
   useEffect(() => {
-    fetchData("elements", setElements);
+    setLoading(true);
+    fetchData("elements", (data) => {
+      setElements(data);
+      setLoading(false);
+    });
   }, []);
 
-  // Update top matches when input changes
-  useEffect(() => {
-    if (input.trim() === '') {
-      setTopMatches([]);
-    } else {
-      const filtered = elements
-        .filter(el => el.name.toLowerCase().includes(input.toLowerCase()))
-        .slice(0, 4);
-      setTopMatches(filtered);
-    }
-  }, [input, elements]);
+  const filteredElements = elements.filter(el =>
+    el.name.toLowerCase().includes(input.toLowerCase()) ||
+    el.symbol.toLowerCase().includes(input.toLowerCase())
+  );
 
-  // Separate remaining elements from top matches
-  const topMatchIds = new Set(topMatches.map(e => e.name));
-  const remainingElements = elements.filter(e => !topMatchIds.has(e.name));
+  useEffect(() => {
+    setCurrentPage(1);
+  }, [input]);
+
+  const indexOfLastItem = currentPage * itemsPerPage;
+  const indexOfFirstItem = indexOfLastItem - itemsPerPage;
+  const currentItems = filteredElements.slice(indexOfFirstItem, indexOfLastItem);
 
   // Navigate to universal detail page
   const handleLearnMore = (name) => {
@@ -38,11 +44,11 @@ const Elements = () => {
   };
 
   // Render single element card
-  const renderCard = (element, index, keyPrefix) => {
+  const renderCard = (element, index) => {
     const bgColor = categoryColors[element.category] || "#fff";
 
     return (
-      <div key={`${keyPrefix}-${index}`} className='card-container'>
+      <div key={index} className='card-container'>
         <div className='image-container' style={{ backgroundColor: bgColor }}>
           <p className='an'>{element.atomicNumber}</p>
           <h1 className='symbol'>{element.symbol}</h1>
@@ -67,16 +73,29 @@ const Elements = () => {
     <>
       <SearchBox
         type="text"
-        placeholder='Enter the Element name'
+        placeholder='Enter Element name or symbol'
         value={input}
         onChange={e => setInput(e.target.value)}
         onSearch={() => {}}
       />
 
-      <div className='body'>
-        {topMatches.map((element, index) => renderCard(element, index, 'top'))}
-        {remainingElements.map((element, index) => renderCard(element, index, 'rest'))}
-      </div>
+      <FloatingSearch 
+        value={input}
+        onChange={e => setInput(e.target.value)}
+        placeholder="Search elements..."
+      />
+
+      <LoadingWrapper isLoading={loading} dataLength={filteredElements.length}>
+        <div className='body'>
+          {currentItems.map((element, index) => renderCard(element, index))}
+        </div>
+        <Pagination 
+          currentPage={currentPage}
+          totalItems={filteredElements.length}
+          itemsPerPage={itemsPerPage}
+          onPageChange={setCurrentPage}
+        />
+      </LoadingWrapper>
     </>
   );
 };

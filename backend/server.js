@@ -1,27 +1,28 @@
-const express = require('express')
-const mongoose = require('mongoose')
-const cors = require('cors')
+require('dotenv').config();
+const express = require('express');
+const mongoose = require('mongoose');
+const cors = require('cors');
 
 const app = express();
-app.use(express.json())
+app.use(express.json());
+app.use(cors());
 
-app.use(cors())
+const MONGO_URI = process.env.MONGO_URI;
 
-// Replace <password> and <dbname> with your actual credential")
-mongoose.connect(
-  "mongodb+srv://sobikasm_db_user:sobidani@happylearningcluster.4xyivl0.mongodb.net/learningdb"
-)
+if (!MONGO_URI) {
+  console.error("❌ ERROR: MONGO_URI is not defined in .env");
+  process.exit(1);
+}
 
-  .then(() => console.log("✅ Mongodb connected"))
-  .catch((err) => console.error("❌ ERR:", err.message));
-  mongoose.connection.once("open", () => {
+mongoose.connect(MONGO_URI)
+  .then(() => console.log("✅ MongoDB connected"))
+  .catch((err) => {
+    console.error("❌ MongoDB connection error:", err.message);
+    process.exit(1);
+  });
+
+mongoose.connection.once("open", () => {
   console.log("Connected to DB:", mongoose.connection.name);
-});
-app.get("/debug", async (req, res) => {
-  const collections = await mongoose.connection.db
-    .listCollections()
-    .toArray();
-  res.json(collections.map(c => c.name));
 });
 
 
