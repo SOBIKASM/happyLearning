@@ -190,7 +190,7 @@ const getCountry = async (req, res) => {
 }
 const getall = async (req, res) => {
     try {
-        const countries = await Country.find()
+        const countries = await Country.find().sort({ name: 1 })
         res.json(countries)
     } catch (err) {
         console.error("Error in getall:", err);
@@ -199,7 +199,7 @@ const getall = async (req, res) => {
 }
 const getAllElements = async (req, res) => {
     try {
-        const elements = await Element.find()
+        const elements = await Element.find().sort({ atomicNumber: 1 })
         res.json(elements)
     } catch (err) {
         console.error("Error in getAllElements:", err);
@@ -208,7 +208,7 @@ const getAllElements = async (req, res) => {
 }
 const getAllGalaxy = async (req, res) => {
     try {
-        const galaxies = await Galaxy.find()
+        const galaxies = await Galaxy.find().sort({ name: 1 })
         res.json(galaxies)
     } catch (err) {
         console.error("Error in getAllGalaxy:", err);
@@ -217,7 +217,7 @@ const getAllGalaxy = async (req, res) => {
 }
 const getAllConstellation = async (req, res) => {
     try {
-        const constellations = await Constellation.find()
+        const constellations = await Constellation.find().sort({ name: 1 })
         res.json(constellations)
     } catch (err) {
         console.error("Error in getAllConstellation:", err);
@@ -226,7 +226,7 @@ const getAllConstellation = async (req, res) => {
 }
 const getAllWonders = async (req, res) => {
     try {
-        const wonders = await Wonders.find()
+        const wonders = await Wonders.find().sort({ name: 1 })
         res.json(wonders)
     } catch (err) {
         console.error("Error in getAllWonders:", err);

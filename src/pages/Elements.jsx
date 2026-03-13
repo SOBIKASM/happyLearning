@@ -12,15 +12,14 @@ const Elements = () => {
   const [input, setInput] = useState('');
   const [elements, setElements] = useState([]);
   const [loading, setLoading] = useState(true);
-  const [currentPage, setCurrentPage] = useState(1);
-  const itemsPerPage = 20;
   const navigate = useNavigate();
 
   // Fetch all elements on mount
   useEffect(() => {
     setLoading(true);
     fetchData("elements", (data) => {
-      setElements(data);
+      const sortedData = [...data].sort((a, b) => a.atomicNumber - b.atomicNumber);
+      setElements(sortedData);
       setLoading(false);
     });
   }, []);
@@ -29,14 +28,6 @@ const Elements = () => {
     el.name.toLowerCase().includes(input.toLowerCase()) ||
     el.symbol.toLowerCase().includes(input.toLowerCase())
   );
-
-  useEffect(() => {
-    setCurrentPage(1);
-  }, [input]);
-
-  const indexOfLastItem = currentPage * itemsPerPage;
-  const indexOfFirstItem = indexOfLastItem - itemsPerPage;
-  const currentItems = filteredElements.slice(indexOfFirstItem, indexOfLastItem);
 
   // Navigate to universal detail page
   const handleLearnMore = (name) => {
@@ -87,14 +78,8 @@ const Elements = () => {
 
       <LoadingWrapper isLoading={loading} dataLength={filteredElements.length}>
         <div className='body'>
-          {currentItems.map((element, index) => renderCard(element, index))}
+          {filteredElements.map((element, index) => renderCard(element, index))}
         </div>
-        <Pagination 
-          currentPage={currentPage}
-          totalItems={filteredElements.length}
-          itemsPerPage={itemsPerPage}
-          onPageChange={setCurrentPage}
-        />
       </LoadingWrapper>
     </>
   );
