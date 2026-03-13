@@ -193,7 +193,8 @@ const getall = async (req, res) => {
         const countries = await Country.find()
         res.json(countries)
     } catch (err) {
-        res.status(500).json({ error: "Failed to fetch" })
+        console.error("Error in getall:", err);
+        res.status(500).json({ error: err.message || "Failed to fetch" })
     }
 }
 const getAllElements = async (req, res) => {
@@ -201,7 +202,8 @@ const getAllElements = async (req, res) => {
         const elements = await Element.find()
         res.json(elements)
     } catch (err) {
-        res.status(500).json({ error: "Failed to fetch" })
+        console.error("Error in getAllElements:", err);
+        res.status(500).json({ error: err.message || "Failed to fetch" })
     }
 }
 const getAllGalaxy = async (req, res) => {
@@ -209,7 +211,8 @@ const getAllGalaxy = async (req, res) => {
         const galaxies = await Galaxy.find()
         res.json(galaxies)
     } catch (err) {
-        res.status(500).json({ error: "Failed to fetch" })
+        console.error("Error in getAllGalaxy:", err);
+        res.status(500).json({ error: err.message || "Failed to fetch" })
     }
 }
 const getAllConstellation = async (req, res) => {
@@ -217,7 +220,8 @@ const getAllConstellation = async (req, res) => {
         const constellations = await Constellation.find()
         res.json(constellations)
     } catch (err) {
-        res.status(500).json({ error: "Failed to fetch" })
+        console.error("Error in getAllConstellation:", err);
+        res.status(500).json({ error: err.message || "Failed to fetch" })
     }
 }
 const getAllWonders = async (req, res) => {
@@ -225,7 +229,8 @@ const getAllWonders = async (req, res) => {
         const wonders = await Wonders.find()
         res.json(wonders)
     } catch (err) {
-        res.status(500).json({ error: "Failed to fetch" })
+        console.error("Error in getAllWonders:", err);
+        res.status(500).json({ error: err.message || "Failed to fetch" })
     }
 }
 app.get('/wonders',getAllWonders)
