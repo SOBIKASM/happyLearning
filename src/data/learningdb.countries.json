@@ -1,0 +1,5612 @@
+[{
+  "_id": {
+    "$oid": "68b681ce46a0ff58b641bb18"
+  },
+  "name": "Afghanistan",
+  "capital": "Kabul",
+  "continent": "Asia",
+  "languages": [
+    "Pashto",
+    "Dari"
+  ],
+  "currency": {
+    "name": "Afghan Afghani",
+    "code": "AFN"
+  },
+  "population": 41128771,
+  "area": 652230,
+  "flag": "https://flagcdn.com/af.svg",
+  "map": "https://goo.gl/maps/BXbgHz3vFXg4dp8p9",
+  "nationalSymbols": {
+    "animal": "Snow Leopard",
+    "bird": "Golden Eagle",
+    "flower": "Tulip",
+    "tree": "Poplar",
+    "sport": "Buzkashi"
+  },
+  "landmark": "Band-e Amir National Park",
+  "food": "Kabuli Pulao",
+  "funFact": "Afghanistan is known as the 'graveyard of empires'."
+},
+{
+  "_id": {
+    "$oid": "68b681ce46a0ff58b641bb19"
+  },
+  "name": "Albania",
+  "capital": "Tirana",
+  "continent": "Europe",
+  "languages": [
+    "Albanian"
+  ],
+  "currency": {
+    "name": "Albanian Lek",
+    "code": "ALL"
+  },
+  "population": 2837743,
+  "area": 28748,
+  "flag": "https://flagcdn.com/al.svg",
+  "map": "https://goo.gl/maps/HZV9c6sBmsA2",
+  "nationalSymbols": {
+    "animal": "Golden Eagle",
+    "bird": "Golden Eagle",
+    "flower": "Red Poppy",
+    "tree": "Olive Tree",
+    "sport": "Football (Soccer)"
+  },
+  "landmark": "Berat Castle",
+  "food": "Tavë Kosi",
+  "funFact": "Albania has no McDonald’s restaurants."
+},
+{
+  "_id": {
+    "$oid": "68b681ce46a0ff58b641bb1a"
+  },
+  "name": "Algeria",
+  "capital": "Algiers",
+  "continent": "Africa",
+  "languages": [
+    "Arabic",
+    "Berber"
+  ],
+  "currency": {
+    "name": "Algerian Dinar",
+    "code": "DZD"
+  },
+  "population": 44700000,
+  "area": 2381741,
+  "flag": "https://flagcdn.com/dz.svg",
+  "map": "https://goo.gl/maps/WU6z8U5Uzp12",
+  "nationalSymbols": {
+    "animal": "Fennec Fox",
+    "bird": "Barbary Partridge",
+    "flower": "Iris",
+    "tree": "Cedar",
+    "sport": "Football (Soccer)"
+  },
+  "landmark": "Sahara Desert",
+  "food": "Couscous",
+  "funFact": "Algeria is the largest country in Africa by land area."
+},
+{
+  "_id": {
+    "$oid": "68b681ce46a0ff58b641bb1b"
+  },
+  "name": "Andorra",
+  "capital": "Andorra la Vella",
+  "continent": "Europe",
+  "languages": [
+    "Catalan"
+  ],
+  "currency": {
+    "name": "Euro",
+    "code": "EUR"
+  },
+  "population": 79824,
+  "area": 468,
+  "flag": "https://flagcdn.com/ad.svg",
+  "map": "https://goo.gl/maps/GS6hM9pVrJ22",
+  "nationalSymbols": {
+    "animal": "Pyrenean Chamois",
+    "bird": "Bearded Vulture",
+    "flower": "Narcissus",
+    "tree": "Pine",
+    "sport": "Skiing"
+  },
+  "landmark": "Vallnord Ski Resort",
+  "food": "Escudella",
+  "funFact": "Andorra has no airport; access is only through Spain or France."
+},
+{
+  "_id": {
+    "$oid": "68b681ce46a0ff58b641bb1c"
+  },
+  "name": "Angola",
+  "capital": "Luanda",
+  "continent": "Africa",
+  "languages": [
+    "Portuguese"
+  ],
+  "currency": {
+    "name": "Angolan Kwanza",
+    "code": "AOA"
+  },
+  "population": 35588987,
+  "area": 1246700,
+  "flag": "https://flagcdn.com/ao.svg",
+  "map": "https://goo.gl/maps/Fy9sV6rjXrE2",
+  "nationalSymbols": {
+    "animal": "Giant Sable Antelope",
+    "bird": "Red-crested Turaco",
+    "flower": "Welwitschia",
+    "tree": "Baobab",
+    "sport": "Football (Soccer)"
+  },
+  "landmark": "Kalandula Falls",
+  "food": "Moamba de Galinha",
+  "funFact": "Angola is one of Africa’s largest oil producers."
+},
+{
+  "_id": {
+    "$oid": "68b681ce46a0ff58b641bb1d"
+  },
+  "name": "Antigua and Barbuda",
+  "capital": "Saint John's",
+  "continent": "North America",
+  "languages": [
+    "English"
+  ],
+  "currency": {
+    "name": "East Caribbean Dollar",
+    "code": "XCD"
+  },
+  "population": 93329,
+  "area": 442,
+  "flag": "https://flagcdn.com/ag.svg",
+  "map": "https://goo.gl/maps/fB7qgVtKQ9h",
+  "nationalSymbols": {
+    "animal": "Fallow Deer",
+    "bird": "Magnificent Frigatebird",
+    "flower": "Agave",
+    "tree": "Whitewood",
+    "sport": "Cricket"
+  },
+  "landmark": "Nelson's Dockyard",
+  "food": "Fungee and Pepperpot",
+  "funFact": "Antigua has 365 beaches — one for each day of the year."
+},
+{
+  "_id": {
+    "$oid": "68b681ce46a0ff58b641bb1e"
+  },
+  "name": "Argentina",
+  "capital": "Buenos Aires",
+  "continent": "South America",
+  "languages": [
+    "Spanish"
+  ],
+  "currency": {
+    "name": "Argentine Peso",
+    "code": "ARS"
+  },
+  "population": 45773860,
+  "area": 2780400,
+  "flag": "https://flagcdn.com/ar.svg",
+  "map": "https://goo.gl/maps/Z9DXKo6ZxE52",
+  "nationalSymbols": {
+    "animal": "Rufous Hornero",
+    "bird": "Rufous Hornero",
+    "flower": "Ceibo",
+    "tree": "Quebracho",
+    "sport": "Football (Soccer)"
+  },
+  "landmark": "Iguazu Falls",
+  "food": "Asado",
+  "funFact": "Argentina introduced fingerprinting to the world for crime solving."
+},
+{
+  "_id": {
+    "$oid": "68b681ce46a0ff58b641bb1f"
+  },
+  "name": "Armenia",
+  "capital": "Yerevan",
+  "continent": "Asia",
+  "languages": [
+    "Armenian"
+  ],
+  "currency": {
+    "name": "Armenian Dram",
+    "code": "AMD"
+  },
+  "population": 2963000,
+  "area": 29743,
+  "flag": "https://flagcdn.com/am.svg",
+  "map": "https://goo.gl/maps/6aHyVLvzFG92",
+  "nationalSymbols": {
+    "animal": "Armenian Gampr Dog",
+    "bird": "Golden Eagle",
+    "flower": "Forget-me-not",
+    "tree": "Apricot Tree",
+    "sport": "Wrestling"
+  },
+  "landmark": "Geghard Monastery",
+  "food": "Khorovats (Armenian BBQ)",
+  "funFact": "Armenia was the first nation to adopt Christianity as a state religion."
+},
+{
+  "_id": {
+    "$oid": "68b681ce46a0ff58b641bb20"
+  },
+  "name": "Australia",
+  "capital": "Canberra",
+  "continent": "Oceania",
+  "languages": [
+    "English"
+  ],
+  "currency": {
+    "name": "Australian Dollar",
+    "code": "AUD"
+  },
+  "population": 25876000,
+  "area": 7692024,
+  "flag": "https://flagcdn.com/au.svg",
+  "map": "https://goo.gl/maps/ZCwMmBfs9fD2",
+  "nationalSymbols": {
+    "animal": "Kangaroo",
+    "bird": "Emu",
+    "flower": "Golden Wattle",
+    "tree": "Eucalyptus",
+    "sport": "Cricket"
+  },
+  "landmark": "Sydney Opera House",
+  "food": "Meat Pie",
+  "funFact": "Australia is home to the world’s longest fence, the Dingo Fence."
+},
+{
+  "_id": {
+    "$oid": "68b681ce46a0ff58b641bb21"
+  },
+  "name": "Austria",
+  "capital": "Vienna",
+  "continent": "Europe",
+  "languages": [
+    "German"
+  ],
+  "currency": {
+    "name": "Euro",
+    "code": "EUR"
+  },
+  "population": 8956000,
+  "area": 83879,
+  "flag": "https://flagcdn.com/at.svg",
+  "map": "https://goo.gl/maps/Dy7s5a1zM2o",
+  "nationalSymbols": {
+    "animal": "Lipizzaner Horse",
+    "bird": "Barn Swallow",
+    "flower": "Edelweiss",
+    "tree": "Oak",
+    "sport": "Alpine Skiing"
+  },
+  "landmark": "Schönbrunn Palace",
+  "food": "Wiener Schnitzel",
+  "funFact": "Austria is where Mozart, one of the greatest composers, was born."
+},
+{
+  "_id": {
+    "$oid": "68b681ce46a0ff58b641bb22"
+  },
+  "name": "Bahamas",
+  "capital": "Nassau",
+  "continent": "North America",
+  "languages": [
+    "English"
+  ],
+  "currency": {
+    "name": "Bahamian Dollar",
+    "code": "BSD"
+  },
+  "population": 409984,
+  "area": 13943,
+  "flag": "https://flagcdn.com/bs.svg",
+  "map": "https://goo.gl/maps/2cX3Upu7zJ82",
+  "nationalSymbols": {
+    "animal": "Flamingo",
+    "bird": "Flamingo",
+    "flower": "Yellow Elder",
+    "tree": "Lignum Vitae",
+    "sport": "Sailing"
+  },
+  "landmark": "Atlantis Paradise Island",
+  "food": "Conch Salad",
+  "funFact": "The Bahamas has the world’s third-largest barrier reef."
+},
+{
+  "_id": {
+    "$oid": "68b681ce46a0ff58b641bb23"
+  },
+  "name": "Bahrain",
+  "capital": "Manama",
+  "continent": "Asia",
+  "languages": [
+    "Arabic"
+  ],
+  "currency": {
+    "name": "Bahraini Dinar",
+    "code": "BHD"
+  },
+  "population": 1472000,
+  "area": 765,
+  "flag": "https://flagcdn.com/bh.svg",
+  "map": "https://goo.gl/maps/N3eULqkZVq92",
+  "nationalSymbols": {
+    "animal": "Arabian Oryx",
+    "bird": "Bulbul",
+    "flower": "Arfaj",
+    "tree": "Date Palm",
+    "sport": "Football (Soccer)"
+  },
+  "landmark": "Bahrain Fort",
+  "food": "Machboos",
+  "funFact": "Bahrain is made up of more than 30 islands."
+},
+{
+  "_id": {
+    "$oid": "68b681ce46a0ff58b641bb24"
+  },
+  "name": "Bangladesh",
+  "capital": "Dhaka",
+  "continent": "Asia",
+  "languages": [
+    "Bengali"
+  ],
+  "currency": {
+    "name": "Bangladeshi Taka",
+    "code": "BDT"
+  },
+  "population": 171186372,
+  "area": 147570,
+  "flag": "https://flagcdn.com/bd.svg",
+  "map": "https://goo.gl/maps/Q9jxs9z3k6s",
+  "nationalSymbols": {
+    "animal": "Royal Bengal Tiger",
+    "bird": "Oriental Magpie-Robin (Doyel)",
+    "flower": "Water Lily (Shapla)",
+    "tree": "Mango Tree",
+    "sport": "Kabaddi"
+  },
+  "landmark": "Sundarbans Mangrove Forest",
+  "food": "Hilsa Curry",
+  "funFact": "Bangladesh has the world’s largest river delta."
+},
+{
+  "_id": {
+    "$oid": "68b681ce46a0ff58b641bb25"
+  },
+  "name": "Barbados",
+  "capital": "Bridgetown",
+  "continent": "North America",
+  "languages": [
+    "English"
+  ],
+  "currency": {
+    "name": "Barbadian Dollar",
+    "code": "BBD"
+  },
+  "population": 281200,
+  "area": 430,
+  "flag": "https://flagcdn.com/bb.svg",
+  "map": "https://goo.gl/maps/nXn5F6pM8eC2",
+  "nationalSymbols": {
+    "animal": "Green Monkey",
+    "bird": "Pelecanus (Brown Pelican)",
+    "flower": "Pride of Barbados",
+    "tree": "Bearded Fig Tree",
+    "sport": "Cricket"
+  },
+  "landmark": "Harrison’s Cave",
+  "food": "Cou-Cou and Flying Fish",
+  "funFact": "Barbados is the birthplace of Rihanna."
+},
+{
+  "_id": {
+    "$oid": "68b681ce46a0ff58b641bb26"
+  },
+  "name": "Belarus",
+  "capital": "Minsk",
+  "continent": "Europe",
+  "languages": [
+    "Belarusian",
+    "Russian"
+  ],
+  "currency": {
+    "name": "Belarusian Ruble",
+    "code": "BYN"
+  },
+  "population": 9200617,
+  "area": 207600,
+  "flag": "https://flagcdn.com/by.svg",
+  "map": "https://goo.gl/maps/PLB8p7HYxKQ2",
+  "nationalSymbols": {
+    "animal": "European Bison",
+    "bird": "White Stork",
+    "flower": "Flax Flower",
+    "tree": "Birch",
+    "sport": "Ice Hockey"
+  },
+  "landmark": "Minsk Hero City Obelisk",
+  "food": "Draniki (Potato Pancakes)",
+  "funFact": "Belarus has over 40% of its land covered by forests."
+},
+{
+  "_id": {
+    "$oid": "68b681ce46a0ff58b641bb27"
+  },
+  "name": "Belgium",
+  "capital": "Brussels",
+  "continent": "Europe",
+  "languages": [
+    "Dutch",
+    "French",
+    "German"
+  ],
+  "currency": {
+    "name": "Euro",
+    "code": "EUR"
+  },
+  "population": 11589623,
+  "area": 30528,
+  "flag": "https://flagcdn.com/be.svg",
+  "map": "https://goo.gl/maps/UQQzat5Z2AT2",
+  "nationalSymbols": {
+    "animal": "Lion",
+    "bird": "Common Kestrel",
+    "flower": "Red Poppy",
+    "tree": "Oak",
+    "sport": "Cycling"
+  },
+  "landmark": "Atomium, Brussels",
+  "food": "Belgian Waffles",
+  "funFact": "Belgium invented French fries."
+},
+{
+  "_id": {
+    "$oid": "68b681ce46a0ff58b641bb28"
+  },
+  "name": "Belize",
+  "capital": "Belmopan",
+  "continent": "North America",
+  "languages": [
+    "English"
+  ],
+  "currency": {
+    "name": "Belize Dollar",
+    "code": "BZD"
+  },
+  "population": 442631,
+  "area": 22966,
+  "flag": "https://flagcdn.com/bz.svg",
+  "map": "https://goo.gl/maps/EQ4RpQjJYh82",
+  "nationalSymbols": {
+    "animal": "Baird’s Tapir",
+    "bird": "Keel-billed Toucan",
+    "flower": "Black Orchid",
+    "tree": "Mahogany",
+    "sport": "Football (Soccer)"
+  },
+  "landmark": "Great Blue Hole",
+  "food": "Rice and Beans with Stew Chicken",
+  "funFact": "Belize is the only Central American country with English as its official language."
+},
+{
+  "_id": {
+    "$oid": "68b681ce46a0ff58b641bb29"
+  },
+  "name": "Benin",
+  "capital": "Porto-Novo",
+  "continent": "Africa",
+  "languages": [
+    "French"
+  ],
+  "currency": {
+    "name": "West African CFA Franc",
+    "code": "XOF"
+  },
+  "population": 13123267,
+  "area": 112622,
+  "flag": "https://flagcdn.com/bj.svg",
+  "map": "https://goo.gl/maps/8xtb4w1MDb12",
+  "nationalSymbols": {
+    "animal": "Leopard",
+    "bird": "African Fish Eagle",
+    "flower": "Sacred Baobab",
+    "tree": "Baobab",
+    "sport": "Football (Soccer)"
+  },
+  "landmark": "Pendjari National Park",
+  "food": "Amiwo with Sauce",
+  "funFact": "Benin is the birthplace of the Vodun (Voodoo) religion."
+},
+{
+  "_id": {
+    "$oid": "68b681ce46a0ff58b641bb2a"
+  },
+  "name": "Bhutan",
+  "capital": "Thimphu",
+  "continent": "Asia",
+  "languages": [
+    "Dzongkha"
+  ],
+  "currency": {
+    "name": "Ngultrum",
+    "code": "BTN"
+  },
+  "population": 787941,
+  "area": 38394,
+  "flag": "https://flagcdn.com/bt.svg",
+  "map": "https://goo.gl/maps/ZrUK9guhgHR2",
+  "nationalSymbols": {
+    "animal": "Takin",
+    "bird": "Raven",
+    "flower": "Blue Poppy",
+    "tree": "Cypress",
+    "sport": "Archery"
+  },
+  "landmark": "Tiger’s Nest Monastery",
+  "food": "Ema Datshi",
+  "funFact": "Bhutan measures national success by Gross National Happiness (GNH)."
+},
+{
+  "_id": {
+    "$oid": "68b681ce46a0ff58b641bb2b"
+  },
+  "name": "Bolivia",
+  "capital": "Sucre (constitutional), La Paz (seat of government)",
+  "continent": "South America",
+  "languages": [
+    "Spanish",
+    "Quechua",
+    "Aymara"
+  ],
+  "currency": {
+    "name": "Bolivian Boliviano",
+    "code": "BOB"
+  },
+  "population": 12079456,
+  "area": 1098581,
+  "flag": "https://flagcdn.com/bo.svg",
+  "map": "https://goo.gl/maps/EmdQ4rcY71z",
+  "nationalSymbols": {
+    "animal": "Llama",
+    "bird": "Andean Condor",
+    "flower": "Kantuta",
+    "tree": "Queñua",
+    "sport": "Football (Soccer)"
+  },
+  "landmark": "Salar de Uyuni",
+  "food": "Salteñas",
+  "funFact": "Bolivia has two capital cities — La Paz and Sucre."
+},
+{
+  "_id": {
+    "$oid": "68b6820746a0ff58b641bbf2"
+  },
+  "name": "Bosnia and Herzegovina",
+  "capital": "Sarajevo",
+  "continent": "Europe",
+  "languages": [
+    "Bosnian",
+    "Croatian",
+    "Serbian"
+  ],
+  "currency": {
+    "name": "Convertible Mark",
+    "code": "BAM"
+  },
+  "population": 3250000,
+  "area": 51197,
+  "flag": "https://flagcdn.com/ba.svg",
+  "map": "https://goo.gl/maps/1tqZExn9y7u",
+  "nationalSymbols": {
+    "animal": "Golden Lily",
+    "bird": "Golden Eagle",
+    "flower": "Lilium bosniacum",
+    "tree": "Oak",
+    "sport": "Football"
+  },
+  "landmark": "Mostar Bridge",
+  "food": "Ćevapi",
+  "funFact": "Sarajevo hosted the 1984 Winter Olympics."
+},
+{
+  "_id": {
+    "$oid": "68b6820746a0ff58b641bbf3"
+  },
+  "name": "Botswana",
+  "capital": "Gaborone",
+  "continent": "Africa",
+  "languages": [
+    "English",
+    "Setswana"
+  ],
+  "currency": {
+    "name": "Pula",
+    "code": "BWP"
+  },
+  "population": 2675000,
+  "area": 581730,
+  "flag": "https://flagcdn.com/bw.svg",
+  "map": "https://goo.gl/maps/RHgQhFwKkQ82",
+  "nationalSymbols": {
+    "animal": "Zebra",
+    "bird": "Kori Bustard",
+    "flower": "Rosewood",
+    "tree": "Baobab",
+    "sport": "Football"
+  },
+  "landmark": "Okavango Delta",
+  "food": "Seswaa",
+  "funFact": "Botswana is home to the world’s largest population of elephants."
+},
+{
+  "_id": {
+    "$oid": "68b6820746a0ff58b641bbf4"
+  },
+  "name": "Brazil",
+  "capital": "Brasília",
+  "continent": "South America",
+  "languages": [
+    "Portuguese"
+  ],
+  "currency": {
+    "name": "Brazilian Real",
+    "code": "BRL"
+  },
+  "population": 214300000,
+  "area": 8515767,
+  "flag": "https://flagcdn.com/br.svg",
+  "map": "https://goo.gl/maps/waCKk21HeeqFzkNC9",
+  "nationalSymbols": {
+    "animal": "Jaguar",
+    "bird": "Rufous-bellied Thrush",
+    "flower": "Golden Trumpet Tree",
+    "tree": "Pau-brasil",
+    "sport": "Football"
+  },
+  "landmark": "Christ the Redeemer",
+  "food": "Feijoada",
+  "funFact": "Brazil is the only country in South America where Portuguese is the official language."
+},
+{
+  "_id": {
+    "$oid": "68b6820746a0ff58b641bbf5"
+  },
+  "name": "Brunei",
+  "capital": "Bandar Seri Begawan",
+  "continent": "Asia",
+  "languages": [
+    "Malay"
+  ],
+  "currency": {
+    "name": "Brunei Dollar",
+    "code": "BND"
+  },
+  "population": 450000,
+  "area": 5765,
+  "flag": "https://flagcdn.com/bn.svg",
+  "map": "https://goo.gl/maps/RyPQyCcvGgG2",
+  "nationalSymbols": {
+    "animal": "White-bellied Sea Eagle",
+    "bird": "White-bellied Sea Eagle",
+    "flower": "Simpor",
+    "tree": "Meranti",
+    "sport": "Sepak Takraw"
+  },
+  "landmark": "Sultan Omar Ali Saifuddien Mosque",
+  "food": "Ambuyat",
+  "funFact": "Brunei is one of the richest countries due to oil and gas reserves."
+},
+{
+  "_id": {
+    "$oid": "68b6820746a0ff58b641bbf6"
+  },
+  "name": "Bulgaria",
+  "capital": "Sofia",
+  "continent": "Europe",
+  "languages": [
+    "Bulgarian"
+  ],
+  "currency": {
+    "name": "Bulgarian Lev",
+    "code": "BGN"
+  },
+  "population": 6700000,
+  "area": 110879,
+  "flag": "https://flagcdn.com/bg.svg",
+  "map": "https://goo.gl/maps/YoHvJHCnLzD2",
+  "nationalSymbols": {
+    "animal": "Lion",
+    "bird": "Eastern Imperial Eagle",
+    "flower": "Rose",
+    "tree": "Oak",
+    "sport": "Football"
+  },
+  "landmark": "Alexander Nevsky Cathedral",
+  "food": "Banitsa",
+  "funFact": "Bulgaria is the oldest country in Europe that has kept its original name."
+},
+{
+  "_id": {
+    "$oid": "68b6820746a0ff58b641bbf7"
+  },
+  "name": "Cabo Verde",
+  "capital": "Praia",
+  "continent": "Africa",
+  "languages": [
+    "Portuguese"
+  ],
+  "currency": {
+    "name": "Cape Verdean Escudo",
+    "code": "CVE"
+  },
+  "population": 560000,
+  "area": 4033,
+  "flag": "https://flagcdn.com/cv.svg",
+  "map": "https://goo.gl/maps/KD7mJk1hN5F2",
+  "nationalSymbols": {
+    "animal": "Manatee",
+    "bird": "Grey-headed Kingfisher",
+    "flower": "Gerbera Daisy",
+    "tree": "Dragon Tree",
+    "sport": "Football"
+  },
+  "landmark": "Cidade Velha",
+  "food": "Cachupa",
+  "funFact": "Cabo Verde is an island country made up of 10 volcanic islands."
+},
+{
+  "_id": {
+    "$oid": "68b6820746a0ff58b641bbf8"
+  },
+  "name": "Cambodia",
+  "capital": "Phnom Penh",
+  "continent": "Asia",
+  "languages": [
+    "Khmer"
+  ],
+  "currency": {
+    "name": "Cambodian Riel",
+    "code": "KHR"
+  },
+  "population": 16900000,
+  "area": 181035,
+  "flag": "https://flagcdn.com/kh.svg",
+  "map": "https://goo.gl/maps/MN4hX2Y6W7x",
+  "nationalSymbols": {
+    "animal": "Kouprey",
+    "bird": "Giant Ibis",
+    "flower": "Rumdul",
+    "tree": "Palm Tree",
+    "sport": "Pradal Serey"
+  },
+  "landmark": "Angkor Wat",
+  "food": "Amok",
+  "funFact": "Cambodia is home to the largest religious monument in the world, Angkor Wat."
+},
+{
+  "_id": {
+    "$oid": "68b6820746a0ff58b641bbf9"
+  },
+  "name": "Cameroon",
+  "capital": "Yaoundé",
+  "continent": "Africa",
+  "languages": [
+    "French",
+    "English"
+  ],
+  "currency": {
+    "name": "Central African CFA franc",
+    "code": "XAF"
+  },
+  "population": 27700000,
+  "area": 475442,
+  "flag": "https://flagcdn.com/cm.svg",
+  "map": "https://goo.gl/maps/9xCPbJQpczt",
+  "nationalSymbols": {
+    "animal": "Lion",
+    "bird": "Bannerman’s Turaco",
+    "flower": "Red Stinkwood",
+    "tree": "Baobab",
+    "sport": "Football"
+  },
+  "landmark": "Mount Cameroon",
+  "food": "Ndolé",
+  "funFact": "Cameroon is often called 'Africa in miniature' due to its cultural and geographical diversity."
+},
+{
+  "_id": {
+    "$oid": "68b6820746a0ff58b641bbfa"
+  },
+  "name": "Canada",
+  "capital": "Ottawa",
+  "continent": "North America",
+  "languages": [
+    "English",
+    "French"
+  ],
+  "currency": {
+    "name": "Canadian Dollar",
+    "code": "CAD"
+  },
+  "population": 39000000,
+  "area": 9984670,
+  "flag": "https://flagcdn.com/ca.svg",
+  "map": "https://goo.gl/maps/jmEVLugreebMSjJj7",
+  "nationalSymbols": {
+    "animal": "Beaver",
+    "bird": "Common Loon",
+    "flower": "Maple Leaf",
+    "tree": "Maple Tree",
+    "sport": "Ice Hockey"
+  },
+  "landmark": "Niagara Falls",
+  "food": "Poutine",
+  "funFact": "Canada has the longest coastline of any country in the world."
+},
+{
+  "_id": {
+    "$oid": "68b6820746a0ff58b641bbfb"
+  },
+  "name": "Central African Republic",
+  "capital": "Bangui",
+  "continent": "Africa",
+  "languages": [
+    "French",
+    "Sango"
+  ],
+  "currency": {
+    "name": "Central African CFA franc",
+    "code": "XAF"
+  },
+  "population": 5500000,
+  "area": 622984,
+  "flag": "https://flagcdn.com/cf.svg",
+  "map": "https://goo.gl/maps/j8WB9xxGpRr",
+  "nationalSymbols": {
+    "animal": "African Elephant",
+    "bird": "African Fish Eagle",
+    "flower": "Hibiscus",
+    "tree": "Baobab",
+    "sport": "Football"
+  },
+  "landmark": "Boali Waterfalls",
+  "food": "Cassava Leaf Stew",
+  "funFact": "Despite its name, the Central African Republic is one of the least developed countries in the world."
+},
+{
+  "_id": {
+    "$oid": "68b6820746a0ff58b641bbfc"
+  },
+  "name": "Chad",
+  "capital": "N'Djamena",
+  "continent": "Africa",
+  "languages": [
+    "French",
+    "Arabic"
+  ],
+  "currency": {
+    "name": "Central African CFA franc",
+    "code": "XAF"
+  },
+  "population": 18000000,
+  "area": 1284000,
+  "flag": "https://flagcdn.com/td.svg",
+  "map": "https://goo.gl/maps/9fZvj6X8mUu",
+  "nationalSymbols": {
+    "animal": "Goat",
+    "bird": "Ostrich",
+    "flower": "Baobab Flower",
+    "tree": "Baobab",
+    "sport": "Football"
+  },
+  "landmark": "Lake Chad",
+  "food": "Daraba",
+  "funFact": "Chad is sometimes called 'The Babel Tower of the World' because of its over 200 ethnic groups and languages."
+},
+{
+  "_id": {
+    "$oid": "68b6820746a0ff58b641bbfd"
+  },
+  "name": "Chile",
+  "capital": "Santiago",
+  "continent": "South America",
+  "languages": [
+    "Spanish"
+  ],
+  "currency": {
+    "name": "Chilean Peso",
+    "code": "CLP"
+  },
+  "population": 19600000,
+  "area": 756102,
+  "flag": "https://flagcdn.com/cl.svg",
+  "map": "https://goo.gl/maps/G8x3pKfZc2t",
+  "nationalSymbols": {
+    "animal": "Huemul",
+    "bird": "Andean Condor",
+    "flower": "Copihue (Chilean Bellflower)",
+    "tree": "Araucaria",
+    "sport": "Rodeo"
+  },
+  "landmark": "Easter Island",
+  "food": "Empanadas",
+  "funFact": "Chile is the longest country in the world from north to south."
+},
+{
+  "_id": {
+    "$oid": "68b6820746a0ff58b641bbfe"
+  },
+  "name": "China",
+  "capital": "Beijing",
+  "continent": "Asia",
+  "languages": [
+    "Mandarin"
+  ],
+  "currency": {
+    "name": "Renminbi (Yuan)",
+    "code": "CNY"
+  },
+  "population": 1412000000,
+  "area": 9596961,
+  "flag": "https://flagcdn.com/cn.svg",
+  "map": "https://goo.gl/maps/p9qC6v8V2zr",
+  "nationalSymbols": {
+    "animal": "Giant Panda",
+    "bird": "Red-crowned Crane",
+    "flower": "Peony",
+    "tree": "Ginkgo",
+    "sport": "Table Tennis"
+  },
+  "landmark": "Great Wall of China",
+  "food": "Peking Duck",
+  "funFact": "China has the world’s largest population and the world’s fastest-growing high-speed rail network."
+},
+{
+  "_id": {
+    "$oid": "68b6820746a0ff58b641bbff"
+  },
+  "name": "Colombia",
+  "capital": "Bogotá",
+  "continent": "South America",
+  "languages": [
+    "Spanish"
+  ],
+  "currency": {
+    "name": "Colombian Peso",
+    "code": "COP"
+  },
+  "population": 52000000,
+  "area": 1141748,
+  "flag": "https://flagcdn.com/co.svg",
+  "map": "https://goo.gl/maps/E8pJ1pLh3c12",
+  "nationalSymbols": {
+    "animal": "Andean Condor",
+    "bird": "Andean Condor",
+    "flower": "Orchid (Cattleya trianae)",
+    "tree": "Wax Palm",
+    "sport": "Tejo"
+  },
+  "landmark": "Cartagena’s Old Town",
+  "food": "Arepas",
+  "funFact": "Colombia is the world’s leading producer of emeralds."
+},
+{
+  "_id": {
+    "$oid": "68b6820746a0ff58b641bc00"
+  },
+  "name": "Comoros",
+  "capital": "Moroni",
+  "continent": "Africa",
+  "languages": [
+    "Comorian",
+    "Arabic",
+    "French"
+  ],
+  "currency": {
+    "name": "Comorian Franc",
+    "code": "KMF"
+  },
+  "population": 870000,
+  "area": 2235,
+  "flag": "https://flagcdn.com/km.svg",
+  "map": "https://goo.gl/maps/qz2yC9r4Nv32",
+  "nationalSymbols": {
+    "animal": "Coelacanth (ancient fish)",
+    "bird": "Comoro Blue Pigeon",
+    "flower": "Ylang-Ylang",
+    "tree": "Coconut Palm",
+    "sport": "Football"
+  },
+  "landmark": "Mount Karthala",
+  "food": "Langouste à la Vanille (Lobster with Vanilla)",
+  "funFact": "Comoros is one of the world’s largest producers of ylang-ylang, used in perfumes."
+},
+{
+  "_id": {
+    "$oid": "68b6820746a0ff58b641bc01"
+  },
+  "name": "Congo (Republic of the Congo)",
+  "capital": "Brazzaville",
+  "continent": "Africa",
+  "languages": [
+    "French",
+    "Lingala",
+    "Kituba"
+  ],
+  "currency": {
+    "name": "Central African CFA franc",
+    "code": "XAF"
+  },
+  "population": 5900000,
+  "area": 342000,
+  "flag": "https://flagcdn.com/cg.svg",
+  "map": "https://goo.gl/maps/jLw7sVqvMEn",
+  "nationalSymbols": {
+    "animal": "African Forest Elephant",
+    "bird": "Grey Parrot",
+    "flower": "Hibiscus",
+    "tree": "Okoumé",
+    "sport": "Football"
+  },
+  "landmark": "Odzala-Kokoua National Park",
+  "food": "Poulet Moambé",
+  "funFact": "Congo is home to one of the world’s largest rainforests, second only to the Amazon."
+},
+{
+  "_id": {
+    "$oid": "68b6820746a0ff58b641bc02"
+  },
+  "name": "Congo (Democratic Republic of the Congo)",
+  "capital": "Kinshasa",
+  "continent": "Africa",
+  "languages": [
+    "French",
+    "Lingala",
+    "Swahili",
+    "Tshiluba",
+    "Kikongo"
+  ],
+  "currency": {
+    "name": "Congolese Franc",
+    "code": "CDF"
+  },
+  "population": 99000000,
+  "area": 2344858,
+  "flag": "https://flagcdn.com/cd.svg",
+  "map": "https://goo.gl/maps/bj9Zaq7xS7o",
+  "nationalSymbols": {
+    "animal": "Okapi",
+    "bird": "Congo Peafowl",
+    "flower": "Flame Tree Flower",
+    "tree": "Oil Palm",
+    "sport": "Football"
+  },
+  "landmark": "Virunga National Park",
+  "food": "Saka-Saka (cassava leaves dish)",
+  "funFact": "The Congo River is the deepest river in the world."
+},
+{
+  "_id": {
+    "$oid": "68b6820746a0ff58b641bc03"
+  },
+  "name": "Costa Rica",
+  "capital": "San José",
+  "continent": "North America",
+  "languages": [
+    "Spanish"
+  ],
+  "currency": {
+    "name": "Costa Rican Colón",
+    "code": "CRC"
+  },
+  "population": 5100000,
+  "area": 51100,
+  "flag": "https://flagcdn.com/cr.svg",
+  "map": "https://goo.gl/maps/z7zjNpp8tZp",
+  "nationalSymbols": {
+    "animal": "White-tailed Deer",
+    "bird": "Clay-colored Thrush",
+    "flower": "Guaria Morada (Orchid)",
+    "tree": "Guanacaste Tree",
+    "sport": "Football"
+  },
+  "landmark": "Arenal Volcano",
+  "food": "Gallo Pinto",
+  "funFact": "Costa Rica has no standing army since 1949."
+},
+{
+  "_id": {
+    "$oid": "68b6820746a0ff58b641bc04"
+  },
+  "name": "Croatia",
+  "capital": "Zagreb",
+  "continent": "Europe",
+  "languages": [
+    "Croatian"
+  ],
+  "currency": {
+    "name": "Euro",
+    "code": "EUR"
+  },
+  "population": 3900000,
+  "area": 56594,
+  "flag": "https://flagcdn.com/hr.svg",
+  "map": "https://goo.gl/maps/7VA9YvL1aLQ2",
+  "nationalSymbols": {
+    "animal": "Pine Marten",
+    "bird": "Nightingale",
+    "flower": "Iris",
+    "tree": "Oak",
+    "sport": "Football"
+  },
+  "landmark": "Plitvice Lakes National Park",
+  "food": "Ćevapi",
+  "funFact": "The necktie (cravat) originated in Croatia."
+},
+{
+  "_id": {
+    "$oid": "68b6820746a0ff58b641bc05"
+  },
+  "name": "Cuba",
+  "capital": "Havana",
+  "continent": "North America",
+  "languages": [
+    "Spanish"
+  ],
+  "currency": {
+    "name": "Cuban Peso",
+    "code": "CUP"
+  },
+  "population": 11300000,
+  "area": 109884,
+  "flag": "https://flagcdn.com/cu.svg",
+  "map": "https://goo.gl/maps/QMbX8fVFxE92",
+  "nationalSymbols": {
+    "animal": "Cuban Crocodile",
+    "bird": "Cuban Trogon",
+    "flower": "Butterfly Jasmine",
+    "tree": "Royal Palm",
+    "sport": "Baseball"
+  },
+  "landmark": "Old Havana",
+  "food": "Ropa Vieja",
+  "funFact": "Cuba is famous for having the world’s best cigars, hand-rolled from local tobacco."
+},
+{
+  "_id": {
+    "$oid": "68b6820746a0ff58b641bc06"
+  },
+  "name": "Cyprus",
+  "capital": "Nicosia",
+  "continent": "Europe",
+  "languages": [
+    "Greek",
+    "Turkish"
+  ],
+  "currency": {
+    "name": "Euro",
+    "code": "EUR"
+  },
+  "population": 1200000,
+  "area": 9251,
+  "flag": "https://flagcdn.com/cy.svg",
+  "map": "https://goo.gl/maps/j9VZpLtvhn82",
+  "nationalSymbols": {
+    "animal": "Cyprus Mouflon",
+    "bird": "Cyprus Warbler",
+    "flower": "Cyclamen",
+    "tree": "Olive Tree",
+    "sport": "Football"
+  },
+  "landmark": "Kyrenia Castle",
+  "food": "Halloumi Cheese",
+  "funFact": "Cyprus is the legendary birthplace of the Greek goddess Aphrodite."
+},
+{
+  "_id": {
+    "$oid": "68b6820746a0ff58b641bc07"
+  },
+  "name": "Czechia",
+  "capital": "Prague",
+  "continent": "Europe",
+  "languages": [
+    "Czech"
+  ],
+  "currency": {
+    "name": "Czech Koruna",
+    "code": "CZK"
+  },
+  "population": 10700000,
+  "area": 78865,
+  "flag": "https://flagcdn.com/cz.svg",
+  "map": "https://goo.gl/maps/47d7z5c5X9k",
+  "nationalSymbols": {
+    "animal": "Double-tailed Lion",
+    "bird": "Common Kingfisher",
+    "flower": "Rose",
+    "tree": "Small-leaved Lime",
+    "sport": "Ice Hockey"
+  },
+  "landmark": "Prague Castle",
+  "food": "Svíčková (beef with creamy sauce)",
+  "funFact": "Prague Castle is the largest ancient castle in the world."
+},
+{
+  "_id": {
+    "$oid": "68b6820746a0ff58b641bc08"
+  },
+  "name": "Denmark",
+  "capital": "Copenhagen",
+  "continent": "Europe",
+  "languages": [
+    "Danish"
+  ],
+  "currency": {
+    "name": "Danish Krone",
+    "code": "DKK"
+  },
+  "population": 5900000,
+  "area": 42933,
+  "flag": "https://flagcdn.com/dk.svg",
+  "map": "https://goo.gl/maps/oB2oJ1a3vP82",
+  "nationalSymbols": {
+    "animal": "Mute Swan",
+    "bird": "Mute Swan",
+    "flower": "Marguerite Daisy",
+    "tree": "Beech",
+    "sport": "Football"
+  },
+  "landmark": "The Little Mermaid Statue",
+  "food": "Smørrebrød",
+  "funFact": "Denmark is consistently ranked among the happiest countries in the world."
+},
+{
+  "_id": {
+    "$oid": "68b6820746a0ff58b641bc09"
+  },
+  "name": "Djibouti",
+  "capital": "Djibouti City",
+  "continent": "Africa",
+  "languages": [
+    "French",
+    "Arabic"
+  ],
+  "currency": {
+    "name": "Djiboutian Franc",
+    "code": "DJF"
+  },
+  "population": 1100000,
+  "area": 23200,
+  "flag": "https://flagcdn.com/dj.svg",
+  "map": "https://goo.gl/maps/2zvZ2W9xPpz",
+  "nationalSymbols": {
+    "animal": "Addax Antelope",
+    "bird": "Secretary Bird",
+    "flower": "Bougainvillea",
+    "tree": "Dragon Tree",
+    "sport": "Football"
+  },
+  "landmark": "Lake Assal",
+  "food": "Skudahkharis (lamb stew)",
+  "funFact": "Lake Assal in Djibouti is the saltiest body of water in Africa."
+},
+{
+  "_id": {
+    "$oid": "68b6820746a0ff58b641bc0a"
+  },
+  "name": "Dominica",
+  "capital": "Roseau",
+  "continent": "North America",
+  "languages": [
+    "English"
+  ],
+  "currency": {
+    "name": "East Caribbean Dollar",
+    "code": "XCD"
+  },
+  "population": 72000,
+  "area": 751,
+  "flag": "https://flagcdn.com/dm.svg",
+  "map": "https://goo.gl/maps/AXv6vVUwKGo",
+  "nationalSymbols": {
+    "animal": "Sisserou Parrot",
+    "bird": "Sisserou Parrot",
+    "flower": "Bwa Kwaib",
+    "tree": "Caribbean Pine",
+    "sport": "Cricket"
+  },
+  "landmark": "Boiling Lake",
+  "food": "Callaloo Soup",
+  "funFact": "Dominica is known as the 'Nature Island of the Caribbean' due to its lush rainforests and waterfalls."
+},
+{
+  "_id": {
+    "$oid": "68b6820746a0ff58b641bc0b"
+  },
+  "name": "Dominican Republic",
+  "capital": "Santo Domingo",
+  "continent": "North America",
+  "languages": [
+    "Spanish"
+  ],
+  "currency": {
+    "name": "Dominican Peso",
+    "code": "DOP"
+  },
+  "population": 10900000,
+  "area": 48671,
+  "flag": "https://flagcdn.com/do.svg",
+  "map": "https://goo.gl/maps/5X9k4FfV7hN2",
+  "nationalSymbols": {
+    "animal": "Palmchat",
+    "bird": "Palmchat",
+    "flower": "Bayahibe Rose",
+    "tree": "Mahogany",
+    "sport": "Baseball"
+  },
+  "landmark": "Colonial Zone of Santo Domingo",
+  "food": "La Bandera (rice, beans, and meat)",
+  "funFact": "The Dominican Republic is the most visited tourist destination in the Caribbean."
+},
+{
+  "_id": {
+    "$oid": "68b6820746a0ff58b641bc0c"
+  },
+  "name": "Ecuador",
+  "capital": "Quito",
+  "continent": "South America",
+  "languages": [
+    "Spanish",
+    "Quechua"
+  ],
+  "currency": {
+    "name": "United States Dollar",
+    "code": "USD"
+  },
+  "population": 17800000,
+  "area": 276841,
+  "flag": "https://flagcdn.com/ec.svg",
+  "map": "https://goo.gl/maps/PZqv4Gv1n9S2",
+  "nationalSymbols": {
+    "animal": "Andean Condor",
+    "bird": "Andean Condor",
+    "flower": "Rose",
+    "tree": "Cinnamon Tree",
+    "sport": "Football"
+  },
+  "landmark": "Galápagos Islands",
+  "food": "Ceviche",
+  "funFact": "Ecuador is named after the equator, which runs through the country."
+},
+{
+  "_id": {
+    "$oid": "68b6820746a0ff58b641bc0d"
+  },
+  "name": "Egypt",
+  "capital": "Cairo",
+  "continent": "Africa",
+  "languages": [
+    "Arabic"
+  ],
+  "currency": {
+    "name": "Egyptian Pound",
+    "code": "EGP"
+  },
+  "population": 109000000,
+  "area": 1002450,
+  "flag": "https://flagcdn.com/eg.svg",
+  "map": "https://goo.gl/maps/RZ3rA9fxg1L2",
+  "nationalSymbols": {
+    "animal": "Steppe Eagle",
+    "bird": "Steppe Eagle",
+    "flower": "Lotus",
+    "tree": "Date Palm",
+    "sport": "Football"
+  },
+  "landmark": "Pyramids of Giza",
+  "food": "Koshari",
+  "funFact": "Egypt is home to the only remaining ancient wonder, the Great Pyramid of Giza."
+},
+{
+  "_id": {
+    "$oid": "68b6820746a0ff58b641bc0e"
+  },
+  "name": "El Salvador",
+  "capital": "San Salvador",
+  "continent": "North America",
+  "languages": [
+    "Spanish"
+  ],
+  "currency": {
+    "name": "United States Dollar",
+    "code": "USD"
+  },
+  "population": 6500000,
+  "area": 21041,
+  "flag": "https://flagcdn.com/sv.svg",
+  "map": "https://goo.gl/maps/kVj9wRZJszC2",
+  "nationalSymbols": {
+    "animal": "Turquoise-browed Motmot",
+    "bird": "Turquoise-browed Motmot",
+    "flower": "Izote",
+    "tree": "Maquilishuat",
+    "sport": "Football"
+  },
+  "landmark": "Joya de Cerén",
+  "food": "Pupusa",
+  "funFact": "El Salvador is the smallest country in Central America."
+},
+{
+  "_id": {
+    "$oid": "68b6820746a0ff58b641bc0f"
+  },
+  "name": "Equatorial Guinea",
+  "capital": "Malabo",
+  "continent": "Africa",
+  "languages": [
+    "Spanish",
+    "French",
+    "Portuguese"
+  ],
+  "currency": {
+    "name": "Central African CFA Franc",
+    "code": "XAF"
+  },
+  "population": 1700000,
+  "area": 28051,
+  "flag": "https://flagcdn.com/gq.svg",
+  "map": "https://goo.gl/maps/nTQum2yXdfu",
+  "nationalSymbols": {
+    "animal": "African Elephant",
+    "bird": "African Grey Parrot",
+    "flower": "Ceiba",
+    "tree": "Silk Cotton Tree",
+    "sport": "Football"
+  },
+  "landmark": "Bata Cathedral",
+  "food": "Succotash (fish and cassava)",
+  "funFact": "Equatorial Guinea is the only African country where Spanish is an official language."
+},
+{
+  "_id": {
+    "$oid": "68b6820746a0ff58b641bc10"
+  },
+  "name": "Eritrea",
+  "capital": "Asmara",
+  "continent": "Africa",
+  "languages": [
+    "Tigrinya",
+    "Arabic",
+    "English"
+  ],
+  "currency": {
+    "name": "Nakfa",
+    "code": "ERN"
+  },
+  "population": 3600000,
+  "area": 117600,
+  "flag": "https://flagcdn.com/er.svg",
+  "map": "https://goo.gl/maps/6h9m3JmAQa82",
+  "nationalSymbols": {
+    "animal": "Arabian Camel",
+    "bird": "Rüppell’s Weaver",
+    "flower": "Hibiscus",
+    "tree": "Olive Tree",
+    "sport": "Cycling"
+  },
+  "landmark": "Asmara's Modernist Architecture",
+  "food": "Zigni with Injera",
+  "funFact": "Eritrea has one of the highest concentrations of Art Deco architecture in the world."
+},
+{
+  "_id": {
+    "$oid": "68b6820746a0ff58b641bc11"
+  },
+  "name": "Estonia",
+  "capital": "Tallinn",
+  "continent": "Europe",
+  "languages": [
+    "Estonian"
+  ],
+  "currency": {
+    "name": "Euro",
+    "code": "EUR"
+  },
+  "population": 1320000,
+  "area": 45227,
+  "flag": "https://flagcdn.com/ee.svg",
+  "map": "https://goo.gl/maps/FgzJvY8r5Ap",
+  "nationalSymbols": {
+    "animal": "Wolf",
+    "bird": "Barn Swallow",
+    "flower": "Cornflower",
+    "tree": "Oak",
+    "sport": "Basketball"
+  },
+  "landmark": "Tallinn Old Town",
+  "food": "Verivorst (blood sausage)",
+  "funFact": "Estonia was the first country to adopt online voting in national elections."
+},
+{
+  "_id": {
+    "$oid": "68b6820746a0ff58b641bc12"
+  },
+  "name": "Eswatini",
+  "capital": "Mbabane",
+  "continent": "Africa",
+  "languages": [
+    "Swazi",
+    "English"
+  ],
+  "currency": {
+    "name": "Lilangeni",
+    "code": "SZL"
+  },
+  "population": 1200000,
+  "area": 17364,
+  "flag": "https://flagcdn.com/sz.svg",
+  "map": "https://goo.gl/maps/T1o2mc7A82p",
+  "nationalSymbols": {
+    "animal": "Lion",
+    "bird": "Purple-crested Turaco",
+    "flower": "Red-hot Poker",
+    "tree": "Knobthorn",
+    "sport": "Football"
+  },
+  "landmark": "Mantenga Cultural Village",
+  "food": "Sidvudvu (pumpkin porridge)",
+  "funFact": "Eswatini is one of the last absolute monarchies in the world."
+},
+{
+  "_id": {
+    "$oid": "68b6820746a0ff58b641bc13"
+  },
+  "name": "Ethiopia",
+  "capital": "Addis Ababa",
+  "continent": "Africa",
+  "languages": [
+    "Amharic"
+  ],
+  "currency": {
+    "name": "Ethiopian Birr",
+    "code": "ETB"
+  },
+  "population": 126000000,
+  "area": 1104300,
+  "flag": "https://flagcdn.com/et.svg",
+  "map": "https://goo.gl/maps/SW5T1aXjz8v",
+  "nationalSymbols": {
+    "animal": "Lion",
+    "bird": "Abyssinian Cat",
+    "flower": "Calla Lily",
+    "tree": "Sycamore",
+    "sport": "Running"
+  },
+  "landmark": "Lalibela Rock-Hewn Churches",
+  "food": "Injera with Doro Wat",
+  "funFact": "Ethiopia is the only African country never colonized by a European power."
+},
+{
+  "_id": {
+    "$oid": "68b6820746a0ff58b641bc14"
+  },
+  "name": "Fiji",
+  "capital": "Suva",
+  "continent": "Oceania",
+  "languages": [
+    "Fijian",
+    "English",
+    "Fiji Hindi"
+  ],
+  "currency": {
+    "name": "Fijian Dollar",
+    "code": "FJD"
+  },
+  "population": 930000,
+  "area": 18274,
+  "flag": "https://flagcdn.com/fj.svg",
+  "map": "https://goo.gl/maps/Y6mXfXz9uFJ2",
+  "nationalSymbols": {
+    "animal": "Banded Iguana",
+    "bird": "Collared Lory",
+    "flower": "Tagimoucia",
+    "tree": "Palm",
+    "sport": "Rugby"
+  },
+  "landmark": "Mamanuca Islands",
+  "food": "Kokoda (marinated fish)",
+  "funFact": "Fiji is considered the birthplace of surfing in the South Pacific."
+},
+{
+  "_id": {
+    "$oid": "68b6820746a0ff58b641bc15"
+  },
+  "name": "Finland",
+  "capital": "Helsinki",
+  "continent": "Europe",
+  "languages": [
+    "Finnish",
+    "Swedish"
+  ],
+  "currency": {
+    "name": "Euro",
+    "code": "EUR"
+  },
+  "population": 5600000,
+  "area": 338424,
+  "flag": "https://flagcdn.com/fi.svg",
+  "map": "https://goo.gl/maps/HjgWDCy8W4H2",
+  "nationalSymbols": {
+    "animal": "Brown Bear",
+    "bird": "Whooper Swan",
+    "flower": "Lily of the Valley",
+    "tree": "Silver Birch",
+    "sport": "Ice Hockey"
+  },
+  "landmark": "Helsinki Cathedral",
+  "food": "Karjalanpiirakka (Karelian pasty)",
+  "funFact": "Finland has been ranked the happiest country in the world multiple times."
+},
+{
+  "_id": {
+    "$oid": "68b6820746a0ff58b641bc16"
+  },
+  "name": "France",
+  "capital": "Paris",
+  "continent": "Europe",
+  "languages": [
+    "French"
+  ],
+  "currency": {
+    "name": "Euro",
+    "code": "EUR"
+  },
+  "population": 68000000,
+  "area": 551695,
+  "flag": "https://flagcdn.com/fr.svg",
+  "map": "https://goo.gl/maps/g7QxxSFsWyTPKuzd6",
+  "nationalSymbols": {
+    "animal": "Gallic Rooster",
+    "bird": "Gallic Rooster",
+    "flower": "Iris",
+    "tree": "Oak",
+    "sport": "Football"
+  },
+  "landmark": "Eiffel Tower",
+  "food": "Baguette",
+  "funFact": "France is the most visited country in the world."
+},
+{
+  "_id": {
+    "$oid": "68b6820746a0ff58b641bc17"
+  },
+  "name": "Gabon",
+  "capital": "Libreville",
+  "continent": "Africa",
+  "languages": [
+    "French"
+  ],
+  "currency": {
+    "name": "Central African CFA franc",
+    "code": "XAF"
+  },
+  "population": 2400000,
+  "area": 267668,
+  "flag": "https://flagcdn.com/ga.svg",
+  "map": "https://goo.gl/maps/3Q4Jc1pFFLw",
+  "nationalSymbols": {
+    "animal": "Black Panther",
+    "bird": "African Grey Parrot",
+    "flower": "Hibiscus",
+    "tree": "Okoumé Tree",
+    "sport": "Football"
+  },
+  "landmark": "Loango National Park",
+  "food": "Poulet Nyembwe",
+  "funFact": "Gabon is home to nearly 80% of Africa's gorilla population."
+},
+{
+  "_id": {
+    "$oid": "68b6820746a0ff58b641bc18"
+  },
+  "name": "Gambia",
+  "capital": "Banjul",
+  "continent": "Africa",
+  "languages": [
+    "English"
+  ],
+  "currency": {
+    "name": "Gambian Dalasi",
+    "code": "GMD"
+  },
+  "population": 2600000,
+  "area": 11295,
+  "flag": "https://flagcdn.com/gm.svg",
+  "map": "https://goo.gl/maps/8gthfWQp7QQ2",
+  "nationalSymbols": {
+    "animal": "Hyena",
+    "bird": "Abyssinian Roller",
+    "flower": "White Hibiscus",
+    "tree": "Baobab",
+    "sport": "Wrestling"
+  },
+  "landmark": "Kunta Kinteh Island",
+  "food": "Domoda (peanut stew)",
+  "funFact": "The Gambia is the smallest country on mainland Africa."
+},
+{
+  "_id": {
+    "$oid": "68b6820746a0ff58b641bc19"
+  },
+  "name": "Georgia",
+  "capital": "Tbilisi",
+  "continent": "Asia",
+  "languages": [
+    "Georgian"
+  ],
+  "currency": {
+    "name": "Georgian Lari",
+    "code": "GEL"
+  },
+  "population": 3700000,
+  "area": 69700,
+  "flag": "https://flagcdn.com/ge.svg",
+  "map": "https://goo.gl/maps/VDTfC7uF6Ts",
+  "nationalSymbols": {
+    "animal": "Wolf",
+    "bird": "Common Pheasant",
+    "flower": "Rose",
+    "tree": "Grape Vine",
+    "sport": "Rugby"
+  },
+  "landmark": "Narikala Fortress",
+  "food": "Khachapuri",
+  "funFact": "Georgia is one of the oldest wine-producing regions in the world, dating back over 8,000 years."
+},
+{
+  "_id": {
+    "$oid": "68b6820746a0ff58b641bc1a"
+  },
+  "name": "Germany",
+  "capital": "Berlin",
+  "continent": "Europe",
+  "languages": [
+    "German"
+  ],
+  "currency": {
+    "name": "Euro",
+    "code": "EUR"
+  },
+  "population": 83000000,
+  "area": 357022,
+  "flag": "https://flagcdn.com/de.svg",
+  "map": "https://goo.gl/maps/mD9FBMq1nvXPRX7V7",
+  "nationalSymbols": {
+    "animal": "Black Eagle",
+    "bird": "White Stork",
+    "flower": "Cornflower",
+    "tree": "Oak",
+    "sport": "Football"
+  },
+  "landmark": "Brandenburg Gate",
+  "food": "Bratwurst",
+  "funFact": "Germany is home to over 1,500 different types of beer."
+},
+{
+  "_id": {
+    "$oid": "68b6820746a0ff58b641bc1b"
+  },
+  "name": "Ghana",
+  "capital": "Accra",
+  "continent": "Africa",
+  "languages": [
+    "English"
+  ],
+  "currency": {
+    "name": "Ghanaian Cedi",
+    "code": "GHS"
+  },
+  "population": 33000000,
+  "area": 238533,
+  "flag": "https://flagcdn.com/gh.svg",
+  "map": "https://goo.gl/maps/b6rRrA2TFqk",
+  "nationalSymbols": {
+    "animal": "Lion",
+    "bird": "Tawny Eagle",
+    "flower": "Impala Lily",
+    "tree": "Cocoa Tree",
+    "sport": "Football"
+  },
+  "landmark": "Cape Coast Castle",
+  "food": "Jollof Rice",
+  "funFact": "Ghana was the first sub-Saharan African country to gain independence in 1957."
+},
+{
+  "_id": {
+    "$oid": "68b6820746a0ff58b641bc1c"
+  },
+  "name": "Greece",
+  "capital": "Athens",
+  "continent": "Europe",
+  "languages": [
+    "Greek"
+  ],
+  "currency": {
+    "name": "Euro",
+    "code": "EUR"
+  },
+  "population": 10400000,
+  "area": 131957,
+  "flag": "https://flagcdn.com/gr.svg",
+  "map": "https://goo.gl/maps/wKpBhAQjQXpQ5c3aA",
+  "nationalSymbols": {
+    "animal": "Dolphin",
+    "bird": "Little Owl",
+    "flower": "Bear’s Breeches",
+    "tree": "Olive Tree",
+    "sport": "Football"
+  },
+  "landmark": "Parthenon",
+  "food": "Moussaka",
+  "funFact": "Greece is the birthplace of democracy and the Olympic Games."
+},
+{
+  "_id": {
+    "$oid": "68b6820746a0ff58b641bc1d"
+  },
+  "name": "Grenada",
+  "capital": "St. George's",
+  "continent": "North America",
+  "languages": [
+    "English"
+  ],
+  "currency": {
+    "name": "East Caribbean Dollar",
+    "code": "XCD"
+  },
+  "population": 125000,
+  "area": 344,
+  "flag": "https://flagcdn.com/gd.svg",
+  "map": "https://goo.gl/maps/umJKsu7uwoT2",
+  "nationalSymbols": {
+    "animal": "Armadillo",
+    "bird": "Grenada Dove",
+    "flower": "Bougainvillea",
+    "tree": "Mahogany",
+    "sport": "Cricket"
+  },
+  "landmark": "Fort George",
+  "food": "Oil Down",
+  "funFact": "Grenada is known as the 'Island of Spice' due to its large production of nutmeg and mace."
+},
+{
+  "_id": {
+    "$oid": "68b6820746a0ff58b641bc1e"
+  },
+  "name": "Guatemala",
+  "capital": "Guatemala City",
+  "continent": "North America",
+  "languages": [
+    "Spanish"
+  ],
+  "currency": {
+    "name": "Guatemalan Quetzal",
+    "code": "GTQ"
+  },
+  "population": 18000000,
+  "area": 108889,
+  "flag": "https://flagcdn.com/gt.svg",
+  "map": "https://goo.gl/maps/yt9NccTrgAq",
+  "nationalSymbols": {
+    "animal": "Resplendent Quetzal",
+    "bird": "Resplendent Quetzal",
+    "flower": "White Nun Orchid",
+    "tree": "Ceiba Tree",
+    "sport": "Football"
+  },
+  "landmark": "Tikal Ruins",
+  "food": "Pepian",
+  "funFact": "Guatemala is the birthplace of chocolate, first developed by the ancient Maya."
+},
+{
+  "_id": {
+    "$oid": "68b6820746a0ff58b641bc1f"
+  },
+  "name": "Guinea",
+  "capital": "Conakry",
+  "continent": "Africa",
+  "languages": [
+    "French"
+  ],
+  "currency": {
+    "name": "Guinean Franc",
+    "code": "GNF"
+  },
+  "population": 14000000,
+  "area": 245857,
+  "flag": "https://flagcdn.com/gn.svg",
+  "map": "https://goo.gl/maps/W1mXfYmyX6E2",
+  "nationalSymbols": {
+    "animal": "Elephant",
+    "bird": "African Fish Eagle",
+    "flower": "Red Hibiscus",
+    "tree": "Palm Tree",
+    "sport": "Football"
+  },
+  "landmark": "Mount Nimba",
+  "food": "Jollof Rice",
+  "funFact": "Guinea has some of the world’s largest reserves of bauxite, used in aluminum production."
+},
+{
+  "_id": {
+    "$oid": "68b6820746a0ff58b641bc20"
+  },
+  "name": "Guinea-Bissau",
+  "capital": "Bissau",
+  "continent": "Africa",
+  "languages": [
+    "Portuguese"
+  ],
+  "currency": {
+    "name": "West African CFA Franc",
+    "code": "XOF"
+  },
+  "population": 2000000,
+  "area": 36125,
+  "flag": "https://flagcdn.com/gw.svg",
+  "map": "https://goo.gl/maps/4r1oJzAk2AZ2",
+  "nationalSymbols": {
+    "animal": "Crocodile",
+    "bird": "African Grey Parrot",
+    "flower": "Frangipani",
+    "tree": "Palm Tree",
+    "sport": "Football"
+  },
+  "landmark": "Bissau Velho",
+  "food": "Caldo Stew",
+  "funFact": "Guinea-Bissau is famous for its Bijagos Archipelago, a UNESCO Biosphere Reserve."
+},
+{
+  "_id": {
+    "$oid": "68b6820746a0ff58b641bc21"
+  },
+  "name": "Guyana",
+  "capital": "Georgetown",
+  "continent": "South America",
+  "languages": [
+    "English"
+  ],
+  "currency": {
+    "name": "Guyanese Dollar",
+    "code": "GYD"
+  },
+  "population": 800000,
+  "area": 214969,
+  "flag": "https://flagcdn.com/gy.svg",
+  "map": "https://goo.gl/maps/ggvQEs9uYHm",
+  "nationalSymbols": {
+    "animal": "Jaguar",
+    "bird": "Hoatzin",
+    "flower": "Victoria Amazonica",
+    "tree": "Greenheart",
+    "sport": "Cricket"
+  },
+  "landmark": "Kaieteur Falls",
+  "food": "Pepperpot",
+  "funFact": "Guyana is the only South American country where English is the official language."
+},
+{
+  "_id": {
+    "$oid": "68b6820746a0ff58b641bc22"
+  },
+  "name": "Haiti",
+  "capital": "Port-au-Prince",
+  "continent": "North America",
+  "languages": [
+    "Haitian Creole",
+    "French"
+  ],
+  "currency": {
+    "name": "Haitian Gourde",
+    "code": "HTG"
+  },
+  "population": 11400000,
+  "area": 27750,
+  "flag": "https://flagcdn.com/ht.svg",
+  "map": "https://goo.gl/maps/vB6kjA4HVRA2",
+  "nationalSymbols": {
+    "animal": "Hispaniolan Trogon",
+    "bird": "Hispaniolan Trogon",
+    "flower": "Hibiscus",
+    "tree": "Royal Palm",
+    "sport": "Football"
+  },
+  "landmark": "Citadelle Laferrière",
+  "food": "Griot",
+  "funFact": "Haiti was the first independent Black republic in the world, gaining independence in 1804."
+},
+{
+  "_id": {
+    "$oid": "68b6820746a0ff58b641bc23"
+  },
+  "name": "Honduras",
+  "capital": "Tegucigalpa",
+  "continent": "North America",
+  "languages": [
+    "Spanish"
+  ],
+  "currency": {
+    "name": "Honduran Lempira",
+    "code": "HNL"
+  },
+  "population": 10000000,
+  "area": 112492,
+  "flag": "https://flagcdn.com/hn.svg",
+  "map": "https://goo.gl/maps/dK5UeXLfQ412",
+  "nationalSymbols": {
+    "animal": "White-tailed Deer",
+    "bird": "Scarlet Macaw",
+    "flower": "Orchid",
+    "tree": "Honduran Mahogany",
+    "sport": "Football"
+  },
+  "landmark": "Copán Ruins",
+  "food": "Baleadas",
+  "funFact": "Honduras has the second largest coral reef system in the world, after Australia’s Great Barrier Reef."
+},
+{
+  "_id": {
+    "$oid": "68b6820746a0ff58b641bc24"
+  },
+  "name": "Hungary",
+  "capital": "Budapest",
+  "continent": "Europe",
+  "languages": [
+    "Hungarian"
+  ],
+  "currency": {
+    "name": "Hungarian Forint",
+    "code": "HUF"
+  },
+  "population": 9600000,
+  "area": 93030,
+  "flag": "https://flagcdn.com/hu.svg",
+  "map": "https://goo.gl/maps/9T5P7C5aHnM2",
+  "nationalSymbols": {
+    "animal": "Turul (mythical bird)",
+    "bird": "White Stork",
+    "flower": "Tulip",
+    "tree": "Oak",
+    "sport": "Football"
+  },
+  "landmark": "Buda Castle",
+  "food": "Goulash",
+  "funFact": "Hungary is home to one of the oldest metro lines in Europe, built in 1896."
+},
+{
+  "_id": {
+    "$oid": "68b6820746a0ff58b641bc25"
+  },
+  "name": "Iceland",
+  "capital": "Reykjavík",
+  "continent": "Europe",
+  "languages": [
+    "Icelandic"
+  ],
+  "currency": {
+    "name": "Icelandic Króna",
+    "code": "ISK"
+  },
+  "population": 380000,
+  "area": 103000,
+  "flag": "https://flagcdn.com/is.svg",
+  "map": "https://goo.gl/maps/X54qK5x4aH72",
+  "nationalSymbols": {
+    "animal": "Gyrfalcon",
+    "bird": "Atlantic Puffin",
+    "flower": "Mountain Avens",
+    "tree": "Rowan",
+    "sport": "Handball"
+  },
+  "landmark": "Blue Lagoon",
+  "food": "Skyr",
+  "funFact": "Iceland runs almost entirely on renewable energy, mainly geothermal and hydroelectric."
+},
+{
+  "_id": {
+    "$oid": "68b6820746a0ff58b641bc26"
+  },
+  "name": "India",
+  "capital": "New Delhi",
+  "continent": "Asia",
+  "languages": [
+    "Hindi",
+    "English"
+  ],
+  "currency": {
+    "name": "Indian Rupee",
+    "code": "INR"
+  },
+  "population": 1420000000,
+  "area": 3287263,
+  "flag": "https://flagcdn.com/in.svg",
+  "map": "https://goo.gl/maps/WSk3fLwG4vt",
+  "nationalSymbols": {
+    "animal": "Bengal Tiger",
+    "bird": "Indian Peacock",
+    "flower": "Lotus",
+    "tree": "Banyan Tree",
+    "sport": "Hockey"
+  },
+  "landmark": "Taj Mahal",
+  "food": "Biryani",
+  "funFact": "India is the world’s largest democracy with over 900 million eligible voters."
+},
+{
+  "_id": {
+    "$oid": "68b6820746a0ff58b641bc27"
+  },
+  "name": "Indonesia",
+  "capital": "Jakarta",
+  "continent": "Asia",
+  "languages": [
+    "Indonesian"
+  ],
+  "currency": {
+    "name": "Indonesian Rupiah",
+    "code": "IDR"
+  },
+  "population": 273000000,
+  "area": 1904569,
+  "flag": "https://flagcdn.com/id.svg",
+  "map": "https://goo.gl/maps/2q94bD2y2yG2",
+  "nationalSymbols": {
+    "animal": "Komodo Dragon",
+    "bird": "Javan Hawk-Eagle",
+    "flower": "Jasmine",
+    "tree": "Teak",
+    "sport": "Badminton"
+  },
+  "landmark": "Borobudur Temple",
+  "food": "Nasi Goreng",
+  "funFact": "Indonesia is the world’s largest archipelago with over 17,000 islands."
+},
+{
+  "_id": {
+    "$oid": "68b6820746a0ff58b641bc28"
+  },
+  "name": "Iran",
+  "capital": "Tehran",
+  "continent": "Asia",
+  "languages": [
+    "Persian"
+  ],
+  "currency": {
+    "name": "Iranian Rial",
+    "code": "IRR"
+  },
+  "population": 85000000,
+  "area": 1648195,
+  "flag": "https://flagcdn.com/ir.svg",
+  "map": "https://goo.gl/maps/1XQdVxw2RxE2",
+  "nationalSymbols": {
+    "animal": "Asiatic Cheetah",
+    "bird": "Common Nightingale",
+    "flower": "Tulip",
+    "tree": "Cypress",
+    "sport": "Wrestling"
+  },
+  "landmark": "Persepolis",
+  "food": "Chelo Kebab",
+  "funFact": "Iran is home to one of the world’s oldest civilizations, dating back to 3200 BC."
+},
+{
+  "_id": {
+    "$oid": "68b6820746a0ff58b641bc29"
+  },
+  "name": "Iraq",
+  "capital": "Baghdad",
+  "continent": "Asia",
+  "languages": [
+    "Arabic",
+    "Kurdish"
+  ],
+  "currency": {
+    "name": "Iraqi Dinar",
+    "code": "IQD"
+  },
+  "population": 43000000,
+  "area": 438317,
+  "flag": "https://flagcdn.com/iq.svg",
+  "map": "https://goo.gl/maps/H2Jh13LxQdL2",
+  "nationalSymbols": {
+    "animal": "Goat",
+    "bird": "Chukar Partridge",
+    "flower": "Rose",
+    "tree": "Date Palm",
+    "sport": "Football"
+  },
+  "landmark": "Ziggurat of Ur",
+  "food": "Masgouf (grilled fish)",
+  "funFact": "Iraq is known as the 'Cradle of Civilization' since it was part of ancient Mesopotamia."
+},
+{
+  "_id": {
+    "$oid": "68b6820746a0ff58b641bc2a"
+  },
+  "name": "Ireland",
+  "capital": "Dublin",
+  "continent": "Europe",
+  "languages": [
+    "Irish",
+    "English"
+  ],
+  "currency": {
+    "name": "Euro",
+    "code": "EUR"
+  },
+  "population": 5000000,
+  "area": 70273,
+  "flag": "https://flagcdn.com/ie.svg",
+  "map": "https://goo.gl/maps/2M5p6iFqWvH2",
+  "nationalSymbols": {
+    "animal": "Irish Hare",
+    "bird": "Northern Lapwing",
+    "flower": "Shamrock",
+    "tree": "Sessile Oak",
+    "sport": "Gaelic Football"
+  },
+  "landmark": "Cliffs of Moher",
+  "food": "Irish Stew",
+  "funFact": "Halloween originated from the ancient Celtic festival Samhain in Ireland."
+},
+{
+  "_id": {
+    "$oid": "68b6820746a0ff58b641bc2b"
+  },
+  "name": "Israel",
+  "capital": "Jerusalem",
+  "continent": "Asia",
+  "languages": [
+    "Hebrew",
+    "Arabic"
+  ],
+  "currency": {
+    "name": "Israeli New Shekel",
+    "code": "ILS"
+  },
+  "population": 9700000,
+  "area": 20770,
+  "flag": "https://flagcdn.com/il.svg",
+  "map": "https://goo.gl/maps/LqYbRr9a8pB2",
+  "nationalSymbols": {
+    "animal": "Gazelle",
+    "bird": "Hoopoe",
+    "flower": "Anemone coronaria",
+    "tree": "Olive Tree",
+    "sport": "Football"
+  },
+  "landmark": "Western Wall",
+  "food": "Falafel",
+  "funFact": "Israel has the highest number of startups per capita in the world."
+},
+{
+  "_id": {
+    "$oid": "68b6820746a0ff58b641bc2c"
+  },
+  "name": "Italy",
+  "capital": "Rome",
+  "continent": "Europe",
+  "languages": [
+    "Italian"
+  ],
+  "currency": {
+    "name": "Euro",
+    "code": "EUR"
+  },
+  "population": 59000000,
+  "area": 301340,
+  "flag": "https://flagcdn.com/it.svg",
+  "map": "https://goo.gl/maps/2Q4fXQssvJ72",
+  "nationalSymbols": {
+    "animal": "Italian Wolf",
+    "bird": "Italian Sparrow",
+    "flower": "Lily",
+    "tree": "Stone Pine",
+    "sport": "Football"
+  },
+  "landmark": "Colosseum",
+  "food": "Pizza",
+  "funFact": "Italy has more UNESCO World Heritage Sites than any other country."
+},
+{
+  "_id": {
+    "$oid": "68b6820746a0ff58b641bc2d"
+  },
+  "name": "Jamaica",
+  "capital": "Kingston",
+  "continent": "North America",
+  "languages": [
+    "English",
+    "Jamaican Patois"
+  ],
+  "currency": {
+    "name": "Jamaican Dollar",
+    "code": "JMD"
+  },
+  "population": 2900000,
+  "area": 10991,
+  "flag": "https://flagcdn.com/jm.svg",
+  "map": "https://goo.gl/maps/nXo8Tf6cRtR2",
+  "nationalSymbols": {
+    "animal": "Red-billed Streamertail (Doctor Bird)",
+    "bird": "Doctor Bird",
+    "flower": "Lignum Vitae",
+    "tree": "Blue Mahoe",
+    "sport": "Track and Field"
+  },
+  "landmark": "Dunn’s River Falls",
+  "food": "Jerk Chicken",
+  "funFact": "Jamaica was the first Caribbean nation to gain independence in 1962."
+},
+{
+  "_id": {
+    "$oid": "68b6820746a0ff58b641bc2e"
+  },
+  "name": "Japan",
+  "capital": "Tokyo",
+  "continent": "Asia",
+  "languages": [
+    "Japanese"
+  ],
+  "currency": {
+    "name": "Japanese Yen",
+    "code": "JPY"
+  },
+  "population": 125700000,
+  "area": 377975,
+  "flag": "https://flagcdn.com/jp.svg",
+  "map": "https://goo.gl/maps/NGDL5sg4D8r",
+  "nationalSymbols": {
+    "animal": "Japanese Macaque",
+    "bird": "Green Pheasant",
+    "flower": "Cherry Blossom",
+    "tree": "Cherry Tree",
+    "sport": "Sumo Wrestling"
+  },
+  "landmark": "Mount Fuji",
+  "food": "Sushi",
+  "funFact": "Japan has more than 6,800 islands."
+},
+{
+  "_id": {
+    "$oid": "68b6820746a0ff58b641bc2f"
+  },
+  "name": "Jordan",
+  "capital": "Amman",
+  "continent": "Asia",
+  "languages": [
+    "Arabic"
+  ],
+  "currency": {
+    "name": "Jordanian Dinar",
+    "code": "JOD"
+  },
+  "population": 11000000,
+  "area": 89342,
+  "flag": "https://flagcdn.com/jo.svg",
+  "map": "https://goo.gl/maps/Zk6AcGpKZbH2",
+  "nationalSymbols": {
+    "animal": "Arabian Oryx",
+    "bird": "Sinai Rosefinch",
+    "flower": "Black Iris",
+    "tree": "Olive Tree",
+    "sport": "Football"
+  },
+  "landmark": "Petra",
+  "food": "Mansaf",
+  "funFact": "The Dead Sea, Jordan’s border lake, is the lowest point on Earth."
+},
+{
+  "_id": {
+    "$oid": "68b6820746a0ff58b641bc30"
+  },
+  "name": "Kazakhstan",
+  "capital": "Astana",
+  "continent": "Asia",
+  "languages": [
+    "Kazakh",
+    "Russian"
+  ],
+  "currency": {
+    "name": "Kazakhstani Tenge",
+    "code": "KZT"
+  },
+  "population": 19000000,
+  "area": 2724900,
+  "flag": "https://flagcdn.com/kz.svg",
+  "map": "https://goo.gl/maps/f1Xcz7fZzB82",
+  "nationalSymbols": {
+    "animal": "Snow Leopard",
+    "bird": "Golden Eagle",
+    "flower": "Lily",
+    "tree": "Spruce",
+    "sport": "Kokpar"
+  },
+  "landmark": "Baikonur Cosmodrome",
+  "food": "Beshbarmak",
+  "funFact": "Kazakhstan is the world’s largest landlocked country."
+},
+{
+  "_id": {
+    "$oid": "68b6820746a0ff58b641bc31"
+  },
+  "name": "Kenya",
+  "capital": "Nairobi",
+  "continent": "Africa",
+  "languages": [
+    "Swahili",
+    "English"
+  ],
+  "currency": {
+    "name": "Kenyan Shilling",
+    "code": "KES"
+  },
+  "population": 54000000,
+  "area": 580367,
+  "flag": "https://flagcdn.com/ke.svg",
+  "map": "https://goo.gl/maps/Nu3Mz3YqXt92",
+  "nationalSymbols": {
+    "animal": "Lion",
+    "bird": "Lilac-breasted Roller",
+    "flower": "Orchid",
+    "tree": "Acacia",
+    "sport": "Athletics"
+  },
+  "landmark": "Maasai Mara National Reserve",
+  "food": "Ugali",
+  "funFact": "Kenya is famous for producing some of the world’s best marathon runners."
+},
+{
+  "_id": {
+    "$oid": "68b6820746a0ff58b641bc32"
+  },
+  "name": "Kiribati",
+  "capital": "Tarawa",
+  "continent": "Oceania",
+  "languages": [
+    "English",
+    "Gilbertese"
+  ],
+  "currency": {
+    "name": "Australian Dollar",
+    "code": "AUD"
+  },
+  "population": 120000,
+  "area": 811,
+  "flag": "https://flagcdn.com/ki.svg",
+  "map": "https://goo.gl/maps/fH9oJtqQ9Qq",
+  "nationalSymbols": {
+    "animal": "Frigatebird",
+    "bird": "Frigatebird",
+    "flower": "Coconut Flower",
+    "tree": "Coconut Palm",
+    "sport": "Football"
+  },
+  "landmark": "Phoenix Islands Protected Area",
+  "food": "Palusami",
+  "funFact": "Kiribati is the only country that lies in all four hemispheres of the Earth."
+},
+{
+  "_id": {
+    "$oid": "68b6820746a0ff58b641bc33"
+  },
+  "name": "Kuwait",
+  "capital": "Kuwait City",
+  "continent": "Asia",
+  "languages": [
+    "Arabic"
+  ],
+  "currency": {
+    "name": "Kuwaiti Dinar",
+    "code": "KWD"
+  },
+  "population": 4300000,
+  "area": 17818,
+  "flag": "https://flagcdn.com/kw.svg",
+  "map": "https://goo.gl/maps/1Yyhdc5d6Xr",
+  "nationalSymbols": {
+    "animal": "Camel",
+    "bird": "Falcon",
+    "flower": "Arfaj",
+    "tree": "Date Palm",
+    "sport": "Football"
+  },
+  "landmark": "Kuwait Towers",
+  "food": "Machboos",
+  "funFact": "Kuwait has one of the world’s highest-valued currencies."
+},
+{
+  "_id": {
+    "$oid": "68b6820746a0ff58b641bc34"
+  },
+  "name": "Kyrgyzstan",
+  "capital": "Bishkek",
+  "continent": "Asia",
+  "languages": [
+    "Kyrgyz",
+    "Russian"
+  ],
+  "currency": {
+    "name": "Kyrgyzstani Som",
+    "code": "KGS"
+  },
+  "population": 6700000,
+  "area": 199951,
+  "flag": "https://flagcdn.com/kg.svg",
+  "map": "https://goo.gl/maps/h4B79wvV86J2",
+  "nationalSymbols": {
+    "animal": "Snow Leopard",
+    "bird": "Golden Eagle",
+    "flower": "Tulip",
+    "tree": "Walnut Tree",
+    "sport": "Kok-boru"
+  },
+  "landmark": "Issyk-Kul Lake",
+  "food": "Beshbarmak",
+  "funFact": "Over 90% of Kyrgyzstan is mountainous terrain."
+},
+{
+  "_id": {
+    "$oid": "68b6820746a0ff58b641bc35"
+  },
+  "name": "Laos",
+  "capital": "Vientiane",
+  "continent": "Asia",
+  "languages": [
+    "Lao"
+  ],
+  "currency": {
+    "name": "Lao Kip",
+    "code": "LAK"
+  },
+  "population": 7500000,
+  "area": 236800,
+  "flag": "https://flagcdn.com/la.svg",
+  "map": "https://goo.gl/maps/v5dLxv2XpJ12",
+  "nationalSymbols": {
+    "animal": "Elephant",
+    "bird": "Great Hornbill",
+    "flower": "Dok Champa (Frangipani)",
+    "tree": "Frangipani Tree",
+    "sport": "Sepak Takraw"
+  },
+  "landmark": "Pha That Luang",
+  "food": "Laap",
+  "funFact": "Laos is the only landlocked country in Southeast Asia."
+},
+{
+  "_id": {
+    "$oid": "68b6820746a0ff58b641bc36"
+  },
+  "name": "Latvia",
+  "capital": "Riga",
+  "continent": "Europe",
+  "languages": [
+    "Latvian"
+  ],
+  "currency": {
+    "name": "Euro",
+    "code": "EUR"
+  },
+  "population": 1900000,
+  "area": 64559,
+  "flag": "https://flagcdn.com/lv.svg",
+  "map": "https://goo.gl/maps/M6UP8wA39Sp",
+  "nationalSymbols": {
+    "animal": "White Wagtail",
+    "bird": "White Wagtail",
+    "flower": "Oxeye Daisy",
+    "tree": "Oak Tree",
+    "sport": "Ice Hockey"
+  },
+  "landmark": "Riga Old Town",
+  "food": "Grey Peas with Bacon",
+  "funFact": "Latvia has one of the fastest internet speeds in the world."
+},
+{
+  "_id": {
+    "$oid": "68b6820746a0ff58b641bc37"
+  },
+  "name": "Lebanon",
+  "capital": "Beirut",
+  "continent": "Asia",
+  "languages": [
+    "Arabic",
+    "French"
+  ],
+  "currency": {
+    "name": "Lebanese Pound",
+    "code": "LBP"
+  },
+  "population": 5200000,
+  "area": 10452,
+  "flag": "https://flagcdn.com/lb.svg",
+  "map": "https://goo.gl/maps/MzVhXNRv8gk",
+  "nationalSymbols": {
+    "animal": "Striped Hyena",
+    "bird": "Lebanese Cedar Eagle",
+    "flower": "Cyclamen",
+    "tree": "Cedar of Lebanon",
+    "sport": "Basketball"
+  },
+  "landmark": "Baalbek Ruins",
+  "food": "Tabbouleh",
+  "funFact": "Lebanon is home to one of the world’s oldest continuously inhabited cities, Byblos."
+},
+{
+  "_id": {
+    "$oid": "68b6820746a0ff58b641bc38"
+  },
+  "name": "Lesotho",
+  "capital": "Maseru",
+  "continent": "Africa",
+  "languages": [
+    "Sesotho",
+    "English"
+  ],
+  "currency": {
+    "name": "Lesotho Loti",
+    "code": "LSL"
+  },
+  "population": 2200000,
+  "area": 30355,
+  "flag": "https://flagcdn.com/ls.svg",
+  "map": "https://goo.gl/maps/Q1XgAk7NmqD2",
+  "nationalSymbols": {
+    "animal": "Black Rhinoceros",
+    "bird": "Blue Crane",
+    "flower": "Spiral Aloe",
+    "tree": "Cheche",
+    "sport": "Football"
+  },
+  "landmark": "Maletsunyane Falls",
+  "food": "Papa with moroho",
+  "funFact": "Lesotho is one of the few countries in the world entirely above 1,000 meters elevation."
+},
+{
+  "_id": {
+    "$oid": "68b6820746a0ff58b641bc39"
+  },
+  "name": "Liberia",
+  "capital": "Monrovia",
+  "continent": "Africa",
+  "languages": [
+    "English"
+  ],
+  "currency": {
+    "name": "Liberian Dollar",
+    "code": "LRD"
+  },
+  "population": 5300000,
+  "area": 111369,
+  "flag": "https://flagcdn.com/lr.svg",
+  "map": "https://goo.gl/maps/K3o2P2wz8mA2",
+  "nationalSymbols": {
+    "animal": "Pygmy Hippopotamus",
+    "bird": "Common Bulbul",
+    "flower": "Pepper Flower",
+    "tree": "Pepper Tree",
+    "sport": "Football"
+  },
+  "landmark": "Providence Island",
+  "food": "Jollof Rice",
+  "funFact": "Liberia is Africa’s oldest republic, founded in 1847."
+},
+{
+  "_id": {
+    "$oid": "68b6820746a0ff58b641bc3a"
+  },
+  "name": "Libya",
+  "capital": "Tripoli",
+  "continent": "Africa",
+  "languages": [
+    "Arabic"
+  ],
+  "currency": {
+    "name": "Libyan Dinar",
+    "code": "LYD"
+  },
+  "population": 6800000,
+  "area": 1759540,
+  "flag": "https://flagcdn.com/ly.svg",
+  "map": "https://goo.gl/maps/GLCvwv5P2yz",
+  "nationalSymbols": {
+    "animal": "Arabian Horse",
+    "bird": "Eagle",
+    "flower": "Pomegranate Flower",
+    "tree": "Olive Tree",
+    "sport": "Football"
+  },
+  "landmark": "Leptis Magna",
+  "food": "Couscous",
+  "funFact": "Libya has the largest proven oil reserves in Africa."
+},
+{
+  "_id": {
+    "$oid": "68b6820746a0ff58b641bc3b"
+  },
+  "name": "Liechtenstein",
+  "capital": "Vaduz",
+  "continent": "Europe",
+  "languages": [
+    "German"
+  ],
+  "currency": {
+    "name": "Swiss Franc",
+    "code": "CHF"
+  },
+  "population": 39000,
+  "area": 160,
+  "flag": "https://flagcdn.com/li.svg",
+  "map": "https://goo.gl/maps/fGHBq5a4tXQ2",
+  "nationalSymbols": {
+    "animal": "Kestrel",
+    "bird": "Kestrel",
+    "flower": "Yellow Gentian",
+    "tree": "Lime Tree",
+    "sport": "Skiing"
+  },
+  "landmark": "Vaduz Castle",
+  "food": "Käsknöpfle",
+  "funFact": "Liechtenstein is one of only two countries in the world that are doubly landlocked."
+},
+{
+  "_id": {
+    "$oid": "68b6820746a0ff58b641bc3c"
+  },
+  "name": "Lithuania",
+  "capital": "Vilnius",
+  "continent": "Europe",
+  "languages": [
+    "Lithuanian"
+  ],
+  "currency": {
+    "name": "Euro",
+    "code": "EUR"
+  },
+  "population": 2800000,
+  "area": 65300,
+  "flag": "https://flagcdn.com/lt.svg",
+  "map": "https://goo.gl/maps/jzX1EZj41mJ2",
+  "nationalSymbols": {
+    "animal": "Stork",
+    "bird": "White Stork",
+    "flower": "Rue",
+    "tree": "Oak Tree",
+    "sport": "Basketball"
+  },
+  "landmark": "Vilnius Old Town",
+  "food": "Cepelinai",
+  "funFact": "Lithuania was the first Soviet republic to declare independence in 1990."
+},
+{
+  "_id": {
+    "$oid": "68b6820746a0ff58b641bc3d"
+  },
+  "name": "Luxembourg",
+  "capital": "Luxembourg City",
+  "continent": "Europe",
+  "languages": [
+    "Luxembourgish",
+    "French",
+    "German"
+  ],
+  "currency": {
+    "name": "Euro",
+    "code": "EUR"
+  },
+  "population": 660000,
+  "area": 2586,
+  "flag": "https://flagcdn.com/lu.svg",
+  "map": "https://goo.gl/maps/L6EoY3RyVJ32",
+  "nationalSymbols": {
+    "animal": "Red Lion",
+    "bird": "Goldcrest",
+    "flower": "Rose",
+    "tree": "Oak Tree",
+    "sport": "Football"
+  },
+  "landmark": "Vianden Castle",
+  "food": "Judd mat Gaardebounen",
+  "funFact": "Luxembourg is one of the richest countries in the world by GDP per capita."
+},
+{
+  "_id": {
+    "$oid": "68b6820746a0ff58b641bc3e"
+  },
+  "name": "Madagascar",
+  "capital": "Antananarivo",
+  "continent": "Africa",
+  "languages": [
+    "Malagasy",
+    "French"
+  ],
+  "currency": {
+    "name": "Malagasy Ariary",
+    "code": "MGA"
+  },
+  "population": 30000000,
+  "area": 587041,
+  "flag": "https://flagcdn.com/mg.svg",
+  "map": "https://goo.gl/maps/TK6sVw2DzP62",
+  "nationalSymbols": {
+    "animal": "Lemur",
+    "bird": "Cuckoo-Roller",
+    "flower": "Poinciana",
+    "tree": "Baobab",
+    "sport": "Football"
+  },
+  "landmark": "Avenue of the Baobabs",
+  "food": "Romazava",
+  "funFact": "Madagascar is home to 5% of the world’s plant and animal species."
+},
+{
+  "_id": {
+    "$oid": "68b6820746a0ff58b641bc3f"
+  },
+  "name": "Malawi",
+  "capital": "Lilongwe",
+  "continent": "Africa",
+  "languages": [
+    "English",
+    "Chichewa"
+  ],
+  "currency": {
+    "name": "Malawian Kwacha",
+    "code": "MWK"
+  },
+  "population": 21000000,
+  "area": 118484,
+  "flag": "https://flagcdn.com/mw.svg",
+  "map": "https://goo.gl/maps/LxdrBfoe7oA2",
+  "nationalSymbols": {
+    "animal": "Thomson's Gazelle",
+    "bird": "African Fish Eagle",
+    "flower": "Lotus",
+    "tree": "Baobab",
+    "sport": "Football"
+  },
+  "landmark": "Lake Malawi",
+  "food": "Nsima",
+  "funFact": "Lake Malawi has more species of fish than any other lake in the world."
+},
+{
+  "_id": {
+    "$oid": "68b6820746a0ff58b641bc40"
+  },
+  "name": "Malaysia",
+  "capital": "Kuala Lumpur",
+  "continent": "Asia",
+  "languages": [
+    "Malay"
+  ],
+  "currency": {
+    "name": "Malaysian Ringgit",
+    "code": "MYR"
+  },
+  "population": 34000000,
+  "area": 330803,
+  "flag": "https://flagcdn.com/my.svg",
+  "map": "https://goo.gl/maps/7tWmXtr8Y9M2",
+  "nationalSymbols": {
+    "animal": "Malayan Tiger",
+    "bird": "Hornbill",
+    "flower": "Hibiscus",
+    "tree": "Meranti",
+    "sport": "Badminton"
+  },
+  "landmark": "Petronas Towers",
+  "food": "Nasi Lemak",
+  "funFact": "Malaysia is one of the world’s largest producers of palm oil."
+},
+{
+  "_id": {
+    "$oid": "68b6820746a0ff58b641bc41"
+  },
+  "name": "Maldives",
+  "capital": "Malé",
+  "continent": "Asia",
+  "languages": [
+    "Dhivehi"
+  ],
+  "currency": {
+    "name": "Maldivian Rufiyaa",
+    "code": "MVR"
+  },
+  "population": 520000,
+  "area": 298,
+  "flag": "https://flagcdn.com/mv.svg",
+  "map": "https://goo.gl/maps/YEw2zHvrx5T2",
+  "nationalSymbols": {
+    "animal": "Yellowfin Tuna",
+    "bird": "White Tern",
+    "flower": "Pink Rose",
+    "tree": "Coconut Palm",
+    "sport": "Football"
+  },
+  "landmark": "Malé Friday Mosque",
+  "food": "Mas Huni",
+  "funFact": "The Maldives is the lowest-lying country in the world, with an average ground level of just 1.5 meters."
+},
+{
+  "_id": {
+    "$oid": "68b6820746a0ff58b641bc42"
+  },
+  "name": "Mali",
+  "capital": "Bamako",
+  "continent": "Africa",
+  "languages": [
+    "French",
+    "Bambara"
+  ],
+  "currency": {
+    "name": "West African CFA franc",
+    "code": "XOF"
+  },
+  "population": 22000000,
+  "area": 1240192,
+  "flag": "https://flagcdn.com/ml.svg",
+  "map": "https://goo.gl/maps/owC8i3HbPsp",
+  "nationalSymbols": {
+    "animal": "Vulture",
+    "bird": "Guinea Fowl",
+    "flower": "Baobab Flower",
+    "tree": "Baobab",
+    "sport": "Football"
+  },
+  "landmark": "Great Mosque of Djenné",
+  "food": "Tigadegena (peanut stew)",
+  "funFact": "Mali is home to Timbuktu, an ancient center of Islamic learning."
+},
+{
+  "_id": {
+    "$oid": "68b6820746a0ff58b641bc43"
+  },
+  "name": "Malta",
+  "capital": "Valletta",
+  "continent": "Europe",
+  "languages": [
+    "Maltese",
+    "English"
+  ],
+  "currency": {
+    "name": "Euro",
+    "code": "EUR"
+  },
+  "population": 520000,
+  "area": 316,
+  "flag": "https://flagcdn.com/mt.svg",
+  "map": "https://goo.gl/maps/MCBvYh7m1aE2",
+  "nationalSymbols": {
+    "animal": "Pharaoh Hound",
+    "bird": "Blue Rock Thrush",
+    "flower": "Maltese Centaury",
+    "tree": "Olive Tree",
+    "sport": "Football"
+  },
+  "landmark": "Mdina",
+  "food": "Pastizzi",
+  "funFact": "Malta has some of the oldest free-standing temples in the world, older than Stonehenge."
+},
+{
+  "_id": {
+    "$oid": "68b6820746a0ff58b641bc44"
+  },
+  "name": "Marshall Islands",
+  "capital": "Majuro",
+  "continent": "Oceania",
+  "languages": [
+    "Marshallese",
+    "English"
+  ],
+  "currency": {
+    "name": "United States Dollar",
+    "code": "USD"
+  },
+  "population": 59000,
+  "area": 181,
+  "flag": "https://flagcdn.com/mh.svg",
+  "map": "https://goo.gl/maps/yfs7uFwF4mA2",
+  "nationalSymbols": {
+    "animal": "Green Turtle",
+    "bird": "Reef Heron",
+    "flower": "Plumeria",
+    "tree": "Breadfruit Tree",
+    "sport": "Canoeing"
+  },
+  "landmark": "Bikini Atoll",
+  "food": "Bwiro (fermented breadfruit)",
+  "funFact": "Bikini Atoll in the Marshall Islands was the site of nuclear testing by the US in the 20th century."
+},
+{
+  "_id": {
+    "$oid": "68b6820746a0ff58b641bc45"
+  },
+  "name": "Mauritania",
+  "capital": "Nouakchott",
+  "continent": "Africa",
+  "languages": [
+    "Arabic",
+    "French"
+  ],
+  "currency": {
+    "name": "Ouguiya",
+    "code": "MRU"
+  },
+  "population": 4900000,
+  "area": 1030700,
+  "flag": "https://flagcdn.com/mr.svg",
+  "map": "https://goo.gl/maps/NpXW1CwKjyt",
+  "nationalSymbols": {
+    "animal": "Camel",
+    "bird": "White Pelican",
+    "flower": "Desert Rose",
+    "tree": "Acacia",
+    "sport": "Football"
+  },
+  "landmark": "Ancient City of Chinguetti",
+  "food": "Thieboudienne",
+  "funFact": "Mauritania was the last country in the world to abolish slavery, in 1981."
+},
+{
+  "_id": {
+    "$oid": "68b6820746a0ff58b641bc46"
+  },
+  "name": "Mauritius",
+  "capital": "Port Louis",
+  "continent": "Africa",
+  "languages": [
+    "English",
+    "French",
+    "Mauritian Creole"
+  ],
+  "currency": {
+    "name": "Mauritian Rupee",
+    "code": "MUR"
+  },
+  "population": 1300000,
+  "area": 2040,
+  "flag": "https://flagcdn.com/mu.svg",
+  "map": "https://goo.gl/maps/5aFZkVHTj3z",
+  "nationalSymbols": {
+    "animal": "Dodo (extinct)",
+    "bird": "Pink Pigeon",
+    "flower": "Trochetia Boutoniana",
+    "tree": "Ebony",
+    "sport": "Football"
+  },
+  "landmark": "Le Morne Brabant",
+  "food": "Dholl Puri",
+  "funFact": "Mauritius was once the only home of the dodo bird, which became extinct in the 17th century."
+},
+{
+  "_id": {
+    "$oid": "68b6820746a0ff58b641bc47"
+  },
+  "name": "Mexico",
+  "capital": "Mexico City",
+  "continent": "North America",
+  "languages": [
+    "Spanish"
+  ],
+  "currency": {
+    "name": "Mexican Peso",
+    "code": "MXN"
+  },
+  "population": 128900000,
+  "area": 1964375,
+  "flag": "https://flagcdn.com/mx.svg",
+  "map": "https://goo.gl/maps/s8uFSfYbA1F2",
+  "nationalSymbols": {
+    "animal": "Golden Eagle",
+    "bird": "Golden Eagle",
+    "flower": "Dahlia",
+    "tree": "Ahuehuete",
+    "sport": "Football"
+  },
+  "landmark": "Chichen Itza",
+  "food": "Tacos",
+  "funFact": "Mexico introduced chocolate, corn, and chilies to the world."
+},
+{
+  "_id": {
+    "$oid": "68b6820746a0ff58b641bc48"
+  },
+  "name": "Micronesia",
+  "capital": "Palikir",
+  "continent": "Oceania",
+  "languages": [
+    "English"
+  ],
+  "currency": {
+    "name": "United States Dollar",
+    "code": "USD"
+  },
+  "population": 115000,
+  "area": 702,
+  "flag": "https://flagcdn.com/fm.svg",
+  "map": "https://goo.gl/maps/7gj2UhJfC1A2",
+  "nationalSymbols": {
+    "animal": "Sea Turtle",
+    "bird": "White Tern",
+    "flower": "Hibiscus",
+    "tree": "Coconut Palm",
+    "sport": "Wrestling"
+  },
+  "landmark": "Nan Madol",
+  "food": "Taro and breadfruit dishes",
+  "funFact": "Micronesia consists of over 600 islands scattered across the western Pacific Ocean."
+},
+{
+  "_id": {
+    "$oid": "68b6820746a0ff58b641bc49"
+  },
+  "name": "Moldova",
+  "capital": "Chișinău",
+  "continent": "Europe",
+  "languages": [
+    "Romanian"
+  ],
+  "currency": {
+    "name": "Moldovan Leu",
+    "code": "MDL"
+  },
+  "population": 2600000,
+  "area": 33846,
+  "flag": "https://flagcdn.com/md.svg",
+  "map": "https://goo.gl/maps/jtZDNbH5GH12",
+  "nationalSymbols": {
+    "animal": "Aurochs",
+    "bird": "White Stork",
+    "flower": "Basil",
+    "tree": "Oak",
+    "sport": "Football"
+  },
+  "landmark": "Orheiul Vechi Monastery",
+  "food": "Mămăligă (cornmeal porridge)",
+  "funFact": "Moldova is one of the world’s largest wine producers."
+},
+{
+  "_id": {
+    "$oid": "68b6820746a0ff58b641bc4a"
+  },
+  "name": "Monaco",
+  "capital": "Monaco",
+  "continent": "Europe",
+  "languages": [
+    "French"
+  ],
+  "currency": {
+    "name": "Euro",
+    "code": "EUR"
+  },
+  "population": 39000,
+  "area": 2,
+  "flag": "https://flagcdn.com/mc.svg",
+  "map": "https://goo.gl/maps/nRSkjWgQjJz",
+  "nationalSymbols": {
+    "animal": "Hedgehog",
+    "bird": "Rock Pigeon",
+    "flower": "Carnation",
+    "tree": "Aleppo Pine",
+    "sport": "Formula 1"
+  },
+  "landmark": "Monte Carlo Casino",
+  "food": "Barbajuan",
+  "funFact": "Monaco is the second smallest country in the world, after Vatican City."
+},
+{
+  "_id": {
+    "$oid": "68b6820746a0ff58b641bc4b"
+  },
+  "name": "Mongolia",
+  "capital": "Ulaanbaatar",
+  "continent": "Asia",
+  "languages": [
+    "Mongolian"
+  ],
+  "currency": {
+    "name": "Tögrög",
+    "code": "MNT"
+  },
+  "population": 3400000,
+  "area": 1564116,
+  "flag": "https://flagcdn.com/mn.svg",
+  "map": "https://goo.gl/maps/2cQdZLQwYj72",
+  "nationalSymbols": {
+    "animal": "Przewalski's Horse",
+    "bird": "Saker Falcon",
+    "flower": "Scabiosa Butterfly Blue",
+    "tree": "Siberian Pine",
+    "sport": "Wrestling"
+  },
+  "landmark": "Gobi Desert",
+  "food": "Buuz (steamed dumplings)",
+  "funFact": "Mongolia is known as the 'Land of the Eternal Blue Sky' because it has over 250 sunny days each year."
+},
+{
+  "_id": {
+    "$oid": "68b6820746a0ff58b641bc4c"
+  },
+  "name": "Montenegro",
+  "capital": "Podgorica",
+  "continent": "Europe",
+  "languages": [
+    "Montenegrin"
+  ],
+  "currency": {
+    "name": "Euro",
+    "code": "EUR"
+  },
+  "population": 620000,
+  "area": 13812,
+  "flag": "https://flagcdn.com/me.svg",
+  "map": "https://goo.gl/maps/jrY1YVyg7u32",
+  "nationalSymbols": {
+    "animal": "Griffon Vulture",
+    "bird": "Golden Eagle",
+    "flower": "Mountain Bell",
+    "tree": "Olive Tree",
+    "sport": "Football"
+  },
+  "landmark": "Bay of Kotor",
+  "food": "Njeguški pršut (smoked ham)",
+  "funFact": "Montenegro means 'Black Mountain' in Italian."
+},
+{
+  "_id": {
+    "$oid": "68b6820746a0ff58b641bc4d"
+  },
+  "name": "Morocco",
+  "capital": "Rabat",
+  "continent": "Africa",
+  "languages": [
+    "Arabic",
+    "Berber"
+  ],
+  "currency": {
+    "name": "Moroccan Dirham",
+    "code": "MAD"
+  },
+  "population": 37000000,
+  "area": 446550,
+  "flag": "https://flagcdn.com/ma.svg",
+  "map": "https://goo.gl/maps/G7Qxxo4h5Rt",
+  "nationalSymbols": {
+    "animal": "Barbary Lion",
+    "bird": "Moussier's Redstart",
+    "flower": "Iris tingitana",
+    "tree": "Argan Tree",
+    "sport": "Football"
+  },
+  "landmark": "Hassan II Mosque",
+  "food": "Couscous",
+  "funFact": "Morocco is home to the world's oldest continuously operating university, Al Quaraouiyine (founded in 859)."
+},
+{
+  "_id": {
+    "$oid": "68b6820746a0ff58b641bc4e"
+  },
+  "name": "Mozambique",
+  "capital": "Maputo",
+  "continent": "Africa",
+  "languages": [
+    "Portuguese"
+  ],
+  "currency": {
+    "name": "Mozambican Metical",
+    "code": "MZN"
+  },
+  "population": 33000000,
+  "area": 801590,
+  "flag": "https://flagcdn.com/mz.svg",
+  "map": "https://goo.gl/maps/7TUnf4Rn7c42",
+  "nationalSymbols": {
+    "animal": "African Elephant",
+    "bird": "African Fish Eagle",
+    "flower": "Maroon Bell Bean",
+    "tree": "Baobab",
+    "sport": "Football"
+  },
+  "landmark": "Island of Mozambique",
+  "food": "Piri Piri Chicken",
+  "funFact": "Mozambique's flag is the only national flag in the world to feature a modern weapon (an AK-47)."
+},
+{
+  "_id": {
+    "$oid": "68b6820746a0ff58b641bc4f"
+  },
+  "name": "Myanmar",
+  "capital": "Naypyidaw",
+  "continent": "Asia",
+  "languages": [
+    "Burmese"
+  ],
+  "currency": {
+    "name": "Kyat",
+    "code": "MMK"
+  },
+  "population": 54000000,
+  "area": 676578,
+  "flag": "https://flagcdn.com/mm.svg",
+  "map": "https://goo.gl/maps/HiLqM1Lx4oM2",
+  "nationalSymbols": {
+    "animal": "Green Peafowl",
+    "bird": "Green Peafowl",
+    "flower": "Padauk",
+    "tree": "Padauk Tree",
+    "sport": "Chinlone"
+  },
+  "landmark": "Shwedagon Pagoda",
+  "food": "Mohinga (rice noodle soup)",
+  "funFact": "Myanmar is known as the 'Land of Pagodas' with thousands of Buddhist temples and stupas."
+},
+{
+  "_id": {
+    "$oid": "68b6820746a0ff58b641bc50"
+  },
+  "name": "Namibia",
+  "capital": "Windhoek",
+  "continent": "Africa",
+  "languages": [
+    "English"
+  ],
+  "currency": {
+    "name": "Namibian Dollar",
+    "code": "NAD"
+  },
+  "population": 2600000,
+  "area": 825615,
+  "flag": "https://flagcdn.com/na.svg",
+  "map": "https://goo.gl/maps/3DFQwVhPTy72",
+  "nationalSymbols": {
+    "animal": "Oryx",
+    "bird": "African Fish Eagle",
+    "flower": "Welwitschia",
+    "tree": "Camelthorn",
+    "sport": "Football"
+  },
+  "landmark": "Sossusvlei Dunes",
+  "food": "Kapana (street barbecue)",
+  "funFact": "Namibia is home to the world’s oldest desert, the Namib Desert."
+},
+{
+  "_id": {
+    "$oid": "68b6820746a0ff58b641bc51"
+  },
+  "name": "Nauru",
+  "capital": "Yaren (de facto)",
+  "continent": "Oceania",
+  "languages": [
+    "Nauruan",
+    "English"
+  ],
+  "currency": {
+    "name": "Australian Dollar",
+    "code": "AUD"
+  },
+  "population": 10000,
+  "area": 21,
+  "flag": "https://flagcdn.com/nr.svg",
+  "map": "https://goo.gl/maps/fk3mQn7Y7FQ2",
+  "nationalSymbols": {
+    "animal": "Frigatebird",
+    "bird": "Frigatebird",
+    "flower": "Calophyllum Tree Flower",
+    "tree": "Tomano Tree",
+    "sport": "Australian Rules Football"
+  },
+  "landmark": "Buada Lagoon",
+  "food": "Coconut fish",
+  "funFact": "Nauru is the third smallest country in the world by land area."
+},
+{
+  "_id": {
+    "$oid": "68b6820746a0ff58b641bc52"
+  },
+  "name": "Nepal",
+  "capital": "Kathmandu",
+  "continent": "Asia",
+  "languages": [
+    "Nepali"
+  ],
+  "currency": {
+    "name": "Nepalese Rupee",
+    "code": "NPR"
+  },
+  "population": 30000000,
+  "area": 147516,
+  "flag": "https://flagcdn.com/np.svg",
+  "map": "https://goo.gl/maps/Zh3mJxYtLRp",
+  "nationalSymbols": {
+    "animal": "Cow",
+    "bird": "Himalayan Monal",
+    "flower": "Rhododendron",
+    "tree": "Sal Tree",
+    "sport": "Volleyball"
+  },
+  "landmark": "Mount Everest",
+  "food": "Dal Bhat",
+  "funFact": "Nepal is the only country in the world with a non-rectangular flag."
+},
+{
+  "_id": {
+    "$oid": "68b6820746a0ff58b641bc53"
+  },
+  "name": "Netherlands",
+  "capital": "Amsterdam",
+  "continent": "Europe",
+  "languages": [
+    "Dutch"
+  ],
+  "currency": {
+    "name": "Euro",
+    "code": "EUR"
+  },
+  "population": 17500000,
+  "area": 41543,
+  "flag": "https://flagcdn.com/nl.svg",
+  "map": "https://goo.gl/maps/7P5sbvPrh5x",
+  "nationalSymbols": {
+    "animal": "Lion",
+    "bird": "Black-tailed Godwit",
+    "flower": "Tulip",
+    "tree": "Oak",
+    "sport": "Football"
+  },
+  "landmark": "Kinderdijk Windmills",
+  "food": "Stroopwafel",
+  "funFact": "About a third of the Netherlands lies below sea level."
+},
+{
+  "_id": {
+    "$oid": "68b6820746a0ff58b641bc54"
+  },
+  "name": "New Zealand",
+  "capital": "Wellington",
+  "continent": "Oceania",
+  "languages": [
+    "English",
+    "Māori"
+  ],
+  "currency": {
+    "name": "New Zealand Dollar",
+    "code": "NZD"
+  },
+  "population": 5100000,
+  "area": 268838,
+  "flag": "https://flagcdn.com/nz.svg",
+  "map": "https://goo.gl/maps/xkVx1b6fZZw",
+  "nationalSymbols": {
+    "animal": "Kiwi",
+    "bird": "Kiwi",
+    "flower": "Kōwhai",
+    "tree": "Silver Fern",
+    "sport": "Rugby Union"
+  },
+  "landmark": "Milford Sound",
+  "food": "Hangi",
+  "funFact": "New Zealand was the first country to grant women the right to vote (1893)."
+},
+{
+  "_id": {
+    "$oid": "68b6820746a0ff58b641bc55"
+  },
+  "name": "Nicaragua",
+  "capital": "Managua",
+  "continent": "North America",
+  "languages": [
+    "Spanish"
+  ],
+  "currency": {
+    "name": "Nicaraguan Córdoba",
+    "code": "NIO"
+  },
+  "population": 6700000,
+  "area": 130375,
+  "flag": "https://flagcdn.com/ni.svg",
+  "map": "https://goo.gl/maps/9Ryq2f7gUo32",
+  "nationalSymbols": {
+    "animal": "Guardabarranco (Motmot)",
+    "bird": "Turquoise-browed Motmot",
+    "flower": "Sacuanjoche (Plumeria)",
+    "tree": "Madroño",
+    "sport": "Baseball"
+  },
+  "landmark": "Masaya Volcano",
+  "food": "Gallo Pinto",
+  "funFact": "Nicaragua has the largest freshwater lake in Central America, Lake Nicaragua."
+},
+{
+  "_id": {
+    "$oid": "68b6820746a0ff58b641bc56"
+  },
+  "name": "Niger",
+  "capital": "Niamey",
+  "continent": "Africa",
+  "languages": [
+    "French"
+  ],
+  "currency": {
+    "name": "West African CFA franc",
+    "code": "XOF"
+  },
+  "population": 25000000,
+  "area": 1267000,
+  "flag": "https://flagcdn.com/ne.svg",
+  "map": "https://goo.gl/maps/7Asu2kFZpD42",
+  "nationalSymbols": {
+    "animal": "Dromedary Camel",
+    "bird": "Guinea Fowl",
+    "flower": "Geranium",
+    "tree": "Baobab",
+    "sport": "Football"
+  },
+  "landmark": "Agadez Mosque",
+  "food": "Jollof Rice",
+  "funFact": "Niger is one of the hottest countries in the world, with much of it covered by the Sahara Desert."
+},
+{
+  "_id": {
+    "$oid": "68b6820746a0ff58b641bc57"
+  },
+  "name": "Nigeria",
+  "capital": "Abuja",
+  "continent": "Africa",
+  "languages": [
+    "English"
+  ],
+  "currency": {
+    "name": "Nigerian Naira",
+    "code": "NGN"
+  },
+  "population": 223000000,
+  "area": 923768,
+  "flag": "https://flagcdn.com/ng.svg",
+  "map": "https://goo.gl/maps/bX9z2rQaG7C2",
+  "nationalSymbols": {
+    "animal": "Eagle",
+    "bird": "Black Crowned Crane",
+    "flower": "Costus Spectabilis",
+    "tree": "Baobab",
+    "sport": "Football"
+  },
+  "landmark": "Zuma Rock",
+  "food": "Jollof Rice",
+  "funFact": "Nigeria is the most populous country in Africa."
+},
+{
+  "_id": {
+    "$oid": "68b6820746a0ff58b641bc58"
+  },
+  "name": "North Korea",
+  "capital": "Pyongyang",
+  "continent": "Asia",
+  "languages": [
+    "Korean"
+  ],
+  "currency": {
+    "name": "North Korean Won",
+    "code": "KPW"
+  },
+  "population": 26000000,
+  "area": 120540,
+  "flag": "https://flagcdn.com/kp.svg",
+  "map": "https://goo.gl/maps/cJ9oKfRr9rT2",
+  "nationalSymbols": {
+    "animal": "Chollima (mythical horse)",
+    "bird": "Northern Goshawk",
+    "flower": "Kimilsungia",
+    "tree": "Pine",
+    "sport": "Football"
+  },
+  "landmark": "Juche Tower",
+  "food": "Naengmyeon",
+  "funFact": "North Korea is one of the most secretive and isolated countries in the world."
+},
+{
+  "_id": {
+    "$oid": "68b6820746a0ff58b641bc59"
+  },
+  "name": "North Macedonia",
+  "capital": "Skopje",
+  "continent": "Europe",
+  "languages": [
+    "Macedonian",
+    "Albanian"
+  ],
+  "currency": {
+    "name": "Macedonian Denar",
+    "code": "MKD"
+  },
+  "population": 2100000,
+  "area": 25713,
+  "flag": "https://flagcdn.com/mk.svg",
+  "map": "https://goo.gl/maps/CxYtzXj6nLB2",
+  "nationalSymbols": {
+    "animal": "Lynx",
+    "bird": "Common Blackbird",
+    "flower": "Poppy",
+    "tree": "Oak",
+    "sport": "Football"
+  },
+  "landmark": "Lake Ohrid",
+  "food": "Tavče Gravče",
+  "funFact": "North Macedonia was previously part of Yugoslavia and became independent in 1991."
+},
+{
+  "_id": {
+    "$oid": "68b6820746a0ff58b641bc5a"
+  },
+  "name": "Norway",
+  "capital": "Oslo",
+  "continent": "Europe",
+  "languages": [
+    "Norwegian"
+  ],
+  "currency": {
+    "name": "Norwegian Krone",
+    "code": "NOK"
+  },
+  "population": 5400000,
+  "area": 385207,
+  "flag": "https://flagcdn.com/no.svg",
+  "map": "https://goo.gl/maps/wT5zxjJYyB32",
+  "nationalSymbols": {
+    "animal": "Lion",
+    "bird": "White-throated Dipper",
+    "flower": "Purple Heather",
+    "tree": "Norway Spruce",
+    "sport": "Skiing"
+  },
+  "landmark": "Geirangerfjord",
+  "food": "Rakfisk",
+  "funFact": "Norway is known as the 'Land of the Midnight Sun' because in summer, the sun never fully sets in the north."
+},
+{
+  "_id": {
+    "$oid": "68b6820746a0ff58b641bc5b"
+  },
+  "name": "Oman",
+  "capital": "Muscat",
+  "continent": "Asia",
+  "languages": [
+    "Arabic"
+  ],
+  "currency": {
+    "name": "Omani Rial",
+    "code": "OMR"
+  },
+  "population": 4600000,
+  "area": 309500,
+  "flag": "https://flagcdn.com/om.svg",
+  "map": "https://goo.gl/maps/q9aB5bYmxgC2",
+  "nationalSymbols": {
+    "animal": "Arabian Oryx",
+    "bird": "Barbary Falcon",
+    "flower": "Rose",
+    "tree": "Frankincense Tree",
+    "sport": "Football"
+  },
+  "landmark": "Sultan Qaboos Grand Mosque",
+  "food": "Shuwa",
+  "funFact": "Oman is famous for its frankincense, which has been traded for thousands of years."
+},
+{
+  "_id": {
+    "$oid": "68b6820746a0ff58b641bc5c"
+  },
+  "name": "Pakistan",
+  "capital": "Islamabad",
+  "continent": "Asia",
+  "languages": [
+    "Urdu",
+    "English"
+  ],
+  "currency": {
+    "name": "Pakistani Rupee",
+    "code": "PKR"
+  },
+  "population": 240000000,
+  "area": 881913,
+  "flag": "https://flagcdn.com/pk.svg",
+  "map": "https://goo.gl/maps/6RkVWfPj2Fz",
+  "nationalSymbols": {
+    "animal": "Markhor",
+    "bird": "Chukar Partridge",
+    "flower": "Jasmine",
+    "tree": "Deodar Cedar",
+    "sport": "Hockey"
+  },
+  "landmark": "Badshahi Mosque",
+  "food": "Biryani",
+  "funFact": "Pakistan is home to five of the world's 14 highest peaks, including K2."
+},
+{
+  "_id": {
+    "$oid": "68b6820746a0ff58b641bc5d"
+  },
+  "name": "Palau",
+  "capital": "Ngerulmud",
+  "continent": "Oceania",
+  "languages": [
+    "Palauan",
+    "English"
+  ],
+  "currency": {
+    "name": "United States Dollar",
+    "code": "USD"
+  },
+  "population": 18000,
+  "area": 459,
+  "flag": "https://flagcdn.com/pw.svg",
+  "map": "https://goo.gl/maps/64RVZZBMZH42",
+  "nationalSymbols": {
+    "animal": "Dugong",
+    "bird": "Palau Fruit Dove",
+    "flower": "Hibiscus",
+    "tree": "Coconut Palm",
+    "sport": "Baseball"
+  },
+  "landmark": "Rock Islands",
+  "food": "Taro Root Dishes",
+  "funFact": "Palau has one of the world's only jellyfish lakes where people can safely swim with jellyfish."
+},
+{
+  "_id": {
+    "$oid": "68b6820746a0ff58b641bc5e"
+  },
+  "name": "Panama",
+  "capital": "Panama City",
+  "continent": "North America",
+  "languages": [
+    "Spanish"
+  ],
+  "currency": {
+    "name": "Balboa",
+    "code": "PAB"
+  },
+  "population": 4500000,
+  "area": 75417,
+  "flag": "https://flagcdn.com/pa.svg",
+  "map": "https://goo.gl/maps/Wox1i7Yw6p92",
+  "nationalSymbols": {
+    "animal": "Golden Frog",
+    "bird": "Harpy Eagle",
+    "flower": "Holy Ghost Orchid",
+    "tree": "Panama Tree",
+    "sport": "Baseball"
+  },
+  "landmark": "Panama Canal",
+  "food": "Sancocho",
+  "funFact": "The Panama Canal connects the Atlantic and Pacific Oceans and is one of the most important waterways in the world."
+},
+{
+  "_id": {
+    "$oid": "68b6820746a0ff58b641bc5f"
+  },
+  "name": "Papua New Guinea",
+  "capital": "Port Moresby",
+  "continent": "Oceania",
+  "languages": [
+    "English",
+    "Tok Pisin",
+    "Hiri Motu"
+  ],
+  "currency": {
+    "name": "Papua New Guinean Kina",
+    "code": "PGK"
+  },
+  "population": 9000000,
+  "area": 462840,
+  "flag": "https://flagcdn.com/pg.svg",
+  "map": "https://goo.gl/maps/WbqFHDLw9Vp",
+  "nationalSymbols": {
+    "animal": "Tree Kangaroo",
+    "bird": "Bird of Paradise",
+    "flower": "Dendrobium Orchid",
+    "tree": "Eucalyptus",
+    "sport": "Rugby League"
+  },
+  "landmark": "Kokoda Track",
+  "food": "Mumu",
+  "funFact": "Papua New Guinea is one of the most linguistically diverse countries in the world with over 800 languages."
+},
+{
+  "_id": {
+    "$oid": "68b6820746a0ff58b641bc60"
+  },
+  "name": "Paraguay",
+  "capital": "Asunción",
+  "continent": "South America",
+  "languages": [
+    "Spanish",
+    "Guaraní"
+  ],
+  "currency": {
+    "name": "Paraguayan Guaraní",
+    "code": "PYG"
+  },
+  "population": 7200000,
+  "area": 406752,
+  "flag": "https://flagcdn.com/py.svg",
+  "map": "https://goo.gl/maps/7Xv57Lwcz7H2",
+  "nationalSymbols": {
+    "animal": "Puma",
+    "bird": "Bare-throated Bellbird",
+    "flower": "Mburucuyá (Passion Flower)",
+    "tree": "Lapacho",
+    "sport": "Football"
+  },
+  "landmark": "Itaipu Dam",
+  "food": "Sopa Paraguaya",
+  "funFact": "Paraguay is one of the only two landlocked countries in South America, along with Bolivia."
+},
+{
+  "_id": {
+    "$oid": "68b6820746a0ff58b641bc61"
+  },
+  "name": "Peru",
+  "capital": "Lima",
+  "continent": "South America",
+  "languages": [
+    "Spanish",
+    "Quechua",
+    "Aymara"
+  ],
+  "currency": {
+    "name": "Peruvian Sol",
+    "code": "PEN"
+  },
+  "population": 34000000,
+  "area": 1285216,
+  "flag": "https://flagcdn.com/pe.svg",
+  "map": "https://goo.gl/maps/Tt9hW9tbmYx",
+  "nationalSymbols": {
+    "animal": "Vicuña",
+    "bird": "Andean Cock-of-the-rock",
+    "flower": "Cantuta",
+    "tree": "Cinchona",
+    "sport": "Football"
+  },
+  "landmark": "Machu Picchu",
+  "food": "Ceviche",
+  "funFact": "Peru is home to part of the Amazon rainforest and ancient Incan city Machu Picchu."
+},
+{
+  "_id": {
+    "$oid": "68b6820746a0ff58b641bc62"
+  },
+  "name": "Philippines",
+  "capital": "Manila",
+  "continent": "Asia",
+  "languages": [
+    "Filipino",
+    "English"
+  ],
+  "currency": {
+    "name": "Philippine Peso",
+    "code": "PHP"
+  },
+  "population": 113000000,
+  "area": 300000,
+  "flag": "https://flagcdn.com/ph.svg",
+  "map": "https://goo.gl/maps/ojZ5F6jTPjJ2",
+  "nationalSymbols": {
+    "animal": "Carabao",
+    "bird": "Philippine Eagle",
+    "flower": "Sampaguita",
+    "tree": "Narra",
+    "sport": "Arnis"
+  },
+  "landmark": "Chocolate Hills",
+  "food": "Adobo",
+  "funFact": "The Philippines is made up of over 7,600 islands."
+},
+{
+  "_id": {
+    "$oid": "68b6820746a0ff58b641bc63"
+  },
+  "name": "Poland",
+  "capital": "Warsaw",
+  "continent": "Europe",
+  "languages": [
+    "Polish"
+  ],
+  "currency": {
+    "name": "Polish Zloty",
+    "code": "PLN"
+  },
+  "population": 38000000,
+  "area": 312696,
+  "flag": "https://flagcdn.com/pl.svg",
+  "map": "https://goo.gl/maps/gYx1w6xF1rD2",
+  "nationalSymbols": {
+    "animal": "White-tailed Eagle",
+    "bird": "White Stork",
+    "flower": "Corn Poppy",
+    "tree": "Oak",
+    "sport": "Football"
+  },
+  "landmark": "Wawel Castle",
+  "food": "Pierogi",
+  "funFact": "Poland is home to the world’s largest castle: Malbork Castle."
+},
+{
+  "_id": {
+    "$oid": "68b6820746a0ff58b641bc64"
+  },
+  "name": "Portugal",
+  "capital": "Lisbon",
+  "continent": "Europe",
+  "languages": [
+    "Portuguese"
+  ],
+  "currency": {
+    "name": "Euro",
+    "code": "EUR"
+  },
+  "population": 10300000,
+  "area": 92212,
+  "flag": "https://flagcdn.com/pt.svg",
+  "map": "https://goo.gl/maps/NxT2jKjC7up",
+  "nationalSymbols": {
+    "animal": "Iberian Wolf",
+    "bird": "Rooster of Barcelos",
+    "flower": "Lavender",
+    "tree": "Olive Tree",
+    "sport": "Football"
+  },
+  "landmark": "Belém Tower",
+  "food": "Bacalhau",
+  "funFact": "Portugal is the world’s largest producer of cork."
+},
+{
+  "_id": {
+    "$oid": "68b6820746a0ff58b641bc65"
+  },
+  "name": "Qatar",
+  "capital": "Doha",
+  "continent": "Asia",
+  "languages": [
+    "Arabic"
+  ],
+  "currency": {
+    "name": "Qatari Riyal",
+    "code": "QAR"
+  },
+  "population": 2900000,
+  "area": 11586,
+  "flag": "https://flagcdn.com/qa.svg",
+  "map": "https://goo.gl/maps/LS3rVrd6Vu52",
+  "nationalSymbols": {
+    "animal": "Arabian Oryx",
+    "bird": "Falcon",
+    "flower": "Qatar’s Orchid",
+    "tree": "Sidra Tree",
+    "sport": "Football"
+  },
+  "landmark": "Museum of Islamic Art",
+  "food": "Machboos",
+  "funFact": "Qatar will host the 2022 FIFA World Cup, the first Middle Eastern country to do so."
+},
+{
+  "_id": {
+    "$oid": "68b6820746a0ff58b641bc66"
+  },
+  "name": "Romania",
+  "capital": "Bucharest",
+  "continent": "Europe",
+  "languages": [
+    "Romanian"
+  ],
+  "currency": {
+    "name": "Romanian Leu",
+    "code": "RON"
+  },
+  "population": 19000000,
+  "area": 238397,
+  "flag": "https://flagcdn.com/ro.svg",
+  "map": "https://goo.gl/maps/ZC3G1z9qE2P2",
+  "nationalSymbols": {
+    "animal": "Lynx",
+    "bird": "Great White Pelican",
+    "flower": "Dog Rose",
+    "tree": "Oak",
+    "sport": "Oina"
+  },
+  "landmark": "Bran Castle",
+  "food": "Sarmale",
+  "funFact": "Romania is home to the world’s heaviest building — the Palace of Parliament in Bucharest."
+},
+{
+  "_id": {
+    "$oid": "68b6820746a0ff58b641bc67"
+  },
+  "name": "Russia",
+  "capital": "Moscow",
+  "continent": "Europe/Asia",
+  "languages": [
+    "Russian"
+  ],
+  "currency": {
+    "name": "Russian Ruble",
+    "code": "RUB"
+  },
+  "population": 144000000,
+  "area": 17098242,
+  "flag": "https://flagcdn.com/ru.svg",
+  "map": "https://goo.gl/maps/4F4P1i7umV92",
+  "nationalSymbols": {
+    "animal": "Brown Bear",
+    "bird": "Double-headed Eagle",
+    "flower": "Chamomile",
+    "tree": "Birch",
+    "sport": "Ice Hockey"
+  },
+  "landmark": "Red Square",
+  "food": "Borscht",
+  "funFact": "Russia is the largest country in the world, spanning 11 time zones."
+},
+{
+  "_id": {
+    "$oid": "68b6820746a0ff58b641bc68"
+  },
+  "name": "Rwanda",
+  "capital": "Kigali",
+  "continent": "Africa",
+  "languages": [
+    "Kinyarwanda",
+    "French",
+    "English"
+  ],
+  "currency": {
+    "name": "Rwandan Franc",
+    "code": "RWF"
+  },
+  "population": 13000000,
+  "area": 26338,
+  "flag": "https://flagcdn.com/rw.svg",
+  "map": "https://goo.gl/maps/5XkUtgkWB1T2",
+  "nationalSymbols": {
+    "animal": "Leopard",
+    "bird": "Grey Crowned Crane",
+    "flower": "Red Rose",
+    "tree": "Umuvumu",
+    "sport": "Football"
+  },
+  "landmark": "Volcanoes National Park",
+  "food": "Ugali",
+  "funFact": "Rwanda is known as the 'Land of a Thousand Hills'."
+},
+{
+  "_id": {
+    "$oid": "68b6820746a0ff58b641bc69"
+  },
+  "name": "Saint Kitts and Nevis",
+  "capital": "Basseterre",
+  "continent": "North America",
+  "languages": [
+    "English"
+  ],
+  "currency": {
+    "name": "East Caribbean Dollar",
+    "code": "XCD"
+  },
+  "population": 53000,
+  "area": 261,
+  "flag": "https://flagcdn.com/kn.svg",
+  "map": "https://goo.gl/maps/9ZCcs8Z1eXJ2",
+  "nationalSymbols": {
+    "animal": "Vervet Monkey",
+    "bird": "Brown Pelican",
+    "flower": "Poinciana",
+    "tree": "Royal Palm",
+    "sport": "Cricket"
+  },
+  "landmark": "Brimstone Hill Fortress",
+  "food": "Goat Water Stew",
+  "funFact": "Saint Kitts and Nevis is the smallest country in the Western Hemisphere in both area and population."
+},
+{
+  "_id": {
+    "$oid": "68b6820746a0ff58b641bc6a"
+  },
+  "name": "Saint Lucia",
+  "capital": "Castries",
+  "continent": "North America",
+  "languages": [
+    "English"
+  ],
+  "currency": {
+    "name": "East Caribbean Dollar",
+    "code": "XCD"
+  },
+  "population": 180000,
+  "area": 616,
+  "flag": "https://flagcdn.com/lc.svg",
+  "map": "https://goo.gl/maps/48gFz7uLQxp",
+  "nationalSymbols": {
+    "animal": "Saint Lucia Parrot",
+    "bird": "Saint Lucia Parrot",
+    "flower": "Rose and Marguerite",
+    "tree": "Calabash",
+    "sport": "Cricket"
+  },
+  "landmark": "The Pitons",
+  "food": "Green Fig and Saltfish",
+  "funFact": "Saint Lucia is the only country named after a woman — Saint Lucy of Syracuse."
+},
+{
+  "_id": {
+    "$oid": "68b6820746a0ff58b641bc6b"
+  },
+  "name": "Saint Vincent and the Grenadines",
+  "capital": "Kingstown",
+  "continent": "North America",
+  "languages": [
+    "English"
+  ],
+  "currency": {
+    "name": "East Caribbean Dollar",
+    "code": "XCD"
+  },
+  "population": 110000,
+  "area": 389,
+  "flag": "https://flagcdn.com/vc.svg",
+  "map": "https://goo.gl/maps/6dG6FfJ7M8r",
+  "nationalSymbols": {
+    "animal": "Whistling Frog",
+    "bird": "St. Vincent Parrot",
+    "flower": "Soufrière Tree",
+    "tree": "Soufrière Tree",
+    "sport": "Cricket"
+  },
+  "landmark": "La Soufrière Volcano",
+  "food": "Roasted Breadfruit and Fried Jackfish",
+  "funFact": "It is known as the 'Land of the Blessed'."
+},
+{
+  "_id": {
+    "$oid": "68b6820746a0ff58b641bc6c"
+  },
+  "name": "Samoa",
+  "capital": "Apia",
+  "continent": "Oceania",
+  "languages": [
+    "Samoan",
+    "English"
+  ],
+  "currency": {
+    "name": "Samoan Tala",
+    "code": "WST"
+  },
+  "population": 220000,
+  "area": 2842,
+  "flag": "https://flagcdn.com/ws.svg",
+  "map": "https://goo.gl/maps/mkR88HbQeB92",
+  "nationalSymbols": {
+    "animal": "Manumea (Tooth-billed Pigeon)",
+    "bird": "Manumea",
+    "flower": "Teuila (Red Ginger)",
+    "tree": "Coconut Palm",
+    "sport": "Rugby"
+  },
+  "landmark": "To Sua Ocean Trench",
+  "food": "Palusami",
+  "funFact": "Samoa is one of the first countries to greet the New Year."
+},
+{
+  "_id": {
+    "$oid": "68b6820746a0ff58b641bc6d"
+  },
+  "name": "San Marino",
+  "capital": "San Marino",
+  "continent": "Europe",
+  "languages": [
+    "Italian"
+  ],
+  "currency": {
+    "name": "Euro",
+    "code": "EUR"
+  },
+  "population": 34000,
+  "area": 61,
+  "flag": "https://flagcdn.com/sm.svg",
+  "map": "https://goo.gl/maps/G4Lqv6pUu2p",
+  "nationalSymbols": {
+    "animal": "None officially",
+    "bird": "None officially",
+    "flower": "Cyclamen",
+    "tree": "Oak",
+    "sport": "Football"
+  },
+  "landmark": "Guaita Fortress",
+  "food": "Torta Tre Monti",
+  "funFact": "San Marino is the world’s oldest republic, founded in 301 AD."
+},
+{
+  "_id": {
+    "$oid": "68b6820746a0ff58b641bc6e"
+  },
+  "name": "São Tomé and Príncipe",
+  "capital": "São Tomé",
+  "continent": "Africa",
+  "languages": [
+    "Portuguese"
+  ],
+  "currency": {
+    "name": "São Tomé and Príncipe Dobra",
+    "code": "STN"
+  },
+  "population": 220000,
+  "area": 964,
+  "flag": "https://flagcdn.com/st.svg",
+  "map": "https://goo.gl/maps/mVFtLzFhTV82",
+  "nationalSymbols": {
+    "animal": "São Tomé Shrew",
+    "bird": "São Tomé Weaver",
+    "flower": "Orchid",
+    "tree": "Cocoa Tree",
+    "sport": "Football"
+  },
+  "landmark": "Pico Cão Grande",
+  "food": "Calulu",
+  "funFact": "São Tomé and Príncipe is Africa’s second smallest country."
+},
+{
+  "_id": {
+    "$oid": "68b6820746a0ff58b641bc6f"
+  },
+  "name": "Saudi Arabia",
+  "capital": "Riyadh",
+  "continent": "Asia",
+  "languages": [
+    "Arabic"
+  ],
+  "currency": {
+    "name": "Saudi Riyal",
+    "code": "SAR"
+  },
+  "population": 35000000,
+  "area": 2149690,
+  "flag": "https://flagcdn.com/sa.svg",
+  "map": "https://goo.gl/maps/5PS3S5qZc6Q2",
+  "nationalSymbols": {
+    "animal": "Camel",
+    "bird": "Falcon",
+    "flower": "Arfaj",
+    "tree": "Palm",
+    "sport": "Football"
+  },
+  "landmark": "Masjid al-Haram (Mecca)",
+  "food": "Kabsa",
+  "funFact": "Saudi Arabia is home to the two holiest cities in Islam — Mecca and Medina."
+},
+{
+  "_id": {
+    "$oid": "68b6820746a0ff58b641bc70"
+  },
+  "name": "Senegal",
+  "capital": "Dakar",
+  "continent": "Africa",
+  "languages": [
+    "French"
+  ],
+  "currency": {
+    "name": "West African CFA franc",
+    "code": "XOF"
+  },
+  "population": 17000000,
+  "area": 196722,
+  "flag": "https://flagcdn.com/sn.svg",
+  "map": "https://goo.gl/maps/q5rFzrbTLU82",
+  "nationalSymbols": {
+    "animal": "Lion",
+    "bird": "African Fish Eagle",
+    "flower": "Baobab Flower",
+    "tree": "Baobab",
+    "sport": "Wrestling"
+  },
+  "landmark": "African Renaissance Monument",
+  "food": "Thieboudienne",
+  "funFact": "Senegal is known as the 'Land of Teranga,' meaning hospitality."
+},
+{
+  "_id": {
+    "$oid": "68b6820746a0ff58b641bc71"
+  },
+  "name": "Serbia",
+  "capital": "Belgrade",
+  "continent": "Europe",
+  "languages": [
+    "Serbian"
+  ],
+  "currency": {
+    "name": "Serbian Dinar",
+    "code": "RSD"
+  },
+  "population": 6700000,
+  "area": 77474,
+  "flag": "https://flagcdn.com/rs.svg",
+  "map": "https://goo.gl/maps/bb6zJcB7H2A2",
+  "nationalSymbols": {
+    "animal": "Wolf",
+    "bird": "Grey Falcon",
+    "flower": "Lily of the Valley",
+    "tree": "Oak",
+    "sport": "Basketball"
+  },
+  "landmark": "Belgrade Fortress",
+  "food": "Ćevapi",
+  "funFact": "Serbia is known as the birthplace of Nikola Tesla."
+},
+{
+  "_id": {
+    "$oid": "68b6820746a0ff58b641bc72"
+  },
+  "name": "Seychelles",
+  "capital": "Victoria",
+  "continent": "Africa",
+  "languages": [
+    "Seychellois Creole",
+    "English",
+    "French"
+  ],
+  "currency": {
+    "name": "Seychellois Rupee",
+    "code": "SCR"
+  },
+  "population": 100000,
+  "area": 455,
+  "flag": "https://flagcdn.com/sc.svg",
+  "map": "https://goo.gl/maps/dmU6hBsoPuD2",
+  "nationalSymbols": {
+    "animal": "Giant Tortoise",
+    "bird": "Black Parrot",
+    "flower": "Tropicbird Orchid",
+    "tree": "Coco de Mer Palm",
+    "sport": "Football"
+  },
+  "landmark": "Anse Lazio Beach",
+  "food": "Octopus Curry",
+  "funFact": "Seychelles is home to the unique Coco de Mer, the world’s heaviest seed."
+},
+{
+  "_id": {
+    "$oid": "68b6820746a0ff58b641bc73"
+  },
+  "name": "Sierra Leone",
+  "capital": "Freetown",
+  "continent": "Africa",
+  "languages": [
+    "English"
+  ],
+  "currency": {
+    "name": "Sierra Leonean Leone",
+    "code": "SLE"
+  },
+  "population": 8000000,
+  "area": 71740,
+  "flag": "https://flagcdn.com/sl.svg",
+  "map": "https://goo.gl/maps/DqszH6g8McH2",
+  "nationalSymbols": {
+    "animal": "Lion",
+    "bird": "White-necked Rockfowl",
+    "flower": "Hibiscus",
+    "tree": "Cotton Tree",
+    "sport": "Football"
+  },
+  "landmark": "Cotton Tree, Freetown",
+  "food": "Groundnut Stew",
+  "funFact": "The name 'Sierra Leone' means 'Lion Mountains'."
+},
+{
+  "_id": {
+    "$oid": "68b6820746a0ff58b641bc74"
+  },
+  "name": "Singapore",
+  "capital": "Singapore",
+  "continent": "Asia",
+  "languages": [
+    "English",
+    "Malay",
+    "Mandarin",
+    "Tamil"
+  ],
+  "currency": {
+    "name": "Singapore Dollar",
+    "code": "SGD"
+  },
+  "population": 5800000,
+  "area": 728,
+  "flag": "https://flagcdn.com/sg.svg",
+  "map": "https://goo.gl/maps/QbQtD6j7q5C2",
+  "nationalSymbols": {
+    "animal": "Lion",
+    "bird": "Crimson Sunbird",
+    "flower": "Vanda Miss Joaquim Orchid",
+    "tree": "Tembusu",
+    "sport": "Table Tennis"
+  },
+  "landmark": "Marina Bay Sands",
+  "food": "Hainanese Chicken Rice",
+  "funFact": "Singapore is one of the world’s cleanest and greenest cities despite its small size."
+},
+{
+  "_id": {
+    "$oid": "68b6820746a0ff58b641bc75"
+  },
+  "name": "Slovakia",
+  "capital": "Bratislava",
+  "continent": "Europe",
+  "languages": [
+    "Slovak"
+  ],
+  "currency": {
+    "name": "Euro",
+    "code": "EUR"
+  },
+  "population": 5400000,
+  "area": 49035,
+  "flag": "https://flagcdn.com/sk.svg",
+  "map": "https://goo.gl/maps/UuZuo5pB7U92",
+  "nationalSymbols": {
+    "animal": "Brown Bear",
+    "bird": "Golden Eagle",
+    "flower": "Rose",
+    "tree": "Lime Tree",
+    "sport": "Ice Hockey"
+  },
+  "landmark": "Bratislava Castle",
+  "food": "Bryndzové halušky",
+  "funFact": "Slovakia has the highest number of castles and chateaux per capita in the world."
+},
+{
+  "_id": {
+    "$oid": "68b6820746a0ff58b641bc76"
+  },
+  "name": "Slovenia",
+  "capital": "Ljubljana",
+  "continent": "Europe",
+  "languages": [
+    "Slovene"
+  ],
+  "currency": {
+    "name": "Euro",
+    "code": "EUR"
+  },
+  "population": 2100000,
+  "area": 20273,
+  "flag": "https://flagcdn.com/si.svg",
+  "map": "https://goo.gl/maps/jxLoJ3KfPjv",
+  "nationalSymbols": {
+    "animal": "Lipizzaner Horse",
+    "bird": "White Stork",
+    "flower": "Carnation",
+    "tree": "Linden Tree",
+    "sport": "Skiing"
+  },
+  "landmark": "Lake Bled",
+  "food": "Potica",
+  "funFact": "Slovenia is one of the most water-rich countries in Europe with over 27,000 km of rivers."
+},
+{
+  "_id": {
+    "$oid": "68b6820746a0ff58b641bc77"
+  },
+  "name": "Solomon Islands",
+  "capital": "Honiara",
+  "continent": "Oceania",
+  "languages": [
+    "English"
+  ],
+  "currency": {
+    "name": "Solomon Islands Dollar",
+    "code": "SBD"
+  },
+  "population": 700000,
+  "area": 28896,
+  "flag": "https://flagcdn.com/sb.svg",
+  "map": "https://goo.gl/maps/jFhLXM1wKgr",
+  "nationalSymbols": {
+    "animal": "Sea Turtle",
+    "bird": "Sanford's Sea Eagle",
+    "flower": "Orchid",
+    "tree": "Coconut Palm",
+    "sport": "Football"
+  },
+  "landmark": "Skull Island",
+  "food": "Poi",
+  "funFact": "The Solomon Islands played a major role in World War II battles in the Pacific."
+},
+{
+  "_id": {
+    "$oid": "68b6820746a0ff58b641bc78"
+  },
+  "name": "Somalia",
+  "capital": "Mogadishu",
+  "continent": "Africa",
+  "languages": [
+    "Somali",
+    "Arabic"
+  ],
+  "currency": {
+    "name": "Somali Shilling",
+    "code": "SOS"
+  },
+  "population": 17000000,
+  "area": 637657,
+  "flag": "https://flagcdn.com/so.svg",
+  "map": "https://goo.gl/maps/z5m2GfGc7tq",
+  "nationalSymbols": {
+    "animal": "Leopard",
+    "bird": "Blue-headed Coucal",
+    "flower": "Acacia Flower",
+    "tree": "Date Palm",
+    "sport": "Football"
+  },
+  "landmark": "Laas Geel Caves",
+  "food": "Canjeero",
+  "funFact": "Somalia has the longest coastline on mainland Africa."
+},
+{
+  "_id": {
+    "$oid": "68b6820746a0ff58b641bc79"
+  },
+  "name": "South Africa",
+  "capital": "Pretoria (administrative), Cape Town (legislative), Bloemfontein (judicial)",
+  "continent": "Africa",
+  "languages": [
+    "Zulu",
+    "Xhosa",
+    "Afrikaans",
+    "English",
+    "Sesotho",
+    "Setswana",
+    "Xitsonga",
+    "Swati",
+    "Venda",
+    "Ndebele"
+  ],
+  "currency": {
+    "name": "South African Rand",
+    "code": "ZAR"
+  },
+  "population": 60000000,
+  "area": 1219090,
+  "flag": "https://flagcdn.com/za.svg",
+  "map": "https://goo.gl/maps/CLCZ1nF2vYw",
+  "nationalSymbols": {
+    "animal": "Springbok",
+    "bird": "Blue Crane",
+    "flower": "King Protea",
+    "tree": "Real Yellowwood",
+    "sport": "Rugby"
+  },
+  "landmark": "Table Mountain",
+  "food": "Biltong",
+  "funFact": "South Africa has three capital cities and 11 official languages."
+},
+{
+  "_id": {
+    "$oid": "68b6820746a0ff58b641bc7a"
+  },
+  "name": "South Korea",
+  "capital": "Seoul",
+  "continent": "Asia",
+  "languages": [
+    "Korean"
+  ],
+  "currency": {
+    "name": "South Korean Won",
+    "code": "KRW"
+  },
+  "population": 52000000,
+  "area": 100210,
+  "flag": "https://flagcdn.com/kr.svg",
+  "map": "https://goo.gl/maps/wM2aqhF3bL92",
+  "nationalSymbols": {
+    "animal": "Siberian Tiger",
+    "bird": "Magpie",
+    "flower": "Hibiscus syriacus (Rose of Sharon)",
+    "tree": "Pine Tree",
+    "sport": "Taekwondo"
+  },
+  "landmark": "Gyeongbokgung Palace",
+  "food": "Kimchi",
+  "funFact": "South Korea has one of the fastest internet speeds in the world."
+},
+{
+  "_id": {
+    "$oid": "68b6820746a0ff58b641bc7b"
+  },
+  "name": "South Sudan",
+  "capital": "Juba",
+  "continent": "Africa",
+  "languages": [
+    "English"
+  ],
+  "currency": {
+    "name": "South Sudanese Pound",
+    "code": "SSP"
+  },
+  "population": 11000000,
+  "area": 619745,
+  "flag": "https://flagcdn.com/ss.svg",
+  "map": "https://goo.gl/maps/2tFcvw9npEo",
+  "nationalSymbols": {
+    "animal": "Giraffe",
+    "bird": "African Fish Eagle",
+    "flower": "Sunflower",
+    "tree": "Shea Tree",
+    "sport": "Wrestling"
+  },
+  "landmark": "Sudd Wetlands",
+  "food": "Kisra",
+  "funFact": "South Sudan became the world’s newest country in 2011."
+},
+{
+  "_id": {
+    "$oid": "68b6820746a0ff58b641bc7c"
+  },
+  "name": "Spain",
+  "capital": "Madrid",
+  "continent": "Europe",
+  "languages": [
+    "Spanish",
+    "Catalan",
+    "Basque",
+    "Galician"
+  ],
+  "currency": {
+    "name": "Euro",
+    "code": "EUR"
+  },
+  "population": 47000000,
+  "area": 505990,
+  "flag": "https://flagcdn.com/es.svg",
+  "map": "https://goo.gl/maps/6PvTg1b2DbK2",
+  "nationalSymbols": {
+    "animal": "Bull",
+    "bird": "Imperial Eagle",
+    "flower": "Red Carnation",
+    "tree": "Olive Tree",
+    "sport": "Football"
+  },
+  "landmark": "Sagrada Família",
+  "food": "Paella",
+  "funFact": "Spain produces more olive oil than any other country in the world."
+},
+{
+  "_id": {
+    "$oid": "68b6820746a0ff58b641bc7d"
+  },
+  "name": "Sri Lanka",
+  "capital": "Sri Jayawardenepura Kotte (legislative), Colombo (commercial)",
+  "continent": "Asia",
+  "languages": [
+    "Sinhala",
+    "Tamil"
+  ],
+  "currency": {
+    "name": "Sri Lankan Rupee",
+    "code": "LKR"
+  },
+  "population": 22000000,
+  "area": 65610,
+  "flag": "https://flagcdn.com/lk.svg",
+  "map": "https://goo.gl/maps/3EZr3vTnZYP2",
+  "nationalSymbols": {
+    "animal": "Sri Lankan Elephant",
+    "bird": "Sri Lankan Junglefowl",
+    "flower": "Blue Water Lily",
+    "tree": "Na Tree",
+    "sport": "Cricket"
+  },
+  "landmark": "Sigiriya Rock Fortress",
+  "food": "Rice and Curry",
+  "funFact": "Sri Lanka is known as the 'Pearl of the Indian Ocean' for its beauty and biodiversity."
+},
+{
+  "_id": {
+    "$oid": "68b6820746a0ff58b641bc7e"
+  },
+  "name": "Sudan",
+  "capital": "Khartoum",
+  "continent": "Africa",
+  "languages": [
+    "Arabic",
+    "English"
+  ],
+  "currency": {
+    "name": "Sudanese Pound",
+    "code": "SDG"
+  },
+  "population": 46000000,
+  "area": 1861484,
+  "flag": "https://flagcdn.com/sd.svg",
+  "map": "https://goo.gl/maps/ZiYyKh6pS1o",
+  "nationalSymbols": {
+    "animal": "Secretary Bird",
+    "bird": "Secretary Bird",
+    "flower": "Hibiscus",
+    "tree": "Baobab Tree",
+    "sport": "Football"
+  },
+  "landmark": "Meroë Pyramids",
+  "food": "Kisra",
+  "funFact": "Sudan has more pyramids than Egypt."
+},
+{
+  "_id": {
+    "$oid": "68b6820746a0ff58b641bc7f"
+  },
+  "name": "Suriname",
+  "capital": "Paramaribo",
+  "continent": "South America",
+  "languages": [
+    "Dutch"
+  ],
+  "currency": {
+    "name": "Surinamese Dollar",
+    "code": "SRD"
+  },
+  "population": 600000,
+  "area": 163820,
+  "flag": "https://flagcdn.com/sr.svg",
+  "map": "https://goo.gl/maps/g3rR3fLxXyA2",
+  "nationalSymbols": {
+    "animal": "Jaguar",
+    "bird": "Scarlet Ibis",
+    "flower": "Faya Lobi",
+    "tree": "Palm Tree",
+    "sport": "Football"
+  },
+  "landmark": "Saint Peter and Paul Cathedral",
+  "food": "Pom",
+  "funFact": "Suriname is the smallest country in South America."
+},
+{
+  "_id": {
+    "$oid": "68b6820746a0ff58b641bc80"
+  },
+  "name": "Sweden",
+  "capital": "Stockholm",
+  "continent": "Europe",
+  "languages": [
+    "Swedish"
+  ],
+  "currency": {
+    "name": "Swedish Krona",
+    "code": "SEK"
+  },
+  "population": 10500000,
+  "area": 450295,
+  "flag": "https://flagcdn.com/se.svg",
+  "map": "https://goo.gl/maps/x7mJqQdD2Y32",
+  "nationalSymbols": {
+    "animal": "Eurasian Elk",
+    "bird": "Common Blackbird",
+    "flower": "Twinflower",
+    "tree": "Silver Birch",
+    "sport": "Ice Hockey"
+  },
+  "landmark": "Vasa Museum",
+  "food": "Meatballs with Lingonberry Sauce",
+  "funFact": "Sweden has more islands than any other country in the world."
+},
+{
+  "_id": {
+    "$oid": "68b6820746a0ff58b641bc81"
+  },
+  "name": "Switzerland",
+  "capital": "Bern",
+  "continent": "Europe",
+  "languages": [
+    "German",
+    "French",
+    "Italian",
+    "Romansh"
+  ],
+  "currency": {
+    "name": "Swiss Franc",
+    "code": "CHF"
+  },
+  "population": 8700000,
+  "area": 41284,
+  "flag": "https://flagcdn.com/ch.svg",
+  "map": "https://goo.gl/maps/uZqA1yGkLm92",
+  "nationalSymbols": {
+    "animal": "Cow",
+    "bird": "Bearded Vulture",
+    "flower": "Edelweiss",
+    "tree": "Swiss Pine",
+    "sport": "Skiing"
+  },
+  "landmark": "Matterhorn",
+  "food": "Fondue",
+  "funFact": "Switzerland is famous for its neutrality and has not been in a war since 1815."
+},
+{
+  "_id": {
+    "$oid": "68b6820746a0ff58b641bc82"
+  },
+  "name": "Syria",
+  "capital": "Damascus",
+  "continent": "Asia",
+  "languages": [
+    "Arabic"
+  ],
+  "currency": {
+    "name": "Syrian Pound",
+    "code": "SYP"
+  },
+  "population": 21000000,
+  "area": 185180,
+  "flag": "https://flagcdn.com/sy.svg",
+  "map": "https://goo.gl/maps/RjWbT7e6tX82",
+  "nationalSymbols": {
+    "animal": "Arabian Oryx",
+    "bird": "Golden Eagle",
+    "flower": "Jasmine",
+    "tree": "Olive Tree",
+    "sport": "Football"
+  },
+  "landmark": "Ancient City of Palmyra",
+  "food": "Kibbeh",
+  "funFact": "Damascus is considered one of the oldest continuously inhabited cities in the world."
+},
+{
+  "_id": {
+    "$oid": "68b6820746a0ff58b641bc83"
+  },
+  "name": "Taiwan",
+  "capital": "Taipei",
+  "continent": "Asia",
+  "languages": [
+    "Mandarin"
+  ],
+  "currency": {
+    "name": "New Taiwan Dollar",
+    "code": "TWD"
+  },
+  "population": 23500000,
+  "area": 36197,
+  "flag": "https://flagcdn.com/tw.svg",
+  "map": "https://goo.gl/maps/1tFUKy3k8QJ2",
+  "nationalSymbols": {
+    "animal": "Formosan Black Bear",
+    "bird": "Mikado Pheasant",
+    "flower": "Plum Blossom",
+    "tree": "Taiwan Red Pine",
+    "sport": "Baseball"
+  },
+  "landmark": "Taipei 101",
+  "food": "Beef Noodle Soup",
+  "funFact": "Taiwan is known for its night markets and street food culture."
+},
+{
+  "_id": {
+    "$oid": "68b6820746a0ff58b641bc84"
+  },
+  "name": "Tajikistan",
+  "capital": "Dushanbe",
+  "continent": "Asia",
+  "languages": [
+    "Tajik"
+  ],
+  "currency": {
+    "name": "Somoni",
+    "code": "TJS"
+  },
+  "population": 9600000,
+  "area": 143100,
+  "flag": "https://flagcdn.com/tj.svg",
+  "map": "https://goo.gl/maps/edRztK3ZJ6D2",
+  "nationalSymbols": {
+    "animal": "Snow Leopard",
+    "bird": "Saker Falcon",
+    "flower": "Rhododendron",
+    "tree": "Apricot Tree",
+    "sport": "Gushtigiri (Traditional Wrestling)"
+  },
+  "landmark": "Pamir Mountains",
+  "food": "Plov",
+  "funFact": "Tajikistan is the highest country in Central Asia, with over 90% of its territory covered by mountains."
+},
+{
+  "_id": {
+    "$oid": "68b6820746a0ff58b641bc85"
+  },
+  "name": "Tanzania",
+  "capital": "Dodoma",
+  "continent": "Africa",
+  "languages": [
+    "Swahili",
+    "English"
+  ],
+  "currency": {
+    "name": "Tanzanian Shilling",
+    "code": "TZS"
+  },
+  "population": 61000000,
+  "area": 947303,
+  "flag": "https://flagcdn.com/tz.svg",
+  "map": "https://goo.gl/maps/6s7FZkBkXzK2",
+  "nationalSymbols": {
+    "animal": "Giraffe",
+    "bird": "Grey Crowned Crane",
+    "flower": "African Violet",
+    "tree": "Baobab",
+    "sport": "Football"
+  },
+  "landmark": "Mount Kilimanjaro",
+  "food": "Ugali",
+  "funFact": "Tanzania is home to the Serengeti National Park, famous for its annual wildebeest migration."
+},
+{
+  "_id": {
+    "$oid": "68b6820746a0ff58b641bc86"
+  },
+  "name": "Thailand",
+  "capital": "Bangkok",
+  "continent": "Asia",
+  "languages": [
+    "Thai"
+  ],
+  "currency": {
+    "name": "Thai Baht",
+    "code": "THB"
+  },
+  "population": 70000000,
+  "area": 513120,
+  "flag": "https://flagcdn.com/th.svg",
+  "map": "https://goo.gl/maps/m2dXWdYp3Es",
+  "nationalSymbols": {
+    "animal": "Elephant",
+    "bird": "Thai Peacock",
+    "flower": "Ratchaphruek (Golden Shower Tree)",
+    "tree": "Ratchaphruek Tree",
+    "sport": "Muay Thai"
+  },
+  "landmark": "Grand Palace",
+  "food": "Pad Thai",
+  "funFact": "Thailand is known as the 'Land of Smiles' due to its friendly locals."
+},
+{
+  "_id": {
+    "$oid": "68b6820746a0ff58b641bc87"
+  },
+  "name": "Togo",
+  "capital": "Lomé",
+  "continent": "Africa",
+  "languages": [
+    "French"
+  ],
+  "currency": {
+    "name": "West African CFA franc",
+    "code": "XOF"
+  },
+  "population": 8200000,
+  "area": 56785,
+  "flag": "https://flagcdn.com/tg.svg",
+  "map": "https://goo.gl/maps/kC1hQ5qV6zR2",
+  "nationalSymbols": {
+    "animal": "Lion",
+    "bird": "Grey Parrot",
+    "flower": "Cotton Tree Flower",
+    "tree": "Baobab",
+    "sport": "Football"
+  },
+  "landmark": "Togoville",
+  "food": "Fufu",
+  "funFact": "Togo is one of the smallest countries in Africa but has a wide variety of landscapes."
+},
+{
+  "_id": {
+    "$oid": "68b6820746a0ff58b641bc88"
+  },
+  "name": "Tonga",
+  "capital": "Nukuʻalofa",
+  "continent": "Oceania",
+  "languages": [
+    "Tongan",
+    "English"
+  ],
+  "currency": {
+    "name": "Tongan Paʻanga",
+    "code": "TOP"
+  },
+  "population": 105000,
+  "area": 748,
+  "flag": "https://flagcdn.com/to.svg",
+  "map": "https://goo.gl/maps/3xWbJXzq3Vz",
+  "nationalSymbols": {
+    "animal": "Flying Fox",
+    "bird": "White Tern",
+    "flower": "Hibiscus",
+    "tree": "Coconut Palm",
+    "sport": "Rugby"
+  },
+  "landmark": "Haʻamonga ʻA Mānga",
+  "food": "Lu Pulu",
+  "funFact": "Tonga is the only Pacific nation never to have been formally colonized."
+},
+{
+  "_id": {
+    "$oid": "68b6820746a0ff58b641bc89"
+  },
+  "name": "Trinidad and Tobago",
+  "capital": "Port of Spain",
+  "continent": "North America",
+  "languages": [
+    "English"
+  ],
+  "currency": {
+    "name": "Trinidad and Tobago Dollar",
+    "code": "TTD"
+  },
+  "population": 1400000,
+  "area": 5130,
+  "flag": "https://flagcdn.com/tt.svg",
+  "map": "https://goo.gl/maps/PaXwLyzJzQ82",
+  "nationalSymbols": {
+    "animal": "Scarlet Ibis",
+    "bird": "Cocrico",
+    "flower": "Chaconia",
+    "tree": "Poui Tree",
+    "sport": "Cricket"
+  },
+  "landmark": "Pitch Lake",
+  "food": "Doubles",
+  "funFact": "Trinidad and Tobago is the birthplace of the steelpan and calypso music."
+},
+{
+  "_id": {
+    "$oid": "68b6820746a0ff58b641bc8a"
+  },
+  "name": "Tunisia",
+  "capital": "Tunis",
+  "continent": "Africa",
+  "languages": [
+    "Arabic"
+  ],
+  "currency": {
+    "name": "Tunisian Dinar",
+    "code": "TND"
+  },
+  "population": 11800000,
+  "area": 163610,
+  "flag": "https://flagcdn.com/tn.svg",
+  "map": "https://goo.gl/maps/BYJtGg3mXyz",
+  "nationalSymbols": {
+    "animal": "Fennec Fox",
+    "bird": "Green Bee-eater",
+    "flower": "Jasmine",
+    "tree": "Olive Tree",
+    "sport": "Football"
+  },
+  "landmark": "Amphitheatre of El Jem",
+  "food": "Couscous",
+  "funFact": "Tunisia is home to the ancient city of Carthage, founded in the 9th century BC."
+},
+{
+  "_id": {
+    "$oid": "68b6820746a0ff58b641bc8b"
+  },
+  "name": "Turkey",
+  "capital": "Ankara",
+  "continent": "Asia/Europe",
+  "languages": [
+    "Turkish"
+  ],
+  "currency": {
+    "name": "Turkish Lira",
+    "code": "TRY"
+  },
+  "population": 84000000,
+  "area": 783562,
+  "flag": "https://flagcdn.com/tr.svg",
+  "map": "https://goo.gl/maps/BRZZt7G5vZ52",
+  "nationalSymbols": {
+    "animal": "Gray Wolf",
+    "bird": "Redwing",
+    "flower": "Tulip",
+    "tree": "Oak",
+    "sport": "Oil Wrestling"
+  },
+  "landmark": "Hagia Sophia",
+  "food": "Kebabs",
+  "funFact": "Turkey is the only country located on two continents: Europe and Asia."
+},
+{
+  "_id": {
+    "$oid": "68b6820746a0ff58b641bc8c"
+  },
+  "name": "Turkmenistan",
+  "capital": "Ashgabat",
+  "continent": "Asia",
+  "languages": [
+    "Turkmen"
+  ],
+  "currency": {
+    "name": "Turkmenistan Manat",
+    "code": "TMT"
+  },
+  "population": 6000000,
+  "area": 488100,
+  "flag": "https://flagcdn.com/tm.svg",
+  "map": "https://goo.gl/maps/74swjQ6ycR32",
+  "nationalSymbols": {
+    "animal": "Akhal-Teke Horse",
+    "bird": "Golden Eagle",
+    "flower": "Tulip",
+    "tree": "Turkmen Oak",
+    "sport": "Horse Riding"
+  },
+  "landmark": "Darvaza Gas Crater",
+  "food": "Plov",
+  "funFact": "Turkmenistan is famous for its white marble capital city, Ashgabat."
+},
+{
+  "_id": {
+    "$oid": "68b6820746a0ff58b641bc8d"
+  },
+  "name": "Tuvalu",
+  "capital": "Funafuti",
+  "continent": "Oceania",
+  "languages": [
+    "Tuvaluan",
+    "English"
+  ],
+  "currency": {
+    "name": "Tuvaluan Dollar / Australian Dollar",
+    "code": "AUD/TVD"
+  },
+  "population": 12000,
+  "area": 26,
+  "flag": "https://flagcdn.com/tv.svg",
+  "map": "https://goo.gl/maps/5yJcQz2rHj12",
+  "nationalSymbols": {
+    "animal": "Coconut Crab",
+    "bird": "White-tailed Tropicbird",
+    "flower": "Pouka Tree Flower",
+    "tree": "Coconut Palm",
+    "sport": "Football"
+  },
+  "landmark": "Funafuti Lagoon",
+  "food": "Pulaka",
+  "funFact": "Tuvalu is one of the smallest and least populous countries in the world."
+},
+{
+  "_id": {
+    "$oid": "68b6820746a0ff58b641bc8e"
+  },
+  "name": "Uganda",
+  "capital": "Kampala",
+  "continent": "Africa",
+  "languages": [
+    "English",
+    "Swahili"
+  ],
+  "currency": {
+    "name": "Ugandan Shilling",
+    "code": "UGX"
+  },
+  "population": 45000000,
+  "area": 241038,
+  "flag": "https://flagcdn.com/ug.svg",
+  "map": "https://goo.gl/maps/4vZQJ8M8trD2",
+  "nationalSymbols": {
+    "animal": "Ugandan Kob",
+    "bird": "Grey Crowned Crane",
+    "flower": "Red-hot Poker",
+    "tree": "Muzizi Tree",
+    "sport": "Football"
+  },
+  "landmark": "Rwenzori Mountains",
+  "food": "Matoke",
+  "funFact": "Uganda is known as the 'Pearl of Africa' for its biodiversity."
+},
+{
+  "_id": {
+    "$oid": "68b6820746a0ff58b641bc8f"
+  },
+  "name": "Ukraine",
+  "capital": "Kyiv",
+  "continent": "Europe",
+  "languages": [
+    "Ukrainian"
+  ],
+  "currency": {
+    "name": "Hryvnia",
+    "code": "UAH"
+  },
+  "population": 42000000,
+  "area": 603550,
+  "flag": "https://flagcdn.com/ua.svg",
+  "map": "https://goo.gl/maps/6DdR6fXxZp72",
+  "nationalSymbols": {
+    "animal": "Brown Bear",
+    "bird": "White Stork",
+    "flower": "Sunflower",
+    "tree": "Oak",
+    "sport": "Football"
+  },
+  "landmark": "Saint Sophia Cathedral",
+  "food": "Borscht",
+  "funFact": "Ukraine is the largest country entirely within Europe."
+},
+{
+  "_id": {
+    "$oid": "68b6820746a0ff58b641bc90"
+  },
+  "name": "United Arab Emirates",
+  "capital": "Abu Dhabi",
+  "continent": "Asia",
+  "languages": [
+    "Arabic"
+  ],
+  "currency": {
+    "name": "United Arab Emirates Dirham",
+    "code": "AED"
+  },
+  "population": 9800000,
+  "area": 83600,
+  "flag": "https://flagcdn.com/ae.svg",
+  "map": "https://goo.gl/maps/VHcZcR7gE8S2",
+  "nationalSymbols": {
+    "animal": "Arabian Oryx",
+    "bird": "Falcon",
+    "flower": "Tribulus Omanense",
+    "tree": "Date Palm",
+    "sport": "Camel Racing"
+  },
+  "landmark": "Burj Khalifa",
+  "food": "Shawarma",
+  "funFact": "The UAE is home to the world’s tallest building, Burj Khalifa."
+},
+{
+  "_id": {
+    "$oid": "68b6820746a0ff58b641bc91"
+  },
+  "name": "United Kingdom",
+  "capital": "London",
+  "continent": "Europe",
+  "languages": [
+    "English"
+  ],
+  "currency": {
+    "name": "Pound Sterling",
+    "code": "GBP"
+  },
+  "population": 68000000,
+  "area": 243610,
+  "flag": "https://flagcdn.com/gb.svg",
+  "map": "https://goo.gl/maps/jf22J1ZQ8q42",
+  "nationalSymbols": {
+    "animal": "Lion",
+    "bird": "European Robin",
+    "flower": "Rose",
+    "tree": "Oak",
+    "sport": "Football"
+  },
+  "landmark": "Big Ben",
+  "food": "Fish and Chips",
+  "funFact": "The UK is made up of four countries: England, Scotland, Wales, and Northern Ireland."
+},
+{
+  "_id": {
+    "$oid": "68b6820746a0ff58b641bc92"
+  },
+  "name": "United States",
+  "capital": "Washington, D.C.",
+  "continent": "North America",
+  "languages": [
+    "English"
+  ],
+  "currency": {
+    "name": "United States Dollar",
+    "code": "USD"
+  },
+  "population": 331000000,
+  "area": 9833520,
+  "flag": "https://flagcdn.com/us.svg",
+  "map": "https://goo.gl/maps/aoGixy9w8Pr",
+  "nationalSymbols": {
+    "animal": "Bald Eagle",
+    "bird": "Bald Eagle",
+    "flower": "Rose",
+    "tree": "Oak",
+    "sport": "Baseball"
+  },
+  "landmark": "Statue of Liberty",
+  "food": "Hamburger",
+  "funFact": "The United States is the third largest country by area and population."
+},
+{
+  "_id": {
+    "$oid": "68b6820746a0ff58b641bc93"
+  },
+  "name": "Uruguay",
+  "capital": "Montevideo",
+  "continent": "South America",
+  "languages": [
+    "Spanish"
+  ],
+  "currency": {
+    "name": "Uruguayan Peso",
+    "code": "UYU"
+  },
+  "population": 3500000,
+  "area": 176220,
+  "flag": "https://flagcdn.com/uy.svg",
+  "map": "https://goo.gl/maps/1n1Jgk6RjS92",
+  "nationalSymbols": {
+    "animal": "Southern Lapwing",
+    "bird": "Southern Lapwing",
+    "flower": "Ceibo",
+    "tree": "Espinillo",
+    "sport": "Football"
+  },
+  "landmark": "Plaza Independencia",
+  "food": "Chivito",
+  "funFact": "Uruguay was the first country in the world to legalize marijuana completely."
+},
+{
+  "_id": {
+    "$oid": "68b6820746a0ff58b641bc94"
+  },
+  "name": "Uzbekistan",
+  "capital": "Tashkent",
+  "continent": "Asia",
+  "languages": [
+    "Uzbek"
+  ],
+  "currency": {
+    "name": "Uzbekistani Som",
+    "code": "UZS"
+  },
+  "population": 34000000,
+  "area": 448978,
+  "flag": "https://flagcdn.com/uz.svg",
+  "map": "https://goo.gl/maps/GWJ92Kx5sE82",
+  "nationalSymbols": {
+    "animal": "Snow Leopard",
+    "bird": "Huma Bird",
+    "flower": "Tulip",
+    "tree": "Cotton Tree",
+    "sport": "Football"
+  },
+  "landmark": "Registan, Samarkand",
+  "food": "Plov",
+  "funFact": "Uzbekistan has over 2000 historical monuments and is part of the Silk Road."
+},
+{
+  "_id": {
+    "$oid": "68b6820746a0ff58b641bc95"
+  },
+  "name": "Vanuatu",
+  "capital": "Port Vila",
+  "continent": "Oceania",
+  "languages": [
+    "Bislama",
+    "English",
+    "French"
+  ],
+  "currency": {
+    "name": "Vanuatu Vatu",
+    "code": "VUV"
+  },
+  "population": 300000,
+  "area": 12204,
+  "flag": "https://flagcdn.com/vu.svg",
+  "map": "https://goo.gl/maps/kbxT9EqQhL52",
+  "nationalSymbols": {
+    "animal": "Flying Fox",
+    "bird": "Vanuatu Megapode",
+    "flower": "Vanuatu Palm",
+    "tree": "Nambas Palm",
+    "sport": "Football"
+  },
+  "landmark": "Mount Yasur Volcano",
+  "food": "Laplap",
+  "funFact": "Vanuatu is made up of over 80 islands in the South Pacific Ocean."
+},
+{
+  "_id": {
+    "$oid": "68b6820746a0ff58b641bc96"
+  },
+  "name": "Vatican City",
+  "capital": "Vatican City",
+  "continent": "Europe",
+  "languages": [
+    "Italian",
+    "Latin"
+  ],
+  "currency": {
+    "name": "Euro",
+    "code": "EUR"
+  },
+  "population": 825,
+  "area": 0.49,
+  "flag": "https://flagcdn.com/va.svg",
+  "map": "https://goo.gl/maps/9y1cHgWc3Z32",
+  "nationalSymbols": {
+    "animal": "None",
+    "bird": "None",
+    "flower": "None",
+    "tree": "None",
+    "sport": "None"
+  },
+  "landmark": "St. Peter's Basilica",
+  "food": "Italian Cuisine",
+  "funFact": "Vatican City is the smallest independent state in the world by both area and population."
+},
+{
+  "_id": {
+    "$oid": "68b6820746a0ff58b641bc97"
+  },
+  "name": "Venezuela",
+  "capital": "Caracas",
+  "continent": "South America",
+  "languages": [
+    "Spanish"
+  ],
+  "currency": {
+    "name": "Venezuelan Bolívar",
+    "code": "VES"
+  },
+  "population": 28000000,
+  "area": 912050,
+  "flag": "https://flagcdn.com/ve.svg",
+  "map": "https://goo.gl/maps/9VXKJ6dU2yQ2",
+  "nationalSymbols": {
+    "animal": "Venezuelan Troupial",
+    "bird": "Venezuelan Troupial",
+    "flower": "Orchid",
+    "tree": "Araguaney",
+    "sport": "Baseball"
+  },
+  "landmark": "Angel Falls",
+  "food": "Arepa",
+  "funFact": "Angel Falls in Venezuela is the world’s highest uninterrupted waterfall."
+},
+{
+  "_id": {
+    "$oid": "68b6820746a0ff58b641bc98"
+  },
+  "name": "Vietnam",
+  "capital": "Hanoi",
+  "continent": "Asia",
+  "languages": [
+    "Vietnamese"
+  ],
+  "currency": {
+    "name": "Vietnamese Dong",
+    "code": "VND"
+  },
+  "population": 97000000,
+  "area": 331212,
+  "flag": "https://flagcdn.com/vn.svg",
+  "map": "https://goo.gl/maps/9fL2n6XK6nN2",
+  "nationalSymbols": {
+    "animal": "Water Buffalo",
+    "bird": "Golden-headed Quetzal",
+    "flower": "Lotus",
+    "tree": "Banyan Tree",
+    "sport": "Football"
+  },
+  "landmark": "Ha Long Bay",
+  "food": "Pho",
+  "funFact": "Vietnam is the world’s largest producer of cashew nuts and black pepper."
+},
+{
+  "_id": {
+    "$oid": "68b6820746a0ff58b641bc99"
+  },
+  "name": "Yemen",
+  "capital": "Sana'a",
+  "continent": "Asia",
+  "languages": [
+    "Arabic"
+  ],
+  "currency": {
+    "name": "Yemeni Rial",
+    "code": "YER"
+  },
+  "population": 30000000,
+  "area": 527968,
+  "flag": "https://flagcdn.com/ye.svg",
+  "map": "https://goo.gl/maps/2r6ZnZYr3g82",
+  "nationalSymbols": {
+    "animal": "Arabian Leopard",
+    "bird": "Arabian Partridge",
+    "flower": "Frankincense Tree",
+    "tree": "Frankincense Tree",
+    "sport": "Football"
+  },
+  "landmark": "Old City of Sana'a",
+  "food": "Saltah",
+  "funFact": "Yemen is famous for its ancient skyscraper-like mudbrick buildings in Sana’a."
+},
+{
+  "_id": {
+    "$oid": "68b6820746a0ff58b641bc9a"
+  },
+  "name": "Zambia",
+  "capital": "Lusaka",
+  "continent": "Africa",
+  "languages": [
+    "English"
+  ],
+  "currency": {
+    "name": "Zambian Kwacha",
+    "code": "ZMW"
+  },
+  "population": 18000000,
+  "area": 752618,
+  "flag": "https://flagcdn.com/zm.svg",
+  "map": "https://goo.gl/maps/xT5RyvsH1X42",
+  "nationalSymbols": {
+    "animal": "African Fish Eagle",
+    "bird": "African Fish Eagle",
+    "flower": "Crested Crane",
+    "tree": "Baobab",
+    "sport": "Football"
+  },
+  "landmark": "Victoria Falls",
+  "food": "Nshima",
+  "funFact": "Zambia is home to the famous Victoria Falls, one of the largest waterfalls in the world."
+},
+{
+  "_id": {
+    "$oid": "68b6820746a0ff58b641bc9b"
+  },
+  "name": "Zimbabwe",
+  "capital": "Harare",
+  "continent": "Africa",
+  "languages": [
+    "English",
+    "Shona",
+    "Sindebele"
+  ],
+  "currency": {
+    "name": "Zimbabwean Dollar",
+    "code": "ZWL"
+  },
+  "population": 15000000,
+  "area": 390757,
+  "flag": "https://flagcdn.com/zw.svg",
+  "map": "https://goo.gl/maps/6QYTZm5XKcG2",
+  "nationalSymbols": {
+    "animal": "Sable Antelope",
+    "bird": "African Fish Eagle",
+    "flower": "Flame Lily",
+    "tree": "Baobab",
+    "sport": "Football"
+  },
+  "landmark": "Great Zimbabwe Ruins",
+  "food": "Sadza",
+  "funFact": "The Great Zimbabwe ruins are the largest collection of ruins in Sub-Saharan Africa."
+}]

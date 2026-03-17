@@ -1,0 +1,2017 @@
+[{
+  "_id": {
+    "$oid": "68c98050a3f21c036d58c090"
+  },
+  "name": "Milky Way",
+  "type": "Spiral Galaxy",
+  "constellation": "Sagittarius",
+  "distance": "0 (we are inside it)",
+  "diameter": "100,000 light-years",
+  "stars": "100–400 billion",
+  "blackHole": "Sagittarius A* at the center",
+  "mass": "1.5 × 10^12 solar masses",
+  "age": "13.6 billion years",
+  "structure": "Central bulge, spiral arms, and halo",
+  "redshift": "0",
+  "image": "https://images-assets.nasa.gov/image/PIA10748/PIA10748~medium.jpg",
+  "formation": "Formed from smaller protogalaxies through mergers",
+  "discoveredBy": "Known to ancient civilizations",
+  "funFact": "Contains our Solar System!",
+  "notableFeatures": [
+    "Central bulge",
+    "Star-forming regions",
+    "Dark matter halo"
+  ],
+  "observations": [
+    "Hubble Space Telescope",
+    "Gaia mission"
+  ],
+  "researchLinks": [
+    "https://en.wikipedia.org/wiki/Milky_Way"
+  ]
+},
+{
+  "_id": {
+    "$oid": "68c98050a3f21c036d58c091"
+  },
+  "name": "Andromeda",
+  "type": "Spiral Galaxy",
+  "constellation": "Andromeda",
+  "distance": "2.537 million light-years",
+  "diameter": "220,000 light-years",
+  "stars": "1 trillion",
+  "blackHole": "Central supermassive black hole",
+  "mass": "1.23 × 10^12 solar masses",
+  "age": "10 billion years",
+  "structure": "Two major spiral arms with star-forming regions",
+  "redshift": "-0.001001",
+  "image": "https://cdn.esahubble.org/archives/images/thumb300y/heic1502a.jpg",
+  "formation": "Result of galaxy mergers",
+  "discoveredBy": "Abd al-Rahman al-Sufi",
+  "funFact": "On a collision course with the Milky Way!",
+  "notableFeatures": [
+    "Star clusters",
+    "Dust lanes",
+    "Nebulae"
+  ],
+  "observations": [
+    "Hubble imaging",
+    "Infrared surveys"
+  ],
+  "researchLinks": [
+    "https://en.wikipedia.org/wiki/Andromeda_Galaxy"
+  ]
+},
+{
+  "_id": {
+    "$oid": "68c98050a3f21c036d58c092"
+  },
+  "name": "Messier 87 (M87)",
+  "type": "Elliptical Galaxy",
+  "constellation": "Virgo",
+  "distance": "53.5 million light-years",
+  "diameter": "120,000 light-years",
+  "stars": "2.7 trillion",
+  "blackHole": "First imaged by Event Horizon Telescope",
+  "mass": "6.5 billion solar masses (black hole)",
+  "age": "13 billion years",
+  "structure": "Massive elliptical structure with hot gas",
+  "redshift": "0.00436",
+  "image": "https://cdn.esahubble.org/archives/images/thumb300y/heic0815j.jpg",
+  "formation": "Formed through repeated mergers of smaller galaxies",
+  "discoveredBy": "Charles Messier",
+  "funFact": "Its black hole’s shadow was the first ever photographed!",
+  "notableFeatures": [
+    "Jets of high-energy particles",
+    "Dense core"
+  ],
+  "observations": [
+    "Event Horizon Telescope",
+    "Chandra X-ray Observatory"
+  ],
+  "researchLinks": [
+    "https://en.wikipedia.org/wiki/Messier_87"
+  ]
+},
+{
+  "_id": {
+    "$oid": "68c98050a3f21c036d58c093"
+  },
+  "name": "Whirlpool Galaxy (M51)",
+  "type": "Spiral Galaxy",
+  "constellation": "Canes Venatici",
+  "distance": "23 million light-years",
+  "diameter": "76,000 light-years",
+  "stars": "100 billion",
+  "blackHole": "Likely has a central black hole",
+  "mass": "1.6 × 10^11 solar masses",
+  "age": "13 billion years",
+  "structure": "Grand-design spiral with well-defined arms",
+  "redshift": "0.00155",
+  "image": "https://cdn.esahubble.org/archives/images/thumb300y/heic0506a.jpg",
+  "formation": "Formed from interactions with companion galaxy NGC 5195",
+  "discoveredBy": "Charles Messier",
+  "funFact": "Famous for its interacting companion galaxy",
+  "notableFeatures": [
+    "Star-forming arms",
+    "Interacting galaxy pair"
+  ],
+  "observations": [
+    "Hubble Space Telescope",
+    "Infrared imaging"
+  ],
+  "researchLinks": [
+    "https://en.wikipedia.org/wiki/Whirlpool_Galaxy"
+  ]
+},
+{
+  "_id": {
+    "$oid": "68c98050a3f21c036d58c094"
+  },
+  "name": "Sombrero Galaxy (M104)",
+  "type": "Spiral Galaxy",
+  "constellation": "Virgo",
+  "distance": "29.3 million light-years",
+  "diameter": "49,000 light-years",
+  "stars": "800 billion",
+  "blackHole": "Prominent central black hole",
+  "mass": "8 × 10^11 solar masses",
+  "age": "13 billion years",
+  "structure": "Distinct central bulge with dust lane",
+  "redshift": "0.0034",
+  "image": "https://s.yimg.com/fz/api/res/1.2/Q_cTEDezbdaJ2tht3sjy7A--~C/YXBwaWQ9c3JjaGRkO2ZpPWZpdDtoPTI2MDtxPTgwO3c9MzMy/https://s.yimg.com/zb/imgv1/b7e4ec55-a940-3a46-95ec-564f7679112f/t_500x300",
+  "formation": "Likely evolved from smaller structures",
+  "discoveredBy": "Pierre Méchain",
+  "funFact": "Looks like a sombrero hat in optical images",
+  "notableFeatures": [
+    "Dust ring",
+    "Bright core"
+  ],
+  "observations": [
+    "Hubble Space Telescope",
+    "Ground-based surveys"
+  ],
+  "researchLinks": [
+    "https://en.wikipedia.org/wiki/Sombrero_Galaxy"
+  ]
+},
+{
+  "_id": {
+    "$oid": "68c98050a3f21c036d58c095"
+  },
+  "name": "Messier 81 (Bode’s Galaxy)",
+  "type": "Spiral Galaxy",
+  "constellation": "Ursa Major",
+  "distance": "12 million light-years",
+  "diameter": "90,000 light-years",
+  "stars": "250 billion",
+  "blackHole": "Supermassive black hole confirmed",
+  "mass": "7 × 10^11 solar masses",
+  "age": "12 billion years",
+  "structure": "Well-defined spiral arms with central bulge",
+  "redshift": "0.000113",
+  "image": "https://cdn.esahubble.org/archives/images/thumb300y/opo1438b.jpg",
+  "formation": "Formed from early accretion of gas and dust",
+  "discoveredBy": "Johann Elert Bode",
+  "funFact": "One of the brightest galaxies visible from Earth",
+  "notableFeatures": [
+    "Spiral arms",
+    "Star clusters",
+    "Central bulge"
+  ],
+  "observations": [
+    "Hubble",
+    "Chandra",
+    "Spitzer"
+  ],
+  "researchLinks": [
+    "https://en.wikipedia.org/wiki/Messier_81"
+  ]
+},
+{
+  "_id": {
+    "$oid": "68c98050a3f21c036d58c096"
+  },
+  "name": "Messier 82 (Cigar Galaxy)",
+  "type": "Starburst Galaxy",
+  "constellation": "Ursa Major",
+  "distance": "12 million light-years",
+  "diameter": "37,000 light-years",
+  "stars": "100 billion",
+  "blackHole": "Active galactic nucleus suspected",
+  "mass": "3 × 10^10 solar masses",
+  "age": "12 billion years",
+  "structure": "Irregular shape with intense star formation",
+  "redshift": "0.000677",
+  "image": "https://cdn.esahubble.org/archives/images/thumb700x/heic0604a.jpg",
+  "formation": "Formed through interactions with nearby galaxies",
+  "discoveredBy": "Pierre Méchain",
+  "funFact": "Produces superwinds from massive star formation",
+  "notableFeatures": [
+    "Starburst regions",
+    "Dust lanes",
+    "Supernova remnants"
+  ],
+  "observations": [
+    "Hubble",
+    "Spitzer",
+    "X-ray observatories"
+  ],
+  "researchLinks": [
+    "https://en.wikipedia.org/wiki/Messier_82"
+  ]
+},
+{
+  "_id": {
+    "$oid": "68c98050a3f21c036d58c097"
+  },
+  "name": "NGC 3370",
+  "type": "Spiral Galaxy",
+  "constellation": "Leo Minor",
+  "distance": "98 million light-years",
+  "diameter": "100,000 light-years",
+  "stars": "100 billion",
+  "blackHole": "Central black hole suspected",
+  "mass": "1 × 10^11 solar masses",
+  "age": "12 billion years",
+  "structure": "Loose spiral arms with young star-forming regions",
+  "redshift": "0.0035",
+  "image": "https://cdn.esahubble.org/archives/images/thumb700x/opo0324b.jpg",
+  "formation": "Formed from gradual gas accumulation",
+  "discoveredBy": "William Herschel",
+  "funFact": "Home to observed Type Ia supernovae used to measure cosmic distances",
+  "notableFeatures": [
+    "Young stars",
+    "Spiral arms",
+    "Nebulae"
+  ],
+  "observations": [
+    "Hubble",
+    "Ground-based telescopes"
+  ],
+  "researchLinks": [
+    "https://en.wikipedia.org/wiki/NGC_3370"
+  ]
+},
+{
+  "_id": {
+    "$oid": "68c98050a3f21c036d58c098"
+  },
+  "name": "NGC 4945",
+  "type": "Spiral Galaxy",
+  "constellation": "Centaurus",
+  "distance": "13 million light-years",
+  "diameter": "70,000 light-years",
+  "stars": "100 billion",
+  "blackHole": "Active supermassive black hole",
+  "mass": "8 × 10^10 solar masses",
+  "age": "13 billion years",
+  "structure": "Dusty spiral with active nucleus",
+  "redshift": "0.001908",
+  "image": "https://cdn.esahubble.org/archives/images/thumb300y/potw1917a.jpg",
+  "formation": "Result of galactic interactions",
+  "discoveredBy": "James Dunlop",
+  "funFact": "Brightest infrared galaxy in the southern sky",
+  "notableFeatures": [
+    "Dust lane",
+    "Star-forming regions",
+    "Active nucleus"
+  ],
+  "observations": [
+    "Spitzer",
+    "Chandra",
+    "Hubble"
+  ],
+  "researchLinks": [
+    "https://en.wikipedia.org/wiki/NGC_4945"
+  ]
+},
+{
+  "_id": {
+    "$oid": "68c98050a3f21c036d58c099"
+  },
+  "name": "NGC 2903",
+  "type": "Barred Spiral Galaxy",
+  "constellation": "Leo",
+  "distance": "30 million light-years",
+  "diameter": "80,000 light-years",
+  "stars": "100 billion",
+  "blackHole": "Central black hole suspected",
+  "mass": "1 × 10^11 solar masses",
+  "age": "13 billion years",
+  "structure": "Barred spiral with active star-forming regions",
+  "redshift": "0.001608",
+  "image": "https://cdn.esahubble.org/archives/images/thumb300y/potw2143a.jpg",
+  "formation": "Formed from accretion and interactions",
+  "discoveredBy": "William Herschel",
+  "funFact": "Rich in star formation and young stellar clusters",
+  "notableFeatures": [
+    "Bar structure",
+    "Spiral arms",
+    "H II regions"
+  ],
+  "observations": [
+    "Hubble",
+    "GALEX",
+    "Spitzer"
+  ],
+  "researchLinks": [
+    "https://en.wikipedia.org/wiki/NGC_2903"
+  ]
+},
+{
+  "_id": {
+    "$oid": "68c98050a3f21c036d58c09a"
+  },
+  "name": "NGC 4565 (Needle Galaxy)",
+  "type": "Spiral Galaxy",
+  "constellation": "Coma Berenices",
+  "distance": "30–50 million light-years",
+  "diameter": "120,000 light-years",
+  "stars": "100 billion",
+  "blackHole": "Central black hole suspected",
+  "mass": "7 × 10^11 solar masses",
+  "age": "13 billion years",
+  "structure": "Edge-on spiral with thin disk",
+  "redshift": "0.0041",
+  "image": "https://cdn.esahubble.org/archives/images/thumb700x/potw1228a.jpg",
+  "formation": "Formed from gas accretion over billions of years",
+  "discoveredBy": "William Herschel",
+  "funFact": "One of the best examples of an edge-on spiral galaxy",
+  "notableFeatures": [
+    "Thin disk",
+    "Central bulge",
+    "Dark dust lane"
+  ],
+  "observations": [
+    "Hubble",
+    "Spitzer"
+  ],
+  "researchLinks": [
+    "https://en.wikipedia.org/wiki/NGC_4565"
+  ]
+},
+{
+  "_id": {
+    "$oid": "68c98050a3f21c036d58c09b"
+  },
+  "name": "NGC 7331",
+  "type": "Spiral Galaxy",
+  "constellation": "Pegasus",
+  "distance": "40 million light-years",
+  "diameter": "120,000 light-years",
+  "stars": "100 billion",
+  "blackHole": "Central black hole suspected",
+  "mass": "1 × 10^11 solar masses",
+  "age": "12 billion years",
+  "structure": "Spiral arms with central bulge and disk",
+  "redshift": "0.0027",
+  "image": "https://cdn.esahubble.org/archives/images/thumb700x/potw1805a.jpg",
+  "formation": "Gradual buildup through mergers and accretion",
+  "discoveredBy": "William Herschel",
+  "funFact": "Often called the ‘Milky Way’s twin’",
+  "notableFeatures": [
+    "Spiral arms",
+    "Star clusters",
+    "Bulge"
+  ],
+  "observations": [
+    "Hubble",
+    "Chandra",
+    "Spitzer"
+  ],
+  "researchLinks": [
+    "https://en.wikipedia.org/wiki/NGC_7331"
+  ]
+},
+{
+  "_id": {
+    "$oid": "68c98050a3f21c036d58c09c"
+  },
+  "name": "IC 342 (Hidden Galaxy)",
+  "type": "Spiral Galaxy",
+  "constellation": "Camelopardalis",
+  "distance": "10–12 million light-years",
+  "diameter": "75,000 light-years",
+  "stars": "50 billion",
+  "blackHole": "Central black hole suspected",
+  "mass": "1 × 10^11 solar masses",
+  "age": "13 billion years",
+  "structure": "Face-on spiral with dusty star-forming regions",
+  "redshift": "0.000103",
+  "image": "https://cdn.esahubble.org/archives/images/thumb700x/potw1626a.jpg",
+  "formation": "Formed in dense star-forming regions",
+  "discoveredBy": "William Frederick Denning",
+  "funFact": "Difficult to observe due to foreground stars and dust",
+  "notableFeatures": [
+    "Dust lanes",
+    "H II regions",
+    "Star-forming areas"
+  ],
+  "observations": [
+    "Hubble",
+    "Spitzer"
+  ],
+  "researchLinks": [
+    "https://en.wikipedia.org/wiki/IC_342"
+  ]
+},
+{
+  "_id": {
+    "$oid": "68c98050a3f21c036d58c09d"
+  },
+  "name": "NGC 1300",
+  "type": "Barred Spiral Galaxy",
+  "constellation": "Eridanus",
+  "distance": "61 million light-years",
+  "diameter": "110,000 light-years",
+  "stars": "100 billion",
+  "blackHole": "Active supermassive black hole",
+  "mass": "1 × 10^11 solar masses",
+  "age": "12 billion years",
+  "structure": "Barred spiral with tightly wound arms",
+  "redshift": "0.005260",
+  "image": "https://cdn.esahubble.org/archives/images/thumb300y/opo0501a.jpg",
+  "formation": "Formed from accretion and interaction",
+  "discoveredBy": "John Herschel",
+  "funFact": "Showcases a large, symmetrical bar at the center",
+  "notableFeatures": [
+    "Central bar",
+    "Star clusters",
+    "Dust lanes"
+  ],
+  "observations": [
+    "Hubble",
+    "Spitzer",
+    "ALMA"
+  ],
+  "researchLinks": [
+    "https://en.wikipedia.org/wiki/NGC_1300"
+  ]
+},
+{
+  "_id": {
+    "$oid": "68c98050a3f21c036d58c09e"
+  },
+  "name": "NGC 628 (M74)",
+  "type": "Spiral Galaxy",
+  "constellation": "Pisces",
+  "distance": "32 million light-years",
+  "diameter": "95,000 light-years",
+  "stars": "100 billion",
+  "blackHole": "Central black hole suspected",
+  "mass": "1 × 10^11 solar masses",
+  "age": "12 billion years",
+  "structure": "Grand-design spiral with visible arms",
+  "redshift": "0.002192",
+  "image": "https://cdn.esahubble.org/archives/images/thumb300y/sci25001a.jpg",
+  "formation": "Built from slow accumulation of gas and stars",
+  "discoveredBy": "Pierre Méchain",
+  "funFact": "Often used in studies of spiral structure and star formation",
+  "notableFeatures": [
+    "Spiral arms",
+    "Nebulae",
+    "Star clusters"
+  ],
+  "observations": [
+    "Hubble",
+    "GALEX",
+    "Spitzer"
+  ],
+  "researchLinks": [
+    "https://en.wikipedia.org/wiki/NGC_628"
+  ]
+},
+{
+  "_id": {
+    "$oid": "68c98050a3f21c036d58c09f"
+  },
+  "name": "NGC 253 (Sculptor Galaxy)",
+  "type": "Spiral Galaxy",
+  "constellation": "Sculptor",
+  "distance": "11 million light-years",
+  "diameter": "70,000 light-years",
+  "stars": "60 billion",
+  "blackHole": "Active nucleus suspected",
+  "mass": "5 × 10^10 solar masses",
+  "age": "12 billion years",
+  "structure": "Spiral with starburst activity",
+  "redshift": "0.000811",
+  "image": "https://cdn.esahubble.org/archives/images/thumb700x/potw1728a.jpg",
+  "formation": "Formed from gas accretion and interactions",
+  "discoveredBy": "Caroline Herschel",
+  "funFact": "One of the brightest starburst galaxies",
+  "notableFeatures": [
+    "Star-forming regions",
+    "Dust lanes",
+    "Supernova remnants"
+  ],
+  "observations": [
+    "Hubble",
+    "Spitzer",
+    "Chandra"
+  ],
+  "researchLinks": [
+    "https://en.wikipedia.org/wiki/NGC_253"
+  ]
+},
+{
+  "_id": {
+    "$oid": "68c98050a3f21c036d58c0a0"
+  },
+  "name": "NGC 1097",
+  "type": "Barred Spiral Galaxy",
+  "constellation": "Fornax",
+  "distance": "45 million light-years",
+  "diameter": "90,000 light-years",
+  "stars": "100 billion",
+  "blackHole": "Active supermassive black hole",
+  "mass": "1 × 10^11 solar masses",
+  "age": "12 billion years",
+  "structure": "Barred spiral with central ring structure",
+  "redshift": "0.004240",
+  "image": "https://cdn.esahubble.org/archives/images/thumb300y/potw2211a.jpg",
+  "formation": "Formed through interactions and mergers",
+  "discoveredBy": "William Herschel",
+  "funFact": "Has a striking circumnuclear ring of star formation",
+  "notableFeatures": [
+    "Bar structure",
+    "Starburst ring",
+    "Dust lanes"
+  ],
+  "observations": [
+    "Hubble",
+    "ALMA",
+    "Chandra"
+  ],
+  "researchLinks": [
+    "https://en.wikipedia.org/wiki/NGC_1097"
+  ]
+},
+{
+  "_id": {
+    "$oid": "68c98050a3f21c036d58c0a1"
+  },
+  "name": "NGC 4038 (Antennae Galaxies)",
+  "type": "Interacting Galaxies",
+  "constellation": "Corvus",
+  "distance": "45 million light-years",
+  "diameter": "100,000 light-years",
+  "stars": "200 billion",
+  "blackHole": "Active nucleus suspected",
+  "mass": "2 × 10^11 solar masses",
+  "age": "12 billion years",
+  "structure": "Two colliding spiral galaxies",
+  "redshift": "0.005477",
+  "image": "https://cdn.esahubble.org/archives/images/thumb700x/potw1345a.jpg",
+  "formation": "Currently merging through gravitational interaction",
+  "discoveredBy": "William Herschel",
+  "funFact": "Famous for starburst regions triggered by collision",
+  "notableFeatures": [
+    "Tidal tails",
+    "Star clusters",
+    "Gas clouds"
+  ],
+  "observations": [
+    "Hubble",
+    "Spitzer",
+    "Chandra"
+  ],
+  "researchLinks": [
+    "https://en.wikipedia.org/wiki/Antennae_Galaxies"
+  ]
+},
+{
+  "_id": {
+    "$oid": "68c98050a3f21c036d58c0a2"
+  },
+  "name": "NGC 3621",
+  "type": "Spiral Galaxy",
+  "constellation": "Hydra",
+  "distance": "22 million light-years",
+  "diameter": "90,000 light-years",
+  "stars": "100 billion",
+  "blackHole": "Central black hole suspected",
+  "mass": "8 × 10^10 solar masses",
+  "age": "12 billion years",
+  "structure": "Grand-design spiral with clear arms",
+  "redshift": "0.002332",
+  "image": "https://cdn.esahubble.org/archives/images/thumb700x/potw1341a.jpg",
+  "formation": "Built through gradual accretion and star formation",
+  "discoveredBy": "James Dunlop",
+  "funFact": "Has well-defined spiral arms and active star formation",
+  "notableFeatures": [
+    "Spiral arms",
+    "H II regions",
+    "Star clusters"
+  ],
+  "observations": [
+    "Hubble",
+    "GALEX",
+    "Spitzer"
+  ],
+  "researchLinks": [
+    "https://en.wikipedia.org/wiki/NGC_3621"
+  ]
+},
+{
+  "_id": {
+    "$oid": "68c98050a3f21c036d58c0a3"
+  },
+  "name": "NGC 6744",
+  "type": "Spiral Galaxy",
+  "constellation": "Pavo",
+  "distance": "30 million light-years",
+  "diameter": "175,000 light-years",
+  "stars": "100 billion",
+  "blackHole": "Central black hole suspected",
+  "mass": "1 × 10^11 solar masses",
+  "age": "12 billion years",
+  "structure": "Large spiral resembling the Milky Way",
+  "redshift": "0.001794",
+  "image": "https://cdn.esahubble.org/archives/images/thumb700x/heic1810a.jpg",
+  "formation": "Formed through star formation and mergers",
+  "discoveredBy": "James Dunlop",
+  "funFact": "One of the largest known spiral galaxies",
+  "notableFeatures": [
+    "Spiral arms",
+    "Star clusters",
+    "Nebulae"
+  ],
+  "observations": [
+    "Hubble",
+    "Spitzer",
+    "ALMA"
+  ],
+  "researchLinks": [
+    "https://en.wikipedia.org/wiki/NGC_6744"
+  ]
+},
+{
+  "_id": {
+    "$oid": "68c98050a3f21c036d58c0a4"
+  },
+  "name": "NGC 5033",
+  "type": "Spiral Galaxy",
+  "constellation": "Canes Venatici",
+  "distance": "40 million light-years",
+  "diameter": "100,000 light-years",
+  "stars": "100 billion",
+  "blackHole": "Active nucleus suspected",
+  "mass": "9 × 10^10 solar masses",
+  "age": "13 billion years",
+  "structure": "Spiral with loosely wound arms",
+  "redshift": "0.003343",
+  "image": "https://cdn.esahubble.org/archives/images/thumb700x/heic1810a.jpg",
+  "formation": "Formed through gradual accretion of gas",
+  "discoveredBy": "William Herschel",
+  "funFact": "Features a warped disk and active star formation",
+  "notableFeatures": [
+    "Spiral arms",
+    "Warped disk",
+    "Star-forming regions"
+  ],
+  "observations": [
+    "Hubble",
+    "Chandra",
+    "Spitzer"
+  ],
+  "researchLinks": [
+    "https://en.wikipedia.org/wiki/NGC_5033"
+  ]
+},
+{
+  "_id": {
+    "$oid": "68c98050a3f21c036d58c0a5"
+  },
+  "name": "NGC 2905",
+  "type": "Spiral Galaxy",
+  "constellation": "Leo Minor",
+  "distance": "65 million light-years",
+  "diameter": "90,000 light-years",
+  "stars": "80 billion",
+  "blackHole": "Central black hole suspected",
+  "mass": "7 × 10^10 solar masses",
+  "age": "12 billion years",
+  "structure": "Spiral galaxy with moderate star formation",
+  "redshift": "0.004500",
+  "image": "https://cdn.esahubble.org/archives/images/thumb700x/opo9910g.jpg",
+  "formation": "Built from interactions and gradual star formation",
+  "discoveredBy": "John Herschel",
+  "funFact": "Less studied but offers insights into star formation",
+  "notableFeatures": [
+    "Spiral arms",
+    "Dust clouds",
+    "Star clusters"
+  ],
+  "observations": [
+    "Hubble",
+    "ALMA"
+  ],
+  "researchLinks": [
+    "https://en.wikipedia.org/wiki/NGC_2905"
+  ]
+},
+{
+  "_id": {
+    "$oid": "68c98050a3f21c036d58c0a6"
+  },
+  "name": "NGC 3310",
+  "type": "Starburst Spiral Galaxy",
+  "constellation": "Ursa Major",
+  "distance": "50 million light-years",
+  "diameter": "80,000 light-years",
+  "stars": "90 billion",
+  "blackHole": "Central nucleus suspected",
+  "mass": "8 × 10^10 solar masses",
+  "age": "12 billion years",
+  "structure": "Irregular spiral with bursts of star formation",
+  "redshift": "0.003309",
+  "image": "https://cdn.esahubble.org/archives/images/thumb700x/opo0126a.jpg",
+  "formation": "Likely formed from a recent merger event",
+  "discoveredBy": "William Herschel",
+  "funFact": "Known for intense regions of new stars forming",
+  "notableFeatures": [
+    "Starburst regions",
+    "Dust lanes",
+    "H II regions"
+  ],
+  "observations": [
+    "Hubble",
+    "Spitzer",
+    "Chandra"
+  ],
+  "researchLinks": [
+    "https://en.wikipedia.org/wiki/NGC_3310"
+  ]
+},
+{
+  "_id": {
+    "$oid": "68c98050a3f21c036d58c0a7"
+  },
+  "name": "NGC 3627 (M66)",
+  "type": "Spiral Galaxy",
+  "constellation": "Leo",
+  "distance": "36 million light-years",
+  "diameter": "95,000 light-years",
+  "stars": "90 billion",
+  "blackHole": "Central black hole suspected",
+  "mass": "1 × 10^11 solar masses",
+  "age": "13 billion years",
+  "structure": "Grand-design spiral with strong arms",
+  "redshift": "0.002415",
+  "image": "https://cdn.esahubble.org/archives/images/thumb700x/heic1810c.jpg",
+  "formation": "Formed through interactions with nearby galaxies",
+  "discoveredBy": "Charles Messier",
+  "funFact": "Part of the Leo Triplet, interacting with nearby galaxies",
+  "notableFeatures": [
+    "Spiral arms",
+    "Star-forming regions",
+    "Dust lanes"
+  ],
+  "observations": [
+    "Hubble",
+    "ALMA",
+    "Spitzer"
+  ],
+  "researchLinks": [
+    "https://en.wikipedia.org/wiki/NGC_3627"
+  ]
+},
+{
+  "_id": {
+    "$oid": "68c98050a3f21c036d58c0a8"
+  },
+  "name": "NGC 4559",
+  "type": "Spiral Galaxy",
+  "constellation": "Coma Berenices",
+  "distance": "29 million light-years",
+  "diameter": "70,000 light-years",
+  "stars": "60 billion",
+  "blackHole": "Central black hole suspected",
+  "mass": "6 × 10^10 solar masses",
+  "age": "12 billion years",
+  "structure": "Spiral galaxy with active star-forming regions",
+  "redshift": "0.001574",
+  "image": "https://cdn.esahubble.org/archives/images/thumb700x/opo0104b.jpg",
+  "formation": "Formed from slow accumulation of matter",
+  "discoveredBy": "William Herschel",
+  "funFact": "Contains multiple young star clusters and nebulae",
+  "notableFeatures": [
+    "Spiral arms",
+    "H II regions",
+    "Nebulae"
+  ],
+  "observations": [
+    "Hubble",
+    "GALEX",
+    "Spitzer"
+  ],
+  "researchLinks": [
+    "https://en.wikipedia.org/wiki/NGC_4559"
+  ]
+},
+{
+  "_id": {
+    "$oid": "68c98050a3f21c036d58c0a9"
+  },
+  "name": "NGC 1365",
+  "type": "Barred Spiral Galaxy",
+  "constellation": "Fornax",
+  "distance": "56 million light-years",
+  "diameter": "200,000 light-years",
+  "stars": "100 billion",
+  "blackHole": "Active supermassive black hole",
+  "mass": "1 × 10^11 solar masses",
+  "age": "12 billion years",
+  "structure": "Barred spiral with central ring and well-defined arms",
+  "redshift": "0.005457",
+  "image": "https://cdn.esahubble.org/archives/images/thumb700x/potw2040a.jpg",
+  "formation": "Formed through accretion and interactions",
+  "discoveredBy": "Johann Friedrich Julius Schmidt",
+  "funFact": "Known as the ‘Great Barred Spiral Galaxy’",
+  "notableFeatures": [
+    "Bar structure",
+    "Central ring",
+    "Star-forming regions"
+  ],
+  "observations": [
+    "Hubble",
+    "Spitzer",
+    "ALMA"
+  ],
+  "researchLinks": [
+    "https://en.wikipedia.org/wiki/NGC_1365"
+  ]
+},
+{
+  "_id": {
+    "$oid": "68c98050a3f21c036d58c0aa"
+  },
+  "name": "NGC 2403",
+  "type": "Spiral Galaxy",
+  "constellation": "Camelopardalis",
+  "distance": "8 million light-years",
+  "diameter": "50,000 light-years",
+  "stars": "40 billion",
+  "blackHole": "Central black hole suspected",
+  "mass": "5 × 10^10 solar masses",
+  "age": "12 billion years",
+  "structure": "Grand-design spiral with active star formation",
+  "redshift": "0.000439",
+  "image": "https://cdn.esahubble.org/archives/images/thumb700x/opo0423a.jpg",
+  "formation": "Formed gradually through gas accumulation",
+  "discoveredBy": "William Herschel",
+  "funFact": "Contains numerous H II regions and star clusters",
+  "notableFeatures": [
+    "Spiral arms",
+    "Nebulae",
+    "Star clusters"
+  ],
+  "observations": [
+    "Hubble",
+    "Spitzer"
+  ],
+  "researchLinks": [
+    "https://en.wikipedia.org/wiki/NGC_2403"
+  ]
+},
+{
+  "_id": {
+    "$oid": "68c98050a3f21c036d58c0ab"
+  },
+  "name": "NGC 3079",
+  "type": "Spiral Galaxy",
+  "constellation": "Ursa Major",
+  "distance": "50 million light-years",
+  "diameter": "130,000 light-years",
+  "stars": "100 billion",
+  "blackHole": "Active supermassive black hole",
+  "mass": "1 × 10^11 solar masses",
+  "age": "12 billion years",
+  "structure": "Edge-on spiral with central bulge and starburst nucleus",
+  "redshift": "0.003723",
+  "image": "https://cdn.esahubble.org/archives/images/thumb700x/opo0128b.jpg",
+  "formation": "Formed through interactions and star formation",
+  "discoveredBy": "William Herschel",
+  "funFact": "Shows superwind activity from central starburst region",
+  "notableFeatures": [
+    "Dust lanes",
+    "Starburst nucleus",
+    "Spiral disk"
+  ],
+  "observations": [
+    "Hubble",
+    "Chandra",
+    "Spitzer"
+  ],
+  "researchLinks": [
+    "https://en.wikipedia.org/wiki/NGC_3079"
+  ]
+},
+{
+  "_id": {
+    "$oid": "68c98050a3f21c036d58c0ac"
+  },
+  "name": "NGC 7332",
+  "type": "Lenticular Galaxy",
+  "constellation": "Pegasus",
+  "distance": "60 million light-years",
+  "diameter": "50,000 light-years",
+  "stars": "50 billion",
+  "blackHole": "Central black hole suspected",
+  "mass": "5 × 10^10 solar masses",
+  "age": "13 billion years",
+  "structure": "Smooth disk with little spiral structure",
+  "redshift": "0.003763",
+  "image": "https://cdn.esahubble.org/archives/images/thumb700x/opo9828b.jpg",
+  "formation": "Formed through gas depletion and aging stellar population",
+  "discoveredBy": "William Herschel",
+  "funFact": "Often studied as a typical lenticular galaxy",
+  "notableFeatures": [
+    "Smooth disk",
+    "Older stars",
+    "Little gas"
+  ],
+  "observations": [
+    "Hubble",
+    "Spitzer"
+  ],
+  "researchLinks": [
+    "https://en.wikipedia.org/wiki/NGC_7332"
+  ]
+},
+{
+  "_id": {
+    "$oid": "68c98050a3f21c036d58c0ad"
+  },
+  "name": "NGC 7742",
+  "type": "Spiral Galaxy",
+  "constellation": "Pegasus",
+  "distance": "72 million light-years",
+  "diameter": "50,000 light-years",
+  "stars": "50 billion",
+  "blackHole": "Central black hole suspected",
+  "mass": "5 × 10^10 solar masses",
+  "age": "12 billion years",
+  "structure": "Face-on spiral with bright ring and central bulge",
+  "redshift": "0.005480",
+  "image": "https://cdn.esahubble.org/archives/images/thumb700x/opo9828a.jpg",
+  "formation": "Formed through secular evolution and minor interactions",
+  "discoveredBy": "William Herschel",
+  "funFact": "Also called the ‘Fried Egg Galaxy’ due to its appearance",
+  "notableFeatures": [
+    "Bright ring",
+    "Central bulge",
+    "Star-forming regions"
+  ],
+  "observations": [
+    "Hubble",
+    "Spitzer",
+    "GALEX"
+  ],
+  "researchLinks": [
+    "https://en.wikipedia.org/wiki/NGC_7742"
+  ]
+},
+{
+  "_id": {
+    "$oid": "68c98050a3f21c036d58c0ae"
+  },
+  "name": "NGC 2903",
+  "type": "Spiral Galaxy",
+  "constellation": "Leo",
+  "distance": "30 million light-years",
+  "diameter": "80,000 light-years",
+  "stars": "80 billion",
+  "blackHole": "Central black hole suspected",
+  "mass": "7 × 10^10 solar masses",
+  "age": "12 billion years",
+  "structure": "Barred spiral with prominent star formation",
+  "redshift": "0.001868",
+  "image": "https://cdn.esahubble.org/archives/images/thumb300y/potw1917a.jpg",
+  "formation": "Built through gas accretion and stellar evolution",
+  "discoveredBy": "William Herschel",
+  "funFact": "Contains multiple H II regions and young star clusters",
+  "notableFeatures": [
+    "Bar structure",
+    "Star-forming regions",
+    "Spiral arms"
+  ],
+  "observations": [
+    "Hubble",
+    "Spitzer"
+  ],
+  "researchLinks": [
+    "https://en.wikipedia.org/wiki/NGC_2903"
+  ]
+},
+{
+  "_id": {
+    "$oid": "68c98050a3f21c036d58c0af"
+  },
+  "name": "NGC 1360",
+  "type": "Elliptical Galaxy",
+  "constellation": "Forse",
+  "distance": "200 million light-years",
+  "diameter": "60,000 light-years",
+  "stars": "50 billion",
+  "blackHole": "Central black hole suspected",
+  "mass": "5 × 10^10 solar masses",
+  "age": "13 billion years",
+  "structure": "Smooth elliptical shape with little gas",
+  "redshift": "0.015623",
+  "image": "https://cdn.esahubble.org/archives/images/screen/heic0817a.jpg",
+  "formation": "Formed through mergers and star aging",
+  "discoveredBy": "William Herschel",
+  "funFact": "Typical elliptical galaxy with older stellar population",
+  "notableFeatures": [
+    "Smooth light distribution",
+    "Older stars",
+    "Little gas"
+  ],
+  "observations": [
+    "Hubble",
+    "Spitzer"
+  ],
+  "researchLinks": [
+    "https://en.wikipedia.org/wiki/NGC_1360"
+  ]
+},
+{
+  "_id": {
+    "$oid": "68c98050a3f21c036d58c0b0"
+  },
+  "name": "NGC 4569 (M90)",
+  "type": "Spiral Galaxy",
+  "constellation": "Virgo",
+  "distance": "55 million light-years",
+  "diameter": "100,000 light-years",
+  "stars": "90 billion",
+  "blackHole": "Central black hole suspected",
+  "mass": "1 × 10^11 solar masses",
+  "age": "12 billion years",
+  "structure": "Spiral with truncated arms due to cluster interactions",
+  "redshift": "0.001578",
+  "image": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdHx8kKDQsJCYxJx8fLT0tMTU3Ojo6Iys/RD84QzQ5OjcBCgoKDQwNGg8PGjclHyU3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3N//AABEIAFwAXAMBIgACEQEDEQH/xAAbAAADAQEBAQEAAAAAAAAAAAADBAUGAgEAB//EAC0QAAEEAQMDAwMDBQAAAAAAAAEAAgMRIQQSMQUiQRNRYTJxoRSBkQYjM1Lw/8QAGAEAAwEBAAAAAAAAAAAAAAAAAQIDAAT/xAAdEQEAAwACAwEAAAAAAAAAAAAAAQIRITEDEkEy/9oADAMBAAIRAxEAPwDCab6Qmt2MpTTGgj2TacHoDXNtov4Qt0b3baLfvhMaZ2xh9Nge88DlVG6d3pt/UQFj3DGKtT91IprPvZ7IT47GQrs/To4S0St27sB1pCeF0dllEJonSWriNLDXAS72UCbo+FWIB+oWP4ylZocEpsBMcKQ3BNSMpBcErA0vKRCFysLRwcC/PCPRBsJKB9OGU8csCIGukkRzvLqLXctP5Wh1Ime0Bkts2At7rA4H88fhZeB2x7XfKs+ux8MbDgB/cBwL5UrTkL07cztY9gifOXVd7hVH7pF2lliaK+k5rkK9q9PHpZiGse5oFNdtvH2SBlDXbHkFrvpIwQfb8rRMbz2NolA1DO7tQDZFFWNXDXe1va5TZmKkShMJ87Rf0gBKPZyqErbFJWRtYKPYE3BcUjvahUgyjE/KoQv3NAUlhTcMlVawqDD4VTphLiGnDuCfceyjh9gFUunTgOGUlo01bY1OmjL4xG4ZAxfkLifp4ka5jh/b+3H/AHui9Ona5zb5BwtJpOnfrba0A7hXKjbfi9Zj6wGp2wSjTOqiLDjjPn9lK1kX+vlbD+oOkt0Ujn6hjjG3/J9ln52wl5ZG4uHjz+fKel/aC+Smcwzz20SClZ482qWsj2vN4SZoghWiUMT5BSCQLTU7SCliEZARhRrz28JZhR2lATUL8cpmGTa4EFIMsWUeN1oSzV9L1dgDdkcLadC6psrwfhfl2k1BjeCDlarp2rDwC058gKdoVrLUdalOodJJIPUa+9wObCy2qdEYSHNiLo69KUDuLPZUZ53PgLe4H2UMwu9Z5lYaYNzW+48qFdrZ0cWqS1EQniJIyor49j+FqJIw2XYwgsdZGQQR4o/ubUfqOn9N5IHOV2RHDktxKTPHuBICRc2iqoF4SssVPKYiax1I8bvlKAojXcJRPsNojR5Skb00xwIRAxGcqhpdU+KqOQpjcFMRvF5SzBonGlh6iJY9rnbH8ZXsur9E2NrnsFURyCFBDmuFAkLqQuLa39v3UrUlel4V9AYZ3UcRh1mvDj7L7qsAMNtzQwUPo102L0hW6yT5Pyn9RB2SxgimmhlX8P5xPzZuwyPDiF85lm11qm+nO5fDITQkzYXQKGF6kEdrkeKTICTBRGlZlSJ4KOByW/wpkLzfKoQuJGUeweN3F9CwjsLvV27hQ5yvGCs/K6KGG0/ptTsO1x3ZVNuqD4yBW34WbB8pvTyO9LlUrxJZnYD6hRksJdh7V1qXGzlctHat9B//2Q==",
+  "formation": "Affected by interactions with Virgo Cluster",
+  "discoveredBy": "William Herschel",
+  "funFact": "One of the largest spiral galaxies in the Virgo Cluster",
+  "notableFeatures": [
+    "Spiral arms",
+    "Truncated disk",
+    "Star-forming regions"
+  ],
+  "observations": [
+    "Hubble",
+    "GALEX",
+    "Spitzer"
+  ],
+  "researchLinks": [
+    "https://en.wikipedia.org/wiki/NGC_4569"
+  ]
+},
+{
+  "_id": {
+    "$oid": "68c98050a3f21c036d58c0b1"
+  },
+  "name": "NGC 4039 (Antennae Galaxies)",
+  "type": "Interacting Galaxies",
+  "constellation": "Corvus",
+  "distance": "45 million light-years",
+  "diameter": "100,000 light-years",
+  "stars": "200 billion",
+  "blackHole": "Active nucleus suspected",
+  "mass": "2 × 10^11 solar masses",
+  "age": "12 billion years",
+  "structure": "Colliding pair forming tidal tails",
+  "redshift": "0.005477",
+  "image": "https://cdn.esahubble.org/archives/images/thumb300y/heic0812c.jpg",
+  "formation": "Currently merging through gravitational interaction",
+  "discoveredBy": "William Herschel",
+  "funFact": "Shows spectacular tidal tails from collision",
+  "notableFeatures": [
+    "Tidal tails",
+    "Star clusters",
+    "Gas clouds"
+  ],
+  "observations": [
+    "Hubble",
+    "Spitzer",
+    "Chandra"
+  ],
+  "researchLinks": [
+    "https://en.wikipedia.org/wiki/Antennae_Galaxies"
+  ]
+},
+{
+  "_id": {
+    "$oid": "68c98050a3f21c036d58c0b2"
+  },
+  "name": "NGC 891",
+  "type": "Spiral Galaxy",
+  "constellation": "Andromeda",
+  "distance": "30 million light-years",
+  "diameter": "100,000 light-years",
+  "stars": "100 billion",
+  "blackHole": "Central black hole suspected",
+  "mass": "1 × 10^11 solar masses",
+  "age": "12 billion years",
+  "structure": "Edge-on spiral with visible dust lane",
+  "redshift": "0.001764",
+  "image": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdHx8kKDQsJCYxJx8fLT0tMTU3Ojo6Iys/RD84QzQ5OjcBCgoKDQwNGg8PGjclHyU3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3N//AABEIAFwAXAMBIgACEQEDEQH/xAAbAAADAQEBAQEAAAAAAAAAAAAAAQIEBQMGB//EAC8QAAEDAgYBAgUDBQAAAAAAAAEAAhEDIQQSMUFRYQUicRNCgbHwBhQyI1Kh0eH/xAAXAQEBAQEAAAAAAAAAAAAAAAAAAgMB/8QAGREBAQEBAQEAAAAAAAAAAAAAAAECETFx/9oADAMBAAIRAxEAPwD8jc5z4zEmBAnYJWkpjW5hKZ1J7lAQTzA3hF7DhH2TAb8xP03QSnN4Cp0G8zO3ClAxMo2um74eRmXMXfNOk7R9Fdeo57g11b4rWNDWuvYcCUHk0w4EiejuhCbXFpBEWM3GqBTJJIt1ZNtR7RDXED3SGXKZ1m10kDOqEpTHsgY5iR2gCbCSU2RMW91oqYR4YHtGZvIQZTaCqc0hxbYkcXTBLNOIQyQ4G4HSCEw0kgDdXWFNtd/7d73Uw70OcMriNiRJg/VQSXOtclAy3LIcBmMiLgsM7qYkb+wCDO+qIcGzpNtUCHaEyQdoSugpgLvSG5nHSNU3CmHjKXFkC5aAZi+/KqhiKuHrMr0KjqVSmczXtMFp5leZ1ugCbzzyt2AxzsM6CA6mdWlYFdOc38c20IPoanjKGOpmtgnCYkjtcnEePr4dwFSm5pdcSIkcp4DHVMK8FhAG/Y4X3vhRgPN0MtdjS9jdr1GdgH+Q614nRRdXLXOZv6/N3sLXFtpBixkKZEEESdjwu/8AqDwv7GpmoVGVqDrsqsNnhcFwym6qWWdjOyy8pTMkm52AQ8RHqBkTabdXVVCx9VxYwUmkkhskho45UXjLNiZXXAIvJOlrIBS/JQYn0iB3dBdKo+jUZUpPLHtIc1zTdpGhUkySd0kQdUD2Ta4sIc0lrhoQYhIS03AOliqMgBvp2Oo+/wCQgQ5WzAY1+GqB7ajmZb+nXXZYw1xaTFgdUpQfVUvONxlI0MZBzGS6Jk8n/eq5fk/HmnNWldhuCDIhcproNltwnkq2HIBh7P7XXCnnPF3XfWEiNkfZa8SKVX+pStNy3hZQJJvFpuqQHEScogG4HC0UPH4zEUxUoYepUZpmaN1mc1wDS4EBwkGNR0kDCBtbJ1AgE3SOkoGkQi+iAJJuTdCABIBMCbngIaC4gW6koLbWqCmaYefhk5iybTBExzcqCgXQgJRdU9jmRmBEiRI1HI5/4l3x2gYe7KGzYEmPz2SJvKQ5gx0q9Jmcw4tKCQhKLJ/VAkwSNDCWy9aVMPY9xmWxEdmEHnqZKLjTQ8Kq7QyvUYJhri0T0VPyoAe0oRP2Xa/Vvj6Hi/OYrCYUOFKkGZcxk3YCf8lByKrHNeQ5uQ29PSiTptwEGzrIF9eEBPp7lEkpbIKChlLTqDaB90gOXAe6SEH/2Q==",
+  "formation": "Formed through gradual star formation over time",
+  "discoveredBy": "William Herschel",
+  "funFact": "Sometimes called the ‘Outer Milky Way twin’",
+  "notableFeatures": [
+    "Edge-on view",
+    "Dust lane",
+    "Spiral disk"
+  ],
+  "observations": [
+    "Hubble",
+    "Spitzer"
+  ],
+  "researchLinks": [
+    "https://en.wikipedia.org/wiki/NGC_891"
+  ]
+},
+{
+  "_id": {
+    "$oid": "68c98050a3f21c036d58c0b3"
+  },
+  "name": "NGC 6946",
+  "type": "Spiral Galaxy",
+  "constellation": "Cepheus / Cygnus",
+  "distance": "22 million light-years",
+  "diameter": "40,000 light-years",
+  "stars": "40 billion",
+  "blackHole": "Central black hole suspected",
+  "mass": "5 × 10^10 solar masses",
+  "age": "12 billion years",
+  "structure": "Face-on spiral with active star formation",
+  "redshift": "0.000160",
+  "image": "data:image/jpeg;base64,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",
+  "formation": "Formed gradually with ongoing star formation",
+  "discoveredBy": "William Herschel",
+  "funFact": "Known as the ‘Fireworks Galaxy’ due to frequent supernovae",
+  "notableFeatures": [
+    "Spiral arms",
+    "H II regions",
+    "Supernova remnants"
+  ],
+  "observations": [
+    "Hubble",
+    "Chandra",
+    "Spitzer"
+  ],
+  "researchLinks": [
+    "https://en.wikipedia.org/wiki/NGC_6946"
+  ]
+},
+{
+  "_id": {
+    "$oid": "68c98050a3f21c036d58c0b4"
+  },
+  "name": "NGC 4550",
+  "type": "Lenticular Galaxy",
+  "constellation": "Virgo",
+  "distance": "50 million light-years",
+  "diameter": "60,000 light-years",
+  "stars": "50 billion",
+  "blackHole": "Central black hole suspected",
+  "mass": "5 × 10^10 solar masses",
+  "age": "13 billion years",
+  "structure": "Two counter-rotating stellar disks",
+  "redshift": "0.001423",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/NGC4550_-_SDSS_DR14.jpg/500px-NGC4550_-_SDSS_DR14.jpg",
+  "formation": "Formed through galaxy merger and angular momentum conservation",
+  "discoveredBy": "William Herschel",
+  "funFact": "Unique galaxy with counter-rotating stars",
+  "notableFeatures": [
+    "Counter-rotating disks",
+    "Smooth light profile",
+    "Older stars"
+  ],
+  "observations": [
+    "Hubble",
+    "Spitzer"
+  ],
+  "researchLinks": [
+    "https://en.wikipedia.org/wiki/NGC_4550"
+  ]
+},
+{
+  "_id": {
+    "$oid": "68c98050a3f21c036d58c0b5"
+  },
+  "name": "NGC 5866",
+  "type": "Lenticular Galaxy",
+  "constellation": "Draco",
+  "distance": "44 million light-years",
+  "diameter": "80,000 light-years",
+  "stars": "70 billion",
+  "blackHole": "Central black hole suspected",
+  "mass": "8 × 10^10 solar masses",
+  "age": "12 billion years",
+  "structure": "Edge-on lenticular with visible dust lane",
+  "redshift": "0.001557",
+  "image": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdHx8kKDQsJCYxJx8fLT0tMTU3Ojo6Iys/RD84QzQ5OjcBCgoKDQwNGg8PGjclHyU3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3N//AABEIAFwAXAMBIgACEQEDEQH/xAAaAAADAQEBAQAAAAAAAAAAAAADBQYEAgEH/8QALRAAAQQCAQIDBwUBAAAAAAAAAQACAxEEITEFEkFRYRMUIjJCcYFTkaGx0Qb/xAAWAQEBAQAAAAAAAAAAAAAAAAAAAQL/xAAWEQEBAQAAAAAAAAAAAAAAAAAAARH/2gAMAwEAAhEDEQA/APksejRW7HG1gY4Epji7pWhlBF3BEkxtcIuE3hNfdPaMsVwglp4OdLBKxwFXq+FTZWNV6SnIgonSBG9m0F4TCaOiskjEgzEI2Hiz5eTHBjRPlle6msY2yVydcBFwsyfCyWZGLK+KVh+F7TsK0ZZY3RuLXiiDRC5DSRogfcok0jpHlziSSbKCrAwi2LJ34JliHYSuLR2mOK7YWaqhwfBU/S4xM32TvqUrgOulV9J5aRyrGaBm4BaXAt4SHMxKvSvpIDPkyNkHzDvb6+B/n+0l6lgFndrnRSwlQORj7pLciLtcR5Knz8XtvSRZMdLKlRaLomh5oLtFapWrM9aAz5rg8rshc0qNUZW7GdRS9h2tcJpQUPT37CsOjPFttQmDJRCrOkZABaoVfOx+7FbmxNLn4vxlo+pn1j9t/cBe9a6e32TXsosc0Oa4eIK9/wCfzwwtuiPJFimqGfp77Pu7u6In9JxPaPxsfgLTL551bG7SdKVzYqJV/wBbiALlG9QjolZqxNzt2sbxRtM8luyl0o2rFZnLkgeZRH+iGqCtK0RFZQUZhQNcWSqT7AyKral4X0QmuJNRFlZF90rqBYW7TifMIfHltJPY0iQN5LT/AIaKhMLJ7SNp9h5tiidKypY3dVeJAXDgqR6g3ZVRlhgx2+y+UCgPJTWfyUpE7lM5SyZtJxlDlKpxtSNMT0Or8UV6G4UasH7LSPAURhQhyu2lBqjdS248iWgo8UlUpQ/xpqraa42TVbU3jy6W+GelkVUeV3RlpKV53is8OTXivMiXuHKuoWZXJSuer3wmWQ4bSuc7SNMknOuEKh50ivQTytI87rrQGvBdNK4C6Co7tEaUFdNUGyGWltim9UqaSFpjcaWapsyf1XbprHKWtefNd95pASd92l0rtrRI4rJIUAnoZXZXKqP/2Q==",
+  "formation": "Formed via star formation cessation and aging population",
+  "discoveredBy": "William Herschel",
+  "funFact": "Also called the ‘Spindle Galaxy’",
+  "notableFeatures": [
+    "Edge-on view",
+    "Dust lane",
+    "Older stellar population"
+  ],
+  "observations": [
+    "Hubble",
+    "Spitzer"
+  ],
+  "researchLinks": [
+    "https://en.wikipedia.org/wiki/NGC_5866"
+  ]
+},
+{
+  "_id": {
+    "$oid": "68c98050a3f21c036d58c0b6"
+  },
+  "name": "NGC 4258 (M106)",
+  "type": "Spiral Galaxy",
+  "constellation": "Canes Venatici",
+  "distance": "23.5 million light-years",
+  "diameter": "90,000 light-years",
+  "stars": "100 billion",
+  "blackHole": "Active supermassive black hole",
+  "mass": "1 × 10^11 solar masses",
+  "age": "12 billion years",
+  "structure": "Spiral with anomalous arms and central activity",
+  "redshift": "0.001494",
+  "image": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdHx8kKDQsJCYxJx8fLT0tMTU3Ojo6Iys/RD84QzQ5OjcBCgoKDQwNGg8PGjclHyU3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3N//AABEIAFwAXAMBIgACEQEDEQH/xAAbAAADAQEBAQEAAAAAAAAAAAADBAUCBgEAB//EAC0QAAEDAwMEAgAFBQAAAAAAAAEAAhEDBBIhMUEFEyJRYXEyUoGRoSNCYtHx/8QAGAEAAwEBAAAAAAAAAAAAAAAAAQIDAAT/xAAeEQACAgMBAQEBAAAAAAAAAAAAAQIRAxIxIUETIv/aAAwDAQACEQMRAD8A/GwFoNWg1EYyU4AYattaiHaPS9YwlEBgNW2slM07dzjsnKNkTwgFIRZQJ4R6ds70qtCy1AjdWLLoFzXIc2ge2DBcRACDY6g2c2201gaogtiBsu0f0axsy11ZznkyMGeUEez8+xKjdRNDJxo0S0E+M+km9FXhddIjqMfaC4NBiVSaRqNhzsg1LXzPkwfG6b1q0S1p0zmmaFEA9L5jNU5RoFxGiYQBTolxCft7T2n7Lp+UEqtb9ObyNeFrGUSfb2exhU7WxBIyBieN1XsOmZauH6K5bdNwp91oAxMfXz8qMsisvHHRP6f0Wkx7TcYtG5lO3dzbWVHt22dQxq7/AEm63TaNS2bVq1X9xxPEqJe0XmkO0XOO0OGqH6OKCse7Jl1fGq8knTgelKuXio06J2tRdJhpSVdjmgCN0FNMd4pLhOzLHEwT9Baa4OExE+165sAkjQ6ITnt0A0gRorYuHNlVP0mUrcyrFjaCRO6HYsDwMt1XtqcCYAPH2hddHjFP1DlpRZkB6XQWViKgacQCOVK6VSBLTyd12FgxmDQIJG6hlm0XhA3YdObP4CdNITr+lPayTO20J6he21oJqMc50TA5SnUusVbi2rNcadBkY4MgmPkrmco10KjN/PCDeWxeXMfjhE5ZQfgCeFJNVrafg4mBySnb67fVLatMOLYMwYMegpb3U+3mKrW+EBhHl/xVwxbQ8/5ELy5kmdvYUu5f23w46jg8J2vVa7V4j3yo3WLw3FxLDJk6uABPyVTRVZv2a8YOvV8XQMwf4KnOqaor6uDNZGX4vgqc95yOqrF0jlzPZ2dBbsLGteQQHbGN1Tp14Y0FgMnUhTaYIAkSBsE9bMyBlh+I4TyFxui7a3FOnrsRx6VJtzVfTBpGAd9Vztq3uVxm4aGeQqwrtptgSfpc042dkJUx9gf2ya109r8Yxb5R86+krV6i6uJa7Fmsyf2SNS5c5ztQBtvuk61btBrgA5p/tcf5Qjh+jzzDXULslhE+Rky0nQqO+5l+M/1DyDssXV5k7xj72hTq1wJMHU8qqRzSmNXNam0+MufHk4ndR7irkcv2X1asCzHETM5cpZ0uBT6knOzx9QunJLkiUR7hiW88JYzKxNnXMPiNWgDg8p6i+GEwSSOEk+2oMpUanfc/JxL2DTFaZd0qGxL25Ti4aEKulhbopM7VIOqPqkH8o1/WF4L4d1ubXml+UaEhSKl/M9tjWDgBo0QX3jjMuJKWooZZJdK9e8plxc2nh/iDMKdcXZdIbEegkXV3H3+6C6pCArkHfV08t/hLvfuVgvOqXrOc0Ekj6R4LdhHHVD7kh2Mab6olN9sbVxeX97LxjUQkSQFmBGnGEIuXxcsE6pTFsViF4apMoXKyTAKcwXuOEGV9mTuhSdlsjxWSNZl9UjZDNR3teO5QHOIQMM9zATIyQHPy1dBKCXElZJ1WsBpz0MuK8KySTuUDHxKySvTssIBP/9k=",
+  "formation": "Formed via normal spiral evolution with interactions",
+  "discoveredBy": "Pierre Méchain",
+  "funFact": "Famous for maser emission used to measure distance",
+  "notableFeatures": [
+    "Anomalous arms",
+    "Active nucleus",
+    "Spiral disk"
+  ],
+  "observations": [
+    "Hubble",
+    "VLBA",
+    "Chandra"
+  ],
+  "researchLinks": [
+    "https://en.wikipedia.org/wiki/NGC_4258"
+  ]
+},
+{
+  "_id": {
+    "$oid": "68c98050a3f21c036d58c0b7"
+  },
+  "name": "NGC 3628",
+  "type": "Spiral Galaxy",
+  "constellation": "Leo",
+  "distance": "35 million light-years",
+  "diameter": "100,000 light-years",
+  "stars": "100 billion",
+  "blackHole": "Central black hole suspected",
+  "mass": "1 × 10^11 solar masses",
+  "age": "12 billion years",
+  "structure": "Edge-on spiral with dust lane and tidal tail",
+  "redshift": "0.002800",
+  "image": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdHx8kKDQsJCYxJx8fLT0tMTU3Ojo6Iys/RD84QzQ5OjcBCgoKDQwNGg8PGjclHyU3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3N//AABEIAFwAXAMBIgACEQEDEQH/xAAbAAABBQEBAAAAAAAAAAAAAAAEAAECAwUGB//EADEQAAEEAQMCAwYGAwEAAAAAAAEAAgMRBBIhMQVBBlFhEyJxgZGhMkKxwdHwI1LxFv/EABcBAQEBAQAAAAAAAAAAAAAAAAEAAgP/xAAcEQEBAQACAwEAAAAAAAAAAAAAARECEiIxQSH/2gAMAwEAAhEDEQA/APJtCkIr7I6PGt3FhFQ4RJFi1pMkQE9kTjYIkeGyPEbaPvEE9vT6Lbx+lueRQW3heHJZaOn7KwOQi6aXcBGRdHc78q9CwfCcpq2fZdFh+ENRsRkN7XupPKsfw+5/5UWPDpjH4V68zw3DBH7wah39GjIBNAHj1RsOPLB0cgUGBWs6I9wv2Z+i72WLAgP42ucDuG70hMrqOJjxukEZLBsK5s/otSi65Znh17m7tAHmAhMjo7Y5SwubY5taef1vLdG2SJpijbxwRXmVgTZmbkP9oJCwEcHZOjqlidKe8j3eVsQdEc5vCbI8QYeOAIsaV+hwBPFhEHxFNlxtb07DNg0RICP+rF5OnVp4HRaIttfFb2EzEw3ATva3Tza4ky+IZnMnaWwRg7t1C/p3Vrei52blNfmdSeGkamgjVv67rNtM4x28fi7DildHDG1wbw4uH6d0R/68uaXR6HtFbA1X8rl8Tw5FDKHS5cb4m8M0fuins6fiu/wOLRxpZt9fqufXa6eMiGZ40y5A5oZILeQHVVC62WX1HruXKwu9+Tgsde/wKMklwodWlpFgcm1m5GbE1zW6QG15Lc2ehZxZeTl50jfaFsms+RFALKlmy5vZsmedI2F77f0lbWVnREe7Q9AsfIy2jZbysWz4omlmFkm9q2Qhkl7vDfQp5srUUI/IJoXsBQVjNrpMZ+E6dz5NTpBWnW7a/p8kYcwRAHG2J3BIu/iuYZlgHc/EhXv6rLIyNj5HFsYpjSdmi7ofMlWHa35OoSuprnEg9jwiMbqgxox7R+v5Lkn555JVTs4/7fdOB20nXwR7ppBv6ybuwFx7s8+agct7zpbZNE16AWfsr8Dpp+sG+Qs/I6oXd1gPynHuqjkb+YUWrJnON7oZ+WTys90x81Ay2oDHz2qva+qGL0gSeFIUZ1EznzQhffdR1IAszmlWZj5oYu35TalahBmPmkXO2JHqL7qgOAa4Ftk1RvhXY1OkDXd0GGLv7aiXK7MgMElchDEqKepXZAgjmrHldNHTbcWaCTQ1CrPBsX35QoKdvO525SEwdk4cRwSPgVC7KSRqOoi6JF7H1TKbg0RCnNcXGyKNtq9vn/HqFWVlHugkQRRIIsWL7j+hNaSkSkx2lwKgno9+ykOyJWzkmJpDGt/MRt80E4p9RAIB2PKlHEZ5oYccOfJKWsANC3k1Xw3UVadMCNII5T7aed/Kkg4Ke1FOUhBLlJPqsDYChWw5QTJ792qHN2mSQSSS7BJIJJPYDBTRuKJ+fP7KKgdOkTYaKAoVsOe+6nAwSOIJOzXO29Gk/sqBFOBaZNa0n//Z",
+  "formation": "Formed through interactions with Leo Triplet members",
+  "discoveredBy": "William Herschel",
+  "funFact": "Part of the Leo Triplet of galaxies",
+  "notableFeatures": [
+    "Dust lane",
+    "Tidal tail",
+    "Edge-on spiral"
+  ],
+  "observations": [
+    "Hubble",
+    "Spitzer",
+    "Chandra"
+  ],
+  "researchLinks": [
+    "https://en.wikipedia.org/wiki/NGC_3628"
+  ]
+},
+{
+  "_id": {
+    "$oid": "68c98050a3f21c036d58c0b8"
+  },
+  "name": "NGC 253 (Sculptor Galaxy)",
+  "type": "Spiral Galaxy",
+  "constellation": "Sculptor",
+  "distance": "11.4 million light-years",
+  "diameter": "90,000 light-years",
+  "stars": "100 billion",
+  "blackHole": "Central black hole suspected",
+  "mass": "1 × 10^11 solar masses",
+  "age": "12 billion years",
+  "structure": "Starburst spiral with active star formation",
+  "redshift": "0.000811",
+  "image": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdHx8kKDQsJCYxJx8fLT0tMTU3Ojo6Iys/RD84QzQ5OjcBCgoKDQwNGg8PGjclHyU3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3N//AABEIAFwAXAMBIgACEQEDEQH/xAAbAAABBQEBAAAAAAAAAAAAAAAEAAECAwUGB//EADEQAAEEAQMCAwYGAwEAAAAAAAEAAgMRBBIhMQVBBlFhEyJxgZGhMkKxwdHwI1LxFv/EABcBAQEBAQAAAAAAAAAAAAAAAAEAAgP/xAAcEQEBAQACAwEAAAAAAAAAAAAAARECEiIxQSH/2gAMAwEAAhEDEQA/APJtCkIr7I6PGt3FhFQ4RJFi1pMkQE9kTjYIkeGyPEbaPvEE9vT6Lbx+lueRQW3heHJZaOn7KwOQi6aXcBGRdHc78q9CwfCcpq2fZdFh+ENRsRkN7XupPKsfw+5/5UWPDpjH4V68zw3DBH7wah39GjIBNAHj1RsOPLB0cgUGBWs6I9wv2Z+i72WLAgP42ucDuG70hMrqOJjxukEZLBsK5s/otSi65Znh17m7tAHmAhMjo7Y5SwubY5taef1vLdG2SJpijbxwRXmVgTZmbkP9oJCwEcHZOjqlidKe8j3eVsQdEc5vCbI8QYeOAIsaV+hwBPFhEHxFNlxtb07DNg0RICP+rF5OnVp4HRaIttfFb2EzEw3ATva3Tza4ky+IZnMnaWwRg7t1C/p3Vrei52blNfmdSeGkamgjVv67rNtM4x28fi7DildHDG1wbw4uH6d0R/68uaXR6HtFbA1X8rl8Tw5FDKHS5cb4m8M0fuins6fiu/wOLRxpZt9fqufXa6eMiGZ40y5A5oZILeQHVVC62WX1HruXKwu9+Tgsde/wKMklwodWlpFgcm1m5GbE1zW6QG15Lc2ehZxZeTl50jfaFsms+RFALKlmy5vZsmedI2F77f0lbWVnREe7Q9AsfIy2jZbysWz4omlmFkm9q2Qhkl7vDfQp5srUUI/IJoXsBQVjNrpMZ+E6dz5NTpBWnW7a/p8kYcwRAHG2J3BIu/iuYZlgHc/EhXv6rLIyNj5HFsYpjSdmi7ofMlWHa35OoSuprnEg9jwiMbqgxox7R+v5Lkn555JVTs4/7fdOB20nXwR7ppBv6ybuwFx7s8+agct7zpbZNE16AWfsr8Dpp+sG+Qs/I6oXd1gPynHuqjkb+YUWrJnON7oZ+WTys90x81Ay2oDHz2qva+qGL0gSeFIUZ1EznzQhffdR1IAszmlWZj5oYu35TalahBmPmkXO2JHqL7qgOAa4Ftk1RvhXY1OkDXd0GGLv7aiXK7MgMElchDEqKepXZAgjmrHldNHTbcWaCTQ1CrPBsX35QoKdvO525SEwdk4cRwSPgVC7KSRqOoi6JF7H1TKbg0RCnNcXGyKNtq9vn/HqFWVlHugkQRRIIsWL7j+hNaSkSkx2lwKgno9+ykOyJWzkmJpDGt/MRt80E4p9RAIB2PKlHEZ5oYccOfJKWsANC3k1Xw3UVadMCNII5T7aed/Kkg4Ke1FOUhBLlJPqsDYChWw5QTJ792qHN2mSQSSS7BJIJJPYDBTRuKJ+fP7KKgdOkTYaKAoVsOe+6nAwSOIJOzXO29Gk/sqBFOBaZNa0n//Z",
+  "formation": "Formed gradually with intense starburst activity",
+  "discoveredBy": "Caroline Herschel",
+  "funFact": "One of the brightest spiral galaxies in the sky",
+  "notableFeatures": [
+    "Starburst regions",
+    "Spiral arms",
+    "Dust lanes"
+  ],
+  "observations": [
+    "Hubble",
+    "Chandra",
+    "Spitzer"
+  ],
+  "researchLinks": [
+    "https://en.wikipedia.org/wiki/NGC_253"
+  ]
+},
+{
+  "_id": {
+    "$oid": "68c98050a3f21c036d58c0b9"
+  },
+  "name": "NGC 3627 (M66)",
+  "type": "Spiral Galaxy",
+  "constellation": "Leo",
+  "distance": "36 million light-years",
+  "diameter": "95,000 light-years",
+  "stars": "90 billion",
+  "blackHole": "Central black hole suspected",
+  "mass": "1 × 10^11 solar masses",
+  "age": "13 billion years",
+  "structure": "Grand-design spiral with strong arms",
+  "redshift": "0.002415",
+  "image": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdHx8kKDQsJCYxJx8fLT0tMTU3Ojo6Iys/RD84QzQ5OjcBCgoKDQwNGg8PGjclHyU3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3N//AABEIAFwAXAMBIgACEQEDEQH/xAAbAAABBQEBAAAAAAAAAAAAAAABAAIEBQYDB//EAC4QAAICAQMDAwMDBAMAAAAAAAECABEDBBIhBTFBUWFxEyKBBjLwI7HR4RSRof/EABYBAQEBAAAAAAAAAAAAAAAAAAABAv/EABgRAQEBAQEAAAAAAAAAAAAAAAABESEC/9oADAMBAAIRAxEAPwDw+CKKaoEUeqEx4xEyYOQhVCx4Bj9hB5E2X6KfoOn+s3WsL5AcZ2BD2bweZm8WTWJYbWIsGjViCTurjTjWZP8Aiisd8ADiQmNm6A+JYUIooRCBFHNQ4qNgGdMCb3AnKSNGazL8zUFimkG0cTpj0RPiT9MgehLTT6VSO0gzmXp5qwJCzYcmIHg1N7j6aHXkDnxIus6KrqQtX6HvC68+a75jZcdT6VkwMSFPEqdu1qYSIbHoobdbqlCxd8+3EbBAJ5PMcuN2FqjEewjI4Mw7MR+YDY/E21wfQwIVF71J4NUa5gWr5l0arQMrHG1/aeDL/T/bt9L/AO5kOiakH+k5r0JmsTIHRVJIN/b8+RJVjTdCTe/9ZRd2t8EfH88S26p018qPmNbWJ4RAK/EqekZEyadVsLnHrNz0LSrrOmumRwzVf3d7j015mvKuq6HbuUruoWa5/MxPVen7bdBPW+v6FtO7DHasP2sDVe0xuu0SsDSfaRzQ7SJY88YEHmKWnU9EcLkhTXrKsijKyEUJ4PBuIqR3BHzAEUUUDpgyNjyBl7ia7o/UcWRVXNYNUGA7fPtMdJGk1LYMgPjzCx6fpmYkOvIBoshsdrv4oGa/9OdVCoPvALCiQbv3nmfQetrjx/SD0rmz7fy5qun6vKd+ofFiy4Qu0nHwx+f/ACWedi7laT9Qvjyr+8NXevEyRVS+1uBfBHFGTdV1LTrh2YkCjIOUBPBlXq8oChsbDbfJPcRnEt6rev6NGw5KCll77Ox9xMJqsX03PpPQ8zDNgXL9MWQVYeO0x/Vwz5DvYnaAovwAKA/AoSQUtRcjg3HKzYsgdGKsptSPBjtRny6nUZc+odsmbK5fI7GyzE2SfzLUc+K94IR357RASB2LH9RtpdE4JtzxwL/1FjYIW3Y1e1I5vj3FEcxZVCZGVXVwCRuW6b3F8xkDtg1D4XDIe3qJdaPrOSgGY8e8z8cHIrk8QutkmtbLyc7XXrO2PUsr7n5DDaXmS0+sZTTSzwatnAUn7bkVf6TIuVghHDkWw7+kqOtYDjyurG6NCvMk49SFZaPacep5RmG7nnn5mpOIzOZSrXRq5zkrVqA573IsqEyle/8AeJQCeSBxBFMgxQRQCKvmCOP7R/iNgHtJWmzUw3SL5ihZV3jy+bv3gy5DRJ7XY5lXiyuPMe+RiOTEimZ23OTOMJNmCbZf/9k=",
+  "formation": "Formed through interactions with nearby galaxies",
+  "discoveredBy": "Charles Messier",
+  "funFact": "Part of the Leo Triplet, interacting with nearby galaxies",
+  "notableFeatures": [
+    "Spiral arms",
+    "Star-forming regions",
+    "Dust lanes"
+  ],
+  "observations": [
+    "Hubble",
+    "ALMA",
+    "Spitzer"
+  ],
+  "researchLinks": [
+    "https://en.wikipedia.org/wiki/NGC_3627"
+  ]
+},
+{
+  "_id": {
+    "$oid": "68c98050a3f21c036d58c0ba"
+  },
+  "name": "NGC 1300",
+  "type": "Barred Spiral Galaxy",
+  "constellation": "Eridanus",
+  "distance": "61 million light-years",
+  "diameter": "110,000 light-years",
+  "stars": "100 billion",
+  "blackHole": "Central supermassive black hole",
+  "mass": "1 × 10^11 solar masses",
+  "age": "12 billion years",
+  "structure": "Grand-design barred spiral galaxy",
+  "redshift": "0.005260",
+  "image": "data:image/jpeg;base64,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",
+  "formation": "Formed through gradual spiral evolution",
+  "discoveredBy": "John Herschel",
+  "funFact": "Well-known for its well-defined bar structure",
+  "notableFeatures": [
+    "Bar structure",
+    "Spiral arms",
+    "Star-forming regions"
+  ],
+  "observations": [
+    "Hubble",
+    "Spitzer",
+    "ALMA"
+  ],
+  "researchLinks": [
+    "https://en.wikipedia.org/wiki/NGC_1300"
+  ]
+},
+{
+  "_id": {
+    "$oid": "68c98050a3f21c036d58c0bb"
+  },
+  "name": "NGC 4414",
+  "type": "Spiral Galaxy",
+  "constellation": "Coma Berenices",
+  "distance": "62 million light-years",
+  "diameter": "60,000 light-years",
+  "stars": "50 billion",
+  "blackHole": "Central black hole suspected",
+  "mass": "6 × 10^10 solar masses",
+  "age": "12 billion years",
+  "structure": "Flocculent spiral galaxy",
+  "redshift": "0.002541",
+  "image": "data:image/jpeg;base64,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",
+  "formation": "Formed through internal star formation processes",
+  "discoveredBy": "William Herschel",
+  "funFact": "Known for loose spiral arms and star formation",
+  "notableFeatures": [
+    "Flocculent arms",
+    "Dust lanes",
+    "H II regions"
+  ],
+  "observations": [
+    "Hubble",
+    "Spitzer",
+    "GALEX"
+  ],
+  "researchLinks": [
+    "https://en.wikipedia.org/wiki/NGC_4414"
+  ]
+},
+{
+  "_id": {
+    "$oid": "68c98050a3f21c036d58c0bc"
+  },
+  "name": "NGC 4826 (Black Eye Galaxy)",
+  "type": "Spiral Galaxy",
+  "constellation": "Coma Berenices",
+  "distance": "17 million light-years",
+  "diameter": "55,000 light-years",
+  "stars": "50 billion",
+  "blackHole": "Central black hole suspected",
+  "mass": "5 × 10^10 solar masses",
+  "age": "12 billion years",
+  "structure": "Spiral galaxy with dark dust lane across nucleus",
+  "redshift": "0.001001",
+  "image": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdHx8kKDQsJCYxJx8fLT0tMTU3Ojo6Iys/RD84QzQ5OjcBCgoKDQwNGg8PGjclHyU3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3N//AABEIAFwAXAMBIgACEQEDEQH/xAAbAAADAAMBAQAAAAAAAAAAAAADBAUBAgYAB//EAC4QAAEEAQMCBAUEAwAAAAAAAAEAAgMRBBIhMQVBEyJRYTJxgaHwBhSR4SNy0f/EABgBAAMBAQAAAAAAAAAAAAAAAAABAgME/8QAHhEBAQEBAAICAwAAAAAAAAAAAAECESFBEjEDUXH/2gAMAwEAAhEDEQA/APkLQiALzQjU01pbVDffkoDDGo7GLMTaINA0eD3R2MtOBiOO0wyId1vFEmIoTIaB3rilUhFtNcBbhuyZng8JgJ3s8BONwSYwWi9lUnbwreIz2EFa6U/PBoO4S2nekuAq9qA5u6ekZsUo4bpU4QaEeNq0YE1E1TDbsYm4o1pCy07FHdbJyJraGEuPGyrY2A1wGptj27LPTsUuOp4OlVw1zmubEwtZ77Wr9dESpcfG2Y59PumnT/Cz0kl+RLhvtwYNTdVagsdTjkiYXVRPNbgj5KTDmzYmbDlQOFahr1cC9iD/ACss75uVrcdzxV6pjUNhuoT2U5dd1RhdE51AHmh2XMTCnke66N/fWGf0TyBTUg47p/Ld29FPcd1lq+VQCMJyJqXibunYm8UphmsWOzaqYWP4soASsDNLAO5XQ9LiEcesgWeFpInp7Cxh8Por+N07yW4V6oPR8YSO1ncBddh4sRhc55AACnVXmPmv6hijibIC7twVwriCWNa8kPeNQ07Dddb+teoMfkzxR7ssBhvt/wA/pc9i4pL4xI4B3iNaG3d38u4XNm/K11XPIvxM8LAc3UHM1HQTzXv9b+yhSHdzuyu9WkEcOhvpW3Zc7lSBrK7ldt8SRxfd6n5L/MknHdGlddlKl26xqzMLU/jttwSkQ2VDEABBTkK0/ji5RfZdDEdDGCwNXa1AwnAzj5qu4/5tfGmqB7Cv7VW8zSzO12HTJGxwt9quhaF1n9QSQ4ssUJe22kB+2/3+6iDNEenVrDC0/DYv2+6ldTnL3Pjne5jOQ98nxD2bf59lG7LONsTyi5TnTZcniSE27zEO2Py7Kl0ljZ3SZ0zaDfLG2vKKHZLYsEeXlMZEQcaFlPdpNON3yU31HMDYxDGA1rewFI/Hnn8P8u/UK9RyPEkcSdgoORKXko+XkE+UJF57lPV6xkCkOyXcd0SVyATupNSjKfxzQU1p3Cfgd5d1UTTuI+pN1bx54pzVnWRQFd/y1zbHlr7TOLM9jrYQf9grl9HFzLlP7cwy00vIex7nVQ7ivzlTnFpe2HHL5p7LZJQSQ1p5AtennbnYv7V8DWSRgBsg+vP0QoyMSLw2OBPJNUjWe1Xz4cnmixIRBjANHeuSVEyZjvvZK2yMmyfVIucS4kqdVEavJJS0zvREkfSVkdahQbnbrQlZcaQyd0BRaeE1G/ZIsTURNKoRkPtbteR35QFizaAd/cEclBknL/kgjfleT6XHnH1QZHhZkcUs4lSbD3WgE+q3Q3oMN5QyVl3w37rRIP/Z",
+  "formation": "Formed through normal spiral evolution with central dust lane",
+  "discoveredBy": "Johann Elert Bode",
+  "funFact": "Called the Black Eye Galaxy because of its prominent dust lane",
+  "notableFeatures": [
+    "Dust lane",
+    "Spiral arms",
+    "Active star formation"
+  ],
+  "observations": [
+    "Hubble",
+    "Spitzer",
+    "Chandra"
+  ],
+  "researchLinks": [
+    "https://en.wikipedia.org/wiki/NGC_4826"
+  ]
+},
+{
+  "_id": {
+    "$oid": "68c98050a3f21c036d58c0bd"
+  },
+  "name": "NGC 6744",
+  "type": "Spiral Galaxy",
+  "constellation": "Pavo",
+  "distance": "30 million light-years",
+  "diameter": "200,000 light-years",
+  "stars": "200 billion",
+  "blackHole": "Central black hole suspected",
+  "mass": "2 × 10^11 solar masses",
+  "age": "12 billion years",
+  "structure": "Grand-design spiral resembling the Milky Way",
+  "redshift": "0.002805",
+  "image": "data:image/jpeg;base64,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",
+  "formation": "Formed via gradual spiral growth",
+  "discoveredBy": "John Herschel",
+  "funFact": "One of the largest spiral galaxies nearby",
+  "notableFeatures": [
+    "Spiral arms",
+    "Central bulge",
+    "Star-forming regions"
+  ],
+  "observations": [
+    "Hubble",
+    "Spitzer"
+  ],
+  "researchLinks": [
+    "https://en.wikipedia.org/wiki/NGC_6744"
+  ]
+},
+{
+  "_id": {
+    "$oid": "68c98050a3f21c036d58c0be"
+  },
+  "name": "NGC 4631 (Whale Galaxy)",
+  "type": "Spiral Galaxy",
+  "constellation": "Canes Venatici",
+  "distance": "30 million light-years",
+  "diameter": "120,000 light-years",
+  "stars": "100 billion",
+  "blackHole": "Central black hole suspected",
+  "mass": "1 × 10^11 solar masses",
+  "age": "12 billion years",
+  "structure": "Edge-on spiral with prominent dust lane",
+  "redshift": "0.002032",
+  "image": "data:image/jpeg;base64,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",
+  "formation": "Formed through gradual disk evolution",
+  "discoveredBy": "William Herschel",
+  "funFact": "Called the Whale Galaxy because of its shape",
+  "notableFeatures": [
+    "Edge-on view",
+    "Dust lane",
+    "Star-forming regions"
+  ],
+  "observations": [
+    "Hubble",
+    "Spitzer",
+    "GALEX"
+  ],
+  "researchLinks": [
+    "https://en.wikipedia.org/wiki/NGC_4631"
+  ]
+},
+{
+  "_id": {
+    "$oid": "68c98050a3f21c036d58c0bf"
+  },
+  "name": "NGC 3370",
+  "type": "Spiral Galaxy",
+  "constellation": "Leo",
+  "distance": "98 million light-years",
+  "diameter": "30,000 light-years",
+  "stars": "50 billion",
+  "blackHole": "Central black hole suspected",
+  "mass": "5 × 10^10 solar masses",
+  "age": "12 billion years",
+  "structure": "Face-on spiral galaxy with young star clusters",
+  "redshift": "0.004260",
+  "image": "data:image/jpeg;base64,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",
+  "formation": "Formed through star formation over time",
+  "discoveredBy": "William Herschel",
+  "funFact": "Used to calibrate Type Ia supernova distances",
+  "notableFeatures": [
+    "Spiral arms",
+    "Star clusters",
+    "H II regions"
+  ],
+  "observations": [
+    "Hubble",
+    "Spitzer"
+  ],
+  "researchLinks": [
+    "https://en.wikipedia.org/wiki/NGC_3370"
+  ]
+},
+{
+  "_id": {
+    "$oid": "68c98050a3f21c036d58c0c0"
+  },
+  "name": "NGC 4303 (M61)",
+  "type": "Spiral Galaxy",
+  "constellation": "Virgo",
+  "distance": "52 million light-years",
+  "diameter": "100,000 light-years",
+  "stars": "100 billion",
+  "blackHole": "Central black hole suspected",
+  "mass": "1 × 10^11 solar masses",
+  "age": "12 billion years",
+  "structure": "Grand-design spiral with active star-forming regions",
+  "redshift": "0.005237",
+  "image": "data:image/jpeg;base64,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",
+  "formation": "Formed via spiral density waves",
+  "discoveredBy": "Barnard",
+  "funFact": "One of the largest members of the Virgo Cluster",
+  "notableFeatures": [
+    "Spiral arms",
+    "H II regions",
+    "Central bulge"
+  ],
+  "observations": [
+    "Hubble",
+    "Spitzer",
+    "GALEX"
+  ],
+  "researchLinks": [
+    "https://en.wikipedia.org/wiki/NGC_4303"
+  ]
+},
+{
+  "_id": {
+    "$oid": "68c98050a3f21c036d58c0c1"
+  },
+  "name": "NGC 7331",
+  "type": "Spiral Galaxy",
+  "constellation": "Pegasus",
+  "distance": "40 million light-years",
+  "diameter": "120,000 light-years",
+  "stars": "100 billion",
+  "blackHole": "Central black hole suspected",
+  "mass": "1 × 10^11 solar masses",
+  "age": "12 billion years",
+  "structure": "Face-on spiral with well-defined arms",
+  "redshift": "0.002720",
+  "image": "data:image/jpeg;base64,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",
+  "formation": "Formed through gradual disk formation",
+  "discoveredBy": "William Herschel",
+  "funFact": "Sometimes called the Milky Way twin",
+  "notableFeatures": [
+    "Spiral arms",
+    "Central bulge",
+    "Star formation regions"
+  ],
+  "observations": [
+    "Hubble",
+    "Spitzer"
+  ],
+  "researchLinks": [
+    "https://en.wikipedia.org/wiki/NGC_7331"
+  ]
+},
+{
+  "_id": {
+    "$oid": "68c98050a3f21c036d58c0c2"
+  },
+  "name": "NGC 6745",
+  "type": "Interacting Galaxies",
+  "constellation": "Lyra",
+  "distance": "206 million light-years",
+  "diameter": "150,000 light-years",
+  "stars": "200 billion",
+  "blackHole": "Active nucleus suspected",
+  "mass": "2 × 10^11 solar masses",
+  "age": "12 billion years",
+  "structure": "Interacting system of three galaxies",
+  "redshift": "0.015778",
+  "image": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdHx8kKDQsJCYxJx8fLT0tMTU3Ojo6Iys/RD84QzQ5OjcBCgoKDQwNGg8PGjclHyU3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3N//AABEIAFwAXAMBIgACEQEDEQH/xAAbAAABBQEBAAAAAAAAAAAAAAAAAQIEBQYHA//EADAQAAEEAQMCBAQFBQAAAAAAAAEAAgMRBBIhMQVBBhMiYTJRcYEUkaGxwSMkQlLx/8QAGAEBAQEBAQAAAAAAAAAAAAAAAAIDBAH/xAAcEQEBAQEAAwEBAAAAAAAAAAAAAQIRAxJBIRP/2gAMAwEAAhEDEQA/AOHITnta1rC14JI3FH07pzGOkcD/AAgaGOPZPGPIRYaVcYeNN5TQ2LYGz6TamRYcgJLmCj/sD+ixvlkaTFZoxOHI3TfLctoOmQywukmgmaNB0GMBwc73uq7Ktf0vd1CvZe3ycPRnmSviD2t0+tuk20Hawdr445CYVcz9LcLppVdNivjO4KqblTc1GQlcKPFJFaQntqt/3TE6TRrd5YcGWdIcbNe6BY263htgWeT2Wh6Z00POgyRgjm73WcGxVrgdSkhAG9Db6KNzsVlrYWGG2MMZDdrbatMaWoHRCNji/fcbhZXEzHmTXESb+X6q7in/ALYaq1exXJrN7+OjOl7jRY8lgkNF73wR7p56Zhv1B39KzY8vj25KpMSZwPq3+60HT5Qwse4W0OFd1hr2jSWIjuk29v4lhdERWobuDQRxwqvrfhiNsYkxnCRpANjst1nZuNLitMTNLqq273vz9VSRPLPTRdqO+r+Vtjzd/NROsfY5V1DppiJJsHtQVQRRorrvi3obMaDztqf/AIkbgEbf9XLeow+XMQAurFsvrXPqfUNCELVmEoJHfZIhBZYeYGaW8VyaV9BnQyY+nzAHWasLIsBJ9PIFpzJXMPJ/NZ6x1c02TJ3NcCHW2/iHZXuB1AwyN1gV2NWD9li+ndWY5r4pwBqGxArdS2zujp0chc1Z3C5p0NzA9nmYzi3g1fKYyaRz2iTSHWfXdFUXQesaC1khpp51dloMgxTRu41Dewo/l9iptN604ZfRS3K1FzB6Ca2b2+y451pmmd3uup4xkz8KbGJLjGPSBubJrbuVzrxPiTQZL/NY4Wb9Q3W0lvKnTNitQu6veksgaHkNNt7GqtI7YlItWJSSeUiEIFaaINA78FOkNvJpos3TeAmIQK0kGwvWPIkjNtcV5DZP8yhIGtaA/Y2AaF3se32TgsMfq8sYo7/JXfTvE7o5WGQWB3WQTmkXvdeyn1ipp1bp3XcTKnbT3RNGznNdR7Wed7paHxR4Yxus9Pfm4+Z5oDQI2hwOqhua2P391xTBmeZNAkaz0k6nuobC6+9V9StT4X8TT4+VERK/W1p1eo7/ACv8gtfHzvK9t/GX6nijGnezVuD+agLV+OcwdRzPxcGIIIJKoAbWB8/n3WUTc5UBe2HAMnKihL2xh7g0vd8LB8z7Beb3l7tRq/YAfskBI4UCT1LGjw8yXHinZO2Nxb5rPhf7j2UVCF5A9sr2scwOIa6rF7GuE0CyAOSkQvQIQhAL1glMLw9nxA7LyQgu8rPdmdOZE5rC7ig2tNcH69lUmB4PwlS8J7I2t81urf004cd7WtwemQZmO2am77KPJ5LF5z1gkIQrQErQXGgkQgc0WSA216x5UkeLLjN0+XKWl9tBO3FHkc9uV5Akbg0moBCEIBCEIPWAHUCOy0uHmPhgDGTFo5ppKzEanRSP0crLbTNf/9k=",
+  "formation": "Formed via galaxy collision",
+  "discoveredBy": "Lewis Swift",
+  "funFact": "Shows tidal distortions and starburst regions",
+  "notableFeatures": [
+    "Tidal tails",
+    "Starburst regions",
+    "Merger structure"
+  ],
+  "observations": [
+    "Hubble",
+    "Spitzer",
+    "Chandra"
+  ],
+  "researchLinks": [
+    "https://en.wikipedia.org/wiki/NGC_6745"
+  ]
+},
+{
+  "_id": {
+    "$oid": "68c98050a3f21c036d58c0c3"
+  },
+  "name": "NGC 4214",
+  "type": "Irregular Galaxy",
+  "constellation": "Canes Venatici",
+  "distance": "10.5 million light-years",
+  "diameter": "8,000 light-years",
+  "stars": "10 billion",
+  "blackHole": "Central black hole suspected",
+  "mass": "1 × 10^10 solar masses",
+  "age": "12 billion years",
+  "structure": "Irregular dwarf galaxy with active star formation",
+  "redshift": "0.0009",
+  "image": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdHx8kKDQsJCYxJx8fLT0tMTU3Ojo6Iys/RD84QzQ5OjcBCgoKDQwNGg8PGjclHyU3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3N//AABEIAFwAXAMBIgACEQEDEQH/xAAbAAACAwEBAQAAAAAAAAAAAAADBAECBQAGB//EADMQAAEEAQMCBAMFCQAAAAAAAAEAAgMRIQQSMUFRBWFxgRMiMkKhweHwBhQjNFKCkbHR/8QAFwEBAQEBAAAAAAAAAAAAAAAAAQACA//EABsRAQEBAQADAQAAAAAAAAAAAAABEQISITED/9oADAMBAAIRAxEAPwD5IApCs6icCsKdpbVkZzgpSAFaqrPK4ZTej1UmmbK2KgJWbHY6IMhdrSKIHlwitJLs/V1KtW+scLmsPUKSrxX0581wy0XymtPpnSPA2uLRRJF8Ln6bfOyKNwLnHaC7AJUfEm1rQ63KriB9NWmNTCdPM6F9B7HFrqOLB7oIp+0cZyb6KZsAd369VVEc2u3qhkUUpIGFYCxlWAr0VmhFMS0ENruiBnQEHsR1VmRmrxQ88o7Gf4RrWIjj/pHrYTWni2yMJAJBsA9VaNtu+bPqnNPCJCMjnrhU9tY9c3Wafw79nYNTpoIJXy745Y5ALo0S6v7QOO68P4nG+3T/AAzHuN0bzfn+K2navWS+Gx6J38vC/c1obkk+azvEjKC6J73Oo4G6wPROSQ3LWC9pFiiD1tDotyOU5K0WSTZOe6WeCCUOdgfLCMUM9EE8op8lQjKWVwCTnojMaeeVzWFMRNCLWuYmJl8pyGLPAVYY7OAtTTaf6SbAWXWRMfh4maP3clw2275L291peG+FyuY6SNv8IOFurHkmPDmOjI2O2P4GaK9Hp9bHD4U3TAstjbc4jaT1PH58LrOThCbwaOTRfGZK3ds3bc5Iux9y8Jr3B80j9oaQacN4JJ7+i9B4zr3ykx20bbFtxY9P1yvMai7LuCeQs9dN/pzzPhOQgn8EJwv0Ri35qB90B+HGunCHCwBwpUIB+1XsiPyMIWUsU7FXCZY0DhD0YaZAHYyPm6jKangkg2F1ua8bg7uixvk3omsu3A486W1o2gVYHobWLpZAMcYtasUkBY8mZwc1o2tAvcfXphUdJfTafq4G6VojgAkBO57TyOyzNTO12nklEjTNuDQK4FGyM+iXk1W2PPA6d0hJOSQKrsVXoryuIBDvuws6Y7umUaWVo3WemElLKLqji7pZZ6oEho2lnmzlEkk3eaA4lajnUE8qnupPChuyvnc4HyCWTemkY17PiFwbuFubkgdaCOZg4036bxiis8HK0ZdHqNNpdNqZQRDqATG68OrB9xYRWpTcE1NcN1bhRrHb/iJEakskgeYWa2WsA4HUI4n3NDSBgdENaf1M5c0AG+pJPKVM/DQL6Y/0l3StDsOGOyBM84vJ9VYvIWSazz7pd7zdobnKhcmRm1LnIZd2XEjuqWlmrB23kA+RVLXWoSBAcpl2qlkY1kjy5rcNBOBisD2SYcbCteVEzvuq5HTsrCS6/VpcEo2/dM7AABwB6oWrueHHt74VL3dc37KpxXqQh73WaNKWiyNonAoYvpaC4ri48WaVOqQ4nKr1U/ZBUeak44rC7CgLlJ//2Q==",
+  "formation": "Formed through irregular gas collapse and star formation",
+  "discoveredBy": "William Herschel",
+  "funFact": "Hosts multiple super star clusters",
+  "notableFeatures": [
+    "H II regions",
+    "Star clusters",
+    "Gas clouds"
+  ],
+  "observations": [
+    "Hubble",
+    "Spitzer"
+  ],
+  "researchLinks": [
+    "https://en.wikipedia.org/wiki/NGC_4214"
+  ]
+},
+{
+  "_id": {
+    "$oid": "68c98050a3f21c036d58c0c4"
+  },
+  "name": "NGC 2366",
+  "type": "Irregular Galaxy",
+  "constellation": "Camelopardalis",
+  "distance": "10.9 million light-years",
+  "diameter": "13,000 light-years",
+  "stars": "10 billion",
+  "blackHole": "Central black hole suspected",
+  "mass": "1 × 10^10 solar masses",
+  "age": "12 billion years",
+  "structure": "Irregular dwarf galaxy with active star formation",
+  "redshift": "0.000317",
+  "image": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdHx8kKDQsJCYxJx8fLT0tMTU3Ojo6Iys/RD84QzQ5OjcBCgoKDQwNGg8PGjclHyU3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3N//AABEIAJkAmQMBIgACEQEDEQH/xAAbAAACAwEBAQAAAAAAAAAAAAACAwABBAUGB//EADoQAAICAQMCBQIEBAUCBwAAAAECAxEABBIhMUEFEyJRYXGBIzKRoQYUscFCUtHh8HPxBxUWMzRjcv/EABoBAQADAQEBAAAAAAAAAAAAAAABAwQCBQb/xAAgEQEBAQACAgMBAQEAAAAAAAAAAQIDERIhBDFBE1EF/9oADAMBAAIRAxEAPwD4iTfXrj9JqpdG5kgfaxBXoDx/wZn74SlaO4E8cUe+BV8ZMus0voNTHoIte8LjSyyNHHL2Zlqx+4yBmTbuG+9t811y0ba6sP8ACbxut040uoaFdRBqAoU+bAxKGwDxYHS6PyMHTRedPHF5iR+Y4XfI1KtmrY9gMkLZtzsx6kk5DhSx+XK8e9H2sV3IbVq7g+2FMI/MPkb/AC+K8yt3T4+byHUKbKGMVbZQx2rfJq6HvkljaJyj0GHzeEVQjkMZkCMYwaL1wD7XhQpJKwihRndzwqruJxya7VJ4c+gWd/5SWVZXhH5S4FA/YE4zSeZDop9XC7xyxyRhHRipW93QjCGHr1w2k3pGDfoBHXrkLsUVbpR0HteCy0BzyRde2SGhm1MiLJKFVV2hpCSEUdvp/rif8JN83ldsmAagFSSSCOnHXKkcyMWYkn5N5YYhCtLybsjkYOAQdxEYtx8ssGK9rF0f3OVXzkysAkfZupVO5dvqW6+R7HBGWOemaovD9XLoZtdHp5G0kLqkswHpRj0BPzgZlRjZVSQoskdh05/UfrjC7sqoXJVeg7DAVqsA0DhgL2OQ7zA1Zx0XlKY/Mj3BWt6ai444uuP98WW3NdAf/kZYqgQbv9sh1JDdVLJq9TLPK2+WVyzGuST9P7YbrFFJHLHseNrIjc72XtT8AX3wI/SyutqymwwNEH3w1S/YcdzkdrJgmtzWaH0FYDJR+O2OIyVeO0XHZcaWRzXOfRPB/wCGvD5f/D7xXXT6mITLInloWo7lvn5vcePg54BRRs52pNfJ/wCk5tOJBsXVRsFAF2Q3frWLb+M+pY4XCJMvlRvdfiEG0A/y81zY7e3TFyujaWJRIxdWa02AKoNdD1N/TKkDKSGHKnn64o50KrHbxLJIzgCwTSIAL+goAfTFqwAIK7uKHPT5wckOUw7QH3hg3JFVVe3veDCFaRVd9ik0WomvsMJYC2nknLKoUgBSaL37e9d/qMTeAclByAQwHcXR/XByxV2wJHsMHn4wGs7zSgkgsaWzQFDgf2ztfw14Z4v47qH8G8MeUiVXmeAPSMUUkEg8Hmh984Q4IsX7jNGl1mp0srTaaV0k2su5W5ogg8/Q5AVNG0MjIwplNEexyRyvFIkiOyOrBlZTRBHNjCLxtC4aMmYsCsm6qHNiu98fpgoOw64TIc0ZDMjbWN/mVgwP3GE+52LubY9Thwr3ON2BuMrta8cXrul6fyvMTzt5jv1bKv7Xj447DfiL6aoUfV9P685cGmuQWLF856OHwqKRvMRBHEa4ZjxxyLzje5I0cHDvd6keaaIhwQBYN0QCP0yTBmd3pQXJYgKAAevAHTOvqtN5D8kG+OMyyxKY+Dyeo9s5m12vjyWxml8RY+DJ4b5EG1JzOJwlSWRW0t3X49857TMNM8LflZgePi/9c2vBuaulnrmXUISoXaKBJ3Vybrj9v3OW50w8vDZ7YjXQGwO+QnD8v8N23KKr0nqfpi8tY0xkpiJHlKwG1b3EHmue3S7r4xeGyFCQ4KkdiKOARE7adGYuYFYqlngHgmh27YJjdUV2Wla9p9664N0OmadBo9T4jq49Ho4jLPJe1VIF0CTyfgHAzZMN42QISOHG5fkWR/UHJY9j+2BRB5NE++Dno/4wPg38xpW8B81Y5dLEdQrKFUSUCQAO3T7552zkS9kWOThrQYYu6ON08bTMwSiQpbkgcAWeuK6zfbZGQVzTpiqltyq1ivV2+RilihjjlrU75FK7AsZ2uDe42aIrgdOcickXlNeji+u3W0qxACmsm+K/rnoPDmMke0is85o32VQHSuc7Gknbcq7uPjM/JO2zg5Zx3sHjWnINgAfQZl8L8Kn8V1TQ+GwvI6xmRlI59Is/a7/bPVy+HzeWsm3Y/bcOb+hzzqfzvhmpeTSySQMVZGKNVgijjOp1045PO688ub5JBulJH+YcHOdqIq7Z1w+6QKxAJIFk0MRqIRbKpVmFj0tYP0OTm2Vo1x53j19uV4xBoNOYh4ZqX1KvAplaWLaY5T+YL7gVV/JzlujoadGU0DTCuDyDnb8b0Wm02p26XUjVR7VJkCFBZAsUfY8ZyJ2dnuRmY0KLG+AKH7ZrxruPC5uK4pOMD3IDKxfkWSb4++LyZ2oFJs81/K3eXZ27utdr+cEEjoSMNHCoylASaprPp5wpIfLhil8yNvNBO1Wtlo16h2+MBV5MmTA6HjKeHR+IzJ4NNNNoQR5Uky7XPHNj62PpgQSaIaGeOfTSNqmYGGdZaCV1UrXIN9b4rMV4aVuUnkXyLrjADGRKpVyZFUrVKQbb6cV+uUaNhVrknr2yhhMbt2nEEBiaUz03nBlAUc+nab54633w0eyMyRQah4JZ44ZGhhK+ZIFJVN35bPa6NYUTmxeV6y08fJ+Oxp5M7nhg3vfPGed0pvn4vpno/wCHtXDptSjzqGUMCRxlGo2fnb6R4TpVl04k1u6XilAPPT9u2cbxnwxdvqVe5sf3zt+B+JwR6j8AkxbjRPb2zT/EelaXTzTwLaqOb7D++Z9T/Pts4eT+Vnl9V8m8V0XkMHStt9LzFGCGAPf2zv8Ai2mdGZJlZWX/AAsKIzipJLE7AMdpBVqNWD2Pxnee7lZq5nJ3GfX6dWXeLoj1Vnn50YNR989gdOZdKa5bihXXPP6qMRvvZbCnlbq8s4d/in/o/H7nnI5cXlCSMzqzRhxvCtRK3yAa4PXKlKF2MalYyfSGNkD5PvjHVo5gLMbKR6r/ACn34y9a96ydvM80lz+LZbeb5azzyefvmt4FnVJkZCFCxhdq0SL9R9+TgEkjJkyULcqT6F2iul3g85eTAsqwCkggMLBI6jp/Y4xDO0Txx+Y0S1I6rZArjcf1q/nF3dfGWsjIGCswDCmo1Y9jgMCRtCKZvPLgCMJwRXW763QqsuSCWGdtPPFJFMjFXjdCGU+xHW+uSCVlJQTNFHJtWQj2sHoOtEXgu8szvNK8juTbyMSSSfc++A+V2jh2wT1BqBuaFJSapiFD8AEjqPqMUtX6br5xQ9sJSBkO81v08hReL6Z0NHqCW7/UZyFc3d5q0U2x6/vlWo243+Pf/wAO6sqQGJ5I757uHVjU6Qw7bJH3z5L4ZrRGQe3Y/Oez/h7xHZKFmJDH83fg5j3i+T0f6ZvHJVfxJouFeLT7BtpiGJ3Ed88uoi5g/kvMmY2Jd5se/HT/ALZ9h8Vg8K1ngs2q0eoVWUGlYcn4rPBaWBBqyZI0YEbWJF2LvrY9s6k8NdV1nH9+O6x9xxY1ZUKshRl+vGcHxLSs6zzIY/Lh22GcBmv/ACjqenbpnsv4n9GuWbT8QSi1G7cVHsT/AE+M834nCssbN0PuMjrw2163fkfH8f2PJ6ry9kYSLawB3G73G/2zIT0DDoeSM26qMgnjMR4Obs30+X5s2a9hbqaysOYxkqYg4G0bt5B9Vc18XggfOdqVE3VDJk+nOTAmTGTQyQkCVGQsocAirU8gj4xeA7SFjMIw6IJfwy0gG1Qe5NcD5GECU8yEzkR2SdhJVyLrjv8AX5xAPIxssSpHGQ9s1kpX5R2572MBR6mul8ZYraTYv2y2dnNu1k9TWDRIJA6dcBqt6Oov2rphxlhTUaPF1/z3GIjS322F68nGq9cc0Omc2LMa9ulo59jAAnPReH6n8RK4+c8jG9EFc62j1YQrfTKd5bOPXc6r3ek8Tmj07xCQBWoni7OcrVeJuhNHk3ZOYodaHBo8Zk1sgNnvmfx7r0c8/wDPHqtGq8VkmZfMbfX7Zll8Q3Ag1mEOJLFG77+2UyLagyKoJAJPYe+W+EqnHydz3CdUTy4RCHG0Fhdc9R88ZynXNszbCVu/nE+V5nABZmO1do6ntl2PTBz2avbJVkKBZPAAw3md4o42K7Y720oB5NmyOT980vqJdNC+jEYgcBopioIeQbgdr/QqPbMWWsZzTtIVMioxCCNfTVACgeK5Huf3xVZBhbcCnYsRyzUKG49B7Y/SDSo8n/mEc7IYX8sRMFO+vQTY/LfX4wNJpZtZqFg0sTSysCQi9SACT+wJxbsWIJJ6UL9sCkBLVYH1NYW0XwR0vAyYBoQjEm+Aa2nvWFHNJCsqRPtWVdrgHhhd/wBQMUMNb8sn01ffr0wBGGtEElhY7e+VGhkk2qRdE+o10F/2wpJWkEYc2I12rwBQvAYql95iV2RRZO3oOlmunJxkUhQ8njFRtIB5e8oG9Js0KJHX44B+2Bu5zmxbnTr6bU10zXIxbm84McpVgCTV9s36d3kKxpVM1Ak0L+T0GV3K/HJ3fZ0gZRuvjFOPSWZh16Xz+mF5haJWbowsYqTleORnK6ydeiZAuwEt6vasWSVFjr/TLNjGamBoNlvE++NZPw33bbF0fZh3HbLIzVkl5o87uST/AL4nGvd4s53FGvtF64yjgx1zd9OK98f+B/8AZ+gw5ZgORx+uRqLEgUPa7xkqKscbLKrswJZAOU5Io/sePfFZIKmIUlaHQH3wTx1yVjUgmaB9QsTmBGCPIB6Qx6An3NHAVl8jkdPfLRijhhVj3F5R7YFXZJ6m8l5MmAw8EWwa6PXKu/t1wVBJ4HQWfpkBJAW+B0GDsbcNXB6dDeHHKVUjpz74pSQbBIIPBGX3N9euQ6ldB50kihCJFGVQqxVjbm73NzwTdfbF+YTwDiWaAaWPY0v8xubeCo2BeNtG7vrfHtgI1nOblZORqXhlcg0GHJFi8qdzJI8jhdzMW4UAWfYDgfQYYc/yu7zFMXm7TF5o3bq/Nt9q43fbEPMpv0kWfe+MdOrqdEubPOLw5CCx2Xtvi+tfOF5D/wAt/Menbv8AL4PN1fT2zpRaVdZN2N1p0xnvRLKsWxbErAtur1dO13WIyUNE2qnmgigkkJihLGNK4UtV19aGJWrBIJF5RydsBsvlFVaOwTe5SOB7c3z+gwVcqjJZ2tRqzV+9e/8ArgZMCY6MQtppt+4TBlMZ7Ec7hX6G/j5xOEOi/XAHLr3yx/7X3yu+BY4uulfTKvb0yj1yHAcInaJplQmMEbmWyFJugfbocEyt5Ahpdoffe0brquvWuOmLH5hlnArLBrplr3+n98Kb8y/9Nf6YFBjWV1yDIMCsY+omMC6dnPlKxcIOlnqcWco9ftgHsGxmZ6dWA2EGyObPtxQ/XF2vzj4//lJ/1B/UZ9fyLR//2Q==",
+  "formation": "Formed through irregular collapse of gas and star formation",
+  "discoveredBy": "William Herschel",
+  "funFact": "Hosts large H II regions like NGC 2363",
+  "notableFeatures": [
+    "H II regions",
+    "Irregular shape",
+    "Star clusters"
+  ],
+  "observations": [
+    "Hubble",
+    "Spitzer"
+  ],
+  "researchLinks": [
+    "https://en.wikipedia.org/wiki/NGC_2366"
+  ]
+},
+{
+  "_id": {
+    "$oid": "68c98050a3f21c036d58c0c5"
+  },
+  "name": "NGC 4490 (Cocoon Galaxy)",
+  "type": "Spiral Galaxy",
+  "constellation": "Canes Venatici",
+  "distance": "25 million light-years",
+  "diameter": "50,000 light-years",
+  "stars": "50 billion",
+  "blackHole": "Central black hole suspected",
+  "mass": "5 × 10^10 solar masses",
+  "age": "12 billion years",
+  "structure": "Distorted spiral interacting with NGC 4485",
+  "redshift": "0.001868",
+  "image": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdHx8kKDQsJCYxJx8fLT0tMTU3Ojo6Iys/RD84QzQ5OjcBCgoKDQwNGg8PGjclHyU3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3N//AABEIAFwAXAMBIgACEQEDEQH/xAAbAAACAgMBAAAAAAAAAAAAAAAAAQIDBAUGB//EACsQAAICAQIEBQUAAwAAAAAAAAABAhEDITEEBRJBIlFhcYEGE5Gh8DLB4f/EABkBAQEAAwEAAAAAAAAAAAAAAAADAQIEBf/EAB4RAQACAwACAwAAAAAAAAAAAAABAgMREjFhEyFB/9oADAMBAAIRAxEAPwDxkBuUnFRb0WyEbQBBTq6HB1OPhUtV4XevppqD7a2gEMuhi69Uml7j+zFdX3JuNRbjUbt9l/0CgArWu4AOSS2d6iAAAKALYEQBjt9Kj2u9gHFuMk4tprZp6oIbiJQdMDoPp3gYcdxEcWR0npZd9U8klyt03aT3S0swOVcZLhMscmN046m35nzvFzDHOfEYYZsk0o9LtNU1qq7tWi1eJpMT5Tnrv05O0ovTxPZ+RAyI4HOTVUQyYXDe69iSioA7VXyBgInkWNOoTlJVu41/shYADSpO02+3kFOk60en9+RDABoQ0BbGbi9PjQvxqebL1Ore9Kl+EVYMTySSSOg5TynJlaUVp5vQ2iJmRVg4OSxKfT4Xpp6GHxsOhtdmdxi4B8LwHRN0ptt7PQ43mUo/dm1om3SK3pzCe9y0+SDjckvCml/fgrei3WpZlfkVpN3SsgoXawAQEkm4tpbbiFQ0gAuw43kmooios2fJsSnxMVVt7GYjc6YmXQfS/KYvOp5YRkkvDGW19m/NHo2HlPD8Dyr7uRwlOV2ppV/b/o0PByw8Bw0OiMZZW6bfZFvM+bPJia+5JpefY9LHjrSPty2yT+NZ9RcfDokklUVseecbm68snehuOe8yeRvHFqrvQ5ycrZyZ8nVlsVdQJf4p2isYjnVAEoQlOXTBW6b+Erf6RH2AC3GVdyyL7ATZmcDnlgyxyQdSi00YLBZGnuZYdPDmmR5OqM3VJeL9lPH80yyx11GjXENLchkzOe7N/ktry14jZ5cspbt+pS2EnbETbh+grp2gAAD5aAQEm022lSva9gXoK9KpABJsQgAd6eoPTyBK0/QQAOl0X1eK66a7e4gAF8/AhptPRtezEAAAAf/Z",
+  "formation": "Distorted due to galaxy interaction",
+  "discoveredBy": "William Herschel",
+  "funFact": "Also called the Cocoon Galaxy because of its shape",
+  "notableFeatures": [
+    "Distorted arms",
+    "Interaction features",
+    "Star formation"
+  ],
+  "observations": [
+    "Hubble",
+    "Spitzer"
+  ],
+  "researchLinks": [
+    "https://en.wikipedia.org/wiki/NGC_4490"
+  ]
+},
+{
+  "_id": {
+    "$oid": "68c98050a3f21c036d58c0c6"
+  },
+  "name": "NGC 2535",
+  "type": "Spiral Galaxy",
+  "constellation": "Cancer",
+  "distance": "100 million light-years",
+  "diameter": "50,000 light-years",
+  "stars": "50 billion",
+  "blackHole": "Central black hole suspected",
+  "mass": "5 × 10^10 solar masses",
+  "age": "12 billion years",
+  "structure": "Interacting spiral galaxy",
+  "redshift": "0.007452",
+  "image": "data:image/jpeg;base64,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",
+  "formation": "Tidal interactions with companion galaxy",
+  "discoveredBy": "John Herschel",
+  "funFact": "Forms a visual pair with NGC 2536",
+  "notableFeatures": [
+    "Tidal tails",
+    "Spiral arms",
+    "Star formation regions"
+  ],
+  "observations": [
+    "Hubble",
+    "Spitzer"
+  ],
+  "researchLinks": [
+    "https://en.wikipedia.org/wiki/NGC_2535"
+  ]
+},
+{
+  "_id": {
+    "$oid": "68c98050a3f21c036d58c0c7"
+  },
+  "name": "NGC 2903",
+  "type": "Barred Spiral Galaxy",
+  "constellation": "Leo",
+  "distance": "30 million light-years",
+  "diameter": "90,000 light-years",
+  "stars": "100 billion",
+  "blackHole": "Central black hole suspected",
+  "mass": "1 × 10^11 solar masses",
+  "age": "12 billion years",
+  "structure": "Barred spiral with star-forming regions",
+  "redshift": "0.001715",
+  "image": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdHx8kKDQsJCYxJx8fLT0tMTU3Ojo6Iys/RD84QzQ5OjcBCgoKDQwNGg8PGjclHyU3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3N//AABEIAFwAXAMBIgACEQEDEQH/xAAbAAACAgMBAAAAAAAAAAAAAAABAgADBAUHBv/EADIQAAEDAwMBBwIEBwAAAAAAAAEAAhEDITEEEkFRBSJhcYGRoRMyBhRC8SNiscHR4fD/xAAWAQEBAQAAAAAAAAAAAAAAAAAAAQP/xAAbEQEBAQEAAwEAAAAAAAAAAAAAAQIREiExA//aAAwDAQACEQMRAD8A4/FoF4TQSW3GOIsluAEzXOEgEgERbkdFAXMLWtc5rgHCWkiA68SOuClZ6AgIlxMbiTFgDx5JtoMwTt6wkFURKhnbkQLLJrUGsFqjH3IG0rHe2IDvVKBBuTwpcOh/W8oubJkeiUExmxQG/JChxHTJlBQgkSZuiiYFrIG/CYmBIEEdEpBBix8kDeBKJEGQoBuIaPZFoG37sXg8qIgjaZVrXbqZLu9A2tvjKrDg4zHHvZXUGh7ot9wEDCsGxodmtZoxX1JLd4lgi7h1WFqNGA4ii4ua1s4hbTtupUZX+g2Q2l/DaCIsPJCiyu/T1KtCkxzhT2v7gMDr5+Obq2pGheR+gEdfNJx0jqszWUy1+/bt4LYwVimJJLTt4hRSJpIETbIRDWmlO4TNxGB1SnI54QQiIg5QJJ6hQeBUt1hBZULS4kNDfATZLEW6KHBJtPRWUqbqpcxhvBcGwe9HkPM+hUC4JBzzZW6Y7HtOf+lUjEAST4fKek7a4OsfNWD0Wrpu1tWg8G7zttPhde40fYTtPojT0tNrnOADhUtvPvciYXi+wK9KpqWtqANh24bV17RUPr9mue6tESS2Y3YHrdZ/vu4nkSd9OR/iXTlkN+hs2mHNv3TJt/VeVfa0e66Z+IWs1FWvR1Dpc5o7zp4/wVzjV0jSquacg3C0zryz1Pii4mJwhO5xnJ6CE18CDa9sJSSbuuQEVGkTBPqlMcj5hFpE94WlHukyW/CCwNcWuIEjEnhK0uaO7ITE/cGE7T7oPgmWgCeOFFRroaReTaQeDlRroMn24KUTkCyYGTaIViNn2fXbTqNqMuWkZsur9hdqabVaEMDyyGj6gc6JM5HxZcf0lYtIAdBbds/7W90nber0umGnbtc0u3gkXHCbzNZ5U9vS/iTU06natBlFoL6jXtLTm5Mf2Xg+1GRqH/ynkZW00upqantCnXqOJ2vafPyWv7XLTrq9hJIIg2CmJycGrDXOJLRgE26BBweGhxb9xsZ90zp/TNr3KQOgOgA7hF248lVKMI2dcd0dJQiB8qbTzPogcAEWmeICgHd8Da6YObBDmkgzgwQYt+yVxBzPmooScDlGwdPhwofu6Kbe9BMeaqHpVHU6jagAJaZhwkHzCzKerbUc41WNEkuho2i+P2WG/YC40i7bJgOF48T1SYAi88DhOD0dCttoOMBjDH6cxefhYNJml1I1latqNrxek3aT9QzjwtdYLKlRrC7aSHCNxmyQOsCTIBsFNTs5LwhXOEESbekqsx3p/ZMZJdF+bJSABmbY6KgEEZRLRw4D0UnEC6gxke6BnGIscKEicWQLjKE3UUck2MIjqZhAJm4PgCgksc07bXxFz6+iUWIvnxRP2Am5woQC4Dogt/MVfy/5b6jvo79+zdaeqqcbQIj5UptBq0wcOMH3Sz3XeCCDmVJtCAdBiOYQdgKgg7Yx7KX6FSZGB7Im5RH/2Q==",
+  "formation": "Formed via spiral evolution and bar development",
+  "discoveredBy": "William Herschel",
+  "funFact": "Prominent central bar with active star formation",
+  "notableFeatures": [
+    "Bar structure",
+    "Spiral arms",
+    "H II regions"
+  ],
+  "observations": [
+    "Hubble",
+    "Spitzer"
+  ],
+  "researchLinks": [
+    "https://en.wikipedia.org/wiki/NGC_2903"
+  ]
+},
+{
+  "_id": {
+    "$oid": "68c98050a3f21c036d58c0c8"
+  },
+  "name": "NGC 3521",
+  "type": "Spiral Galaxy",
+  "constellation": "Leo",
+  "distance": "26 million light-years",
+  "diameter": "85,000 light-years",
+  "stars": "80 billion",
+  "blackHole": "Central black hole suspected",
+  "mass": "8 × 10^10 solar masses",
+  "age": "12 billion years",
+  "structure": "Face-on spiral with patchy arms",
+  "redshift": "0.001990",
+  "image": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdHx8kKDQsJCYxJx8fLT0tMTU3Ojo6Iys/RD84QzQ5OjcBCgoKDQwNGg8PGjclHyU3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3N//AABEIAFwAXAMBIgACEQEDEQH/xAAbAAACAwEBAQAAAAAAAAAAAAAEBQIDBgEAB//EACwQAAEEAgIABgIBBAMAAAAAAAEAAgMRBCESMQUTIkFRYTKBQnGRsdEVI6H/xAAYAQEBAQEBAAAAAAAAAAAAAAACAwEABP/EAB8RAAICAgMBAQEAAAAAAAAAAAABAhEhMQMSQVFxE//aAAwDAQACEQMRAD8A+LELzGFxUw2yiYIfpacchhLiExgx+lbjw3VjoJpjY3WlOUhJA2PiF5AARzMKuwf7JpBhh8bRwrf5I5nlMDmSMLya9fuP6eya416c2JYsIuby46uv2rDhOaetJq57GWI2mvtQZI5rubm8h7grmoo6Ntis41C6VT4ddJ3GQ407d/Sonx6dxG/td+GtfRBKxBSD1JxlR8dfaXyxODttKSA0ZqGOymeLDdaVGNFZCd4OPzqgpSYki3DxS6tLQ4mEIofNkoboBRwMZrWkmgQL2jGMdIQDQ1VDpJVFWbs82yxrWCgOyVM4zj6qB/aYY+GNI9mGK6RlJ+mqJn3Y1ilzyqBDh+1oJMRtdISXHDR0ipC60KHQlptgsfSlLGBjPfxG6IPumTY2vHqAs6B+VDxGNkXhNDppLhr7CcFuhNWZPLO7I3alJ4tHTGnHYS1tX8qrMceSWSH1FOEmiM0BYUVkLTeGQAAWlvhWG+VvNo9LeytNiQBjAeP7pBL00uiiDWX89I7GgJIUI4zIQQNI+BvGgBtGckOEQ/DxrpNosQcdhU+HssgJ/KxmPi8nbugB7qWKtj1hGfyccNtKMqg0k6Cb+IZDGEjrV7WUz8p+U4th/Ae/yh/ReFVxt7Lcc/zLbjaOLCfb7S7xTIdNUZLgxn8T7q8TzOjDGte+uyQaCWeIVjh7HWZQTZVo6wGeMibPJEhaDqksefUi8l7nOLnaJQD3ertVieabHHhT3MAaCQ33AWq8OZ6Lks0OTN9LK+HLb+HQRf8AFtlLv+10lDftW9LVZsFdkmN4gAXaKx+PLSG81gL+INdBQhyOD7HVrzyLI0uFJxq0Vl5Pmx8SRTR2CkePlW3ZpSkzgPy4kn4U5ZVCjuynxFnJtu0Ou0vkDIW15Z4EfNftX5M4nHI2Gt7+0qzWeW0ci4uJ/Ek7CfHxVmjp8t4bIy5JML2ivWQToarpIs1/EE+x+TtGZcoEVmikWRJZJHursh2B8h+0C9w5bVs79X9oNztppEmaPBdVLU4Er/IiOyxx38BY7DkohaTwea3lhcaPss3gUHTDW5HEu5WKJ/telxk9tJadIfKDi93kuu6Lb9/kICPLeywADXbTqlDWGWkryh1FnEHif/Vx+Ufv9JR53mEOHR9wVF0rgeIBbfyt6hUmNpM8Ma1tNJG7QGTlGQ83k39lBumNnfL/AAgcmWnEmrT7OjHH6Ty8jkTvSVzSr0s139oOWS/dagNkZpEM5++1yR+1UXKiAPceQBw2m+DlmJ4cHcT8rPRuNo6Fx+VNmxZq25LJ2DXr+ihMqMEuPEiQHv8A2luPK9rtHoozzHd6XUpIfZxZ4uewA+V+X8gdFUyOJJ5OAH9VN0jnAtJ0Evne4Ei9LJKjrJyztbdE/tATT3tRmcflCyErEc2eklQksq9M40hHEkqiASc/tc5KHa6AmYf/2Q==",
+  "formation": "Formed through spiral evolution",
+  "discoveredBy": "William Herschel",
+  "funFact": "Shows patchy spiral arms and star-forming regions",
+  "notableFeatures": [
+    "Spiral arms",
+    "H II regions",
+    "Patchy structure"
+  ],
+  "observations": [
+    "Hubble",
+    "Spitzer"
+  ],
+  "researchLinks": [
+    "https://en.wikipedia.org/wiki/NGC_3521"
+  ]
+},
+{
+  "_id": {
+    "$oid": "68c98050a3f21c036d58c0c9"
+  },
+  "name": "NGC 4565 (Needle Galaxy)",
+  "type": "Spiral Galaxy",
+  "constellation": "Coma Berenices",
+  "distance": "40 million light-years",
+  "diameter": "120,000 light-years",
+  "stars": "100 billion",
+  "blackHole": "Central black hole suspected",
+  "mass": "1 × 10^11 solar masses",
+  "age": "12 billion years",
+  "structure": "Edge-on spiral with thin disk",
+  "redshift": "0.004013",
+  "image": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdHx8kKDQsJCYxJx8fLT0tMTU3Ojo6Iys/RD84QzQ5OjcBCgoKDQwNGg8PGjclHyU3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3N//AABEIAFwAXAMBIgACEQEDEQH/xAAbAAACAwEBAQAAAAAAAAAAAAAEBQIDBgEAB//EACwQAAEEAgIABgIBBAMAAAAAAAEAAgMRBCESMQUTIkFRYTKBQnGRsdEVI6H/xAAYAQEBAQEBAAAAAAAAAAAAAAACAwEABP/EAB8RAAICAgMBAQEAAAAAAAAAAAABAhEhMQMSQVFxE//aAAwDAQACEQMRAD8A+LELzGFxUw2yiYIfpacchhLiExgx+lbjw3VjoJpjY3WlOUhJA2PiF5AARzMKuwf7JpBhh8bRwrf5I5nlMDmSMLya9fuP6eya416c2JYsIuby46uv2rDhOaetJq57GWI2mvtQZI5rubm8h7grmoo6Ntis41C6VT4ddJ3GQ407d/Sonx6dxG/td+GtfRBKxBSD1JxlR8dfaXyxODttKSA0ZqGOymeLDdaVGNFZCd4OPzqgpSYki3DxS6tLQ4mEIofNkoboBRwMZrWkmgQL2jGMdIQDQ1VDpJVFWbs82yxrWCgOyVM4zj6qB/aYY+GNI9mGK6RlJ+mqJn3Y1ilzyqBDh+1oJMRtdISXHDR0ipC60KHQlptgsfSlLGBjPfxG6IPumTY2vHqAs6B+VDxGNkXhNDppLhr7CcFuhNWZPLO7I3alJ4tHTGnHYS1tX8qrMceSWSH1FOEmiM0BYUVkLTeGQAAWlvhWG+VvNo9LeytNiQBjAeP7pBL00uiiDWX89I7GgJIUI4zIQQNI+BvGgBtGckOEQ/DxrpNosQcdhU+HssgJ/KxmPi8nbugB7qWKtj1hGfyccNtKMqg0k6Cb+IZDGEjrV7WUz8p+U4th/Ae/yh/ReFVxt7Lcc/zLbjaOLCfb7S7xTIdNUZLgxn8T7q8TzOjDGte+uyQaCWeIVjh7HWZQTZVo6wGeMibPJEhaDqksefUi8l7nOLnaJQD3ertVieabHHhT3MAaCQ33AWq8OZ6Lks0OTN9LK+HLb+HQRf8AFtlLv+10lDftW9LVZsFdkmN4gAXaKx+PLSG81gL+INdBQhyOD7HVrzyLI0uFJxq0Vl5Pmx8SRTR2CkePlW3ZpSkzgPy4kn4U5ZVCjuynxFnJtu0Ou0vkDIW15Z4EfNftX5M4nHI2Gt7+0qzWeW0ci4uJ/Ek7CfHxVmjp8t4bIy5JML2ivWQToarpIs1/EE+x+TtGZcoEVmikWRJZJHursh2B8h+0C9w5bVs79X9oNztppEmaPBdVLU4Er/IiOyxx38BY7DkohaTwea3lhcaPss3gUHTDW5HEu5WKJ/telxk9tJadIfKDi93kuu6Lb9/kICPLeywADXbTqlDWGWkryh1FnEHif/Vx+Ufv9JR53mEOHR9wVF0rgeIBbfyt6hUmNpM8Ma1tNJG7QGTlGQ83k39lBumNnfL/AAgcmWnEmrT7OjHH6Ty8jkTvSVzSr0s139oOWS/dagNkZpEM5++1yR+1UXKiAPceQBw2m+DlmJ4cHcT8rPRuNo6Fx+VNmxZq25LJ2DXr+ihMqMEuPEiQHv8A2luPK9rtHoozzHd6XUpIfZxZ4uewA+V+X8gdFUyOJJ5OAH9VN0jnAtJ0Evne4Ei9LJKjrJyztbdE/tATT3tRmcflCyErEc2eklQksq9M40hHEkqiASc/tc5KHa6AmYf/2Q==",
+  "formation": "Formed via gradual spiral disk growth",
+  "discoveredBy": "William Herschel",
+  "funFact": "Called the Needle Galaxy due to its thin edge-on profile",
+  "notableFeatures": [
+    "Thin disk",
+    "Edge-on spiral",
+    "Dust lane"
+  ],
+  "observations": [
+    "Hubble",
+    "Spitzer"
+  ],
+  "researchLinks": [
+    "https://en.wikipedia.org/wiki/NGC_4565"
+  ]
+},
+{
+  "_id": {
+    "$oid": "68c98050a3f21c036d58c0ca"
+  },
+  "name": "NGC 4945",
+  "type": "Spiral Galaxy",
+  "constellation": "Centaurus",
+  "distance": "13 million light-years",
+  "diameter": "70,000 light-years",
+  "stars": "50 billion",
+  "blackHole": "Active supermassive black hole",
+  "mass": "5 × 10^10 solar masses",
+  "age": "12 billion years",
+  "structure": "Edge-on spiral with active nucleus",
+  "redshift": "0.001880",
+  "image": "data:image/jpeg;base64,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",
+  "formation": "Formed through disk evolution and active nucleus formation",
+  "discoveredBy": "James Dunlop",
+  "funFact": "Hosts one of the brightest nearby active nuclei",
+  "notableFeatures": [
+    "Edge-on disk",
+    "Active nucleus",
+    "Dust lane"
+  ],
+  "observations": [
+    "Hubble",
+    "Chandra",
+    "Spitzer"
+  ],
+  "researchLinks": [
+    "https://en.wikipedia.org/wiki/NGC_4945"
+  ]
+},
+{
+  "_id": {
+    "$oid": "68c98050a3f21c036d58c0cb"
+  },
+  "name": "NGC 1097",
+  "type": "Barred Spiral Galaxy",
+  "constellation": "Forbes",
+  "distance": "45 million light-years",
+  "diameter": "90,000 light-years",
+  "stars": "100 billion",
+  "blackHole": "Active supermassive black hole",
+  "mass": "1 × 10^11 solar masses",
+  "age": "12 billion years",
+  "structure": "Barred spiral with central activity",
+  "redshift": "0.004240",
+  "image": "data:image/jpeg;base64,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",
+  "formation": "Formed through spiral evolution and bar formation",
+  "discoveredBy": "William Herschel",
+  "funFact": "Known for its central starburst and active nucleus",
+  "notableFeatures": [
+    "Bar structure",
+    "Active nucleus",
+    "Star-forming ring"
+  ],
+  "observations": [
+    "Hubble",
+    "Spitzer",
+    "ALMA"
+  ],
+  "researchLinks": [
+    "https://en.wikipedia.org/wiki/NGC_1097"
+  ]
+},
+{
+  "_id": {
+    "$oid": "68c98050a3f21c036d58c0cc"
+  },
+  "name": "NGC 1365 (Great Barred Spiral Galaxy)",
+  "type": "Barred Spiral Galaxy",
+  "constellation": "Fornax",
+  "distance": "56 million light-years",
+  "diameter": "200,000 light-years",
+  "stars": "200 billion",
+  "blackHole": "Active supermassive black hole",
+  "mass": "2 × 10^11 solar masses",
+  "age": "12 billion years",
+  "structure": "Grand-design barred spiral with prominent bar",
+  "redshift": "0.005457",
+  "image": "data:image/jpeg;base64,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",
+  "formation": "Formed through spiral evolution with strong bar",
+  "discoveredBy": "James Dunlop",
+  "funFact": "One of the most famous barred spiral galaxies",
+  "notableFeatures": [
+    "Bar structure",
+    "Spiral arms",
+    "Active nucleus"
+  ],
+  "observations": [
+    "Hubble",
+    "Spitzer",
+    "ALMA"
+  ],
+  "researchLinks": [
+    "https://en.wikipedia.org/wiki/NGC_1365"
+  ]
+},
+{
+  "_id": {
+    "$oid": "68c98050a3f21c036d58c0cd"
+  },
+  "name": "NGC 5033",
+  "type": "Spiral Galaxy",
+  "constellation": "Canes Venatici",
+  "distance": "40 million light-years",
+  "diameter": "90,000 light-years",
+  "stars": "100 billion",
+  "blackHole": "Active supermassive black hole",
+  "mass": "1 × 10^11 solar masses",
+  "age": "12 billion years",
+  "structure": "Spiral galaxy with active nucleus",
+  "redshift": "0.002919",
+  "image": "data:image/jpeg;base64,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",
+  "formation": "Formed through spiral evolution with central activity",
+  "discoveredBy": "William Herschel",
+  "funFact": "Hosts Seyfert-type active galactic nucleus",
+  "notableFeatures": [
+    "Spiral arms",
+    "Active nucleus",
+    "Dust lanes"
+  ],
+  "observations": [
+    "Hubble",
+    "Chandra",
+    "Spitzer"
+  ],
+  "researchLinks": [
+    "https://en.wikipedia.org/wiki/NGC_5033"
+  ]
+}]
